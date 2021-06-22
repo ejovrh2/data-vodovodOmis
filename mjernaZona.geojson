@@ -1,10 +1,6 @@
 {
   "type": "FeatureCollection",
-  "name": "mjerne_zone_omis_ll84",
-  "crs": {
-    "type": "name",
-    "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" }
-  },
+  "name": "mjernaZona",
   "features": [
     {
       "type": "Feature",
