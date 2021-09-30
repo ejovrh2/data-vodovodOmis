@@ -30,7 +30,7 @@
         {
         "id": "mjernaZona-Zagrad",
         "type": "fill",
-        "source": "vod",
+        "source": "mjernaZona",
             "filter":["==","sustav","Zagrad"],
          "paint": {
         "fill-color": "red",
@@ -40,7 +40,7 @@
         {
         "id": "mjernaZona-Studenci",
         "type": "fill",
-        "source": "vod",
+        "source": "mjernaZona",
             "filter":["==","sustav","Studenci"],
          "paint": {
         "fill-color": "green",
