@@ -26,7 +26,17 @@
         "id": "vod",
         "type": "line",
         "source": "vod",
-          "filter":["==","tip","distributivni"],
+          "filter":["==","Tip","Magistralni"],
+        "paint": {
+            "line-color": "blue",
+            "line-width": 3
+        }
+      },
+      {
+        "id": "vod",
+        "type": "line",
+        "source": "vod",
+          "filter":["==","Tip","Distributivni"],
         "paint": {
             "line-color": "blue",
             "line-width": 1
