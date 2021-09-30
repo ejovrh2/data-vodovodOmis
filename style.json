@@ -23,23 +23,12 @@
         }
       },
       {
-        "id": "vod-Magistralni",
+        "id": "vod",
         "type": "line",
         "source": "vod",
-          "filter":["==","Tip","Magistralni"],
         "paint": {
             "line-color": "blue",
             "line-width": 3
-        }
-      },
-      {
-        "id": "vod-Distributivni",
-        "type": "line",
-        "source": "vod",
-          "filter":["==","Tip","Distributivni"],
-        "paint": {
-            "line-color": "blue",
-            "line-width": 1
         }
       },
         {
