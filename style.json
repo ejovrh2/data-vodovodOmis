@@ -28,7 +28,7 @@
         "source": "vod",
         "paint": {
             "line-color": "blue",
-            "line-width": 3
+            "line-width": 1.5
         }
       },
         {
