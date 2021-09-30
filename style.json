@@ -32,6 +32,13 @@
         }
       },
         {
+        "id": "mjernaZona-outline",
+        "type": "line",
+        "source": "mjernaZona",
+         "paint": {
+        "fill-color": "black"
+      },
+        {
         "id": "mjernaZona-Zagrad",
         "type": "fill",
         "source": "mjernaZona",
@@ -56,6 +63,15 @@
             "filter":["==","sustav","Ruda"],
          "paint": {
         "fill-color": "rgba(0,128,0,0.192)"
+      }
+      },
+        {
+        "id": "mjernaZona-Kraljevac",
+        "type": "fill",
+        "source": "mjernaZona",
+            "filter":["==","sustav","Kraljevac"],
+         "paint": {
+        "fill-color": "rgba(0,255,255,0.192)"
       }
       }
     ]
