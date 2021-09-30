@@ -50,6 +50,16 @@
         "fill-color": "green",
         "fill-opacity": 0.7
       }
+      },
+        {
+        "id": "mjernaZona-Ruda",
+        "type": "fill",
+        "source": "mjernaZona",
+            "filter":["==","sustav","Ruda"],
+         "paint": {
+        "fill-color": "rgba(0,128,0,0.192)",
+        "fill-opacity": 0.7
+      }
       }
     ]
   }
