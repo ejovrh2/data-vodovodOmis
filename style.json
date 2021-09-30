@@ -8,6 +8,10 @@
       "vod": {
         "type": "geojson",
         "data": "./vod.geojson"
+      },
+        "mjernaZona": {
+        "type": "geojson",
+        "data": "./mjernaZona.geojson"
       }
     },
     "layers": [
