@@ -31,7 +31,7 @@
         "id": "mjernaZona",
         "type": "fill",
         "source": "vod",
-            "filter":["==","sustav","Zagrad"]
+            "filter":["==","sustav","Zagrad"],
          "paint": {
         "fill-color": "red",
         "fill-opacity": 0.7
