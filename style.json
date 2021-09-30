@@ -40,6 +40,16 @@
         "fill-color": "red",
         "fill-opacity": 0.7
       }
+      },
+        {
+        "id": "mjernaZona-Studenci",
+        "type": "fill",
+        "source": "mjernaZona",
+            "filter":["==","sustav","Studenci"],
+         "paint": {
+        "fill-color": "green",
+        "fill-opacity": 0.7
+      }
       }
     ]
   }
