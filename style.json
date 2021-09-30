@@ -74,6 +74,16 @@
          "paint": {
         "fill-color": "rgba(0,255,255,0.192)"
       }
+      },
+    {
+      "id": "mjernaZona-label",
+      "type": "symbol",
+      "source": "mjernaZona",
+      "layout": {
+        "text-field": "{naziv}",
+        "text-size": 12,
+        "text-font": ["Arial Normal", "sans-serif Normal"]
       }
+    },
     ]
   }
