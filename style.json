@@ -26,9 +26,10 @@
         "id": "vod",
         "type": "line",
         "source": "vod",
+          "filter":["==","tip","distributivni"],
         "paint": {
             "line-color": "blue",
-            "line-width": 2
+            "line-width": 1
         }
       },
         {
