@@ -32,7 +32,7 @@
         "type": "fill",
         "source": "vod",
          "paint": {
-        "fill-color": "#0F78B4",
+        "fill-color": "red",
         "fill-opacity": 0.7
       }
       }
