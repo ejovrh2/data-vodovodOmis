@@ -1,0 +1,31 @@
+{
+    "version": 8,
+    "name": "vodovodomis",
+    "center": [-122.19952899999998, 51.920367528011525],
+    "zoom": 3,
+    "glyphs": "{fontstack}/{range}",
+    "sources": {
+      "vod": {
+        "type": "geojson",
+        "data": "./vod.geojson"
+      }
+    },
+    "layers": [
+      {
+        "id": "background",
+        "type": "background",
+        "paint": {
+          "background-color": "rgba(0,0,0,0)"
+        }
+      },
+      {
+        "id": "vod",
+        "type": "line",
+        "source": "vod",
+        "paint": {
+            "line-color": "blue",
+            "line-width": 0.8
+        }
+      }
+    ]
+  }
