@@ -23,7 +23,7 @@
         }
       },
       {
-        "id": "vod",
+        "id": "vod-Magistralni",
         "type": "line",
         "source": "vod",
           "filter":["==","Tip","Magistralni"],
@@ -33,7 +33,7 @@
         }
       },
       {
-        "id": "vod",
+        "id": "vod-Distributivni",
         "type": "line",
         "source": "vod",
           "filter":["==","Tip","Distributivni"],
