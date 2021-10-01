@@ -9,12 +9,10 @@
         "type": "geojson"
       },
         "mjernaZona": {
-        "type": "geojson",
-        "data": "./mjernaZona.geojson"
+        "type": "geojson"
       },
         "mjernoMjesto": {
-        "type": "geojson",
-        "data": "./mjernoMjesto.geojson"
+        "type": "geojson"
       }
     },
     "layers": [
