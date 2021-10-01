@@ -104,7 +104,10 @@
         "text-field": ["concat", ["get", "device_name"], "\n", ["get", "device_id"]],
         "text-size": 12,
         "text-font": ["Arial Normal", "sans-serif Normal"],
-        "text-offset": [0, -2]
+        "text-offset": [0, -2],
+        "text-halo-blur": 0.5,
+        "text-halo-color": "white",
+        "text-halo-width": 10
       }
     }
   ]
