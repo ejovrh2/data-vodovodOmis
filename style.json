@@ -2,7 +2,7 @@
     "version": 8,
     "name": "vodovodomis",
     "center": [16.694112,43.443665],
-    "zoom": 3,
+    "zoom": 10,
     "glyphs": "{fontstack}/{range}",
     "sources": {
       "vod": {
