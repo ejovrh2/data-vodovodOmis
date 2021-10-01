@@ -93,7 +93,8 @@
       "paint": {
         "circle-color": "red",
         "circle-stroke-color": "black",
-        "circle-radius": 5
+        "circle-radius": 5,
+        "circle-stroke-width":2
       }
     },
     {
