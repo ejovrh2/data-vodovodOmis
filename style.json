@@ -1,81 +1,81 @@
 {
-    "version": 8,
-    "name": "vodovodomis",
-    "center": [16.694112,43.443665],
-    "zoom": 6,
-    "glyphs": "{fontstack}/{range}",
-    "sources": {
-      "vod": {
-        "type": "geojson"
-      },
-        "mjernaZona": {
-        "type": "geojson"
-      },
-        "mjernoMjesto": {
-        "type": "geojson"
+  "version": 8,
+  "name": "vodovodomis",
+  "center": [16.694112, 43.443665],
+  "zoom": 6,
+  "glyphs": "{fontstack}/{range}",
+  "sources": {
+    "vod": {
+      "type": "geojson"
+    },
+    "mjernaZona": {
+      "type": "geojson"
+    },
+    "mjernoMjesto": {
+      "type": "geojson"
+    }
+  },
+  "layers": [
+    {
+      "id": "background",
+      "type": "background",
+      "paint": {
+        "background-color": "rgba(0,0,0,0)"
       }
     },
-    "layers": [
-      {
-        "id": "background",
-        "type": "background",
-        "paint": {
-          "background-color": "rgba(0,0,0,0)"
-        }
-      },
-      {
-        "id": "vod",
-        "type": "line",
-        "source": "vod",
-        "paint": {
-            "line-color": "blue",
-            "line-width": 1.5
-        }
-      },
-        {
-        "id": "mjernaZona-outline",
-        "type": "line",
-        "source": "mjernaZona",
-         "paint": {
+    {
+      "id": "vod",
+      "type": "line",
+      "source": "vod",
+      "paint": {
+        "line-color": "blue",
+        "line-width": 1.5
+      }
+    },
+    {
+      "id": "mjernaZona-outline",
+      "type": "line",
+      "source": "mjernaZona",
+      "paint": {
         "line-color": "black"
-         }
-      },
-        {
-        "id": "mjernaZona-Zagrad",
-        "type": "fill",
-        "source": "mjernaZona",
-            "filter":["==","sustav","Zagrad"],
-         "paint": {
+      }
+    },
+    {
+      "id": "mjernaZona-Zagrad",
+      "type": "fill",
+      "source": "mjernaZona",
+      "filter": ["==", "sustav", "Zagrad"],
+      "paint": {
         "fill-color": "rgba(255,255,0,0.192)"
       }
-      },
-        {
-        "id": "mjernaZona-Studenci",
-        "type": "fill",
-        "source": "mjernaZona",
-            "filter":["==","sustav","Studenci"],
-         "paint": {
+    },
+    {
+      "id": "mjernaZona-Studenci",
+      "type": "fill",
+      "source": "mjernaZona",
+      "filter": ["==", "sustav", "Studenci"],
+      "paint": {
         "fill-color": "rgba(255,0,0,0.192)"
       }
-      },
-        {
-        "id": "mjernaZona-Ruda",
-        "type": "fill",
-        "source": "mjernaZona",
-            "filter":["==","sustav","Ruda"],
-         "paint": {
+    },
+    {
+      "id": "mjernaZona-Ruda",
+      "type": "fill",
+      "source": "mjernaZona",
+      "filter": ["==", "sustav", "Ruda"],
+      "paint": {
         "fill-color": "rgba(0,128,0,0.192)"
       }
-      },
-        {
-        "id": "mjernaZona-Kraljevac",
-        "type": "fill",
-        "source": "mjernaZona",
-            "filter":["==","sustav","Kraljevac"],
-         "paint": {
+    },
+    {
+      "id": "mjernaZona-Kraljevac",
+      "type": "fill",
+      "source": "mjernaZona",
+      "filter": ["==", "sustav", "Kraljevac"],
+      "paint": {
         "fill-color": "rgba(0,255,255,0.192)"
       }
-      },
+    },
     {
       "id": "mjernaZona-label",
       "type": "symbol",
@@ -100,10 +100,11 @@
       "id": "mjernoMjesto-circle",
       "type": "circle",
       "source": "mjernoMjesto",
-     "paint": {
-    "circle-color": "red",
-    "circle-stroke-color": "black"
-  }
+      "paint": {
+        "circle-color": "red",
+        "circle-stroke-color": "black",
+        "circle-radius": 20
+      }
     }
-    ]
-  }
+  ]
+}
