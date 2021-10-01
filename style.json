@@ -6,8 +6,7 @@
     "glyphs": "{fontstack}/{range}",
     "sources": {
       "vod": {
-        "type": "geojson",
-        "data": "./vod.geojson"
+        "type": "geojson"
       },
         "mjernaZona": {
         "type": "geojson",
