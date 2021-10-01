@@ -100,7 +100,7 @@
       "id": "mjernoMjesto-label",
       "type": "symbol",
       "source": "mjernoMjesto",
-      "minzoom": 16,
+      "minzoom": 14,
       "layout": {
         "text-field": ["concat", ["get", "device_name"], "\n", ["get", "device_id"]],
         "text-size": 12,
