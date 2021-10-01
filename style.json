@@ -5,13 +5,13 @@
   "zoom": 6,
   "glyphs": "{fontstack}/{range}",
   "sources": {
+    "mjernoMjesto": {
+      "type": "geojson"
+    },
     "vod": {
       "type": "geojson"
     },
     "mjernaZona": {
-      "type": "geojson"
-    },
-    "mjernoMjesto": {
       "type": "geojson"
     }
   },
