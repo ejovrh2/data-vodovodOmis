@@ -95,6 +95,15 @@
         "text-size": 12,
         "text-font": ["Arial Normal", "sans-serif Normal"]
       }
+    },
+    {
+      "id": "mjernoMjesto-circle",
+      "type": "circle",
+      "source": "mjernoMjesto",
+     "paint": {
+    "circle-color": "red",
+    "circle-stroke-color": "black"
+  }
     }
     ]
   }
