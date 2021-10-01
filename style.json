@@ -87,6 +87,15 @@
       }
     },
     {
+      "id": "mjernoMjesto-circle-halo",
+      "type": "circle",
+      "source": "mjernoMjesto",
+      "paint": {
+        "circle-color": "white",
+        "circle-radius": 8
+      }
+    },
+    {
       "id": "mjernoMjesto-circle",
       "type": "circle",
       "source": "mjernoMjesto",
@@ -95,15 +104,6 @@
         "circle-stroke-color": "black",
         "circle-radius": 6,
         "circle-stroke-width":2
-      }
-    },
-    {
-      "id": "mjernoMjesto-circle-halo",
-      "type": "circle",
-      "source": "mjernoMjesto",
-      "paint": {
-        "circle-color": "white",
-        "circle-radius": 8
       }
     },
     {
