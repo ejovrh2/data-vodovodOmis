@@ -103,7 +103,8 @@
       "layout": {
         "text-field": "{device_name}",
         "text-size": 12,
-        "text-font": ["Arial Normal", "sans-serif Normal"]
+        "text-font": ["Arial Normal", "sans-serif Normal"],
+        "text-offset": [0, 0.6]
       }
     }
   ]
