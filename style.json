@@ -1,7 +1,7 @@
 {
     "version": 8,
     "name": "vodovodomis",
-    "center": [ 16.475372,45.462057],
+    "center": [16.694112,43.443665],
     "zoom": 3,
     "glyphs": "{fontstack}/{range}",
     "sources": {
