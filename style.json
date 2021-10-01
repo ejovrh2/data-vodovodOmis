@@ -12,6 +12,10 @@
         "mjernaZona": {
         "type": "geojson",
         "data": "./mjernaZona.geojson"
+      },
+        "mjernoMjesto": {
+        "type": "geojson",
+        "data": "./mjernoMjesto.geojson"
       }
     },
     "layers": [
@@ -79,6 +83,16 @@
       "id": "mjernaZona-label",
       "type": "symbol",
       "source": "mjernaZona",
+      "layout": {
+        "text-field": "{naziv}",
+        "text-size": 12,
+        "text-font": ["Arial Normal", "sans-serif Normal"]
+      }
+    },
+    {
+      "id": "mjernoMjesto-label",
+      "type": "symbol",
+      "source": "mjernoMjesto",
       "layout": {
         "text-field": "{naziv}",
         "text-size": 12,
