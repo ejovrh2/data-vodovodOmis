@@ -115,7 +115,7 @@
         "text-field": ["concat", ["get", "device_name"], "\n", ["get", "device_id"]],
         "text-size": 12,
         "text-font": ["Arial Normal", "sans-serif Normal"],
-        "text-offset": [0, -3]
+        "text-offset": [0, -2]
       },
       "paint": {
         "text-color": "black",
