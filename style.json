@@ -13,6 +13,9 @@
     },
     "mjernaZona": {
       "type": "geojson"
+    },
+    "vodosprema": {
+      "type": "geojson"
     }
   },
   "layers": [
@@ -84,6 +87,17 @@
         "text-field": "{naziv}",
         "text-size": 12,
         "text-font": ["Arial Normal", "sans-serif Normal"]
+      }
+    },
+    {
+      "id": "vodosprema",
+      "type": "circle",
+      "source": "vodosprema",
+      "paint": {
+        "circle-color": "blue",
+        "circle-stroke-color": "black",
+        "circle-radius": 6,
+        "circle-stroke-width":0.5
       }
     },
     {
