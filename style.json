@@ -14,7 +14,7 @@
     "mjernaZona": {
       "type": "geojson"
     },
-    "vodosprema": {
+    "vodospremnik": {
       "type": "geojson"
     }
   },
@@ -90,9 +90,9 @@
       }
     },
     {
-      "id": "vodosprema",
+      "id": "vodospremnik",
       "type": "circle",
-      "source": "vodosprema",
+      "source": "vodospremnik",
       "paint": {
         "circle-color": "blue",
         "circle-stroke-color": "black",
