@@ -106,7 +106,7 @@
       "source": "vodospremnik",
       "minzoom": 12,
       "layout": {
-        "text-field": ["Ime"],
+        "text-field": ["concat", ["get", "Ime"], "\n", ["get", "Hdno_mnm"]],
         "text-size": 12,
         "text-font": ["Arial Normal", "sans-serif Normal"],
         "text-offset": [0, -2]
