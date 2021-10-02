@@ -96,7 +96,7 @@
       "paint": {
         "circle-color": "blue",
         "circle-stroke-color": "black",
-        "circle-radius": 12,
+        "circle-radius": 6,
         "circle-stroke-width":0.5
       }
     },
