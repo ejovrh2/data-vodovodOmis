@@ -97,10 +97,10 @@
         "circle-color": "blue",
         "circle-stroke-color": "black",
         "circle-radius": 6,
-        "circle-stroke-width":0.5
+        "circle-stroke-width": 0.5
       }
     },
-     {
+    {
       "id": "vodospremnik-label",
       "type": "symbol",
       "source": "vodospremnik",
@@ -135,7 +135,7 @@
         "circle-color": "red",
         "circle-stroke-color": "black",
         "circle-radius": 6,
-        "circle-stroke-width":0.5
+        "circle-stroke-width": 0.5
       }
     },
     {
@@ -144,7 +144,12 @@
       "source": "mjernoMjesto",
       "minzoom": 12,
       "layout": {
-        "text-field": ["concat", ["get", "device_name"], "\n", ["get", "device_id"]],
+        "text-field": [
+          "concat",
+          ["get", "device_name"],
+          "\n",
+          ["get", "device_id"]
+        ],
         "text-size": 12,
         "text-font": ["Arial Normal", "sans-serif Normal"],
         "text-offset": [0, -2]
@@ -158,4 +163,3 @@
     }
   ]
 }
-
