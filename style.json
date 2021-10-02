@@ -101,7 +101,7 @@
       }
     },
      {
-      "id": "vodospremnik",
+      "id": "vodospremnik-label",
       "type": "symbol",
       "source": "vodospremnik",
       "minzoom": 12,
