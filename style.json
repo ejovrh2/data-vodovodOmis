@@ -113,9 +113,9 @@
       },
       "paint": {
         "text-color": "black",
-        "text-halo-blur": 0.9,
+        "text-halo-blur": 1,
         "text-halo-color": "#ffffff",
-        "text-halo-width": 4
+        "text-halo-width": 3
       }
     },
     {
