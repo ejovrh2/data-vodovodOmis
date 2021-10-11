@@ -128,12 +128,13 @@
         "circle-radius": 9
       }
     },
-   
     {
       "id": "mjernoMjesto-icon",
       "type": "symbol",
       "source": "mjernoMjesto",
-
+      "layout": {
+        "icon-image": "th"
+      }
     },
     {
       "id": "mjernoMjesto-label",
