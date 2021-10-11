@@ -1,0 +1,142 @@
+{
+  "491-zatvaracNaPovrsini": {
+    "width": 100,
+    "height": 100,
+    "x": 0,
+    "y": 0,
+    "pixelRatio": 1
+  },
+  "4910-vodomjerUOknu": {
+    "width": 100,
+    "height": 100,
+    "x": 100,
+    "y": 0,
+    "pixelRatio": 1
+  },
+  "4911-prikljucnaOgrlica": {
+    "width": 100,
+    "height": 100,
+    "x": 200,
+    "y": 0,
+    "pixelRatio": 1
+  },
+  "4914-crpka": {
+    "width": 100,
+    "height": 100,
+    "x": 300,
+    "y": 0,
+    "pixelRatio": 1
+  },
+  "4916-uredjajZaProciscavanjeVode": {
+    "width": 100,
+    "height": 100,
+    "x": 400,
+    "y": 0,
+    "pixelRatio": 1
+  },
+  "492-okno": {
+    "width": 100,
+    "height": 100,
+    "x": 500,
+    "y": 0,
+    "pixelRatio": 1
+  },
+  "492-oknoOkruglo": {
+    "width": 100,
+    "height": 100,
+    "x": 600,
+    "y": 0,
+    "pixelRatio": 1
+  },
+  "493-zatvaracUOknu": {
+    "width": 100,
+    "height": 100,
+    "x": 700,
+    "y": 0,
+    "pixelRatio": 1
+  },
+  "494-hidrantNaPovrsini": {
+    "width": 100,
+    "height": 100,
+    "x": 800,
+    "y": 0,
+    "pixelRatio": 1
+  },
+  "495-hidrantUOknu": {
+    "width": 100,
+    "height": 100,
+    "x": 900,
+    "y": 0,
+    "pixelRatio": 1
+  },
+  "496-zracniVentilUOknu": {
+    "width": 100,
+    "height": 100,
+    "x": 1000,
+    "y": 0,
+    "pixelRatio": 1
+  },
+  "497-OknoSIspustom": {
+    "width": 100,
+    "height": 100,
+    "x": 1100,
+    "y": 0,
+    "pixelRatio": 1
+  },
+  "498-regulatorPritiskaUOknu": {
+    "width": 100,
+    "height": 100,
+    "x": 1200,
+    "y": 0,
+    "pixelRatio": 1
+  },
+  "eiBlue": {
+    "width": 100,
+    "height": 100,
+    "x": 1300,
+    "y": 0,
+    "pixelRatio": 1
+  },
+  "eiGreen": {
+    "width": 100,
+    "height": 100,
+    "x": 1400,
+    "y": 0,
+    "pixelRatio": 1
+  },
+  "eiRed": {
+    "width": 100,
+    "height": 100,
+    "x": 1500,
+    "y": 0,
+    "pixelRatio": 1
+  },
+  "eiYellow": {
+    "width": 100,
+    "height": 100,
+    "x": 1600,
+    "y": 0,
+    "pixelRatio": 1
+  },
+  "th": {
+    "width": 42,
+    "height": 40,
+    "x": 1700,
+    "y": 0,
+    "pixelRatio": 1
+  },
+  "uredjaj": {
+    "width": 30,
+    "height": 67,
+    "x": 1742,
+    "y": 0,
+    "pixelRatio": 1
+  },
+  "vozilo": {
+    "width": 55,
+    "height": 39,
+    "x": 1772,
+    "y": 0,
+    "pixelRatio": 1
+  }
+}
