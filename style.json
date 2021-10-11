@@ -120,15 +120,6 @@
       }
     },
     {
-      "id": "mjernoMjesto-circle-halo",
-      "type": "circle",
-      "source": "mjernoMjesto",
-      "paint": {
-        "circle-color": "green",
-        "circle-radius": 9
-      }
-    },
-    {
       "id": "mjernoMjesto-icon",
       "type": "symbol",
       "source": "mjernoMjesto",
