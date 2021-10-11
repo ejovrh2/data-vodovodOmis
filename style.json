@@ -124,7 +124,7 @@
       "type": "circle",
       "source": "mjernoMjesto",
       "paint": {
-        "circle-color": "white",
+        "circle-color": "green",
         "circle-radius": 9
       }
     },
