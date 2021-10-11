@@ -1,7 +1,7 @@
 {
   "version": 8,
   "name": "vodovodomis",
-  "sprite": "/sprites/sprite",
+  "sprite": "./sprites/sprite",
   "center": [16.694112, 43.443665],
   "zoom": 6,
   "glyphs": "{fontstack}/{range}",
@@ -124,7 +124,8 @@
       "type": "symbol",
       "source": "mjernoMjesto",
       "layout": {
-        "icon-image": "th"
+        "icon-image": "th",
+        "icon-size": 5
       }
     },
     {
