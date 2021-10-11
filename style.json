@@ -1,6 +1,7 @@
 {
   "version": 8,
   "name": "vodovodomis",
+  "sprite": "/sprites",
   "center": [16.694112, 43.443665],
   "zoom": 6,
   "glyphs": "{fontstack}/{range}",
@@ -95,16 +96,14 @@
         "circle-radius": 9
       }
     },
+   
     {
-      "id": "mjernoMjesto-circle",
-      "type": "circle",
+      "id": "mjernoMjesto-icon",
+      "type": "symbol",
       "source": "mjernoMjesto",
-      "paint": {
-        "circle-color": "red",
-        "circle-stroke-color": "black",
-        "circle-radius": 6,
-        "circle-stroke-width":0.5
-      }
+      "layout":{
+        "icon-image":"th"
+      } 
     },
     {
       "id": "mjernoMjesto-label",
