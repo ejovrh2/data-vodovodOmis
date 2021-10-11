@@ -1,7 +1,7 @@
 {
   "version": 8,
   "name": "vodovodomis",
-  "sprite": "https://maputnik.github.io/osm-liberty/sprites/osm-liberty",
+  "sprite": "https://gis.edc.hr/sprites/sprite",
   "center": [16.694112, 43.443665],
   "zoom": 6,
   "glyphs": "{fontstack}/{range}",
@@ -124,7 +124,7 @@
       "type": "symbol",
       "source": "mjernoMjesto",
       "layout": {
-        "icon-image": "airport_15",
+        "icon-image": "th",
         "icon-size": 1
       }
     },
