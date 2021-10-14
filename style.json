@@ -15,7 +15,7 @@
       "type": "geojson"
     },
     "mjernoMjesto": {
-      "type": "csv",
+      "type": "vector",
       "url" :"https://gis.edc.hr/imagisth/threport/devices_all"
     }
   },
