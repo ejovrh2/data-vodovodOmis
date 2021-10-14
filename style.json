@@ -6,16 +6,20 @@
   "glyphs": "{fontstack}/{range}",
   "sources": {
     "mjernaZona": {
-      "type": "geojson"
+      "type": "geojson",
+      "url":"https://github.com/edc-dev/data-vodovodomis"
     },
     "vod": {
-      "type": "geojson"
+      "type": "geojson",
+      "url":"https://github.com/edc-dev/data-vodovodomis"
     },
     "vodospremnik": {
-      "type": "geojson"
+      "type": "geojson",
+      "url":"https://github.com/edc-dev/data-vodovodomis"
     },
     "mjernoMjesto": {
-      "type": "geojson"
+      "type": "geojson",
+      "url" :"https://gis.edc.hr/imagisth/threport/devices_all"
     }
   },
   "layers": [
