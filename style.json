@@ -11,7 +11,7 @@
     "vodospremnik": {
       "type": "geojson"
     },
-    "vod": {
+    "cjevovod": {
       "type": "geojson"
     },
     "mjernoMjesto": {
@@ -28,7 +28,7 @@
       }
     },
     {
-      "id": "vod",
+      "id": "cjevovod",
       "type": "line",
       "source": "vod",
       "paint": {
