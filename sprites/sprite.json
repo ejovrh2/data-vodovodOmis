@@ -55,88 +55,130 @@
     "y": 0,
     "pixelRatio": 1
   },
-  "494-hidrantNaPovrsini": {
+  "494-hidrantNaPovrsini – crveni": {
     "width": 100,
     "height": 100,
     "x": 800,
     "y": 0,
     "pixelRatio": 1
   },
-  "495-hidrantUOknu": {
+  "494-hidrantNaPovrsini": {
     "width": 100,
     "height": 100,
     "x": 900,
     "y": 0,
     "pixelRatio": 1
   },
-  "496-zracniVentilUOknu": {
+  "495-hidrantUOknu – crveni": {
     "width": 100,
     "height": 100,
     "x": 1000,
     "y": 0,
     "pixelRatio": 1
   },
-  "497-OknoSIspustom": {
+  "495-hidrantUOknu – zeleni": {
     "width": 100,
     "height": 100,
     "x": 1100,
     "y": 0,
     "pixelRatio": 1
   },
-  "498-regulatorPritiskaUOknu": {
+  "495-hidrantUOknu": {
     "width": 100,
     "height": 100,
     "x": 1200,
     "y": 0,
     "pixelRatio": 1
   },
-  "eiBlue": {
+  "496-zracniVentilUOknu": {
     "width": 100,
     "height": 100,
     "x": 1300,
     "y": 0,
     "pixelRatio": 1
   },
-  "eiGreen": {
+  "497-OknoSIspustom": {
     "width": 100,
     "height": 100,
     "x": 1400,
     "y": 0,
     "pixelRatio": 1
   },
-  "eiRed": {
+  "498-regulatorPritiskaUOknu": {
     "width": 100,
     "height": 100,
     "x": 1500,
     "y": 0,
     "pixelRatio": 1
   },
-  "eiYellow": {
+  "eiBlue": {
     "width": 100,
     "height": 100,
     "x": 1600,
     "y": 0,
     "pixelRatio": 1
   },
+  "eiGreen": {
+    "width": 100,
+    "height": 100,
+    "x": 1700,
+    "y": 0,
+    "pixelRatio": 1
+  },
+  "eiRed": {
+    "width": 100,
+    "height": 100,
+    "x": 1800,
+    "y": 0,
+    "pixelRatio": 1
+  },
+  "eiYellow": {
+    "width": 100,
+    "height": 100,
+    "x": 1900,
+    "y": 0,
+    "pixelRatio": 1
+  },
+  "krug-zeleni": {
+    "width": 100,
+    "height": 100,
+    "x": 0,
+    "y": 100,
+    "pixelRatio": 1
+  },
+  "kvadrat – plavi": {
+    "width": 100,
+    "height": 100,
+    "x": 100,
+    "y": 100,
+    "pixelRatio": 1
+  },
+  "kvadrat": {
+    "width": 100,
+    "height": 100,
+    "x": 200,
+    "y": 100,
+    "pixelRatio": 1
+  },
   "th": {
     "width": 42,
     "height": 40,
-    "x": 1700,
-    "y": 0,
+    "x": 300,
+    "y": 100,
     "pixelRatio": 1
   },
   "uredjaj": {
     "width": 30,
     "height": 67,
-    "x": 1742,
-    "y": 0,
+    "x": 342,
+    "y": 100,
     "pixelRatio": 1
   },
   "vozilo": {
     "width": 55,
     "height": 39,
-    "x": 1772,
-    "y": 0,
+    "x": 372,
+    "y": 100,
     "pixelRatio": 1
   }
 }
