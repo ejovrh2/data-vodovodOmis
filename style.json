@@ -25,15 +25,6 @@
       }
     },
     {
-      "id": "vod",
-      "type": "line",
-      "source": "vod",
-      "paint": {
-        "line-color": "blue",
-        "line-width": 1.5
-      }
-    },
-    {
       "id": "mjernaZona-outline",
       "type": "line",
       "source": "mjernaZona",
