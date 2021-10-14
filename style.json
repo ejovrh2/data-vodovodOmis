@@ -15,7 +15,7 @@
     },
     "vod": {
       "type": "geojson",
-      "url" :"/dir/cjevovod"
+      "url" :"/dir/vod"
     },
     "mjernoMjesto": {
       "type": "vector",
