@@ -11,6 +11,9 @@
     "vodospremnik": {
       "type": "geojson"
     },
+    "vod": {
+      "type": "geojson"
+    },
     "mjernoMjesto": {
       "type": "geojson",
       "url" :"https://gis.edc.hr/imagisth/threport/devices_all"
@@ -22,6 +25,15 @@
       "type": "background",
       "paint": {
         "background-color": "rgba(0,0,0,0)"
+      }
+    },
+    {
+      "id": "vod",
+      "type": "line",
+      "source": "vod",
+      "paint": {
+        "line-color": "blue",
+        "line-width": 1.5
       }
     },
     {
