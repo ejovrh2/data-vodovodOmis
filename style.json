@@ -13,7 +13,7 @@
       "type": "geojson",
       "url" :"/dir/vodospremnik"
     },
-    "cjevovod": {
+    "vod": {
       "type": "geojson",
       "url" :"/dir/cjevovod"
     },
@@ -33,7 +33,7 @@
     {
       "id": "cjevovod",
       "type": "line",
-      "source": "cjevovod",
+      "source": "vod",
       "paint": {
         "line-color": "blue",
         "line-width": 1.5
