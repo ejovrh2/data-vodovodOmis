@@ -11,11 +11,11 @@
     },
     "vodospremnik": {
       "type": "geojson",
-      "url" :"/dir/mjernaZona"
+      "url" :"/dir/vodospremnik"
     },
     "cjevovod": {
       "type": "geojson",
-      "url" :"/dir/mjernaZona"
+      "url" :"/dir/cjevovod"
     },
     "mjernoMjesto": {
       "type": "vector",
