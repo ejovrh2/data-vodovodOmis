@@ -8,9 +8,6 @@
     "mjernaZona": {
       "type": "geojson"
     },
-    "vod": {
-      "type": "geojson"
-    },
     "vodospremnik": {
       "type": "geojson"
     },
