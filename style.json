@@ -6,13 +6,16 @@
   "glyphs": "{fontstack}/{range}",
   "sources": {
     "mjernaZona": {
-      "type": "geojson"
+      "type": "geojson",
+      "url" :"/dir/mjernaZona"
     },
     "vodospremnik": {
-      "type": "geojson"
+      "type": "geojson",
+      "url" :"/dir/mjernaZona"
     },
     "cjevovod": {
-      "type": "geojson"
+      "type": "geojson",
+      "url" :"/dir/mjernaZona"
     },
     "mjernoMjesto": {
       "type": "vector",
