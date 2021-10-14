@@ -6,16 +6,13 @@
   "glyphs": "{fontstack}/{range}",
   "sources": {
     "mjernaZona": {
-      "type": "geojson",
-      "url":"https://github.com/edc-dev/data-vodovodomis"
+      "type": "geojson"
     },
     "vod": {
-      "type": "geojson",
-      "url":"https://github.com/edc-dev/data-vodovodomis"
+      "type": "geojson"
     },
     "vodospremnik": {
-      "type": "geojson",
-      "url":"https://github.com/edc-dev/data-vodovodomis"
+      "type": "geojson"
     },
     "mjernoMjesto": {
       "type": "geojson",
