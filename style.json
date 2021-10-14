@@ -90,14 +90,12 @@
       }
     },
     {
-      "id": "vodospremnik",
-      "type": "circle",
+      "id": "vodospremnik-icon",
+      "type": "symbol",
       "source": "vodospremnik",
-      "paint": {
-        "circle-color": "blue",
-        "circle-stroke-color": "black",
-        "circle-radius": 6,
-        "circle-stroke-width": 0.5
+      "layout": {
+        "icon-image": "4910-vodomjerUOknu",
+        "icon-size": 0.2
       }
     },
     {
