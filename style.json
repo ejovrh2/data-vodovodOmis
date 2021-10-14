@@ -30,7 +30,7 @@
     {
       "id": "cjevovod",
       "type": "line",
-      "source": "vod",
+      "source": "cjevovod",
       "paint": {
         "line-color": "blue",
         "line-width": 1.5
