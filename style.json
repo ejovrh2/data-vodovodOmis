@@ -124,6 +124,7 @@
       "id": "mjernoMjesto-icon",
       "type": "symbol",
       "source": "mjernoMjesto",
+      "filter": ["==", "zona", "SUKI"],
       "layout": {
         "icon-image": "th",
         "icon-size": 0.8
