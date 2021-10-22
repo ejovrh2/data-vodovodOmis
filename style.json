@@ -134,6 +134,7 @@
       "id": "mjernoMjesto-label",
       "type": "symbol",
       "source": "mjernoMjesto",
+      "filter": ["==", "zone_name", "SUKI"],
       "minzoom": 12,
       "layout": {
         "text-field": [
