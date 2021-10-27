@@ -127,7 +127,7 @@
       "filter": ["==", "zone_name", "SUKI"],
       "layout": {
         "icon-image": "th",
-        "icon-size": 0.8
+        "icon-size": 1
       }
     },
     {
@@ -145,7 +145,7 @@
         ],
         "text-size": 12,
         "text-font": ["Arial Normal", "sans-serif Normal"],
-        "text-offset": [0, -2]
+        "text-offset": [0, -3]
       },
       "paint": {
         "text-color": "black",
