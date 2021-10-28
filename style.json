@@ -19,7 +19,8 @@
     },
     "mjernoMjesto": {
       "type": "vector",
-      "url" :"https://gis.edc.hr/imagisth/threport/devices_all"
+      "url" :"https://gis.edc.hr/imagisth/threport/devices_all",
+      "filter" : ["==", "zone_name", "SUKI"]
     }
   },
   "layers": [
