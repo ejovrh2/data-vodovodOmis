@@ -125,7 +125,7 @@
       "id": "mjernoMjesto-icon",
       "type": "symbol",
       "source": "mjernoMjesto",
-      "filter": ["==", "zone_name", "SUKI"],
+      "filter": ["all",["==", "zone_name", "SUKI"],["==", "description_id", 1]],
       "layout": {
         "icon-image": "th",
         "icon-size": 1
@@ -135,7 +135,7 @@
       "id": "mjernoMjesto-label",
       "type": "symbol",
       "source": "mjernoMjesto",
-      "filter": [["==", "zone_name", "SUKI"],["==",["get","description_name"],"TH device"]],
+      "filter": ["all",["==", "zone_name", "SUKI"],["==", "description_id", 1]],
       "minzoom": 12,
       "layout": {
         "text-field": [
