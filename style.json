@@ -171,9 +171,10 @@
       "source": "mjernaZona",
       "layout": {
         "text-field": ["upcase", ["get","naziv"]],
-        "text-size": 12,
+        "text-size": 14,
         "text-font": ["Arial Normal", "sans-serif Normal"],
-        "text-allow-overlap": true
+        "text-allow-overlap": true,
+        "text-max-width":18
       },
       "paint": {
         "text-color": "black",
