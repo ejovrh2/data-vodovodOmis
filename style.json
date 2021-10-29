@@ -109,7 +109,7 @@
       "source": "vodospremnik",
       "minzoom": 12,
       "layout": {
-        "text-field": ["concat", ["get", "Ime"], "\n",["ceil", ["get", "Hdno_mnm"]]],
+        "text-field": ["concat", ["get", "Ime"], "\n","H= ",["ceil", ["get", "Hdno_mnm"]], " mnm"],
         "text-size": 12,
         "text-font": ["Arial Normal", "sans-serif Normal"],
         "text-offset": [0, -2]
