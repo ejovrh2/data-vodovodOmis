@@ -109,7 +109,7 @@
       "source": "vodospremnik",
       "minzoom": 12,
       "layout": {
-        "text-field": ["concat", ["get", "Ime"], "\n", ["get", "Hdno_mnm"]],
+        "text-field": ["concat", ["get", "Ime"], "\n", ["number-format", ["get", "Hdno_mnm"],{ "max-fraction-digits": 0 }]],
         "text-size": 12,
         "text-font": ["Arial Normal", "sans-serif Normal"],
         "text-offset": [0, -2]
