@@ -9,13 +9,13 @@
       "type": "geojson",
       "url" :"/dir/mjernaZona"
     },
-    "vodospremnik": {
-      "type": "geojson",
-      "url" :"/dir/vodospremnik"
-    },
     "vod": {
       "type": "geojson",
       "url" :"/dir/vod"
+    },
+    "vodospremnik": {
+      "type": "geojson",
+      "url" :"/dir/vodospremnik"
     },
     "mjernoMjesto": {
       "type": "vector",
