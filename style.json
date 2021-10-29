@@ -137,7 +137,7 @@
       "source": "mjernoMjesto",
       "filter": ["all",["==", "zone_name", "SUKI"],["!=", "description_id", 1]],
       "layout": {
-        "icon-image": "th",
+        "icon-image": "inventia",
         "icon-size": 1
       }
     },
