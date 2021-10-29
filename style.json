@@ -135,7 +135,7 @@
       "id": "mjernoMjesto-label",
       "type": "symbol",
       "source": "mjernoMjesto",
-      "filter": ["==", "zone_name", "SUKI"],
+      "filter": [["==", "zone_name", "SUKI"]["==","description_name","TH device"]],
       "minzoom": 12,
       "layout": {
         "text-field": [
