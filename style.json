@@ -122,7 +122,7 @@
       }
     },
     {
-      "id": "mjernoMjesto-icon",
+      "id": "mjernoMjesto-icon-TH",
       "type": "symbol",
       "source": "mjernoMjesto",
       "filter": ["all",["==", "zone_name", "SUKI"],["==", "description_id", 1]],
@@ -132,10 +132,20 @@
       }
     },
     {
+      "id": "mjernoMjesto-icon",
+      "type": "symbol",
+      "source": "mjernoMjesto",
+      "filter": ["all",["==", "zone_name", "SUKI"],["!=", "description_id", 1]],
+      "layout": {
+        "icon-image": "th",
+        "icon-size": 1
+      }
+    },
+    {
       "id": "mjernoMjesto-label",
       "type": "symbol",
       "source": "mjernoMjesto",
-      "filter": ["all",["==", "zone_name", "SUKI"],["==", "description_id", 1]],
+      "filter": ["==", "zone_name", "SUKI"],
       "minzoom": 12,
       "layout": {
         "text-field": [
