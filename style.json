@@ -152,7 +152,14 @@
       "layout": {
         "text-field": "{naziv}",
         "text-size": 12,
-        "text-font": ["Arial Normal", "sans-serif Normal"]
+        "text-font": ["Arial Normal", "sans-serif Normal"],
+        "text-allow-overlap":true
+      },
+      "paint": {
+        "text-color": "black",
+        "text-halo-blur": 1,
+        "text-halo-color": "#ffffff",
+        "text-halo-width": 3
       }
     }
   ]
