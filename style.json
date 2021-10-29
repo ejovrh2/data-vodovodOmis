@@ -16,7 +16,7 @@
     "vod": {
       "type": "geojson",
       "url" :"/dir/vod",
-      "filter": ["==", "DN", 100]
+      "filter": ["==", "DN", "100"]
     },
     "mjernoMjesto": {
       "type": "vector",
