@@ -119,6 +119,12 @@
       "layout": {
         "icon-image": "th",
         "icon-size": 1
+      },
+      "paint": {
+        "text-color": "red",
+        "text-halo-blur": 1,
+        "text-halo-color": "#ffffff",
+        "text-halo-width": 2
       }
     },
     {
