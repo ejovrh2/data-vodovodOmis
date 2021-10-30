@@ -9,6 +9,10 @@
       "type": "geojson",
       "url": "/dir/mjernaZona"
     },
+    "mjernaZona-label": {
+      "type": "geojson",
+      "url": "/dir/mjernaZona"
+    },
     "vod": {
       "type": "geojson",
       "url": "/dir/vod"
@@ -167,7 +171,7 @@
     {
       "id": "mjernaZona-label",
       "type": "symbol",
-      "source": "mjernaZona",
+      "source": "mjernaZona-label",
       "layout": {
         "text-field": ["upcase", ["get","naziv"]],
         "text-size": 14,
