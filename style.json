@@ -24,10 +24,6 @@
         ["==", "company_id", 3],
         ["==", "zone_name", "SUKI"]
       ]
-    },
-    "mjernaZona-label": {
-      "type": "geojson",
-      "url": "/dir/mjernaZona"
     }
   },
   "layers": [
