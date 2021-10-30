@@ -9,10 +9,6 @@
       "type": "geojson",
       "url": "/dir/mjernaZona"
     },
-    "mjernaZona1": {
-      "type": "geojson",
-      "url": "/dir/mjernaZona"
-    },
     "vod": {
       "type": "geojson",
       "url": "/dir/vod"
@@ -28,6 +24,10 @@
         ["==", "company_id", 3],
         ["==", "zone_name", "SUKI"]
       ]
+    },
+    "mjernaZona1": {
+      "type": "geojson",
+      "url": "/dir/mjernaZona"
     }
   },
   "layers": [
