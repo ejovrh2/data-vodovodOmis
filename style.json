@@ -91,24 +91,6 @@
       }
     },
     {
-      "id": "mjernaZona-label",
-      "type": "symbol",
-      "source": "mjernaZona1",
-      "layout": {
-        "text-field": ["upcase", ["get", "naziv"]],
-        "text-size": 14,
-        "text-font": ["Arial Normal", "sans-serif Normal"],
-        "text-allow-overlap": true,
-        "text-max-width": 18
-      },
-      "paint": {
-        "text-color": "black",
-        "text-halo-blur": 1,
-        "text-halo-color": "#ffffff",
-        "text-halo-width": 3
-      }
-    },
-    {
       "id": "vodospremnik-icon",
       "type": "symbol",
       "source": "vodospremnik",
@@ -189,6 +171,24 @@
       },
       "paint": {
         "text-color": "red",
+        "text-halo-blur": 1,
+        "text-halo-color": "#ffffff",
+        "text-halo-width": 3
+      }
+    },
+    {
+      "id": "mjernaZona-label",
+      "type": "symbol",
+      "source": "mjernaZona1",
+      "layout": {
+        "text-field": ["upcase", ["get", "naziv"]],
+        "text-size": 14,
+        "text-font": ["Arial Normal", "sans-serif Normal"],
+        "text-allow-overlap": true,
+        "text-max-width": 18
+      },
+      "paint": {
+        "text-color": "black",
         "text-halo-blur": 1,
         "text-halo-color": "#ffffff",
         "text-halo-width": 3
