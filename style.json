@@ -30,8 +30,8 @@
     {
       "id": "background",
       "type": "background",
-      "layout": {"visibility": "visible"},
-      "paint": {"background-color": "rgba(155, 220, 142, 0.1)"}
+      "layout": { "visibility": "visible" },
+      "paint": { "background-color": "rgba(155, 220, 142, 0.1)" }
     },
     {
       "id": "cjevovod",
@@ -87,6 +87,24 @@
       }
     },
     {
+      "id": "mjernaZona-label",
+      "type": "symbol",
+      "source": "mjernaZona",
+      "layout": {
+        "text-field": ["upcase", ["get", "naziv"]],
+        "text-size": 14,
+        "text-font": ["Arial Normal", "sans-serif Normal"],
+        "text-allow-overlap": true,
+        "text-max-width": 18
+      },
+      "paint": {
+        "text-color": "black",
+        "text-halo-blur": 1,
+        "text-halo-color": "#ffffff",
+        "text-halo-width": 3
+      }
+    },
+    {
       "id": "vodospremnik-icon",
       "type": "symbol",
       "source": "vodospremnik",
@@ -124,7 +142,11 @@
       "id": "mjernoMjesto-icon-TH",
       "type": "symbol",
       "source": "mjernoMjesto",
-      "filter": ["all",["==", "zone_name", "SUKI"],["==", "description_id", 1]],
+      "filter": [
+        "all",
+        ["==", "zone_name", "SUKI"],
+        ["==", "description_id", 1]
+      ],
       "layout": {
         "icon-image": "th",
         "icon-size": 1
@@ -134,7 +156,11 @@
       "id": "mjernoMjesto-icon",
       "type": "symbol",
       "source": "mjernoMjesto",
-      "filter": ["all",["==", "zone_name", "SUKI"],["!=", "description_id", 1]],
+      "filter": [
+        "all",
+        ["==", "zone_name", "SUKI"],
+        ["!=", "description_id", 1]
+      ],
       "layout": {
         "icon-image": "inventia",
         "icon-size": 1
@@ -159,24 +185,6 @@
       },
       "paint": {
         "text-color": "red",
-        "text-halo-blur": 1,
-        "text-halo-color": "#ffffff",
-        "text-halo-width": 3
-      }
-    },
-    {
-      "id": "mjernaZona-label",
-      "type": "symbol",
-      "source": "mjernaZona-label",
-      "layout": {
-        "text-field": ["upcase", ["get","naziv"]],
-        "text-size": 14,
-        "text-font": ["Arial Normal", "sans-serif Normal"],
-        "text-allow-overlap": true,
-        "text-max-width":18
-      },
-      "paint": {
-        "text-color": "black",
         "text-halo-blur": 1,
         "text-halo-color": "#ffffff",
         "text-halo-width": 3
