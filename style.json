@@ -39,7 +39,7 @@
       "type": "line",
       "source": "vod",
       "paint": {
-        "line-color": "blue",
+        "line-color": "red",
         "line-width": 1.5
       }
     },
