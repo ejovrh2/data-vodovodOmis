@@ -20,6 +20,9 @@
     "mjernoMjesto": {
       "type": "vector",
       "url": "https://gis.edc.hr/imagisth/threport/devices_all",
+      "lat": "latitude",
+      "lon": "longitude",
+      "id": "device_id",
       "filter": [
         "all",
         ["==", "company_id", 3],
