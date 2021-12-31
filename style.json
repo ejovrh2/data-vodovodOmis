@@ -35,7 +35,7 @@
       "id": "background",
       "type": "background",
       "layout": { "visibility": "visible" },
-      "paint": { "background-color": "rgb(255,255,255)" }
+      "paint": { "background-color": "rgb(55,25,255)" }
     },
     {
       "id": "cjevovod",
