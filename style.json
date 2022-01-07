@@ -7,15 +7,15 @@
   "sources": {
     "mjernaZona": {
       "type": "geojson",
-      "url": "dir/mjernaZona.geojson"
+      "url": "/dir/mjernaZona"
     },
     "vod": {
       "type": "geojson",
-      "url": "dir/vod.geojson"
+      "url": "/dir/vod"
     },
     "vodospremnik": {
       "type": "geojson",
-      "url": "dir/vodospremnik.geojson"
+      "url": "/dir/vodospremnik"
     },
     "mjernoMjesto": {
       "type": "vector",
