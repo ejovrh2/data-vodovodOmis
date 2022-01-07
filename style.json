@@ -7,15 +7,15 @@
   "sources": {
     "mjernaZona": {
       "type": "geojson",
-      "url": "https://raw.githubusercontent.com/edc-dev/data-vodovodOmis/main/mjernaZona.geojson"
+      "url": "dir/mjernaZona.geojson"
     },
     "vod": {
       "type": "geojson",
-      "url": "https://raw.githubusercontent.com/edc-dev/data-vodovodOmis/main/vod.geojson"
+      "url": "dir/vod.geojson"
     },
     "vodospremnik": {
       "type": "geojson",
-      "url": "https://raw.githubusercontent.com/edc-dev/data-vodovodOmis/main/vodospremnik.geojson"
+      "url": "dir/vodospremnik.geojson"
     },
     "mjernoMjesto": {
       "type": "vector",
