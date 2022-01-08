@@ -11,11 +11,11 @@
     },
     "vod": {
       "type": "geojson",
-      "url": "/dir/vod"
+      "data": "/dir/vod"
     },
     "vodospremnik": {
       "type": "geojson",
-      "url": "/dir/vodospremnik"
+      "data": "/dir/vodospremnik"
     },
     "mjernoMjesto": {
       "type": "vector",
