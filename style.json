@@ -7,7 +7,7 @@
   "sources": {
     "mjernaZona": {
       "type": "geojson",
-      "url": "/dir/mjernaZona"
+      "data": "/dir/mjernaZona"
     },
     "vod": {
       "type": "geojson",
