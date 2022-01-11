@@ -1,5 +1,6 @@
 {
   "type": "FeatureCollection",
+  "name": "mjernoMjesto",
   "features": [
     {
       "type": "Feature",
