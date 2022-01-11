@@ -117,39 +117,6 @@
       }
     },
     {
-      "id": "mjernoMjesto-icon",
-      "type": "symbol",
-      "source": "mjernoMjesto",
-      "layout": {
-        "icon-image": "inventia",
-        "icon-size": 1
-      }
-    },
-    {
-      "id": "mjernoMjesto-label",
-      "type": "symbol",
-      "source": "mjernoMjesto",
-      "filter": ["==", "zone_name", "SUKI"],
-      "minzoom": 12,
-      "layout": {
-        "text-field": [
-          "concat",
-          ["get", "device_name"],
-          "\n",
-          ["get", "device_id"]
-        ],
-        "text-size": 12,
-        "text-font": ["Arial Normal", "sans-serif Normal"],
-        "text-offset": [0, -3]
-      },
-      "paint": {
-        "text-color": "red",
-        "text-halo-blur": 1,
-        "text-halo-color": "#ffffff",
-        "text-halo-width": 3
-      }
-    },
-    {
       "id": "mjernaZona-label",
       "type": "symbol",
       "source": "mjernaZona",
