@@ -1,6 +1,10 @@
 {
   "type": "FeatureCollection",
   "name": "mjernoMjesto",
+  "data": {
+    "type": "Measure",
+    "path": "https://gis.edc.hr/imagisth/threport/rpc/readings_period"
+  },
   "features": [
     {
       "type": "Feature",
@@ -220,7 +224,6 @@
       "properties": {
         "device_id": 187,
         "device_name": "TH-BB Ostrvica Donja, tlak"
-        
       }
     },
     {
