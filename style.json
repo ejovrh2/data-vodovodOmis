@@ -16,6 +16,10 @@
     "vodospremnik": {
       "type": "geojson",
       "data": "/dir/vodospremnik"
+    },
+    "mjernoMjesto": {
+      "type": "geojson",
+      "data": "/dir/mjernoMjesto"
     }
   },
   "layers": [
@@ -110,6 +114,15 @@
         "text-halo-blur": 1,
         "text-halo-color": "#ffffff",
         "text-halo-width": 3
+      }
+    },
+    {
+      "id": "mjernoMjesto-icon",
+      "type": "symbol",
+      "source": "mjernoMjesto",
+      "layout": {
+        "icon-image": "inventia",
+        "icon-size": 1
       }
     },
     {
