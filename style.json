@@ -16,10 +16,6 @@
     "vodospremnik": {
       "type": "geojson",
       "data": "/dir/vodospremnik"
-    },
-    "mjernoMjesto": {
-      "type": "vector",
-      "data": "dir/mjernoMjesto"
     }
   },
   "layers": [
