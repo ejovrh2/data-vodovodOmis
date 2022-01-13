@@ -1,7 +1,7 @@
 {
   "type": "FeatureCollection",
   "name": "mjernoMjesto",
-  "data": [{ "type": "measures", "url": "URL do mjerenja REST" }],
+  "data": [{ "type": "measures", "url": "http://45.32.158.218:3000/nodes_view" }],
   "features": [
     {
       "type": "Feature",
