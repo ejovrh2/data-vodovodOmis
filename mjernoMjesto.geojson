@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
     "type":"FeatureCollection",
     "features":[
        {
@@ -2649,3 +2650,307 @@
      }
     ]
  }
+=======
+  "type": "FeatureCollection",
+  "name": "mjernoMjesto",
+  "data": {
+    "type": "Measure",
+    "path": "https://gis.edc.hr/imagisth/threport/rpc/readings_period"
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [16.756663, 43.389468] },
+      "properties": { "device_id": 240, "device_name": "MM 240" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [16.892827, 43.419603] },
+      "properties": { "device_id": 239, "device_name": "MM 239 - Slime" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [16.890355, 43.429988] },
+      "properties": { "device_id": 235, "device_name": "MM 235 -CS Zadvarje" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [16.713815, 43.466055] },
+      "properties": { "device_id": 233, "device_name": "MM 233 Kuvačić 1" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [16.904104, 43.417603] },
+      "properties": { "device_id": 200, "device_name": "MM 200 - Gornja Brela" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [16.902205, 43.437974] },
+      "properties": {
+        "device_id": 162,
+        "device_name": "TH-A2 Zadvarje - Vrbanj"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [16.8338, 43.440298] },
+      "properties": { "device_id": 168, "device_name": "TH-A8 Kostanje istok" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [16.829403, 43.440295] },
+      "properties": {
+        "device_id": 184,
+        "device_name": "TH-B8 Kostanje - zapad"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [16.693259, 43.403369] },
+      "properties": { "device_id": 185, "device_name": "TH-B9" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [16.968634, 43.424516] },
+      "properties": { "device_id": 181, "device_name": "TH-B5 Čikeši" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [16.683055, 43.390455] },
+      "properties": { "device_id": 183, "device_name": "TH-B7" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [16.684634, 43.432594] },
+      "properties": { "device_id": 171, "device_name": "TH-AB" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [16.691331, 43.444683] },
+      "properties": { "device_id": 37, "device_name": "MM 37- Punta 3" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [16.916797, 43.451629] },
+      "properties": { "device_id": 227, "device_name": "MM Žeževica, protok" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [16.727374, 43.460891] },
+      "properties": {
+        "device_id": 228,
+        "device_name": "MM 228 - Ostrvica Donja"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [16.692179, 43.443986] },
+      "properties": { "device_id": 230, "device_name": "MM 230 - Punta 1" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [16.692924, 43.443289] },
+      "properties": { "device_id": 226, "device_name": "MM 226 - Punta 2" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [16.796234, 43.524033] },
+      "properties": { "device_id": 186, "device_name": "TH-BA" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [16.684034, 43.430594] },
+      "properties": { "device_id": 167, "device_name": "TH-A7 Omiš" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [16.679597, 43.430308] },
+      "properties": { "device_id": 163, "device_name": "TH-A3 Omiš" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [16.677259, 43.430247] },
+      "properties": { "device_id": 161, "device_name": "TH-A1 Omiš" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [16.633175, 43.48017] },
+      "properties": { "device_id": 182, "device_name": "TH-B6 Tugare zapad" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [16.881006, 43.469806] },
+      "properties": { "device_id": 164, "device_name": "TH-A4 Kreševo" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [16.670803, 43.463274] },
+      "properties": { "device_id": 173, "device_name": "TH-AD Naklice" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [16.76618, 43.5317] },
+      "properties": {
+        "device_id": 199,
+        "device_name": "MM -180 Nova Sela - zapad"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [16.901258, 43.46259] },
+      "properties": { "device_id": 236, "device_name": "MM 236 - Kekezi" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [16.722877, 43.463202] },
+      "properties": { "device_id": 180, "device_name": "TH-B4 Čišla" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [16.671064, 43.429512] },
+      "properties": { "device_id": 176, "device_name": "TH-B0 Omiš" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [16.668431, 43.429255] },
+      "properties": { "device_id": 175, "device_name": "TH-AF Omiš" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [16.684534, 43.431594] },
+      "properties": { "device_id": 172, "device_name": "TH-AC Omiš" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [16.684034, 43.436594] },
+      "properties": { "device_id": 170, "device_name": "TH-AA Omiš" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [16.75591, 43.374665] },
+      "properties": { "device_id": 241, "device_name": "MM 241" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [16.757151, 43.395527] },
+      "properties": { "device_id": 237, "device_name": "MM 237" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [16.868888, 43.422716] },
+      "properties": { "device_id": 238, "device_name": "MM 238  - HS Slime" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [16.757233, 43.402221] },
+      "properties": { "device_id": 234, "device_name": "MM 234" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [16.769077, 43.452898] },
+      "properties": { "device_id": 169, "device_name": "TH-A9 Smolonje" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [16.754, 43.456] },
+      "properties": { "device_id": 165, "device_name": "TH-A5 Zvečanje" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [16.833904, 43.453119] },
+      "properties": { "device_id": 242, "device_name": "MM 242 -Seoca" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [16.655297, 43.402083] },
+      "properties": { "device_id": 166, "device_name": "TH-A6" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [16.665846, 43.393059] },
+      "properties": { "device_id": 174, "device_name": "TH-AE " }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [16.727495, 43.460795] },
+      "properties": {
+        "device_id": 187,
+        "device_name": "TH-BB Ostrvica Donja, tlak"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [16.93328, 43.443862] },
+      "properties": {
+        "device_id": 229,
+        "device_name": "MM 229 - Kalajžići, hidrostanica"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [16.881701, 43.472187] },
+      "properties": { "device_id": 999, "device_name": "MM Mandušići" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [16.909919, 43.454785] },
+      "properties": { "device_id": 232, "device_name": "MM 232 - Katuni" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [16.91281, 43.45507] },
+      "properties": { "device_id": 244, "device_name": "MM 244 - Ribičići" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [16.75591, 43.374678] },
+      "properties": { "device_id": 243, "device_name": "MM 243" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [16.756557, 43.38707] },
+      "properties": { "device_id": 231, "device_name": "MM 231" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [16.52, 45.05] },
+      "properties": { "device_id": 60, "device_name": "TH-3C Omiš" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [16.51, 45.05] },
+      "properties": { "device_id": 59, "device_name": "TH-3B Omiš" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [16.5, 45.05] },
+      "properties": { "device_id": 58, "device_name": "TH-3A Omiš" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [16.7617, 43.536499] },
+      "properties": { "device_id": 68, "device_name": "TH-44 Omiš 4" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [16.690558, 43.43263] },
+      "properties": { "device_id": 69, "device_name": "TH-45 Omiš 5" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [16.807699, 43.490002] },
+      "properties": { "device_id": 67, "device_name": "TH-43 Omiš 3" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [16.748301, 43.496498] },
+      "properties": { "device_id": 66, "device_name": "TH-42 Omiš 2" }
+    },
+    {
+      "type": "Feature",
+      "geometry": { "type": "Point", "coordinates": [16.7616, 43.5023] },
+      "properties": { "device_id": 65, "device_name": "TH-41 Omiš 1" }
+    }
+  ]
+}
+>>>>>>> ee4164302459ee858725788acbbc3ed971f19cd5

@@ -18,16 +18,8 @@
       "data": "/dir/vodospremnik"
     },
     "mjernoMjesto": {
-      "type": "vector",
-      "data": "https://gis.edc.hr/imagisth/threport/devices_all",
-      "lat": "latitude",
-      "lon": "longitude",
-      "id": "device_id",
-      "filter": [
-        "all",
-        ["==", "company_id", 3],
-        ["==", "zone_name", "SUKI"]
-      ]
+      "type": "geojson",
+      "data": "/dir/mjernoMjesto"
     }
   },
   "layers": [
@@ -125,28 +117,9 @@
       }
     },
     {
-      "id": "mjernoMjesto-icon-TH",
-      "type": "symbol",
-      "source": "mjernoMjesto",
-      "filter": [
-        "all",
-        ["==", "zone_name", "SUKI"],
-        ["==", "description_id", 1]
-      ],
-      "layout": {
-        "icon-image": "th",
-        "icon-size": 1
-      }
-    },
-    {
       "id": "mjernoMjesto-icon",
       "type": "symbol",
       "source": "mjernoMjesto",
-      "filter": [
-        "all",
-        ["==", "zone_name", "SUKI"],
-        ["!=", "description_id", 1]
-      ],
       "layout": {
         "icon-image": "inventia",
         "icon-size": 1
@@ -156,7 +129,6 @@
       "id": "mjernoMjesto-label",
       "type": "symbol",
       "source": "mjernoMjesto",
-      "filter": ["==", "zone_name", "SUKI"],
       "minzoom": 12,
       "layout": {
         "text-field": [
