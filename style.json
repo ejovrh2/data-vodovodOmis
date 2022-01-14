@@ -172,11 +172,10 @@
     },
     {
       "id": "prikljucak-icon",
-      "type": "symbol",
+      "type": "circle",
       "source": "prikljucak",
-      "layout": {
-        "icon-image": "kvadrat – plavi",
-        "icon-size": 0.2
+      "paint": {
+        "fill-color": "rgba(0,255,255,0.192)"
       }
     }
   ]
