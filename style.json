@@ -20,6 +20,10 @@
     "mjernoMjesto": {
       "type": "geojson",
       "data": "/dir/mjernoMjesto"
+    },
+    "prikljucak": {
+      "type": "geojson",
+      "data": "/dir/prikljucak"
     }
   },
   "layers": [
