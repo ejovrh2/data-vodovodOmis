@@ -169,6 +169,15 @@
         "text-halo-color": "#ffffff",
         "text-halo-width": 3
       }
+    },
+    {
+      "id": "prikljucak-icon",
+      "type": "symbol",
+      "source": "prikljucak",
+      "layout": {
+        "icon-image": "kvadrat – plavi",
+        "icon-size": 0.2
+      }
     }
   ]
 }
