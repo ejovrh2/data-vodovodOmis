@@ -177,7 +177,7 @@
       "paint": {
         "circle-color": "rgba(197, 41, 41, 1)",
         "circle-stroke-color": "rgba(0, 0, 0, 1)",
-        "circle-radius": 20
+        "circle-radius": 2
       }
     }
   ]
