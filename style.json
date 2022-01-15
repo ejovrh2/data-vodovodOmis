@@ -78,6 +78,24 @@
       }
     },
     {
+      "id": "mjernaZona-label",
+      "type": "symbol",
+      "source": "mjernaZona",
+      "layout": {
+        "text-field": ["upcase", ["get", "naziv"]],
+        "text-size": 14,
+        "text-font": ["Arial Normal", "sans-serif Normal"],
+        "text-allow-overlap": true,
+        "text-max-width": 18
+      },
+      "paint": {
+        "text-color": "black",
+        "text-halo-blur": 1,
+        "text-halo-color": "#ffffff",
+        "text-halo-width": 3
+      }
+    },
+    {
       "id": "cjevovod",
       "type": "line",
       "source": "vod",
@@ -121,6 +139,16 @@
       }
     },
     {
+      "id": "prikljucak-icon",
+      "type": "circle",
+      "source": "prikljucak",
+      "paint": {
+        "circle-color": "rgba(197, 41, 41, 1)",
+        "circle-stroke-color": "rgba(0, 0, 0, 1)",
+        "circle-radius": 2
+      }
+    },
+    {
       "id": "mjernoMjesto-icon",
       "type": "symbol",
       "source": "mjernoMjesto",
@@ -150,16 +178,6 @@
         "text-halo-blur": 1,
         "text-halo-color": "#ffffff",
         "text-halo-width": 3
-      }
-    },
-    {
-      "id": "prikljucak-icon",
-      "type": "circle",
-      "source": "prikljucak",
-      "paint": {
-        "circle-color": "rgba(197, 41, 41, 1)",
-        "circle-stroke-color": "rgba(0, 0, 0, 1)",
-        "circle-radius": 2
       }
     }
   ]
