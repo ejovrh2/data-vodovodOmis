@@ -9,6 +9,10 @@
       "type": "geojson",
       "data": "/dir/mjernaZona"
     },
+    "mjernaZonaLabels": {
+      "type": "geojson",
+      "data": "/dir/mjernaZona"
+    },
     "vod": {
       "type": "geojson",
       "data": "/dir/vod"
@@ -80,7 +84,7 @@
     {
       "id": "mjernaZona-label",
       "type": "symbol",
-      "source": "mjernaZona",
+      "source": "mjernaZonaLabel",
       "layout": {
         "text-field": ["upcase", ["get", "naziv"]],
         "text-size": 14,
@@ -109,7 +113,7 @@
       "type": "symbol",
       "source": "vodospremnik",
       "layout": {
-        "icon-image": "kvadrat – plavi",
+        "icon-image": "kvadrat–plavi",
         "icon-size": 0.2
       }
     },
