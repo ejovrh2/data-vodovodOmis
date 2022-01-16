@@ -2,7 +2,7 @@
   "version": 8,
   "name": "vodovodomis",
   "center": [16.694112, 43.443665],
-  "zoom": 6,
+  "zoom": 5,
   "glyphs": "{fontstack}/{range}",
   "sources": {
     "mjernaZona": {
