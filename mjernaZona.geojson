@@ -1,5 +1,6 @@
 {
   "type": "FeatureCollection",
+  "name":"mjernaZona",
   "features": [
     {
       "type": "Feature",

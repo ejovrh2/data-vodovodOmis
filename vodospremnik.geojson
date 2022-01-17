@@ -1,5 +1,6 @@
 {
   "type": "FeatureCollection",
+  "name":"vodospremnik",
   "features": [
     {
       "type": "Feature",
