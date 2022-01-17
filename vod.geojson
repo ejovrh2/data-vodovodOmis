@@ -1,6 +1,5 @@
 {
   "type": "FeatureCollection",
-  "name": "vod",
   "features": [
     {
       "type": "Feature",
