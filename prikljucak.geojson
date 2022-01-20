@@ -193830,6 +193830,21 @@
           43.4655481
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "pmo_id": "22705",
+        "optionalid": "",
+        "gid": "12923"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.8933418,
+          43.4643174
+        ]
+      }
     }
   ]
 }
