@@ -183454,24 +183454,9 @@
     {
       "type": "Feature",
       "properties": {
-        "pmo_id": "9063",
-        "optionalid": "",
-        "gid": "12231"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          16.8003618,
-          43.4356597
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "pmo_id": "21870",
         "optionalid": "",
-        "gid": "12232"
+        "gid": "12231"
       },
       "geometry": {
         "type": "Point",
@@ -183486,7 +183471,7 @@
       "properties": {
         "pmo_id": "21389",
         "optionalid": "",
-        "gid": "12233"
+        "gid": "12232"
       },
       "geometry": {
         "type": "Point",
@@ -183501,7 +183486,7 @@
       "properties": {
         "pmo_id": "21415",
         "optionalid": "",
-        "gid": "12234"
+        "gid": "12233"
       },
       "geometry": {
         "type": "Point",
@@ -183516,7 +183501,7 @@
       "properties": {
         "pmo_id": "21404",
         "optionalid": "",
-        "gid": "12235"
+        "gid": "12234"
       },
       "geometry": {
         "type": "Point",
@@ -183531,7 +183516,7 @@
       "properties": {
         "pmo_id": "21959",
         "optionalid": "",
-        "gid": "12236"
+        "gid": "12235"
       },
       "geometry": {
         "type": "Point",
@@ -183546,7 +183531,7 @@
       "properties": {
         "pmo_id": "20335",
         "optionalid": "",
-        "gid": "12237"
+        "gid": "12236"
       },
       "geometry": {
         "type": "Point",
@@ -183561,7 +183546,7 @@
       "properties": {
         "pmo_id": "20336",
         "optionalid": "",
-        "gid": "12238"
+        "gid": "12237"
       },
       "geometry": {
         "type": "Point",
@@ -183576,7 +183561,7 @@
       "properties": {
         "pmo_id": "19624",
         "optionalid": "",
-        "gid": "12239"
+        "gid": "12238"
       },
       "geometry": {
         "type": "Point",
@@ -183591,7 +183576,7 @@
       "properties": {
         "pmo_id": "19647",
         "optionalid": "",
-        "gid": "12240"
+        "gid": "12239"
       },
       "geometry": {
         "type": "Point",
@@ -183606,7 +183591,7 @@
       "properties": {
         "pmo_id": "21913",
         "optionalid": "",
-        "gid": "12241"
+        "gid": "12240"
       },
       "geometry": {
         "type": "Point",
@@ -183621,7 +183606,7 @@
       "properties": {
         "pmo_id": "21440",
         "optionalid": "",
-        "gid": "12242"
+        "gid": "12241"
       },
       "geometry": {
         "type": "Point",
@@ -183636,7 +183621,7 @@
       "properties": {
         "pmo_id": "19415",
         "optionalid": "",
-        "gid": "12243"
+        "gid": "12242"
       },
       "geometry": {
         "type": "Point",
@@ -183651,7 +183636,7 @@
       "properties": {
         "pmo_id": "21150",
         "optionalid": "",
-        "gid": "12244"
+        "gid": "12243"
       },
       "geometry": {
         "type": "Point",
@@ -183666,7 +183651,7 @@
       "properties": {
         "pmo_id": "20373",
         "optionalid": "",
-        "gid": "12245"
+        "gid": "12244"
       },
       "geometry": {
         "type": "Point",
@@ -183681,7 +183666,7 @@
       "properties": {
         "pmo_id": "21985",
         "optionalid": "",
-        "gid": "12246"
+        "gid": "12245"
       },
       "geometry": {
         "type": "Point",
@@ -183696,7 +183681,7 @@
       "properties": {
         "pmo_id": "20883",
         "optionalid": "",
-        "gid": "12247"
+        "gid": "12246"
       },
       "geometry": {
         "type": "Point",
@@ -183711,7 +183696,7 @@
       "properties": {
         "pmo_id": "20490",
         "optionalid": "",
-        "gid": "12248"
+        "gid": "12247"
       },
       "geometry": {
         "type": "Point",
@@ -183726,7 +183711,7 @@
       "properties": {
         "pmo_id": "20376",
         "optionalid": "",
-        "gid": "12249"
+        "gid": "12248"
       },
       "geometry": {
         "type": "Point",
@@ -183741,7 +183726,7 @@
       "properties": {
         "pmo_id": "20371",
         "optionalid": "",
-        "gid": "12250"
+        "gid": "12249"
       },
       "geometry": {
         "type": "Point",
@@ -183756,7 +183741,7 @@
       "properties": {
         "pmo_id": "18659",
         "optionalid": "",
-        "gid": "12251"
+        "gid": "12250"
       },
       "geometry": {
         "type": "Point",
@@ -183771,7 +183756,7 @@
       "properties": {
         "pmo_id": "18677",
         "optionalid": "",
-        "gid": "12252"
+        "gid": "12251"
       },
       "geometry": {
         "type": "Point",
@@ -183786,7 +183771,7 @@
       "properties": {
         "pmo_id": "14070",
         "optionalid": "",
-        "gid": "12253"
+        "gid": "12252"
       },
       "geometry": {
         "type": "Point",
@@ -183801,7 +183786,7 @@
       "properties": {
         "pmo_id": "17995",
         "optionalid": "",
-        "gid": "12254"
+        "gid": "12253"
       },
       "geometry": {
         "type": "Point",
@@ -183816,7 +183801,7 @@
       "properties": {
         "pmo_id": "22065",
         "optionalid": "",
-        "gid": "12255"
+        "gid": "12254"
       },
       "geometry": {
         "type": "Point",
@@ -183831,7 +183816,7 @@
       "properties": {
         "pmo_id": "22047",
         "optionalid": "",
-        "gid": "12256"
+        "gid": "12255"
       },
       "geometry": {
         "type": "Point",
@@ -183846,7 +183831,7 @@
       "properties": {
         "pmo_id": "22048",
         "optionalid": "",
-        "gid": "12257"
+        "gid": "12256"
       },
       "geometry": {
         "type": "Point",
@@ -183861,7 +183846,7 @@
       "properties": {
         "pmo_id": "5010",
         "optionalid": "",
-        "gid": "12258"
+        "gid": "12257"
       },
       "geometry": {
         "type": "Point",
@@ -183876,7 +183861,7 @@
       "properties": {
         "pmo_id": "22198",
         "optionalid": "",
-        "gid": "12259"
+        "gid": "12258"
       },
       "geometry": {
         "type": "Point",
@@ -183891,7 +183876,7 @@
       "properties": {
         "pmo_id": "21168",
         "optionalid": "",
-        "gid": "12260"
+        "gid": "12259"
       },
       "geometry": {
         "type": "Point",
@@ -183906,7 +183891,7 @@
       "properties": {
         "pmo_id": "18165",
         "optionalid": "",
-        "gid": "12261"
+        "gid": "12260"
       },
       "geometry": {
         "type": "Point",
@@ -183921,7 +183906,7 @@
       "properties": {
         "pmo_id": "20545",
         "optionalid": "",
-        "gid": "12262"
+        "gid": "12261"
       },
       "geometry": {
         "type": "Point",
@@ -183936,7 +183921,7 @@
       "properties": {
         "pmo_id": "20113",
         "optionalid": "",
-        "gid": "12263"
+        "gid": "12262"
       },
       "geometry": {
         "type": "Point",
@@ -183951,7 +183936,7 @@
       "properties": {
         "pmo_id": "5933",
         "optionalid": "",
-        "gid": "12264"
+        "gid": "12263"
       },
       "geometry": {
         "type": "Point",
@@ -183966,7 +183951,7 @@
       "properties": {
         "pmo_id": "22087",
         "optionalid": "",
-        "gid": "12265"
+        "gid": "12264"
       },
       "geometry": {
         "type": "Point",
@@ -183981,7 +183966,7 @@
       "properties": {
         "pmo_id": "4920",
         "optionalid": "",
-        "gid": "12266"
+        "gid": "12265"
       },
       "geometry": {
         "type": "Point",
@@ -183996,7 +183981,7 @@
       "properties": {
         "pmo_id": "19969",
         "optionalid": "",
-        "gid": "12267"
+        "gid": "12266"
       },
       "geometry": {
         "type": "Point",
@@ -184011,7 +183996,7 @@
       "properties": {
         "pmo_id": "5814",
         "optionalid": "",
-        "gid": "12268"
+        "gid": "12267"
       },
       "geometry": {
         "type": "Point",
@@ -184026,7 +184011,7 @@
       "properties": {
         "pmo_id": "8643",
         "optionalid": "",
-        "gid": "12269"
+        "gid": "12268"
       },
       "geometry": {
         "type": "Point",
@@ -184041,7 +184026,7 @@
       "properties": {
         "pmo_id": "22044",
         "optionalid": "",
-        "gid": "12270"
+        "gid": "12269"
       },
       "geometry": {
         "type": "Point",
@@ -184056,7 +184041,7 @@
       "properties": {
         "pmo_id": "22043",
         "optionalid": "",
-        "gid": "12271"
+        "gid": "12270"
       },
       "geometry": {
         "type": "Point",
@@ -184071,7 +184056,7 @@
       "properties": {
         "pmo_id": "22299",
         "optionalid": "",
-        "gid": "12272"
+        "gid": "12271"
       },
       "geometry": {
         "type": "Point",
@@ -184086,7 +184071,7 @@
       "properties": {
         "pmo_id": "22295",
         "optionalid": "",
-        "gid": "12273"
+        "gid": "12272"
       },
       "geometry": {
         "type": "Point",
@@ -184101,7 +184086,7 @@
       "properties": {
         "pmo_id": "19630",
         "optionalid": "",
-        "gid": "12274"
+        "gid": "12273"
       },
       "geometry": {
         "type": "Point",
@@ -184116,7 +184101,7 @@
       "properties": {
         "pmo_id": "21720",
         "optionalid": "",
-        "gid": "12275"
+        "gid": "12274"
       },
       "geometry": {
         "type": "Point",
@@ -184131,7 +184116,7 @@
       "properties": {
         "pmo_id": "21405",
         "optionalid": "",
-        "gid": "12276"
+        "gid": "12275"
       },
       "geometry": {
         "type": "Point",
@@ -184146,7 +184131,7 @@
       "properties": {
         "pmo_id": "22298",
         "optionalid": "",
-        "gid": "12277"
+        "gid": "12276"
       },
       "geometry": {
         "type": "Point",
@@ -184161,7 +184146,7 @@
       "properties": {
         "pmo_id": "21236",
         "optionalid": "",
-        "gid": "12278"
+        "gid": "12277"
       },
       "geometry": {
         "type": "Point",
@@ -184176,7 +184161,7 @@
       "properties": {
         "pmo_id": "21241",
         "optionalid": "",
-        "gid": "12279"
+        "gid": "12278"
       },
       "geometry": {
         "type": "Point",
@@ -184191,7 +184176,7 @@
       "properties": {
         "pmo_id": "21251",
         "optionalid": "",
-        "gid": "12280"
+        "gid": "12279"
       },
       "geometry": {
         "type": "Point",
@@ -184206,7 +184191,7 @@
       "properties": {
         "pmo_id": "22305",
         "optionalid": "",
-        "gid": "12281"
+        "gid": "12280"
       },
       "geometry": {
         "type": "Point",
@@ -184221,7 +184206,7 @@
       "properties": {
         "pmo_id": "22009",
         "optionalid": "",
-        "gid": "12282"
+        "gid": "12281"
       },
       "geometry": {
         "type": "Point",
@@ -184236,7 +184221,7 @@
       "properties": {
         "pmo_id": "22238",
         "optionalid": "",
-        "gid": "12283"
+        "gid": "12282"
       },
       "geometry": {
         "type": "Point",
@@ -184251,7 +184236,7 @@
       "properties": {
         "pmo_id": "22183",
         "optionalid": "",
-        "gid": "12284"
+        "gid": "12283"
       },
       "geometry": {
         "type": "Point",
@@ -184266,7 +184251,7 @@
       "properties": {
         "pmo_id": "22206",
         "optionalid": "",
-        "gid": "12285"
+        "gid": "12284"
       },
       "geometry": {
         "type": "Point",
@@ -184281,7 +184266,7 @@
       "properties": {
         "pmo_id": "22259",
         "optionalid": "",
-        "gid": "12286"
+        "gid": "12285"
       },
       "geometry": {
         "type": "Point",
@@ -184296,7 +184281,7 @@
       "properties": {
         "pmo_id": "22243",
         "optionalid": "",
-        "gid": "12287"
+        "gid": "12286"
       },
       "geometry": {
         "type": "Point",
@@ -184311,7 +184296,7 @@
       "properties": {
         "pmo_id": "22286",
         "optionalid": "",
-        "gid": "12288"
+        "gid": "12287"
       },
       "geometry": {
         "type": "Point",
@@ -184326,7 +184311,7 @@
       "properties": {
         "pmo_id": "21584",
         "optionalid": "",
-        "gid": "12289"
+        "gid": "12288"
       },
       "geometry": {
         "type": "Point",
@@ -184341,7 +184326,7 @@
       "properties": {
         "pmo_id": "21244",
         "optionalid": "",
-        "gid": "12290"
+        "gid": "12289"
       },
       "geometry": {
         "type": "Point",
@@ -184356,7 +184341,7 @@
       "properties": {
         "pmo_id": "21272",
         "optionalid": "",
-        "gid": "12291"
+        "gid": "12290"
       },
       "geometry": {
         "type": "Point",
@@ -184371,7 +184356,7 @@
       "properties": {
         "pmo_id": "20286",
         "optionalid": "",
-        "gid": "12292"
+        "gid": "12291"
       },
       "geometry": {
         "type": "Point",
@@ -184386,7 +184371,7 @@
       "properties": {
         "pmo_id": "20285",
         "optionalid": "",
-        "gid": "12293"
+        "gid": "12292"
       },
       "geometry": {
         "type": "Point",
@@ -184401,7 +184386,7 @@
       "properties": {
         "pmo_id": "21759",
         "optionalid": "",
-        "gid": "12294"
+        "gid": "12293"
       },
       "geometry": {
         "type": "Point",
@@ -184416,7 +184401,7 @@
       "properties": {
         "pmo_id": "22236",
         "optionalid": "",
-        "gid": "12295"
+        "gid": "12294"
       },
       "geometry": {
         "type": "Point",
@@ -184431,7 +184416,7 @@
       "properties": {
         "pmo_id": "22200",
         "optionalid": "",
-        "gid": "12296"
+        "gid": "12295"
       },
       "geometry": {
         "type": "Point",
@@ -184446,7 +184431,7 @@
       "properties": {
         "pmo_id": "20830",
         "optionalid": "",
-        "gid": "12297"
+        "gid": "12296"
       },
       "geometry": {
         "type": "Point",
@@ -184461,7 +184446,7 @@
       "properties": {
         "pmo_id": "21496",
         "optionalid": "",
-        "gid": "12298"
+        "gid": "12297"
       },
       "geometry": {
         "type": "Point",
@@ -184476,7 +184461,7 @@
       "properties": {
         "pmo_id": "21708",
         "optionalid": "",
-        "gid": "12299"
+        "gid": "12298"
       },
       "geometry": {
         "type": "Point",
@@ -184491,7 +184476,7 @@
       "properties": {
         "pmo_id": "21726",
         "optionalid": "",
-        "gid": "12300"
+        "gid": "12299"
       },
       "geometry": {
         "type": "Point",
@@ -184506,7 +184491,7 @@
       "properties": {
         "pmo_id": "21322",
         "optionalid": "",
-        "gid": "12301"
+        "gid": "12300"
       },
       "geometry": {
         "type": "Point",
@@ -184521,7 +184506,7 @@
       "properties": {
         "pmo_id": "22144",
         "optionalid": "",
-        "gid": "12302"
+        "gid": "12301"
       },
       "geometry": {
         "type": "Point",
@@ -184536,7 +184521,7 @@
       "properties": {
         "pmo_id": "21315",
         "optionalid": "",
-        "gid": "12303"
+        "gid": "12302"
       },
       "geometry": {
         "type": "Point",
@@ -184551,7 +184536,7 @@
       "properties": {
         "pmo_id": "21339",
         "optionalid": "",
-        "gid": "12304"
+        "gid": "12303"
       },
       "geometry": {
         "type": "Point",
@@ -184566,7 +184551,7 @@
       "properties": {
         "pmo_id": "21379",
         "optionalid": "",
-        "gid": "12305"
+        "gid": "12304"
       },
       "geometry": {
         "type": "Point",
@@ -184581,7 +184566,7 @@
       "properties": {
         "pmo_id": "21691",
         "optionalid": "",
-        "gid": "12306"
+        "gid": "12305"
       },
       "geometry": {
         "type": "Point",
@@ -184596,7 +184581,7 @@
       "properties": {
         "pmo_id": "21324",
         "optionalid": "",
-        "gid": "12307"
+        "gid": "12306"
       },
       "geometry": {
         "type": "Point",
@@ -184611,7 +184596,7 @@
       "properties": {
         "pmo_id": "21385",
         "optionalid": "",
-        "gid": "12308"
+        "gid": "12307"
       },
       "geometry": {
         "type": "Point",
@@ -184626,7 +184611,7 @@
       "properties": {
         "pmo_id": "21334",
         "optionalid": "",
-        "gid": "12309"
+        "gid": "12308"
       },
       "geometry": {
         "type": "Point",
@@ -184641,7 +184626,7 @@
       "properties": {
         "pmo_id": "22021",
         "optionalid": "",
-        "gid": "12310"
+        "gid": "12309"
       },
       "geometry": {
         "type": "Point",
@@ -184656,7 +184641,7 @@
       "properties": {
         "pmo_id": "21326",
         "optionalid": "",
-        "gid": "12311"
+        "gid": "12310"
       },
       "geometry": {
         "type": "Point",
@@ -184671,7 +184656,7 @@
       "properties": {
         "pmo_id": "21329",
         "optionalid": "",
-        "gid": "12312"
+        "gid": "12311"
       },
       "geometry": {
         "type": "Point",
@@ -184686,7 +184671,7 @@
       "properties": {
         "pmo_id": "21325",
         "optionalid": "",
-        "gid": "12313"
+        "gid": "12312"
       },
       "geometry": {
         "type": "Point",
@@ -184701,7 +184686,7 @@
       "properties": {
         "pmo_id": "22292",
         "optionalid": "",
-        "gid": "12314"
+        "gid": "12313"
       },
       "geometry": {
         "type": "Point",
@@ -184716,7 +184701,7 @@
       "properties": {
         "pmo_id": "21286",
         "optionalid": "",
-        "gid": "12315"
+        "gid": "12314"
       },
       "geometry": {
         "type": "Point",
@@ -184731,7 +184716,7 @@
       "properties": {
         "pmo_id": "21280",
         "optionalid": "",
-        "gid": "12316"
+        "gid": "12315"
       },
       "geometry": {
         "type": "Point",
@@ -184746,7 +184731,7 @@
       "properties": {
         "pmo_id": "21269",
         "optionalid": "",
-        "gid": "12317"
+        "gid": "12316"
       },
       "geometry": {
         "type": "Point",
@@ -184761,7 +184746,7 @@
       "properties": {
         "pmo_id": "21277",
         "optionalid": "",
-        "gid": "12318"
+        "gid": "12317"
       },
       "geometry": {
         "type": "Point",
@@ -184776,7 +184761,7 @@
       "properties": {
         "pmo_id": "21299",
         "optionalid": "",
-        "gid": "12319"
+        "gid": "12318"
       },
       "geometry": {
         "type": "Point",
@@ -184791,7 +184776,7 @@
       "properties": {
         "pmo_id": "21069",
         "optionalid": "",
-        "gid": "12320"
+        "gid": "12319"
       },
       "geometry": {
         "type": "Point",
@@ -184806,7 +184791,7 @@
       "properties": {
         "pmo_id": "21314",
         "optionalid": "",
-        "gid": "12321"
+        "gid": "12320"
       },
       "geometry": {
         "type": "Point",
@@ -184821,7 +184806,7 @@
       "properties": {
         "pmo_id": "22349",
         "optionalid": "21279",
-        "gid": "12322"
+        "gid": "12321"
       },
       "geometry": {
         "type": "Point",
@@ -184836,7 +184821,7 @@
       "properties": {
         "pmo_id": "22281",
         "optionalid": "21265",
-        "gid": "12323"
+        "gid": "12322"
       },
       "geometry": {
         "type": "Point",
@@ -184851,7 +184836,7 @@
       "properties": {
         "pmo_id": "22235",
         "optionalid": "",
-        "gid": "12324"
+        "gid": "12323"
       },
       "geometry": {
         "type": "Point",
@@ -184866,7 +184851,7 @@
       "properties": {
         "pmo_id": "22279",
         "optionalid": "",
-        "gid": "12325"
+        "gid": "12324"
       },
       "geometry": {
         "type": "Point",
@@ -184881,7 +184866,7 @@
       "properties": {
         "pmo_id": "22280",
         "optionalid": "",
-        "gid": "12326"
+        "gid": "12325"
       },
       "geometry": {
         "type": "Point",
@@ -184896,7 +184881,7 @@
       "properties": {
         "pmo_id": "21978",
         "optionalid": "",
-        "gid": "12327"
+        "gid": "12326"
       },
       "geometry": {
         "type": "Point",
@@ -184911,7 +184896,7 @@
       "properties": {
         "pmo_id": "22256",
         "optionalid": "",
-        "gid": "12328"
+        "gid": "12327"
       },
       "geometry": {
         "type": "Point",
@@ -184926,7 +184911,7 @@
       "properties": {
         "pmo_id": "22284",
         "optionalid": "",
-        "gid": "12329"
+        "gid": "12328"
       },
       "geometry": {
         "type": "Point",
@@ -184941,7 +184926,7 @@
       "properties": {
         "pmo_id": "22283",
         "optionalid": "",
-        "gid": "12330"
+        "gid": "12329"
       },
       "geometry": {
         "type": "Point",
@@ -184956,7 +184941,7 @@
       "properties": {
         "pmo_id": "22285",
         "optionalid": "",
-        "gid": "12331"
+        "gid": "12330"
       },
       "geometry": {
         "type": "Point",
@@ -184971,7 +184956,7 @@
       "properties": {
         "pmo_id": "22278",
         "optionalid": "",
-        "gid": "12332"
+        "gid": "12331"
       },
       "geometry": {
         "type": "Point",
@@ -184986,7 +184971,7 @@
       "properties": {
         "pmo_id": "3(dz)",
         "optionalid": "3(dz)",
-        "gid": "12333"
+        "gid": "12332"
       },
       "geometry": {
         "type": "Point",
@@ -185001,7 +184986,7 @@
       "properties": {
         "pmo_id": "4(dz)",
         "optionalid": "4(dz)",
-        "gid": "12334"
+        "gid": "12333"
       },
       "geometry": {
         "type": "Point",
@@ -185016,7 +185001,7 @@
       "properties": {
         "pmo_id": "5(dz)",
         "optionalid": "5(dz)",
-        "gid": "12335"
+        "gid": "12334"
       },
       "geometry": {
         "type": "Point",
@@ -185031,7 +185016,7 @@
       "properties": {
         "pmo_id": "22474",
         "optionalid": "1(dz)",
-        "gid": "12336"
+        "gid": "12335"
       },
       "geometry": {
         "type": "Point",
@@ -185046,7 +185031,7 @@
       "properties": {
         "pmo_id": "2(dz)",
         "optionalid": "2(dz)",
-        "gid": "12337"
+        "gid": "12336"
       },
       "geometry": {
         "type": "Point",
@@ -185061,7 +185046,7 @@
       "properties": {
         "pmo_id": "22420",
         "optionalid": "6(dz)",
-        "gid": "12338"
+        "gid": "12337"
       },
       "geometry": {
         "type": "Point",
@@ -185076,7 +185061,7 @@
       "properties": {
         "pmo_id": "10(dz)",
         "optionalid": "10(dz)",
-        "gid": "12339"
+        "gid": "12338"
       },
       "geometry": {
         "type": "Point",
@@ -185091,7 +185076,7 @@
       "properties": {
         "pmo_id": "11(dz)",
         "optionalid": "11(dz)",
-        "gid": "12340"
+        "gid": "12339"
       },
       "geometry": {
         "type": "Point",
@@ -185106,7 +185091,7 @@
       "properties": {
         "pmo_id": "14(dz)",
         "optionalid": "14(dz)",
-        "gid": "12341"
+        "gid": "12340"
       },
       "geometry": {
         "type": "Point",
@@ -185121,7 +185106,7 @@
       "properties": {
         "pmo_id": "16(dz)",
         "optionalid": "16(dz)",
-        "gid": "12342"
+        "gid": "12341"
       },
       "geometry": {
         "type": "Point",
@@ -185136,7 +185121,7 @@
       "properties": {
         "pmo_id": "51(dz)",
         "optionalid": "51(dz)",
-        "gid": "12343"
+        "gid": "12342"
       },
       "geometry": {
         "type": "Point",
@@ -185151,7 +185136,7 @@
       "properties": {
         "pmo_id": "52(dz)",
         "optionalid": "52(dz)",
-        "gid": "12344"
+        "gid": "12343"
       },
       "geometry": {
         "type": "Point",
@@ -185166,7 +185151,7 @@
       "properties": {
         "pmo_id": "54(dz)",
         "optionalid": "54(dz)",
-        "gid": "12345"
+        "gid": "12344"
       },
       "geometry": {
         "type": "Point",
@@ -185181,7 +185166,7 @@
       "properties": {
         "pmo_id": "60(dz)",
         "optionalid": "60(dz)",
-        "gid": "12346"
+        "gid": "12345"
       },
       "geometry": {
         "type": "Point",
@@ -185196,7 +185181,7 @@
       "properties": {
         "pmo_id": "21797",
         "optionalid": "9(dz)",
-        "gid": "12347"
+        "gid": "12346"
       },
       "geometry": {
         "type": "Point",
@@ -185211,7 +185196,7 @@
       "properties": {
         "pmo_id": "21586",
         "optionalid": "17(dz)",
-        "gid": "12348"
+        "gid": "12347"
       },
       "geometry": {
         "type": "Point",
@@ -185226,7 +185211,7 @@
       "properties": {
         "pmo_id": "21579",
         "optionalid": "17(dz)",
-        "gid": "12349"
+        "gid": "12348"
       },
       "geometry": {
         "type": "Point",
@@ -185241,7 +185226,7 @@
       "properties": {
         "pmo_id": "22383",
         "optionalid": "8(dz)",
-        "gid": "12350"
+        "gid": "12349"
       },
       "geometry": {
         "type": "Point",
@@ -185256,7 +185241,7 @@
       "properties": {
         "pmo_id": "22475",
         "optionalid": "13(dz)",
-        "gid": "12351"
+        "gid": "12350"
       },
       "geometry": {
         "type": "Point",
@@ -185271,7 +185256,7 @@
       "properties": {
         "pmo_id": "21514",
         "optionalid": "7(dz)",
-        "gid": "12352"
+        "gid": "12351"
       },
       "geometry": {
         "type": "Point",
@@ -185286,7 +185271,7 @@
       "properties": {
         "pmo_id": "22364",
         "optionalid": "15(dz)",
-        "gid": "12353"
+        "gid": "12352"
       },
       "geometry": {
         "type": "Point",
@@ -185301,7 +185286,7 @@
       "properties": {
         "pmo_id": "79(dz)",
         "optionalid": "79(dz)",
-        "gid": "12354"
+        "gid": "12353"
       },
       "geometry": {
         "type": "Point",
@@ -185316,7 +185301,7 @@
       "properties": {
         "pmo_id": "82(dz)",
         "optionalid": "82(dz)",
-        "gid": "12355"
+        "gid": "12354"
       },
       "geometry": {
         "type": "Point",
@@ -185331,7 +185316,7 @@
       "properties": {
         "pmo_id": "80(dz)",
         "optionalid": "80(dz)",
-        "gid": "12356"
+        "gid": "12355"
       },
       "geometry": {
         "type": "Point",
@@ -185346,7 +185331,7 @@
       "properties": {
         "pmo_id": "84(dz)",
         "optionalid": "84(dz)",
-        "gid": "12357"
+        "gid": "12356"
       },
       "geometry": {
         "type": "Point",
@@ -185361,7 +185346,7 @@
       "properties": {
         "pmo_id": "85(dz)",
         "optionalid": "85(dz)",
-        "gid": "12358"
+        "gid": "12357"
       },
       "geometry": {
         "type": "Point",
@@ -185376,7 +185361,7 @@
       "properties": {
         "pmo_id": "22502",
         "optionalid": "12(dz)",
-        "gid": "12359"
+        "gid": "12358"
       },
       "geometry": {
         "type": "Point",
@@ -185391,7 +185376,7 @@
       "properties": {
         "pmo_id": "19(dz)",
         "optionalid": "19(dz)",
-        "gid": "12360"
+        "gid": "12359"
       },
       "geometry": {
         "type": "Point",
@@ -185406,7 +185391,7 @@
       "properties": {
         "pmo_id": "34(dz)",
         "optionalid": "34(dz)",
-        "gid": "12361"
+        "gid": "12360"
       },
       "geometry": {
         "type": "Point",
@@ -185421,7 +185406,7 @@
       "properties": {
         "pmo_id": "21932",
         "optionalid": "35(dz)",
-        "gid": "12362"
+        "gid": "12361"
       },
       "geometry": {
         "type": "Point",
@@ -185436,7 +185421,7 @@
       "properties": {
         "pmo_id": "22443",
         "optionalid": "33(dz)",
-        "gid": "12363"
+        "gid": "12362"
       },
       "geometry": {
         "type": "Point",
@@ -185451,7 +185436,7 @@
       "properties": {
         "pmo_id": "21929",
         "optionalid": "39(dz)",
-        "gid": "12364"
+        "gid": "12363"
       },
       "geometry": {
         "type": "Point",
@@ -185466,7 +185451,7 @@
       "properties": {
         "pmo_id": "40(dz)",
         "optionalid": "40(dz)",
-        "gid": "12365"
+        "gid": "12364"
       },
       "geometry": {
         "type": "Point",
@@ -185481,7 +185466,7 @@
       "properties": {
         "pmo_id": "41(dz)",
         "optionalid": "41(dz)",
-        "gid": "12366"
+        "gid": "12365"
       },
       "geometry": {
         "type": "Point",
@@ -185496,7 +185481,7 @@
       "properties": {
         "pmo_id": "22465",
         "optionalid": "42(dz)",
-        "gid": "12367"
+        "gid": "12366"
       },
       "geometry": {
         "type": "Point",
@@ -185511,7 +185496,7 @@
       "properties": {
         "pmo_id": "43(dz)",
         "optionalid": "43(dz)",
-        "gid": "12368"
+        "gid": "12367"
       },
       "geometry": {
         "type": "Point",
@@ -185526,7 +185511,7 @@
       "properties": {
         "pmo_id": "21910",
         "optionalid": "53(dz)",
-        "gid": "12369"
+        "gid": "12368"
       },
       "geometry": {
         "type": "Point",
@@ -185541,7 +185526,7 @@
       "properties": {
         "pmo_id": "55(dz)",
         "optionalid": "55(dz)",
-        "gid": "12370"
+        "gid": "12369"
       },
       "geometry": {
         "type": "Point",
@@ -185556,7 +185541,7 @@
       "properties": {
         "pmo_id": "56(dz)",
         "optionalid": "56(dz)",
-        "gid": "12371"
+        "gid": "12370"
       },
       "geometry": {
         "type": "Point",
@@ -185571,7 +185556,7 @@
       "properties": {
         "pmo_id": "57(dz)",
         "optionalid": "57(dz)",
-        "gid": "12372"
+        "gid": "12371"
       },
       "geometry": {
         "type": "Point",
@@ -185586,7 +185571,7 @@
       "properties": {
         "pmo_id": "58(dz)",
         "optionalid": "58(dz)",
-        "gid": "12373"
+        "gid": "12372"
       },
       "geometry": {
         "type": "Point",
@@ -185601,7 +185586,7 @@
       "properties": {
         "pmo_id": "27(dz)",
         "optionalid": "27(dz)",
-        "gid": "12374"
+        "gid": "12373"
       },
       "geometry": {
         "type": "Point",
@@ -185616,7 +185601,7 @@
       "properties": {
         "pmo_id": "21(dz)",
         "optionalid": "21(dz)",
-        "gid": "12375"
+        "gid": "12374"
       },
       "geometry": {
         "type": "Point",
@@ -185631,7 +185616,7 @@
       "properties": {
         "pmo_id": "22(dz)",
         "optionalid": "22(dz)",
-        "gid": "12376"
+        "gid": "12375"
       },
       "geometry": {
         "type": "Point",
@@ -185646,7 +185631,7 @@
       "properties": {
         "pmo_id": "30(dz)",
         "optionalid": "30(dz)",
-        "gid": "12377"
+        "gid": "12376"
       },
       "geometry": {
         "type": "Point",
@@ -185661,7 +185646,7 @@
       "properties": {
         "pmo_id": "31(dz)",
         "optionalid": "31(dz)",
-        "gid": "12378"
+        "gid": "12377"
       },
       "geometry": {
         "type": "Point",
@@ -185676,7 +185661,7 @@
       "properties": {
         "pmo_id": "32(dz)",
         "optionalid": "32(dz)",
-        "gid": "12379"
+        "gid": "12378"
       },
       "geometry": {
         "type": "Point",
@@ -185691,7 +185676,7 @@
       "properties": {
         "pmo_id": "21953",
         "optionalid": "26(dz)",
-        "gid": "12380"
+        "gid": "12379"
       },
       "geometry": {
         "type": "Point",
@@ -185706,7 +185691,7 @@
       "properties": {
         "pmo_id": "59(dz)",
         "optionalid": "59(dz)",
-        "gid": "12381"
+        "gid": "12380"
       },
       "geometry": {
         "type": "Point",
@@ -185721,7 +185706,7 @@
       "properties": {
         "pmo_id": "18(dz)",
         "optionalid": "18(dz)",
-        "gid": "12382"
+        "gid": "12381"
       },
       "geometry": {
         "type": "Point",
@@ -185736,7 +185721,7 @@
       "properties": {
         "pmo_id": "20(dz)",
         "optionalid": "20(dz)",
-        "gid": "12383"
+        "gid": "12382"
       },
       "geometry": {
         "type": "Point",
@@ -185751,7 +185736,7 @@
       "properties": {
         "pmo_id": "24(dz)",
         "optionalid": "24(dz)",
-        "gid": "12384"
+        "gid": "12383"
       },
       "geometry": {
         "type": "Point",
@@ -185766,7 +185751,7 @@
       "properties": {
         "pmo_id": "21946",
         "optionalid": "23(dz)",
-        "gid": "12385"
+        "gid": "12384"
       },
       "geometry": {
         "type": "Point",
@@ -185781,7 +185766,7 @@
       "properties": {
         "pmo_id": "28(dz)",
         "optionalid": "28(dz)",
-        "gid": "12386"
+        "gid": "12385"
       },
       "geometry": {
         "type": "Point",
@@ -185796,7 +185781,7 @@
       "properties": {
         "pmo_id": "29(dz)",
         "optionalid": "29(dz)",
-        "gid": "12387"
+        "gid": "12386"
       },
       "geometry": {
         "type": "Point",
@@ -185811,7 +185796,7 @@
       "properties": {
         "pmo_id": "25(dz)",
         "optionalid": "25(dz)",
-        "gid": "12388"
+        "gid": "12387"
       },
       "geometry": {
         "type": "Point",
@@ -185826,7 +185811,7 @@
       "properties": {
         "pmo_id": "21652",
         "optionalid": "70(dz)",
-        "gid": "12389"
+        "gid": "12388"
       },
       "geometry": {
         "type": "Point",
@@ -185841,7 +185826,7 @@
       "properties": {
         "pmo_id": "71(dz)",
         "optionalid": "71(dz)",
-        "gid": "12390"
+        "gid": "12389"
       },
       "geometry": {
         "type": "Point",
@@ -185856,7 +185841,7 @@
       "properties": {
         "pmo_id": "72(dz)",
         "optionalid": "72(dz)",
-        "gid": "12391"
+        "gid": "12390"
       },
       "geometry": {
         "type": "Point",
@@ -185871,7 +185856,7 @@
       "properties": {
         "pmo_id": "73(dz)",
         "optionalid": "73(dz)",
-        "gid": "12392"
+        "gid": "12391"
       },
       "geometry": {
         "type": "Point",
@@ -185886,7 +185871,7 @@
       "properties": {
         "pmo_id": "21645",
         "optionalid": "74(dz)",
-        "gid": "12393"
+        "gid": "12392"
       },
       "geometry": {
         "type": "Point",
@@ -185901,7 +185886,7 @@
       "properties": {
         "pmo_id": "75(dz)",
         "optionalid": "75(dz)",
-        "gid": "12394"
+        "gid": "12393"
       },
       "geometry": {
         "type": "Point",
@@ -185916,7 +185901,7 @@
       "properties": {
         "pmo_id": "22345",
         "optionalid": "76(dz)",
-        "gid": "12395"
+        "gid": "12394"
       },
       "geometry": {
         "type": "Point",
@@ -185931,7 +185916,7 @@
       "properties": {
         "pmo_id": "77(dz)",
         "optionalid": "77(dz)",
-        "gid": "12396"
+        "gid": "12395"
       },
       "geometry": {
         "type": "Point",
@@ -185946,7 +185931,7 @@
       "properties": {
         "pmo_id": "22448",
         "optionalid": "78(dz)",
-        "gid": "12397"
+        "gid": "12396"
       },
       "geometry": {
         "type": "Point",
@@ -185961,7 +185946,7 @@
       "properties": {
         "pmo_id": "69(dz)",
         "optionalid": "69(dz)",
-        "gid": "12398"
+        "gid": "12397"
       },
       "geometry": {
         "type": "Point",
@@ -185976,7 +185961,7 @@
       "properties": {
         "pmo_id": "22478",
         "optionalid": "68(dz)",
-        "gid": "12399"
+        "gid": "12398"
       },
       "geometry": {
         "type": "Point",
@@ -185991,7 +185976,7 @@
       "properties": {
         "pmo_id": "22398",
         "optionalid": "67(dz)",
-        "gid": "12400"
+        "gid": "12399"
       },
       "geometry": {
         "type": "Point",
@@ -186006,7 +185991,7 @@
       "properties": {
         "pmo_id": "22340",
         "optionalid": "66(dz)",
-        "gid": "12401"
+        "gid": "12400"
       },
       "geometry": {
         "type": "Point",
@@ -186021,7 +186006,7 @@
       "properties": {
         "pmo_id": "64(dz)",
         "optionalid": "64(dz)",
-        "gid": "12402"
+        "gid": "12401"
       },
       "geometry": {
         "type": "Point",
@@ -186036,7 +186021,7 @@
       "properties": {
         "pmo_id": "65(dz)",
         "optionalid": "65(dz)",
-        "gid": "12403"
+        "gid": "12402"
       },
       "geometry": {
         "type": "Point",
@@ -186051,7 +186036,7 @@
       "properties": {
         "pmo_id": "63(dz)",
         "optionalid": "63(dz)",
-        "gid": "12404"
+        "gid": "12403"
       },
       "geometry": {
         "type": "Point",
@@ -186066,7 +186051,7 @@
       "properties": {
         "pmo_id": "21889",
         "optionalid": "61(dz)",
-        "gid": "12405"
+        "gid": "12404"
       },
       "geometry": {
         "type": "Point",
@@ -186081,7 +186066,7 @@
       "properties": {
         "pmo_id": "21888",
         "optionalid": "61(dz)",
-        "gid": "12406"
+        "gid": "12405"
       },
       "geometry": {
         "type": "Point",
@@ -186096,7 +186081,7 @@
       "properties": {
         "pmo_id": "62(dz)",
         "optionalid": "62(dz)",
-        "gid": "12407"
+        "gid": "12406"
       },
       "geometry": {
         "type": "Point",
@@ -186111,7 +186096,7 @@
       "properties": {
         "pmo_id": "89(dz)",
         "optionalid": "89(dz)",
-        "gid": "12408"
+        "gid": "12407"
       },
       "geometry": {
         "type": "Point",
@@ -186126,7 +186111,7 @@
       "properties": {
         "pmo_id": "97(dz)",
         "optionalid": "97(dz)",
-        "gid": "12409"
+        "gid": "12408"
       },
       "geometry": {
         "type": "Point",
@@ -186141,7 +186126,7 @@
       "properties": {
         "pmo_id": "99(dz)",
         "optionalid": "99(dz)",
-        "gid": "12410"
+        "gid": "12409"
       },
       "geometry": {
         "type": "Point",
@@ -186156,7 +186141,7 @@
       "properties": {
         "pmo_id": "102(dz)",
         "optionalid": "102(dz)",
-        "gid": "12411"
+        "gid": "12410"
       },
       "geometry": {
         "type": "Point",
@@ -186171,7 +186156,7 @@
       "properties": {
         "pmo_id": "103(dz)",
         "optionalid": "103(dz)",
-        "gid": "12412"
+        "gid": "12411"
       },
       "geometry": {
         "type": "Point",
@@ -186186,7 +186171,7 @@
       "properties": {
         "pmo_id": "104(dz)",
         "optionalid": "104(dz)",
-        "gid": "12413"
+        "gid": "12412"
       },
       "geometry": {
         "type": "Point",
@@ -186201,7 +186186,7 @@
       "properties": {
         "pmo_id": "107(dz)",
         "optionalid": "107(dz)",
-        "gid": "12414"
+        "gid": "12413"
       },
       "geometry": {
         "type": "Point",
@@ -186216,7 +186201,7 @@
       "properties": {
         "pmo_id": "108(dz)",
         "optionalid": "108(dz)",
-        "gid": "12415"
+        "gid": "12414"
       },
       "geometry": {
         "type": "Point",
@@ -186231,7 +186216,7 @@
       "properties": {
         "pmo_id": "109(dz)",
         "optionalid": "109(dz)",
-        "gid": "12416"
+        "gid": "12415"
       },
       "geometry": {
         "type": "Point",
@@ -186246,7 +186231,7 @@
       "properties": {
         "pmo_id": "110(dz)",
         "optionalid": "110(dz)",
-        "gid": "12417"
+        "gid": "12416"
       },
       "geometry": {
         "type": "Point",
@@ -186261,7 +186246,7 @@
       "properties": {
         "pmo_id": "111(dz)",
         "optionalid": "111(dz)",
-        "gid": "12418"
+        "gid": "12417"
       },
       "geometry": {
         "type": "Point",
@@ -186276,7 +186261,7 @@
       "properties": {
         "pmo_id": "112(dz)",
         "optionalid": "112(dz)",
-        "gid": "12419"
+        "gid": "12418"
       },
       "geometry": {
         "type": "Point",
@@ -186291,7 +186276,7 @@
       "properties": {
         "pmo_id": "118(dz)",
         "optionalid": "118(dz)",
-        "gid": "12420"
+        "gid": "12419"
       },
       "geometry": {
         "type": "Point",
@@ -186306,7 +186291,7 @@
       "properties": {
         "pmo_id": "121(dz)",
         "optionalid": "121(dz)",
-        "gid": "12421"
+        "gid": "12420"
       },
       "geometry": {
         "type": "Point",
@@ -186321,7 +186306,7 @@
       "properties": {
         "pmo_id": "124(dz)",
         "optionalid": "124(dz)",
-        "gid": "12422"
+        "gid": "12421"
       },
       "geometry": {
         "type": "Point",
@@ -186336,7 +186321,7 @@
       "properties": {
         "pmo_id": "125(dz)",
         "optionalid": "125(dz)",
-        "gid": "12423"
+        "gid": "12422"
       },
       "geometry": {
         "type": "Point",
@@ -186351,7 +186336,7 @@
       "properties": {
         "pmo_id": "127(dz)",
         "optionalid": "127(dz)",
-        "gid": "12424"
+        "gid": "12423"
       },
       "geometry": {
         "type": "Point",
@@ -186366,7 +186351,7 @@
       "properties": {
         "pmo_id": "129(dz)",
         "optionalid": "129(dz)",
-        "gid": "12425"
+        "gid": "12424"
       },
       "geometry": {
         "type": "Point",
@@ -186381,7 +186366,7 @@
       "properties": {
         "pmo_id": "130(dz)",
         "optionalid": "130(dz)",
-        "gid": "12426"
+        "gid": "12425"
       },
       "geometry": {
         "type": "Point",
@@ -186396,7 +186381,7 @@
       "properties": {
         "pmo_id": "131(dz)",
         "optionalid": "131(dz)",
-        "gid": "12427"
+        "gid": "12426"
       },
       "geometry": {
         "type": "Point",
@@ -186411,7 +186396,7 @@
       "properties": {
         "pmo_id": "132(dz)",
         "optionalid": "132(dz)",
-        "gid": "12428"
+        "gid": "12427"
       },
       "geometry": {
         "type": "Point",
@@ -186426,7 +186411,7 @@
       "properties": {
         "pmo_id": "134(dz)",
         "optionalid": "134(dz)",
-        "gid": "12429"
+        "gid": "12428"
       },
       "geometry": {
         "type": "Point",
@@ -186441,7 +186426,7 @@
       "properties": {
         "pmo_id": "135(dz)",
         "optionalid": "135(dz)",
-        "gid": "12430"
+        "gid": "12429"
       },
       "geometry": {
         "type": "Point",
@@ -186456,7 +186441,7 @@
       "properties": {
         "pmo_id": "136(dz)",
         "optionalid": "136(dz)",
-        "gid": "12431"
+        "gid": "12430"
       },
       "geometry": {
         "type": "Point",
@@ -186471,7 +186456,7 @@
       "properties": {
         "pmo_id": "139(dz)",
         "optionalid": "139(dz)",
-        "gid": "12432"
+        "gid": "12431"
       },
       "geometry": {
         "type": "Point",
@@ -186486,7 +186471,7 @@
       "properties": {
         "pmo_id": "140(dz)",
         "optionalid": "140(dz)",
-        "gid": "12433"
+        "gid": "12432"
       },
       "geometry": {
         "type": "Point",
@@ -186501,7 +186486,7 @@
       "properties": {
         "pmo_id": "161(dz)",
         "optionalid": "161(dz)",
-        "gid": "12434"
+        "gid": "12433"
       },
       "geometry": {
         "type": "Point",
@@ -186516,7 +186501,7 @@
       "properties": {
         "pmo_id": "22405",
         "optionalid": "113(dz)",
-        "gid": "12435"
+        "gid": "12434"
       },
       "geometry": {
         "type": "Point",
@@ -186531,7 +186516,7 @@
       "properties": {
         "pmo_id": "22386",
         "optionalid": "155(dz)",
-        "gid": "12436"
+        "gid": "12435"
       },
       "geometry": {
         "type": "Point",
@@ -186546,7 +186531,7 @@
       "properties": {
         "pmo_id": "22314",
         "optionalid": "146(dz)",
-        "gid": "12437"
+        "gid": "12436"
       },
       "geometry": {
         "type": "Point",
@@ -186561,7 +186546,7 @@
       "properties": {
         "pmo_id": "147(dz)",
         "optionalid": "147(dz)",
-        "gid": "12438"
+        "gid": "12437"
       },
       "geometry": {
         "type": "Point",
@@ -186576,7 +186561,7 @@
       "properties": {
         "pmo_id": "148(dz)",
         "optionalid": "148(dz)",
-        "gid": "12439"
+        "gid": "12438"
       },
       "geometry": {
         "type": "Point",
@@ -186591,7 +186576,7 @@
       "properties": {
         "pmo_id": "149(dz)",
         "optionalid": "149(dz)",
-        "gid": "12440"
+        "gid": "12439"
       },
       "geometry": {
         "type": "Point",
@@ -186606,7 +186591,7 @@
       "properties": {
         "pmo_id": "150(dz)",
         "optionalid": "150(dz)",
-        "gid": "12441"
+        "gid": "12440"
       },
       "geometry": {
         "type": "Point",
@@ -186621,7 +186606,7 @@
       "properties": {
         "pmo_id": "22403",
         "optionalid": "151(dz)",
-        "gid": "12442"
+        "gid": "12441"
       },
       "geometry": {
         "type": "Point",
@@ -186636,7 +186621,7 @@
       "properties": {
         "pmo_id": "152(dz)",
         "optionalid": "152(dz)",
-        "gid": "12443"
+        "gid": "12442"
       },
       "geometry": {
         "type": "Point",
@@ -186651,7 +186636,7 @@
       "properties": {
         "pmo_id": "153(dz)",
         "optionalid": "153(dz)",
-        "gid": "12444"
+        "gid": "12443"
       },
       "geometry": {
         "type": "Point",
@@ -186666,7 +186651,7 @@
       "properties": {
         "pmo_id": "22017",
         "optionalid": "144(dz)",
-        "gid": "12445"
+        "gid": "12444"
       },
       "geometry": {
         "type": "Point",
@@ -186681,7 +186666,7 @@
       "properties": {
         "pmo_id": "154(dz)",
         "optionalid": "154(dz)",
-        "gid": "12446"
+        "gid": "12445"
       },
       "geometry": {
         "type": "Point",
@@ -186696,7 +186681,7 @@
       "properties": {
         "pmo_id": "138(dz)",
         "optionalid": "138(dz)",
-        "gid": "12447"
+        "gid": "12446"
       },
       "geometry": {
         "type": "Point",
@@ -186711,7 +186696,7 @@
       "properties": {
         "pmo_id": "22225",
         "optionalid": "156(dz)",
-        "gid": "12448"
+        "gid": "12447"
       },
       "geometry": {
         "type": "Point",
@@ -186726,7 +186711,7 @@
       "properties": {
         "pmo_id": "22336",
         "optionalid": "157(dz)",
-        "gid": "12449"
+        "gid": "12448"
       },
       "geometry": {
         "type": "Point",
@@ -186741,7 +186726,7 @@
       "properties": {
         "pmo_id": "158(dz)",
         "optionalid": "158(dz)",
-        "gid": "12450"
+        "gid": "12449"
       },
       "geometry": {
         "type": "Point",
@@ -186756,7 +186741,7 @@
       "properties": {
         "pmo_id": "159(dz)",
         "optionalid": "159(dz)",
-        "gid": "12451"
+        "gid": "12450"
       },
       "geometry": {
         "type": "Point",
@@ -186771,7 +186756,7 @@
       "properties": {
         "pmo_id": "166(dz)",
         "optionalid": "166(dz)",
-        "gid": "12452"
+        "gid": "12451"
       },
       "geometry": {
         "type": "Point",
@@ -186786,7 +186771,7 @@
       "properties": {
         "pmo_id": "164(dz)",
         "optionalid": "164(dz)",
-        "gid": "12453"
+        "gid": "12452"
       },
       "geometry": {
         "type": "Point",
@@ -186801,7 +186786,7 @@
       "properties": {
         "pmo_id": "165(dz)",
         "optionalid": "165(dz)",
-        "gid": "12454"
+        "gid": "12453"
       },
       "geometry": {
         "type": "Point",
@@ -186816,7 +186801,7 @@
       "properties": {
         "pmo_id": "21979",
         "optionalid": "142(dz)",
-        "gid": "12455"
+        "gid": "12454"
       },
       "geometry": {
         "type": "Point",
@@ -186831,7 +186816,7 @@
       "properties": {
         "pmo_id": "22473",
         "optionalid": "141(dz)",
-        "gid": "12456"
+        "gid": "12455"
       },
       "geometry": {
         "type": "Point",
@@ -186846,7 +186831,7 @@
       "properties": {
         "pmo_id": "22282",
         "optionalid": "143(dz)",
-        "gid": "12457"
+        "gid": "12456"
       },
       "geometry": {
         "type": "Point",
@@ -186861,7 +186846,7 @@
       "properties": {
         "pmo_id": "22444",
         "optionalid": "114(dz)",
-        "gid": "12458"
+        "gid": "12457"
       },
       "geometry": {
         "type": "Point",
@@ -186876,7 +186861,7 @@
       "properties": {
         "pmo_id": "22290",
         "optionalid": "22290",
-        "gid": "12459"
+        "gid": "12458"
       },
       "geometry": {
         "type": "Point",
@@ -186891,7 +186876,7 @@
       "properties": {
         "pmo_id": "22434",
         "optionalid": "22290",
-        "gid": "12460"
+        "gid": "12459"
       },
       "geometry": {
         "type": "Point",
@@ -186906,7 +186891,7 @@
       "properties": {
         "pmo_id": "22176",
         "optionalid": "160(dz)",
-        "gid": "12461"
+        "gid": "12460"
       },
       "geometry": {
         "type": "Point",
@@ -186921,7 +186906,7 @@
       "properties": {
         "pmo_id": "163(dz)",
         "optionalid": "163(dz)",
-        "gid": "12462"
+        "gid": "12461"
       },
       "geometry": {
         "type": "Point",
@@ -186936,7 +186921,7 @@
       "properties": {
         "pmo_id": "22447",
         "optionalid": "126(dz)",
-        "gid": "12463"
+        "gid": "12462"
       },
       "geometry": {
         "type": "Point",
@@ -186951,7 +186936,7 @@
       "properties": {
         "pmo_id": "22499",
         "optionalid": "128(dz)",
-        "gid": "12464"
+        "gid": "12463"
       },
       "geometry": {
         "type": "Point",
@@ -186966,7 +186951,7 @@
       "properties": {
         "pmo_id": "22367",
         "optionalid": "116(dz)",
-        "gid": "12465"
+        "gid": "12464"
       },
       "geometry": {
         "type": "Point",
@@ -186981,7 +186966,7 @@
       "properties": {
         "pmo_id": "117(dz)",
         "optionalid": "117(dz)",
-        "gid": "12466"
+        "gid": "12465"
       },
       "geometry": {
         "type": "Point",
@@ -186996,7 +186981,7 @@
       "properties": {
         "pmo_id": "119(dz)",
         "optionalid": "119(dz)",
-        "gid": "12467"
+        "gid": "12466"
       },
       "geometry": {
         "type": "Point",
@@ -187011,7 +186996,7 @@
       "properties": {
         "pmo_id": "120(dz)",
         "optionalid": "120(dz)",
-        "gid": "12468"
+        "gid": "12467"
       },
       "geometry": {
         "type": "Point",
@@ -187026,7 +187011,7 @@
       "properties": {
         "pmo_id": "22037",
         "optionalid": "122(dz)",
-        "gid": "12469"
+        "gid": "12468"
       },
       "geometry": {
         "type": "Point",
@@ -187041,7 +187026,7 @@
       "properties": {
         "pmo_id": "88(dz)",
         "optionalid": "88(dz)",
-        "gid": "12470"
+        "gid": "12469"
       },
       "geometry": {
         "type": "Point",
@@ -187056,7 +187041,7 @@
       "properties": {
         "pmo_id": "91(dz)",
         "optionalid": "91(dz)",
-        "gid": "12471"
+        "gid": "12470"
       },
       "geometry": {
         "type": "Point",
@@ -187071,7 +187056,7 @@
       "properties": {
         "pmo_id": "92(dz)",
         "optionalid": "92(dz)",
-        "gid": "12472"
+        "gid": "12471"
       },
       "geometry": {
         "type": "Point",
@@ -187086,7 +187071,7 @@
       "properties": {
         "pmo_id": "93(dz)",
         "optionalid": "93(dz)",
-        "gid": "12473"
+        "gid": "12472"
       },
       "geometry": {
         "type": "Point",
@@ -187101,7 +187086,7 @@
       "properties": {
         "pmo_id": "95(dz)",
         "optionalid": "95(dz)",
-        "gid": "12474"
+        "gid": "12473"
       },
       "geometry": {
         "type": "Point",
@@ -187116,7 +187101,7 @@
       "properties": {
         "pmo_id": "96(dz)",
         "optionalid": "96(dz)",
-        "gid": "12475"
+        "gid": "12474"
       },
       "geometry": {
         "type": "Point",
@@ -187131,7 +187116,7 @@
       "properties": {
         "pmo_id": "22307",
         "optionalid": "22307",
-        "gid": "12476"
+        "gid": "12475"
       },
       "geometry": {
         "type": "Point",
@@ -187146,7 +187131,7 @@
       "properties": {
         "pmo_id": "98(dz)",
         "optionalid": "98(dz)",
-        "gid": "12477"
+        "gid": "12476"
       },
       "geometry": {
         "type": "Point",
@@ -187161,7 +187146,7 @@
       "properties": {
         "pmo_id": "101(dz)",
         "optionalid": "101(dz)",
-        "gid": "12478"
+        "gid": "12477"
       },
       "geometry": {
         "type": "Point",
@@ -187176,7 +187161,7 @@
       "properties": {
         "pmo_id": "22459",
         "optionalid": "106(dz)",
-        "gid": "12479"
+        "gid": "12478"
       },
       "geometry": {
         "type": "Point",
@@ -187191,7 +187176,7 @@
       "properties": {
         "pmo_id": "22460",
         "optionalid": "137(dz)",
-        "gid": "12480"
+        "gid": "12479"
       },
       "geometry": {
         "type": "Point",
@@ -187206,7 +187191,7 @@
       "properties": {
         "pmo_id": "22500",
         "optionalid": "105(dz)",
-        "gid": "12481"
+        "gid": "12480"
       },
       "geometry": {
         "type": "Point",
@@ -187221,7 +187206,7 @@
       "properties": {
         "pmo_id": "22485",
         "optionalid": "145(dz)",
-        "gid": "12482"
+        "gid": "12481"
       },
       "geometry": {
         "type": "Point",
@@ -187236,7 +187221,7 @@
       "properties": {
         "pmo_id": "22495",
         "optionalid": "133(dz)",
-        "gid": "12483"
+        "gid": "12482"
       },
       "geometry": {
         "type": "Point",
@@ -187251,7 +187236,7 @@
       "properties": {
         "pmo_id": "21892",
         "optionalid": "115(dz)",
-        "gid": "12484"
+        "gid": "12483"
       },
       "geometry": {
         "type": "Point",
@@ -187266,7 +187251,7 @@
       "properties": {
         "pmo_id": "21853",
         "optionalid": "115(dz)",
-        "gid": "12485"
+        "gid": "12484"
       },
       "geometry": {
         "type": "Point",
@@ -187281,7 +187266,7 @@
       "properties": {
         "pmo_id": "21852",
         "optionalid": "115(dz)",
-        "gid": "12486"
+        "gid": "12485"
       },
       "geometry": {
         "type": "Point",
@@ -187296,7 +187281,7 @@
       "properties": {
         "pmo_id": "21842",
         "optionalid": "115(dz)",
-        "gid": "12487"
+        "gid": "12486"
       },
       "geometry": {
         "type": "Point",
@@ -187311,7 +187296,7 @@
       "properties": {
         "pmo_id": "6612",
         "optionalid": "",
-        "gid": "12488"
+        "gid": "12487"
       },
       "geometry": {
         "type": "Point",
@@ -187326,7 +187311,7 @@
       "properties": {
         "pmo_id": "5570",
         "optionalid": "",
-        "gid": "12489"
+        "gid": "12488"
       },
       "geometry": {
         "type": "Point",
@@ -187341,7 +187326,7 @@
       "properties": {
         "pmo_id": "9764",
         "optionalid": "",
-        "gid": "12490"
+        "gid": "12489"
       },
       "geometry": {
         "type": "Point",
@@ -187356,7 +187341,7 @@
       "properties": {
         "pmo_id": "22503",
         "optionalid": "10(bc)",
-        "gid": "12491"
+        "gid": "12490"
       },
       "geometry": {
         "type": "Point",
@@ -187371,7 +187356,7 @@
       "properties": {
         "pmo_id": "22454",
         "optionalid": "10(bc)",
-        "gid": "12492"
+        "gid": "12491"
       },
       "geometry": {
         "type": "Point",
@@ -187386,7 +187371,7 @@
       "properties": {
         "pmo_id": "3(bc)",
         "optionalid": "bc4",
-        "gid": "12493"
+        "gid": "12492"
       },
       "geometry": {
         "type": "Point",
@@ -187401,7 +187386,7 @@
       "properties": {
         "pmo_id": "4(bc)",
         "optionalid": "bc6",
-        "gid": "12494"
+        "gid": "12493"
       },
       "geometry": {
         "type": "Point",
@@ -187416,7 +187401,7 @@
       "properties": {
         "pmo_id": "5(bc)",
         "optionalid": "bc8",
-        "gid": "12495"
+        "gid": "12494"
       },
       "geometry": {
         "type": "Point",
@@ -187431,7 +187416,7 @@
       "properties": {
         "pmo_id": "6(bc)",
         "optionalid": "bc9",
-        "gid": "12496"
+        "gid": "12495"
       },
       "geometry": {
         "type": "Point",
@@ -187446,7 +187431,7 @@
       "properties": {
         "pmo_id": "8(bc)",
         "optionalid": "bc11-2",
-        "gid": "12497"
+        "gid": "12496"
       },
       "geometry": {
         "type": "Point",
@@ -187461,7 +187446,7 @@
       "properties": {
         "pmo_id": "9(bc)",
         "optionalid": "bc12",
-        "gid": "12498"
+        "gid": "12497"
       },
       "geometry": {
         "type": "Point",
@@ -187476,7 +187461,7 @@
       "properties": {
         "pmo_id": "11(bc)",
         "optionalid": "bc15",
-        "gid": "12499"
+        "gid": "12498"
       },
       "geometry": {
         "type": "Point",
@@ -187491,7 +187476,7 @@
       "properties": {
         "pmo_id": "12(bc)",
         "optionalid": "bc18",
-        "gid": "12500"
+        "gid": "12499"
       },
       "geometry": {
         "type": "Point",
@@ -187506,7 +187491,7 @@
       "properties": {
         "pmo_id": "13(bc)",
         "optionalid": "bc20",
-        "gid": "12501"
+        "gid": "12500"
       },
       "geometry": {
         "type": "Point",
@@ -187521,7 +187506,7 @@
       "properties": {
         "pmo_id": "14(bc)",
         "optionalid": "bc21",
-        "gid": "12502"
+        "gid": "12501"
       },
       "geometry": {
         "type": "Point",
@@ -187536,7 +187521,7 @@
       "properties": {
         "pmo_id": "15(bc)",
         "optionalid": "bc24",
-        "gid": "12503"
+        "gid": "12502"
       },
       "geometry": {
         "type": "Point",
@@ -187551,7 +187536,7 @@
       "properties": {
         "pmo_id": "16(bc)",
         "optionalid": "bc25",
-        "gid": "12504"
+        "gid": "12503"
       },
       "geometry": {
         "type": "Point",
@@ -187566,7 +187551,7 @@
       "properties": {
         "pmo_id": "17(bc)",
         "optionalid": "bc26",
-        "gid": "12505"
+        "gid": "12504"
       },
       "geometry": {
         "type": "Point",
@@ -187581,7 +187566,7 @@
       "properties": {
         "pmo_id": "18(bc)",
         "optionalid": "bc27",
-        "gid": "12506"
+        "gid": "12505"
       },
       "geometry": {
         "type": "Point",
@@ -187596,7 +187581,7 @@
       "properties": {
         "pmo_id": "19(bc)",
         "optionalid": "bc29",
-        "gid": "12507"
+        "gid": "12506"
       },
       "geometry": {
         "type": "Point",
@@ -187611,7 +187596,7 @@
       "properties": {
         "pmo_id": "20(bc)",
         "optionalid": "bc32",
-        "gid": "12508"
+        "gid": "12507"
       },
       "geometry": {
         "type": "Point",
@@ -187626,7 +187611,7 @@
       "properties": {
         "pmo_id": "24(bc)",
         "optionalid": "bc40",
-        "gid": "12509"
+        "gid": "12508"
       },
       "geometry": {
         "type": "Point",
@@ -187641,7 +187626,7 @@
       "properties": {
         "pmo_id": "25(bc)",
         "optionalid": "bc43",
-        "gid": "12510"
+        "gid": "12509"
       },
       "geometry": {
         "type": "Point",
@@ -187656,7 +187641,7 @@
       "properties": {
         "pmo_id": "26(bc)",
         "optionalid": "bc48",
-        "gid": "12511"
+        "gid": "12510"
       },
       "geometry": {
         "type": "Point",
@@ -187671,7 +187656,7 @@
       "properties": {
         "pmo_id": "27(bc)",
         "optionalid": "bc49",
-        "gid": "12512"
+        "gid": "12511"
       },
       "geometry": {
         "type": "Point",
@@ -187686,7 +187671,7 @@
       "properties": {
         "pmo_id": "28(bc)",
         "optionalid": "bc50",
-        "gid": "12513"
+        "gid": "12512"
       },
       "geometry": {
         "type": "Point",
@@ -187701,7 +187686,7 @@
       "properties": {
         "pmo_id": "30(bc)",
         "optionalid": "bc54",
-        "gid": "12514"
+        "gid": "12513"
       },
       "geometry": {
         "type": "Point",
@@ -187716,7 +187701,7 @@
       "properties": {
         "pmo_id": "31(bc)",
         "optionalid": "bc55",
-        "gid": "12515"
+        "gid": "12514"
       },
       "geometry": {
         "type": "Point",
@@ -187731,7 +187716,7 @@
       "properties": {
         "pmo_id": "32(bc)",
         "optionalid": "bc58",
-        "gid": "12516"
+        "gid": "12515"
       },
       "geometry": {
         "type": "Point",
@@ -187746,7 +187731,7 @@
       "properties": {
         "pmo_id": "34(bc)",
         "optionalid": "bc64",
-        "gid": "12517"
+        "gid": "12516"
       },
       "geometry": {
         "type": "Point",
@@ -187761,7 +187746,7 @@
       "properties": {
         "pmo_id": "35(bc)",
         "optionalid": "bc65",
-        "gid": "12518"
+        "gid": "12517"
       },
       "geometry": {
         "type": "Point",
@@ -187776,7 +187761,7 @@
       "properties": {
         "pmo_id": "37(bc)",
         "optionalid": "bc67",
-        "gid": "12519"
+        "gid": "12518"
       },
       "geometry": {
         "type": "Point",
@@ -187791,7 +187776,7 @@
       "properties": {
         "pmo_id": "39(bc)",
         "optionalid": "bc74",
-        "gid": "12520"
+        "gid": "12519"
       },
       "geometry": {
         "type": "Point",
@@ -187806,7 +187791,7 @@
       "properties": {
         "pmo_id": "40(bc)",
         "optionalid": "bc76",
-        "gid": "12521"
+        "gid": "12520"
       },
       "geometry": {
         "type": "Point",
@@ -187821,7 +187806,7 @@
       "properties": {
         "pmo_id": "41(bc)",
         "optionalid": "bc79",
-        "gid": "12522"
+        "gid": "12521"
       },
       "geometry": {
         "type": "Point",
@@ -187836,7 +187821,7 @@
       "properties": {
         "pmo_id": "43(bc)",
         "optionalid": "bc83",
-        "gid": "12523"
+        "gid": "12522"
       },
       "geometry": {
         "type": "Point",
@@ -187851,7 +187836,7 @@
       "properties": {
         "pmo_id": "45(bc)",
         "optionalid": "bc86",
-        "gid": "12524"
+        "gid": "12523"
       },
       "geometry": {
         "type": "Point",
@@ -187866,7 +187851,7 @@
       "properties": {
         "pmo_id": "46(bc)",
         "optionalid": "bc87",
-        "gid": "12525"
+        "gid": "12524"
       },
       "geometry": {
         "type": "Point",
@@ -187881,7 +187866,7 @@
       "properties": {
         "pmo_id": "47(bc)",
         "optionalid": "bc88",
-        "gid": "12526"
+        "gid": "12525"
       },
       "geometry": {
         "type": "Point",
@@ -187896,7 +187881,7 @@
       "properties": {
         "pmo_id": "49(bc)",
         "optionalid": "bc90",
-        "gid": "12527"
+        "gid": "12526"
       },
       "geometry": {
         "type": "Point",
@@ -187911,7 +187896,7 @@
       "properties": {
         "pmo_id": "51(bc)",
         "optionalid": "bc92",
-        "gid": "12528"
+        "gid": "12527"
       },
       "geometry": {
         "type": "Point",
@@ -187926,7 +187911,7 @@
       "properties": {
         "pmo_id": "52(bc)",
         "optionalid": "bc94",
-        "gid": "12529"
+        "gid": "12528"
       },
       "geometry": {
         "type": "Point",
@@ -187941,7 +187926,7 @@
       "properties": {
         "pmo_id": "53(bc)",
         "optionalid": "bc95-2",
-        "gid": "12530"
+        "gid": "12529"
       },
       "geometry": {
         "type": "Point",
@@ -187956,7 +187941,7 @@
       "properties": {
         "pmo_id": "54(bc)",
         "optionalid": "bc96",
-        "gid": "12531"
+        "gid": "12530"
       },
       "geometry": {
         "type": "Point",
@@ -187971,7 +187956,7 @@
       "properties": {
         "pmo_id": "56(bc)",
         "optionalid": "bc102",
-        "gid": "12532"
+        "gid": "12531"
       },
       "geometry": {
         "type": "Point",
@@ -187986,7 +187971,7 @@
       "properties": {
         "pmo_id": "57(bc)",
         "optionalid": "bc104",
-        "gid": "12533"
+        "gid": "12532"
       },
       "geometry": {
         "type": "Point",
@@ -188001,7 +187986,7 @@
       "properties": {
         "pmo_id": "21549",
         "optionalid": "22(bc)",
-        "gid": "12534"
+        "gid": "12533"
       },
       "geometry": {
         "type": "Point",
@@ -188016,7 +188001,7 @@
       "properties": {
         "pmo_id": "23(bc)",
         "optionalid": "bc39-2",
-        "gid": "12535"
+        "gid": "12534"
       },
       "geometry": {
         "type": "Point",
@@ -188031,7 +188016,7 @@
       "properties": {
         "pmo_id": "21521",
         "optionalid": "29(bc)",
-        "gid": "12536"
+        "gid": "12535"
       },
       "geometry": {
         "type": "Point",
@@ -188046,7 +188031,7 @@
       "properties": {
         "pmo_id": "21523",
         "optionalid": "29(bc)",
-        "gid": "12537"
+        "gid": "12536"
       },
       "geometry": {
         "type": "Point",
@@ -188061,7 +188046,7 @@
       "properties": {
         "pmo_id": "21520",
         "optionalid": "29(bc)",
-        "gid": "12538"
+        "gid": "12537"
       },
       "geometry": {
         "type": "Point",
@@ -188076,7 +188061,7 @@
       "properties": {
         "pmo_id": "21522",
         "optionalid": "29(bc)",
-        "gid": "12539"
+        "gid": "12538"
       },
       "geometry": {
         "type": "Point",
@@ -188091,7 +188076,7 @@
       "properties": {
         "pmo_id": "55(bc)",
         "optionalid": "bc101",
-        "gid": "12540"
+        "gid": "12539"
       },
       "geometry": {
         "type": "Point",
@@ -188106,7 +188091,7 @@
       "properties": {
         "pmo_id": "21421",
         "optionalid": "1(bc)",
-        "gid": "12541"
+        "gid": "12540"
       },
       "geometry": {
         "type": "Point",
@@ -188121,7 +188106,7 @@
       "properties": {
         "pmo_id": "21789",
         "optionalid": "1(bc)",
-        "gid": "12542"
+        "gid": "12541"
       },
       "geometry": {
         "type": "Point",
@@ -188136,7 +188121,7 @@
       "properties": {
         "pmo_id": "22030",
         "optionalid": "36(bc)",
-        "gid": "12543"
+        "gid": "12542"
       },
       "geometry": {
         "type": "Point",
@@ -188151,7 +188136,7 @@
       "properties": {
         "pmo_id": "21492",
         "optionalid": "33(bc)",
-        "gid": "12544"
+        "gid": "12543"
       },
       "geometry": {
         "type": "Point",
@@ -188166,7 +188151,7 @@
       "properties": {
         "pmo_id": "21799",
         "optionalid": "44(bc)",
-        "gid": "12545"
+        "gid": "12544"
       },
       "geometry": {
         "type": "Point",
@@ -188181,7 +188166,7 @@
       "properties": {
         "pmo_id": "22393",
         "optionalid": "42(bc)",
-        "gid": "12546"
+        "gid": "12545"
       },
       "geometry": {
         "type": "Point",
@@ -188196,7 +188181,7 @@
       "properties": {
         "pmo_id": "21436",
         "optionalid": "50(bc)",
-        "gid": "12547"
+        "gid": "12546"
       },
       "geometry": {
         "type": "Point",
@@ -188211,7 +188196,7 @@
       "properties": {
         "pmo_id": "21465",
         "optionalid": "59(bc)",
-        "gid": "12548"
+        "gid": "12547"
       },
       "geometry": {
         "type": "Point",
@@ -188226,7 +188211,7 @@
       "properties": {
         "pmo_id": "22031",
         "optionalid": "162(dz)",
-        "gid": "12549"
+        "gid": "12548"
       },
       "geometry": {
         "type": "Point",
@@ -188241,7 +188226,7 @@
       "properties": {
         "pmo_id": "168(dz)",
         "optionalid": "168(dz)",
-        "gid": "12550"
+        "gid": "12549"
       },
       "geometry": {
         "type": "Point",
@@ -188256,7 +188241,7 @@
       "properties": {
         "pmo_id": "167(dz)",
         "optionalid": "167(dz)",
-        "gid": "12551"
+        "gid": "12550"
       },
       "geometry": {
         "type": "Point",
@@ -188271,7 +188256,7 @@
       "properties": {
         "pmo_id": "22296",
         "optionalid": "81(dz)",
-        "gid": "12552"
+        "gid": "12551"
       },
       "geometry": {
         "type": "Point",
@@ -188286,7 +188271,7 @@
       "properties": {
         "pmo_id": "21916",
         "optionalid": "83(dz)",
-        "gid": "12553"
+        "gid": "12552"
       },
       "geometry": {
         "type": "Point",
@@ -188301,7 +188286,7 @@
       "properties": {
         "pmo_id": "22034",
         "optionalid": "123(dz)",
-        "gid": "12554"
+        "gid": "12553"
       },
       "geometry": {
         "type": "Point",
@@ -188316,7 +188301,7 @@
       "properties": {
         "pmo_id": "21848",
         "optionalid": "94(dz)",
-        "gid": "12555"
+        "gid": "12554"
       },
       "geometry": {
         "type": "Point",
@@ -188331,7 +188316,7 @@
       "properties": {
         "pmo_id": "21923",
         "optionalid": "87(dz)",
-        "gid": "12556"
+        "gid": "12555"
       },
       "geometry": {
         "type": "Point",
@@ -188346,7 +188331,7 @@
       "properties": {
         "pmo_id": "21865",
         "optionalid": "90(dz)",
-        "gid": "12557"
+        "gid": "12556"
       },
       "geometry": {
         "type": "Point",
@@ -188361,7 +188346,7 @@
       "properties": {
         "pmo_id": "21689",
         "optionalid": "100(dz)",
-        "gid": "12558"
+        "gid": "12557"
       },
       "geometry": {
         "type": "Point",
@@ -188376,7 +188361,7 @@
       "properties": {
         "pmo_id": "22481",
         "optionalid": "48(bc)",
-        "gid": "12559"
+        "gid": "12558"
       },
       "geometry": {
         "type": "Point",
@@ -188391,7 +188376,7 @@
       "properties": {
         "pmo_id": "22468",
         "optionalid": "21(bc)",
-        "gid": "12560"
+        "gid": "12559"
       },
       "geometry": {
         "type": "Point",
@@ -188406,7 +188391,7 @@
       "properties": {
         "pmo_id": "22470",
         "optionalid": "7(bc)",
-        "gid": "12561"
+        "gid": "12560"
       },
       "geometry": {
         "type": "Point",
@@ -188421,7 +188406,7 @@
       "properties": {
         "pmo_id": "22469",
         "optionalid": "2(bc)",
-        "gid": "12562"
+        "gid": "12561"
       },
       "geometry": {
         "type": "Point",
@@ -188436,7 +188421,7 @@
       "properties": {
         "pmo_id": "22461",
         "optionalid": "38(bc)",
-        "gid": "12563"
+        "gid": "12562"
       },
       "geometry": {
         "type": "Point",
@@ -188451,7 +188436,7 @@
       "properties": {
         "pmo_id": "22458",
         "optionalid": "58(bc)",
-        "gid": "12564"
+        "gid": "12563"
       },
       "geometry": {
         "type": "Point",
@@ -188466,7 +188451,7 @@
       "properties": {
         "pmo_id": "21854",
         "optionalid": "86(dz)",
-        "gid": "12565"
+        "gid": "12564"
       },
       "geometry": {
         "type": "Point",
@@ -188481,7 +188466,7 @@
       "properties": {
         "pmo_id": "60(bc)",
         "optionalid": "bc112",
-        "gid": "12566"
+        "gid": "12565"
       },
       "geometry": {
         "type": "Point",
@@ -188496,7 +188481,7 @@
       "properties": {
         "pmo_id": "61(bc)",
         "optionalid": "bc113",
-        "gid": "12567"
+        "gid": "12566"
       },
       "geometry": {
         "type": "Point",
@@ -188511,7 +188496,7 @@
       "properties": {
         "pmo_id": "62(bc)",
         "optionalid": "bc122",
-        "gid": "12568"
+        "gid": "12567"
       },
       "geometry": {
         "type": "Point",
@@ -188526,7 +188511,7 @@
       "properties": {
         "pmo_id": "63(bc)",
         "optionalid": "bc123",
-        "gid": "12569"
+        "gid": "12568"
       },
       "geometry": {
         "type": "Point",
@@ -188541,7 +188526,7 @@
       "properties": {
         "pmo_id": "64(bc)",
         "optionalid": "bc125",
-        "gid": "12570"
+        "gid": "12569"
       },
       "geometry": {
         "type": "Point",
@@ -188556,7 +188541,7 @@
       "properties": {
         "pmo_id": "65(bc)",
         "optionalid": "bc126",
-        "gid": "12571"
+        "gid": "12570"
       },
       "geometry": {
         "type": "Point",
@@ -188571,7 +188556,7 @@
       "properties": {
         "pmo_id": "66(bc)",
         "optionalid": "bc129",
-        "gid": "12572"
+        "gid": "12571"
       },
       "geometry": {
         "type": "Point",
@@ -188586,7 +188571,7 @@
       "properties": {
         "pmo_id": "67(bc)",
         "optionalid": "bc131",
-        "gid": "12573"
+        "gid": "12572"
       },
       "geometry": {
         "type": "Point",
@@ -188601,7 +188586,7 @@
       "properties": {
         "pmo_id": "68(bc)",
         "optionalid": "bc132",
-        "gid": "12574"
+        "gid": "12573"
       },
       "geometry": {
         "type": "Point",
@@ -188616,7 +188601,7 @@
       "properties": {
         "pmo_id": "69(bc)",
         "optionalid": "bc134",
-        "gid": "12575"
+        "gid": "12574"
       },
       "geometry": {
         "type": "Point",
@@ -188631,7 +188616,7 @@
       "properties": {
         "pmo_id": "73(bc)",
         "optionalid": "bc139",
-        "gid": "12576"
+        "gid": "12575"
       },
       "geometry": {
         "type": "Point",
@@ -188646,7 +188631,7 @@
       "properties": {
         "pmo_id": "76(bc)",
         "optionalid": "bc143",
-        "gid": "12577"
+        "gid": "12576"
       },
       "geometry": {
         "type": "Point",
@@ -188661,7 +188646,7 @@
       "properties": {
         "pmo_id": "81(bc)",
         "optionalid": "bc153",
-        "gid": "12578"
+        "gid": "12577"
       },
       "geometry": {
         "type": "Point",
@@ -188676,7 +188661,7 @@
       "properties": {
         "pmo_id": "82(bc)",
         "optionalid": "bc157",
-        "gid": "12579"
+        "gid": "12578"
       },
       "geometry": {
         "type": "Point",
@@ -188691,7 +188676,7 @@
       "properties": {
         "pmo_id": "83(bc)",
         "optionalid": "bc158",
-        "gid": "12580"
+        "gid": "12579"
       },
       "geometry": {
         "type": "Point",
@@ -188706,7 +188691,7 @@
       "properties": {
         "pmo_id": "84(bc)",
         "optionalid": "bc159",
-        "gid": "12581"
+        "gid": "12580"
       },
       "geometry": {
         "type": "Point",
@@ -188721,7 +188706,7 @@
       "properties": {
         "pmo_id": "86(bc)",
         "optionalid": "bc162",
-        "gid": "12582"
+        "gid": "12581"
       },
       "geometry": {
         "type": "Point",
@@ -188736,7 +188721,7 @@
       "properties": {
         "pmo_id": "87(bc)",
         "optionalid": "bc163",
-        "gid": "12583"
+        "gid": "12582"
       },
       "geometry": {
         "type": "Point",
@@ -188751,7 +188736,7 @@
       "properties": {
         "pmo_id": "90(bc)",
         "optionalid": "bc174",
-        "gid": "12584"
+        "gid": "12583"
       },
       "geometry": {
         "type": "Point",
@@ -188766,7 +188751,7 @@
       "properties": {
         "pmo_id": "91(bc)",
         "optionalid": "bc179",
-        "gid": "12585"
+        "gid": "12584"
       },
       "geometry": {
         "type": "Point",
@@ -188781,7 +188766,7 @@
       "properties": {
         "pmo_id": "92(bc)",
         "optionalid": "bc181",
-        "gid": "12586"
+        "gid": "12585"
       },
       "geometry": {
         "type": "Point",
@@ -188796,7 +188781,7 @@
       "properties": {
         "pmo_id": "93(bc)",
         "optionalid": "bc185",
-        "gid": "12587"
+        "gid": "12586"
       },
       "geometry": {
         "type": "Point",
@@ -188811,7 +188796,7 @@
       "properties": {
         "pmo_id": "94(bc)",
         "optionalid": "bc186",
-        "gid": "12588"
+        "gid": "12587"
       },
       "geometry": {
         "type": "Point",
@@ -188826,7 +188811,7 @@
       "properties": {
         "pmo_id": "95(bc)",
         "optionalid": "bc187",
-        "gid": "12589"
+        "gid": "12588"
       },
       "geometry": {
         "type": "Point",
@@ -188841,7 +188826,7 @@
       "properties": {
         "pmo_id": "96(bc)",
         "optionalid": "bc189",
-        "gid": "12590"
+        "gid": "12589"
       },
       "geometry": {
         "type": "Point",
@@ -188856,7 +188841,7 @@
       "properties": {
         "pmo_id": "97(bc)",
         "optionalid": "bc191",
-        "gid": "12591"
+        "gid": "12590"
       },
       "geometry": {
         "type": "Point",
@@ -188871,7 +188856,7 @@
       "properties": {
         "pmo_id": "98(bc)",
         "optionalid": "bc193",
-        "gid": "12592"
+        "gid": "12591"
       },
       "geometry": {
         "type": "Point",
@@ -188886,7 +188871,7 @@
       "properties": {
         "pmo_id": "99(bc)",
         "optionalid": "bc197",
-        "gid": "12593"
+        "gid": "12592"
       },
       "geometry": {
         "type": "Point",
@@ -188901,7 +188886,7 @@
       "properties": {
         "pmo_id": "100(bc)",
         "optionalid": "bc201",
-        "gid": "12594"
+        "gid": "12593"
       },
       "geometry": {
         "type": "Point",
@@ -188916,7 +188901,7 @@
       "properties": {
         "pmo_id": "101(bc)",
         "optionalid": "bc203",
-        "gid": "12595"
+        "gid": "12594"
       },
       "geometry": {
         "type": "Point",
@@ -188931,7 +188916,7 @@
       "properties": {
         "pmo_id": "102(bc)",
         "optionalid": "bc204",
-        "gid": "12596"
+        "gid": "12595"
       },
       "geometry": {
         "type": "Point",
@@ -188946,7 +188931,7 @@
       "properties": {
         "pmo_id": "103(bc)",
         "optionalid": "bc210",
-        "gid": "12597"
+        "gid": "12596"
       },
       "geometry": {
         "type": "Point",
@@ -188961,7 +188946,7 @@
       "properties": {
         "pmo_id": "104(bc)",
         "optionalid": "bc211-2",
-        "gid": "12598"
+        "gid": "12597"
       },
       "geometry": {
         "type": "Point",
@@ -188976,7 +188961,7 @@
       "properties": {
         "pmo_id": "105(bc)",
         "optionalid": "bc212",
-        "gid": "12599"
+        "gid": "12598"
       },
       "geometry": {
         "type": "Point",
@@ -188991,7 +188976,7 @@
       "properties": {
         "pmo_id": "106(bc)",
         "optionalid": "bc213",
-        "gid": "12600"
+        "gid": "12599"
       },
       "geometry": {
         "type": "Point",
@@ -189006,7 +188991,7 @@
       "properties": {
         "pmo_id": "107(bc)",
         "optionalid": "bc215",
-        "gid": "12601"
+        "gid": "12600"
       },
       "geometry": {
         "type": "Point",
@@ -189021,7 +189006,7 @@
       "properties": {
         "pmo_id": "18378",
         "optionalid": "",
-        "gid": "12602"
+        "gid": "12601"
       },
       "geometry": {
         "type": "Point",
@@ -189036,7 +189021,7 @@
       "properties": {
         "pmo_id": "13605",
         "optionalid": "",
-        "gid": "12603"
+        "gid": "12602"
       },
       "geometry": {
         "type": "Point",
@@ -189051,7 +189036,7 @@
       "properties": {
         "pmo_id": "444",
         "optionalid": "",
-        "gid": "12604"
+        "gid": "12603"
       },
       "geometry": {
         "type": "Point",
@@ -189066,7 +189051,7 @@
       "properties": {
         "pmo_id": "20217",
         "optionalid": "",
-        "gid": "12605"
+        "gid": "12604"
       },
       "geometry": {
         "type": "Point",
@@ -189081,7 +189066,7 @@
       "properties": {
         "pmo_id": "21055",
         "optionalid": "",
-        "gid": "12606"
+        "gid": "12605"
       },
       "geometry": {
         "type": "Point",
@@ -189096,7 +189081,7 @@
       "properties": {
         "pmo_id": "20442",
         "optionalid": "",
-        "gid": "12607"
+        "gid": "12606"
       },
       "geometry": {
         "type": "Point",
@@ -189111,7 +189096,7 @@
       "properties": {
         "pmo_id": "22158",
         "optionalid": "",
-        "gid": "12608"
+        "gid": "12607"
       },
       "geometry": {
         "type": "Point",
@@ -189126,7 +189111,7 @@
       "properties": {
         "pmo_id": "22155",
         "optionalid": "",
-        "gid": "12609"
+        "gid": "12608"
       },
       "geometry": {
         "type": "Point",
@@ -189141,7 +189126,7 @@
       "properties": {
         "pmo_id": "19929",
         "optionalid": "",
-        "gid": "12610"
+        "gid": "12609"
       },
       "geometry": {
         "type": "Point",
@@ -189156,7 +189141,7 @@
       "properties": {
         "pmo_id": "20508",
         "optionalid": "",
-        "gid": "12611"
+        "gid": "12610"
       },
       "geometry": {
         "type": "Point",
@@ -189171,7 +189156,7 @@
       "properties": {
         "pmo_id": "22133",
         "optionalid": "",
-        "gid": "12612"
+        "gid": "12611"
       },
       "geometry": {
         "type": "Point",
@@ -189186,7 +189171,7 @@
       "properties": {
         "pmo_id": "21096",
         "optionalid": "",
-        "gid": "12613"
+        "gid": "12612"
       },
       "geometry": {
         "type": "Point",
@@ -189201,7 +189186,7 @@
       "properties": {
         "pmo_id": "21097",
         "optionalid": "",
-        "gid": "12614"
+        "gid": "12613"
       },
       "geometry": {
         "type": "Point",
@@ -189216,7 +189201,7 @@
       "properties": {
         "pmo_id": "21164",
         "optionalid": "",
-        "gid": "12615"
+        "gid": "12614"
       },
       "geometry": {
         "type": "Point",
@@ -189231,7 +189216,7 @@
       "properties": {
         "pmo_id": "21459",
         "optionalid": "",
-        "gid": "12616"
+        "gid": "12615"
       },
       "geometry": {
         "type": "Point",
@@ -189246,7 +189231,7 @@
       "properties": {
         "pmo_id": "20430",
         "optionalid": "",
-        "gid": "12617"
+        "gid": "12616"
       },
       "geometry": {
         "type": "Point",
@@ -189261,7 +189246,7 @@
       "properties": {
         "pmo_id": "20589",
         "optionalid": "",
-        "gid": "12618"
+        "gid": "12617"
       },
       "geometry": {
         "type": "Point",
@@ -189276,7 +189261,7 @@
       "properties": {
         "pmo_id": "20582",
         "optionalid": "",
-        "gid": "12619"
+        "gid": "12618"
       },
       "geometry": {
         "type": "Point",
@@ -189291,7 +189276,7 @@
       "properties": {
         "pmo_id": "21079",
         "optionalid": "",
-        "gid": "12620"
+        "gid": "12619"
       },
       "geometry": {
         "type": "Point",
@@ -189306,7 +189291,7 @@
       "properties": {
         "pmo_id": "21075",
         "optionalid": "",
-        "gid": "12621"
+        "gid": "12620"
       },
       "geometry": {
         "type": "Point",
@@ -189321,7 +189306,7 @@
       "properties": {
         "pmo_id": "20578",
         "optionalid": "",
-        "gid": "12622"
+        "gid": "12621"
       },
       "geometry": {
         "type": "Point",
@@ -189336,7 +189321,7 @@
       "properties": {
         "pmo_id": "21408",
         "optionalid": "",
-        "gid": "12623"
+        "gid": "12622"
       },
       "geometry": {
         "type": "Point",
@@ -189351,7 +189336,7 @@
       "properties": {
         "pmo_id": "21429",
         "optionalid": "",
-        "gid": "12624"
+        "gid": "12623"
       },
       "geometry": {
         "type": "Point",
@@ -189366,7 +189351,7 @@
       "properties": {
         "pmo_id": "20894",
         "optionalid": "",
-        "gid": "12625"
+        "gid": "12624"
       },
       "geometry": {
         "type": "Point",
@@ -189381,7 +189366,7 @@
       "properties": {
         "pmo_id": "21702",
         "optionalid": "",
-        "gid": "12626"
+        "gid": "12625"
       },
       "geometry": {
         "type": "Point",
@@ -189396,7 +189381,7 @@
       "properties": {
         "pmo_id": "21185",
         "optionalid": "",
-        "gid": "12627"
+        "gid": "12626"
       },
       "geometry": {
         "type": "Point",
@@ -189411,7 +189396,7 @@
       "properties": {
         "pmo_id": "20090",
         "optionalid": "",
-        "gid": "12628"
+        "gid": "12627"
       },
       "geometry": {
         "type": "Point",
@@ -189426,7 +189411,7 @@
       "properties": {
         "pmo_id": "21113",
         "optionalid": "",
-        "gid": "12629"
+        "gid": "12628"
       },
       "geometry": {
         "type": "Point",
@@ -189441,7 +189426,7 @@
       "properties": {
         "pmo_id": "21112",
         "optionalid": "",
-        "gid": "12630"
+        "gid": "12629"
       },
       "geometry": {
         "type": "Point",
@@ -189456,7 +189441,7 @@
       "properties": {
         "pmo_id": "21010",
         "optionalid": "",
-        "gid": "12631"
+        "gid": "12630"
       },
       "geometry": {
         "type": "Point",
@@ -189471,7 +189456,7 @@
       "properties": {
         "pmo_id": "20980",
         "optionalid": "",
-        "gid": "12632"
+        "gid": "12631"
       },
       "geometry": {
         "type": "Point",
@@ -189486,7 +189471,7 @@
       "properties": {
         "pmo_id": "20981",
         "optionalid": "",
-        "gid": "12633"
+        "gid": "12632"
       },
       "geometry": {
         "type": "Point",
@@ -189501,7 +189486,7 @@
       "properties": {
         "pmo_id": "22294",
         "optionalid": "",
-        "gid": "12634"
+        "gid": "12633"
       },
       "geometry": {
         "type": "Point",
@@ -189516,7 +189501,7 @@
       "properties": {
         "pmo_id": "19392",
         "optionalid": "",
-        "gid": "12635"
+        "gid": "12634"
       },
       "geometry": {
         "type": "Point",
@@ -189531,7 +189516,7 @@
       "properties": {
         "pmo_id": "21425",
         "optionalid": "",
-        "gid": "12636"
+        "gid": "12635"
       },
       "geometry": {
         "type": "Point",
@@ -189546,7 +189531,7 @@
       "properties": {
         "pmo_id": "22241",
         "optionalid": "",
-        "gid": "12637"
+        "gid": "12636"
       },
       "geometry": {
         "type": "Point",
@@ -189561,7 +189546,7 @@
       "properties": {
         "pmo_id": "20292",
         "optionalid": "",
-        "gid": "12638"
+        "gid": "12637"
       },
       "geometry": {
         "type": "Point",
@@ -189576,7 +189561,7 @@
       "properties": {
         "pmo_id": "19890",
         "optionalid": "",
-        "gid": "12639"
+        "gid": "12638"
       },
       "geometry": {
         "type": "Point",
@@ -189591,7 +189576,7 @@
       "properties": {
         "pmo_id": "21387",
         "optionalid": "",
-        "gid": "12640"
+        "gid": "12639"
       },
       "geometry": {
         "type": "Point",
@@ -189606,7 +189591,7 @@
       "properties": {
         "pmo_id": "21388",
         "optionalid": "",
-        "gid": "12641"
+        "gid": "12640"
       },
       "geometry": {
         "type": "Point",
@@ -189621,7 +189606,7 @@
       "properties": {
         "pmo_id": "21592",
         "optionalid": "",
-        "gid": "12642"
+        "gid": "12641"
       },
       "geometry": {
         "type": "Point",
@@ -189636,7 +189621,7 @@
       "properties": {
         "pmo_id": "21713",
         "optionalid": "77(bc)",
-        "gid": "12643"
+        "gid": "12642"
       },
       "geometry": {
         "type": "Point",
@@ -189651,7 +189636,7 @@
       "properties": {
         "pmo_id": "21649",
         "optionalid": "85(bc)",
-        "gid": "12644"
+        "gid": "12643"
       },
       "geometry": {
         "type": "Point",
@@ -189666,7 +189651,7 @@
       "properties": {
         "pmo_id": "22053",
         "optionalid": "74(bc)",
-        "gid": "12645"
+        "gid": "12644"
       },
       "geometry": {
         "type": "Point",
@@ -189681,7 +189666,7 @@
       "properties": {
         "pmo_id": "22138",
         "optionalid": "70(bc)",
-        "gid": "12646"
+        "gid": "12645"
       },
       "geometry": {
         "type": "Point",
@@ -189696,7 +189681,7 @@
       "properties": {
         "pmo_id": "22145",
         "optionalid": "70(bc)",
-        "gid": "12647"
+        "gid": "12646"
       },
       "geometry": {
         "type": "Point",
@@ -189711,7 +189696,7 @@
       "properties": {
         "pmo_id": "22457",
         "optionalid": "75(bc)",
-        "gid": "12648"
+        "gid": "12647"
       },
       "geometry": {
         "type": "Point",
@@ -189726,7 +189711,7 @@
       "properties": {
         "pmo_id": "22480",
         "optionalid": "80(bc)",
-        "gid": "12649"
+        "gid": "12648"
       },
       "geometry": {
         "type": "Point",
@@ -189741,7 +189726,7 @@
       "properties": {
         "pmo_id": "22491",
         "optionalid": "78(bc)",
-        "gid": "12650"
+        "gid": "12649"
       },
       "geometry": {
         "type": "Point",
@@ -189756,7 +189741,7 @@
       "properties": {
         "pmo_id": "22456",
         "optionalid": "72(bc)",
-        "gid": "12651"
+        "gid": "12650"
       },
       "geometry": {
         "type": "Point",
@@ -189771,7 +189756,7 @@
       "properties": {
         "pmo_id": "22477",
         "optionalid": "88(bc)",
-        "gid": "12652"
+        "gid": "12651"
       },
       "geometry": {
         "type": "Point",
@@ -189786,7 +189771,7 @@
       "properties": {
         "pmo_id": "22463",
         "optionalid": "89(bc)",
-        "gid": "12653"
+        "gid": "12652"
       },
       "geometry": {
         "type": "Point",
@@ -189801,7 +189786,7 @@
       "properties": {
         "pmo_id": "22486",
         "optionalid": "79(bc)",
-        "gid": "12654"
+        "gid": "12653"
       },
       "geometry": {
         "type": "Point",
@@ -189816,7 +189801,7 @@
       "properties": {
         "pmo_id": "22492",
         "optionalid": "71(bc)",
-        "gid": "12655"
+        "gid": "12654"
       },
       "geometry": {
         "type": "Point",
@@ -189831,7 +189816,7 @@
       "properties": {
         "pmo_id": "21673",
         "optionalid": "",
-        "gid": "12656"
+        "gid": "12655"
       },
       "geometry": {
         "type": "Point",
@@ -189846,7 +189831,7 @@
       "properties": {
         "pmo_id": "22245",
         "optionalid": "",
-        "gid": "12657"
+        "gid": "12656"
       },
       "geometry": {
         "type": "Point",
@@ -189861,7 +189846,7 @@
       "properties": {
         "pmo_id": "19939",
         "optionalid": "",
-        "gid": "12658"
+        "gid": "12657"
       },
       "geometry": {
         "type": "Point",
@@ -189876,7 +189861,7 @@
       "properties": {
         "pmo_id": "21921",
         "optionalid": "",
-        "gid": "12659"
+        "gid": "12658"
       },
       "geometry": {
         "type": "Point",
@@ -189891,7 +189876,7 @@
       "properties": {
         "pmo_id": "21154",
         "optionalid": "",
-        "gid": "12660"
+        "gid": "12659"
       },
       "geometry": {
         "type": "Point",
@@ -189906,7 +189891,7 @@
       "properties": {
         "pmo_id": "22056",
         "optionalid": "",
-        "gid": "12661"
+        "gid": "12660"
       },
       "geometry": {
         "type": "Point",
@@ -189921,7 +189906,7 @@
       "properties": {
         "pmo_id": "20271",
         "optionalid": "",
-        "gid": "12662"
+        "gid": "12661"
       },
       "geometry": {
         "type": "Point",
@@ -189936,7 +189921,7 @@
       "properties": {
         "pmo_id": "20272",
         "optionalid": "",
-        "gid": "12663"
+        "gid": "12662"
       },
       "geometry": {
         "type": "Point",
@@ -189951,7 +189936,7 @@
       "properties": {
         "pmo_id": "21142",
         "optionalid": "",
-        "gid": "12664"
+        "gid": "12663"
       },
       "geometry": {
         "type": "Point",
@@ -189966,7 +189951,7 @@
       "properties": {
         "pmo_id": "21119",
         "optionalid": "",
-        "gid": "12665"
+        "gid": "12664"
       },
       "geometry": {
         "type": "Point",
@@ -189981,7 +189966,7 @@
       "properties": {
         "pmo_id": "19919",
         "optionalid": "",
-        "gid": "12666"
+        "gid": "12665"
       },
       "geometry": {
         "type": "Point",
@@ -189996,7 +189981,7 @@
       "properties": {
         "pmo_id": "21666",
         "optionalid": "",
-        "gid": "12667"
+        "gid": "12666"
       },
       "geometry": {
         "type": "Point",
@@ -190011,7 +189996,7 @@
       "properties": {
         "pmo_id": "19957",
         "optionalid": "",
-        "gid": "12668"
+        "gid": "12667"
       },
       "geometry": {
         "type": "Point",
@@ -190026,7 +190011,7 @@
       "properties": {
         "pmo_id": "21418",
         "optionalid": "",
-        "gid": "12669"
+        "gid": "12668"
       },
       "geometry": {
         "type": "Point",
@@ -190041,7 +190026,7 @@
       "properties": {
         "pmo_id": "21417",
         "optionalid": "",
-        "gid": "12670"
+        "gid": "12669"
       },
       "geometry": {
         "type": "Point",
@@ -190056,7 +190041,7 @@
       "properties": {
         "pmo_id": "20934",
         "optionalid": "",
-        "gid": "12671"
+        "gid": "12670"
       },
       "geometry": {
         "type": "Point",
@@ -190071,7 +190056,7 @@
       "properties": {
         "pmo_id": "19764",
         "optionalid": "",
-        "gid": "12672"
+        "gid": "12671"
       },
       "geometry": {
         "type": "Point",
@@ -190086,7 +190071,7 @@
       "properties": {
         "pmo_id": "21642",
         "optionalid": "",
-        "gid": "12673"
+        "gid": "12672"
       },
       "geometry": {
         "type": "Point",
@@ -190101,7 +190086,7 @@
       "properties": {
         "pmo_id": "21177",
         "optionalid": "",
-        "gid": "12674"
+        "gid": "12673"
       },
       "geometry": {
         "type": "Point",
@@ -190116,7 +190101,7 @@
       "properties": {
         "pmo_id": "20108",
         "optionalid": "",
-        "gid": "12675"
+        "gid": "12674"
       },
       "geometry": {
         "type": "Point",
@@ -190131,7 +190116,7 @@
       "properties": {
         "pmo_id": "20482",
         "optionalid": "",
-        "gid": "12676"
+        "gid": "12675"
       },
       "geometry": {
         "type": "Point",
@@ -190146,7 +190131,7 @@
       "properties": {
         "pmo_id": "22071",
         "optionalid": "",
-        "gid": "12677"
+        "gid": "12676"
       },
       "geometry": {
         "type": "Point",
@@ -190161,7 +190146,7 @@
       "properties": {
         "pmo_id": "22055",
         "optionalid": "",
-        "gid": "12678"
+        "gid": "12677"
       },
       "geometry": {
         "type": "Point",
@@ -190176,7 +190161,7 @@
       "properties": {
         "pmo_id": "22054",
         "optionalid": "",
-        "gid": "12679"
+        "gid": "12678"
       },
       "geometry": {
         "type": "Point",
@@ -190191,7 +190176,7 @@
       "properties": {
         "pmo_id": "22182",
         "optionalid": "",
-        "gid": "12680"
+        "gid": "12679"
       },
       "geometry": {
         "type": "Point",
@@ -190206,7 +190191,7 @@
       "properties": {
         "pmo_id": "21052",
         "optionalid": "",
-        "gid": "12681"
+        "gid": "12680"
       },
       "geometry": {
         "type": "Point",
@@ -190221,7 +190206,7 @@
       "properties": {
         "pmo_id": "20604",
         "optionalid": "",
-        "gid": "12682"
+        "gid": "12681"
       },
       "geometry": {
         "type": "Point",
@@ -190236,7 +190221,7 @@
       "properties": {
         "pmo_id": "21084",
         "optionalid": "",
-        "gid": "12683"
+        "gid": "12682"
       },
       "geometry": {
         "type": "Point",
@@ -190251,7 +190236,7 @@
       "properties": {
         "pmo_id": "21120",
         "optionalid": "",
-        "gid": "12684"
+        "gid": "12683"
       },
       "geometry": {
         "type": "Point",
@@ -190266,7 +190251,7 @@
       "properties": {
         "pmo_id": "21588",
         "optionalid": "",
-        "gid": "12685"
+        "gid": "12684"
       },
       "geometry": {
         "type": "Point",
@@ -190281,7 +190266,7 @@
       "properties": {
         "pmo_id": "21307",
         "optionalid": "",
-        "gid": "12686"
+        "gid": "12685"
       },
       "geometry": {
         "type": "Point",
@@ -190296,7 +190281,7 @@
       "properties": {
         "pmo_id": "21396",
         "optionalid": "",
-        "gid": "12687"
+        "gid": "12686"
       },
       "geometry": {
         "type": "Point",
@@ -190311,7 +190296,7 @@
       "properties": {
         "pmo_id": "21690",
         "optionalid": "",
-        "gid": "12688"
+        "gid": "12687"
       },
       "geometry": {
         "type": "Point",
@@ -190326,7 +190311,7 @@
       "properties": {
         "pmo_id": "19739",
         "optionalid": "",
-        "gid": "12689"
+        "gid": "12688"
       },
       "geometry": {
         "type": "Point",
@@ -190341,7 +190326,7 @@
       "properties": {
         "pmo_id": "19740",
         "optionalid": "",
-        "gid": "12690"
+        "gid": "12689"
       },
       "geometry": {
         "type": "Point",
@@ -190356,7 +190341,7 @@
       "properties": {
         "pmo_id": "21780",
         "optionalid": "",
-        "gid": "12691"
+        "gid": "12690"
       },
       "geometry": {
         "type": "Point",
@@ -190371,7 +190356,7 @@
       "properties": {
         "pmo_id": "21779",
         "optionalid": "",
-        "gid": "12692"
+        "gid": "12691"
       },
       "geometry": {
         "type": "Point",
@@ -190386,7 +190371,7 @@
       "properties": {
         "pmo_id": "22223",
         "optionalid": "",
-        "gid": "12693"
+        "gid": "12692"
       },
       "geometry": {
         "type": "Point",
@@ -190401,7 +190386,7 @@
       "properties": {
         "pmo_id": "21952",
         "optionalid": "",
-        "gid": "12694"
+        "gid": "12693"
       },
       "geometry": {
         "type": "Point",
@@ -190416,7 +190401,7 @@
       "properties": {
         "pmo_id": "21951",
         "optionalid": "",
-        "gid": "12695"
+        "gid": "12694"
       },
       "geometry": {
         "type": "Point",
@@ -190431,7 +190416,7 @@
       "properties": {
         "pmo_id": "22077",
         "optionalid": "",
-        "gid": "12696"
+        "gid": "12695"
       },
       "geometry": {
         "type": "Point",
@@ -190446,7 +190431,7 @@
       "properties": {
         "pmo_id": "22379",
         "optionalid": "169(dz)",
-        "gid": "12697"
+        "gid": "12696"
       },
       "geometry": {
         "type": "Point",
@@ -190461,7 +190446,7 @@
       "properties": {
         "pmo_id": "170(dz)",
         "optionalid": "170(dz)",
-        "gid": "12698"
+        "gid": "12697"
       },
       "geometry": {
         "type": "Point",
@@ -190476,7 +190461,7 @@
       "properties": {
         "pmo_id": "22369",
         "optionalid": "171(dz)",
-        "gid": "12699"
+        "gid": "12698"
       },
       "geometry": {
         "type": "Point",
@@ -190491,7 +190476,7 @@
       "properties": {
         "pmo_id": "22385",
         "optionalid": "172(dz)",
-        "gid": "12700"
+        "gid": "12699"
       },
       "geometry": {
         "type": "Point",
@@ -190506,7 +190491,7 @@
       "properties": {
         "pmo_id": "22388",
         "optionalid": "175(dz)",
-        "gid": "12701"
+        "gid": "12700"
       },
       "geometry": {
         "type": "Point",
@@ -190521,7 +190506,7 @@
       "properties": {
         "pmo_id": "21399",
         "optionalid": "176(dz)",
-        "gid": "12702"
+        "gid": "12701"
       },
       "geometry": {
         "type": "Point",
@@ -190536,7 +190521,7 @@
       "properties": {
         "pmo_id": "21106",
         "optionalid": "",
-        "gid": "12703"
+        "gid": "12702"
       },
       "geometry": {
         "type": "Point",
@@ -190551,7 +190536,7 @@
       "properties": {
         "pmo_id": "181(dz)",
         "optionalid": "181(dz)",
-        "gid": "12704"
+        "gid": "12703"
       },
       "geometry": {
         "type": "Point",
@@ -190566,7 +190551,7 @@
       "properties": {
         "pmo_id": "20241",
         "optionalid": "",
-        "gid": "12705"
+        "gid": "12704"
       },
       "geometry": {
         "type": "Point",
@@ -190581,7 +190566,7 @@
       "properties": {
         "pmo_id": "22297",
         "optionalid": "173(dz)",
-        "gid": "12706"
+        "gid": "12705"
       },
       "geometry": {
         "type": "Point",
@@ -190596,7 +190581,7 @@
       "properties": {
         "pmo_id": "22381",
         "optionalid": "177(dz)",
-        "gid": "12707"
+        "gid": "12706"
       },
       "geometry": {
         "type": "Point",
@@ -190611,7 +190596,7 @@
       "properties": {
         "pmo_id": "22378",
         "optionalid": "178(dz)",
-        "gid": "12708"
+        "gid": "12707"
       },
       "geometry": {
         "type": "Point",
@@ -190626,7 +190611,7 @@
       "properties": {
         "pmo_id": "22380",
         "optionalid": "182(dz)",
-        "gid": "12709"
+        "gid": "12708"
       },
       "geometry": {
         "type": "Point",
@@ -190641,7 +190626,7 @@
       "properties": {
         "pmo_id": "22377",
         "optionalid": "182(dz)",
-        "gid": "12710"
+        "gid": "12709"
       },
       "geometry": {
         "type": "Point",
@@ -190656,7 +190641,7 @@
       "properties": {
         "pmo_id": "22395",
         "optionalid": "179(dz)",
-        "gid": "12711"
+        "gid": "12710"
       },
       "geometry": {
         "type": "Point",
@@ -190671,7 +190656,7 @@
       "properties": {
         "pmo_id": "22391",
         "optionalid": "174(dz)",
-        "gid": "12712"
+        "gid": "12711"
       },
       "geometry": {
         "type": "Point",
@@ -190686,7 +190671,7 @@
       "properties": {
         "pmo_id": "21082",
         "optionalid": "",
-        "gid": "12713"
+        "gid": "12712"
       },
       "geometry": {
         "type": "Point",
@@ -190701,7 +190686,7 @@
       "properties": {
         "pmo_id": "184(dz)",
         "optionalid": "184(dz)",
-        "gid": "12714"
+        "gid": "12713"
       },
       "geometry": {
         "type": "Point",
@@ -190716,7 +190701,7 @@
       "properties": {
         "pmo_id": "185(dz)",
         "optionalid": "185(dz)",
-        "gid": "12715"
+        "gid": "12714"
       },
       "geometry": {
         "type": "Point",
@@ -190731,7 +190716,7 @@
       "properties": {
         "pmo_id": "22254",
         "optionalid": "",
-        "gid": "12716"
+        "gid": "12715"
       },
       "geometry": {
         "type": "Point",
@@ -190746,7 +190731,7 @@
       "properties": {
         "pmo_id": "4792",
         "optionalid": "",
-        "gid": "12717"
+        "gid": "12716"
       },
       "geometry": {
         "type": "Point",
@@ -190761,7 +190746,7 @@
       "properties": {
         "pmo_id": "22426",
         "optionalid": "",
-        "gid": "12718"
+        "gid": "12717"
       },
       "geometry": {
         "type": "Point",
@@ -190776,7 +190761,7 @@
       "properties": {
         "pmo_id": "22384",
         "optionalid": "",
-        "gid": "12719"
+        "gid": "12718"
       },
       "geometry": {
         "type": "Point",
@@ -190791,7 +190776,7 @@
       "properties": {
         "pmo_id": "21725",
         "optionalid": "",
-        "gid": "12720"
+        "gid": "12719"
       },
       "geometry": {
         "type": "Point",
@@ -190806,7 +190791,7 @@
       "properties": {
         "pmo_id": "6339",
         "optionalid": "",
-        "gid": "12721"
+        "gid": "12720"
       },
       "geometry": {
         "type": "Point",
@@ -190821,7 +190806,7 @@
       "properties": {
         "pmo_id": "22416",
         "optionalid": "",
-        "gid": "12722"
+        "gid": "12721"
       },
       "geometry": {
         "type": "Point",
@@ -190836,7 +190821,7 @@
       "properties": {
         "pmo_id": "22467",
         "optionalid": "",
-        "gid": "12723"
+        "gid": "12722"
       },
       "geometry": {
         "type": "Point",
@@ -190851,7 +190836,7 @@
       "properties": {
         "pmo_id": "7207",
         "optionalid": "",
-        "gid": "12724"
+        "gid": "12723"
       },
       "geometry": {
         "type": "Point",
@@ -190866,7 +190851,7 @@
       "properties": {
         "pmo_id": "387",
         "optionalid": "",
-        "gid": "12725"
+        "gid": "12724"
       },
       "geometry": {
         "type": "Point",
@@ -190881,7 +190866,7 @@
       "properties": {
         "pmo_id": "1482",
         "optionalid": "",
-        "gid": "12726"
+        "gid": "12725"
       },
       "geometry": {
         "type": "Point",
@@ -190896,7 +190881,7 @@
       "properties": {
         "pmo_id": "8099",
         "optionalid": "",
-        "gid": "12727"
+        "gid": "12726"
       },
       "geometry": {
         "type": "Point",
@@ -190911,7 +190896,7 @@
       "properties": {
         "pmo_id": "21945",
         "optionalid": "",
-        "gid": "12728"
+        "gid": "12727"
       },
       "geometry": {
         "type": "Point",
@@ -190926,7 +190911,7 @@
       "properties": {
         "pmo_id": "21963",
         "optionalid": "",
-        "gid": "12729"
+        "gid": "12728"
       },
       "geometry": {
         "type": "Point",
@@ -190941,7 +190926,7 @@
       "properties": {
         "pmo_id": "21834",
         "optionalid": "",
-        "gid": "12730"
+        "gid": "12729"
       },
       "geometry": {
         "type": "Point",
@@ -190956,7 +190941,7 @@
       "properties": {
         "pmo_id": "21814",
         "optionalid": "",
-        "gid": "12731"
+        "gid": "12730"
       },
       "geometry": {
         "type": "Point",
@@ -190971,7 +190956,7 @@
       "properties": {
         "pmo_id": "21742",
         "optionalid": "",
-        "gid": "12732"
+        "gid": "12731"
       },
       "geometry": {
         "type": "Point",
@@ -190986,7 +190971,7 @@
       "properties": {
         "pmo_id": "21840",
         "optionalid": "",
-        "gid": "12733"
+        "gid": "12732"
       },
       "geometry": {
         "type": "Point",
@@ -191001,7 +190986,7 @@
       "properties": {
         "pmo_id": "22098",
         "optionalid": "",
-        "gid": "12734"
+        "gid": "12733"
       },
       "geometry": {
         "type": "Point",
@@ -191016,7 +191001,7 @@
       "properties": {
         "pmo_id": "21774",
         "optionalid": "",
-        "gid": "12735"
+        "gid": "12734"
       },
       "geometry": {
         "type": "Point",
@@ -191031,7 +191016,7 @@
       "properties": {
         "pmo_id": "21761",
         "optionalid": "",
-        "gid": "12736"
+        "gid": "12735"
       },
       "geometry": {
         "type": "Point",
@@ -191046,7 +191031,7 @@
       "properties": {
         "pmo_id": "21773",
         "optionalid": "",
-        "gid": "12737"
+        "gid": "12736"
       },
       "geometry": {
         "type": "Point",
@@ -191061,7 +191046,7 @@
       "properties": {
         "pmo_id": "21768",
         "optionalid": "",
-        "gid": "12738"
+        "gid": "12737"
       },
       "geometry": {
         "type": "Point",
@@ -191076,7 +191061,7 @@
       "properties": {
         "pmo_id": "21833",
         "optionalid": "",
-        "gid": "12739"
+        "gid": "12738"
       },
       "geometry": {
         "type": "Point",
@@ -191091,7 +191076,7 @@
       "properties": {
         "pmo_id": "22012",
         "optionalid": "",
-        "gid": "12740"
+        "gid": "12739"
       },
       "geometry": {
         "type": "Point",
@@ -191106,7 +191091,7 @@
       "properties": {
         "pmo_id": "21507",
         "optionalid": "",
-        "gid": "12741"
+        "gid": "12740"
       },
       "geometry": {
         "type": "Point",
@@ -191121,7 +191106,7 @@
       "properties": {
         "pmo_id": "22205",
         "optionalid": "",
-        "gid": "12742"
+        "gid": "12741"
       },
       "geometry": {
         "type": "Point",
@@ -191136,7 +191121,7 @@
       "properties": {
         "pmo_id": "8778",
         "optionalid": "",
-        "gid": "12743"
+        "gid": "12742"
       },
       "geometry": {
         "type": "Point",
@@ -191151,7 +191136,7 @@
       "properties": {
         "pmo_id": "22317",
         "optionalid": "",
-        "gid": "12744"
+        "gid": "12743"
       },
       "geometry": {
         "type": "Point",
@@ -191166,7 +191151,7 @@
       "properties": {
         "pmo_id": "22394",
         "optionalid": "180(dz)",
-        "gid": "12745"
+        "gid": "12744"
       },
       "geometry": {
         "type": "Point",
@@ -191181,7 +191166,7 @@
       "properties": {
         "pmo_id": "22466",
         "optionalid": "183(dz)",
-        "gid": "12746"
+        "gid": "12745"
       },
       "geometry": {
         "type": "Point",
@@ -191196,7 +191181,7 @@
       "properties": {
         "pmo_id": "22151",
         "optionalid": "",
-        "gid": "12747"
+        "gid": "12746"
       },
       "geometry": {
         "type": "Point",
@@ -191211,7 +191196,7 @@
       "properties": {
         "pmo_id": "9444",
         "optionalid": "",
-        "gid": "12748"
+        "gid": "12747"
       },
       "geometry": {
         "type": "Point",
@@ -191226,7 +191211,7 @@
       "properties": {
         "pmo_id": "3628",
         "optionalid": "",
-        "gid": "12749"
+        "gid": "12748"
       },
       "geometry": {
         "type": "Point",
@@ -191241,7 +191226,7 @@
       "properties": {
         "pmo_id": "5148",
         "optionalid": "",
-        "gid": "12750"
+        "gid": "12749"
       },
       "geometry": {
         "type": "Point",
@@ -191256,7 +191241,7 @@
       "properties": {
         "pmo_id": "3643",
         "optionalid": "",
-        "gid": "12751"
+        "gid": "12750"
       },
       "geometry": {
         "type": "Point",
@@ -191271,7 +191256,7 @@
       "properties": {
         "pmo_id": "5934",
         "optionalid": "",
-        "gid": "12752"
+        "gid": "12751"
       },
       "geometry": {
         "type": "Point",
@@ -191286,7 +191271,7 @@
       "properties": {
         "pmo_id": "22335",
         "optionalid": "",
-        "gid": "12753"
+        "gid": "12752"
       },
       "geometry": {
         "type": "Point",
@@ -191301,7 +191286,7 @@
       "properties": {
         "pmo_id": "22315",
         "optionalid": "",
-        "gid": "12754"
+        "gid": "12753"
       },
       "geometry": {
         "type": "Point",
@@ -191316,7 +191301,7 @@
       "properties": {
         "pmo_id": "22302",
         "optionalid": "",
-        "gid": "12755"
+        "gid": "12754"
       },
       "geometry": {
         "type": "Point",
@@ -191331,7 +191316,7 @@
       "properties": {
         "pmo_id": "22242",
         "optionalid": "",
-        "gid": "12756"
+        "gid": "12755"
       },
       "geometry": {
         "type": "Point",
@@ -191346,7 +191331,7 @@
       "properties": {
         "pmo_id": "22430",
         "optionalid": "",
-        "gid": "12757"
+        "gid": "12756"
       },
       "geometry": {
         "type": "Point",
@@ -191361,7 +191346,7 @@
       "properties": {
         "pmo_id": "2369",
         "optionalid": "",
-        "gid": "12758"
+        "gid": "12757"
       },
       "geometry": {
         "type": "Point",
@@ -191376,7 +191361,7 @@
       "properties": {
         "pmo_id": "22514",
         "optionalid": "",
-        "gid": "12759"
+        "gid": "12758"
       },
       "geometry": {
         "type": "Point",
@@ -191391,7 +191376,7 @@
       "properties": {
         "pmo_id": "22511",
         "optionalid": "",
-        "gid": "12760"
+        "gid": "12759"
       },
       "geometry": {
         "type": "Point",
@@ -191406,7 +191391,7 @@
       "properties": {
         "pmo_id": "22512",
         "optionalid": "",
-        "gid": "12761"
+        "gid": "12760"
       },
       "geometry": {
         "type": "Point",
@@ -191421,7 +191406,7 @@
       "properties": {
         "pmo_id": "22252",
         "optionalid": "",
-        "gid": "12762"
+        "gid": "12761"
       },
       "geometry": {
         "type": "Point",
@@ -191436,7 +191421,7 @@
       "properties": {
         "pmo_id": "22508",
         "optionalid": "",
-        "gid": "12763"
+        "gid": "12762"
       },
       "geometry": {
         "type": "Point",
@@ -191451,7 +191436,7 @@
       "properties": {
         "pmo_id": "22509",
         "optionalid": "",
-        "gid": "12764"
+        "gid": "12763"
       },
       "geometry": {
         "type": "Point",
@@ -191466,7 +191451,7 @@
       "properties": {
         "pmo_id": "22510",
         "optionalid": "",
-        "gid": "12765"
+        "gid": "12764"
       },
       "geometry": {
         "type": "Point",
@@ -191481,7 +191466,7 @@
       "properties": {
         "pmo_id": "22513",
         "optionalid": "",
-        "gid": "12766"
+        "gid": "12765"
       },
       "geometry": {
         "type": "Point",
@@ -191496,7 +191481,7 @@
       "properties": {
         "pmo_id": "21232",
         "optionalid": "",
-        "gid": "12767"
+        "gid": "12766"
       },
       "geometry": {
         "type": "Point",
@@ -191511,7 +191496,7 @@
       "properties": {
         "pmo_id": "21263",
         "optionalid": "",
-        "gid": "12768"
+        "gid": "12767"
       },
       "geometry": {
         "type": "Point",
@@ -191526,7 +191511,7 @@
       "properties": {
         "pmo_id": "22453",
         "optionalid": "",
-        "gid": "12769"
+        "gid": "12768"
       },
       "geometry": {
         "type": "Point",
@@ -191541,7 +191526,7 @@
       "properties": {
         "pmo_id": "22446",
         "optionalid": "",
-        "gid": "12770"
+        "gid": "12769"
       },
       "geometry": {
         "type": "Point",
@@ -191556,7 +191541,7 @@
       "properties": {
         "pmo_id": "21262",
         "optionalid": "",
-        "gid": "12771"
+        "gid": "12770"
       },
       "geometry": {
         "type": "Point",
@@ -191571,7 +191556,7 @@
       "properties": {
         "pmo_id": "22515",
         "optionalid": "",
-        "gid": "12772"
+        "gid": "12771"
       },
       "geometry": {
         "type": "Point",
@@ -191586,7 +191571,7 @@
       "properties": {
         "pmo_id": "21647",
         "optionalid": "",
-        "gid": "12773"
+        "gid": "12772"
       },
       "geometry": {
         "type": "Point",
@@ -191601,7 +191586,7 @@
       "properties": {
         "pmo_id": "21627",
         "optionalid": "",
-        "gid": "12774"
+        "gid": "12773"
       },
       "geometry": {
         "type": "Point",
@@ -191616,7 +191601,7 @@
       "properties": {
         "pmo_id": "21920",
         "optionalid": "",
-        "gid": "12775"
+        "gid": "12774"
       },
       "geometry": {
         "type": "Point",
@@ -191631,7 +191616,7 @@
       "properties": {
         "pmo_id": "5169",
         "optionalid": "",
-        "gid": "12776"
+        "gid": "12775"
       },
       "geometry": {
         "type": "Point",
@@ -191646,7 +191631,7 @@
       "properties": {
         "pmo_id": "5840",
         "optionalid": "",
-        "gid": "12777"
+        "gid": "12776"
       },
       "geometry": {
         "type": "Point",
@@ -191661,7 +191646,7 @@
       "properties": {
         "pmo_id": "7205",
         "optionalid": "",
-        "gid": "12778"
+        "gid": "12777"
       },
       "geometry": {
         "type": "Point",
@@ -191676,7 +191661,7 @@
       "properties": {
         "pmo_id": "5517",
         "optionalid": "",
-        "gid": "12779"
+        "gid": "12778"
       },
       "geometry": {
         "type": "Point",
@@ -191691,7 +191676,7 @@
       "properties": {
         "pmo_id": "188(dz)",
         "optionalid": "188(dz)",
-        "gid": "12780"
+        "gid": "12779"
       },
       "geometry": {
         "type": "Point",
@@ -191706,7 +191691,7 @@
       "properties": {
         "pmo_id": "189(dz)",
         "optionalid": "189(dz)",
-        "gid": "12781"
+        "gid": "12780"
       },
       "geometry": {
         "type": "Point",
@@ -191721,7 +191706,7 @@
       "properties": {
         "pmo_id": "190(dz)",
         "optionalid": "190(dz)",
-        "gid": "12782"
+        "gid": "12781"
       },
       "geometry": {
         "type": "Point",
@@ -191736,7 +191721,7 @@
       "properties": {
         "pmo_id": "191(dz)",
         "optionalid": "191(dz)",
-        "gid": "12783"
+        "gid": "12782"
       },
       "geometry": {
         "type": "Point",
@@ -191751,7 +191736,7 @@
       "properties": {
         "pmo_id": "192(dz)",
         "optionalid": "192(dz)",
-        "gid": "12784"
+        "gid": "12783"
       },
       "geometry": {
         "type": "Point",
@@ -191766,7 +191751,7 @@
       "properties": {
         "pmo_id": "22576",
         "optionalid": "",
-        "gid": "12785"
+        "gid": "12784"
       },
       "geometry": {
         "type": "Point",
@@ -191781,7 +191766,7 @@
       "properties": {
         "pmo_id": "7612",
         "optionalid": "",
-        "gid": "12786"
+        "gid": "12785"
       },
       "geometry": {
         "type": "Point",
@@ -191796,7 +191781,7 @@
       "properties": {
         "pmo_id": "8432",
         "optionalid": "",
-        "gid": "12787"
+        "gid": "12786"
       },
       "geometry": {
         "type": "Point",
@@ -191811,7 +191796,7 @@
       "properties": {
         "pmo_id": "2905",
         "optionalid": "",
-        "gid": "12788"
+        "gid": "12787"
       },
       "geometry": {
         "type": "Point",
@@ -191826,7 +191811,7 @@
       "properties": {
         "pmo_id": "18624",
         "optionalid": "",
-        "gid": "12789"
+        "gid": "12788"
       },
       "geometry": {
         "type": "Point",
@@ -191841,7 +191826,7 @@
       "properties": {
         "pmo_id": "18623",
         "optionalid": "",
-        "gid": "12790"
+        "gid": "12789"
       },
       "geometry": {
         "type": "Point",
@@ -191856,7 +191841,7 @@
       "properties": {
         "pmo_id": "22524",
         "optionalid": "",
-        "gid": "12791"
+        "gid": "12790"
       },
       "geometry": {
         "type": "Point",
@@ -191871,7 +191856,7 @@
       "properties": {
         "pmo_id": "22332",
         "optionalid": "",
-        "gid": "12792"
+        "gid": "12791"
       },
       "geometry": {
         "type": "Point",
@@ -191886,7 +191871,7 @@
       "properties": {
         "pmo_id": "22331",
         "optionalid": "",
-        "gid": "12793"
+        "gid": "12792"
       },
       "geometry": {
         "type": "Point",
@@ -191901,7 +191886,7 @@
       "properties": {
         "pmo_id": "22522",
         "optionalid": "",
-        "gid": "12794"
+        "gid": "12793"
       },
       "geometry": {
         "type": "Point",
@@ -191916,7 +191901,7 @@
       "properties": {
         "pmo_id": "22523",
         "optionalid": "",
-        "gid": "12795"
+        "gid": "12794"
       },
       "geometry": {
         "type": "Point",
@@ -191931,7 +191916,7 @@
       "properties": {
         "pmo_id": "6200",
         "optionalid": "",
-        "gid": "12796"
+        "gid": "12795"
       },
       "geometry": {
         "type": "Point",
@@ -191946,7 +191931,7 @@
       "properties": {
         "pmo_id": "22488",
         "optionalid": "",
-        "gid": "12797"
+        "gid": "12796"
       },
       "geometry": {
         "type": "Point",
@@ -191961,7 +191946,7 @@
       "properties": {
         "pmo_id": "20424",
         "optionalid": "",
-        "gid": "12798"
+        "gid": "12797"
       },
       "geometry": {
         "type": "Point",
@@ -191976,7 +191961,7 @@
       "properties": {
         "pmo_id": "19687",
         "optionalid": "",
-        "gid": "12799"
+        "gid": "12798"
       },
       "geometry": {
         "type": "Point",
@@ -191991,7 +191976,7 @@
       "properties": {
         "pmo_id": "4821",
         "optionalid": "",
-        "gid": "12800"
+        "gid": "12799"
       },
       "geometry": {
         "type": "Point",
@@ -192006,7 +191991,7 @@
       "properties": {
         "pmo_id": "21885",
         "optionalid": "",
-        "gid": "12801"
+        "gid": "12800"
       },
       "geometry": {
         "type": "Point",
@@ -192021,7 +192006,7 @@
       "properties": {
         "pmo_id": "1(u0)",
         "optionalid": "1(u0)",
-        "gid": "12802"
+        "gid": "12801"
       },
       "geometry": {
         "type": "Point",
@@ -192036,7 +192021,7 @@
       "properties": {
         "pmo_id": "2(u0)",
         "optionalid": "2(u0)",
-        "gid": "12803"
+        "gid": "12802"
       },
       "geometry": {
         "type": "Point",
@@ -192051,7 +192036,7 @@
       "properties": {
         "pmo_id": "8757",
         "optionalid": "",
-        "gid": "12804"
+        "gid": "12803"
       },
       "geometry": {
         "type": "Point",
@@ -192066,7 +192051,7 @@
       "properties": {
         "pmo_id": "2885",
         "optionalid": "",
-        "gid": "12805"
+        "gid": "12804"
       },
       "geometry": {
         "type": "Point",
@@ -192081,7 +192066,7 @@
       "properties": {
         "pmo_id": "21688",
         "optionalid": "",
-        "gid": "12806"
+        "gid": "12805"
       },
       "geometry": {
         "type": "Point",
@@ -192096,7 +192081,7 @@
       "properties": {
         "pmo_id": "22257",
         "optionalid": "",
-        "gid": "12807"
+        "gid": "12806"
       },
       "geometry": {
         "type": "Point",
@@ -192111,7 +192096,7 @@
       "properties": {
         "pmo_id": "1(a0)",
         "optionalid": "1(a0)",
-        "gid": "12808"
+        "gid": "12807"
       },
       "geometry": {
         "type": "Point",
@@ -192126,7 +192111,7 @@
       "properties": {
         "pmo_id": "2(a0)",
         "optionalid": "2(a0)",
-        "gid": "12809"
+        "gid": "12808"
       },
       "geometry": {
         "type": "Point",
@@ -192141,7 +192126,7 @@
       "properties": {
         "pmo_id": "4722",
         "optionalid": "",
-        "gid": "12810"
+        "gid": "12809"
       },
       "geometry": {
         "type": "Point",
@@ -192156,7 +192141,7 @@
       "properties": {
         "pmo_id": "20952",
         "optionalid": "",
-        "gid": "12811"
+        "gid": "12810"
       },
       "geometry": {
         "type": "Point",
@@ -192171,7 +192156,7 @@
       "properties": {
         "pmo_id": "21289",
         "optionalid": "",
-        "gid": "12812"
+        "gid": "12811"
       },
       "geometry": {
         "type": "Point",
@@ -192186,7 +192171,7 @@
       "properties": {
         "pmo_id": "21968",
         "optionalid": "",
-        "gid": "12813"
+        "gid": "12812"
       },
       "geometry": {
         "type": "Point",
@@ -192201,7 +192186,7 @@
       "properties": {
         "pmo_id": "21925",
         "optionalid": "",
-        "gid": "12814"
+        "gid": "12813"
       },
       "geometry": {
         "type": "Point",
@@ -192216,7 +192201,7 @@
       "properties": {
         "pmo_id": "21924",
         "optionalid": "36(dz)",
-        "gid": "12815"
+        "gid": "12814"
       },
       "geometry": {
         "type": "Point",
@@ -192231,7 +192216,7 @@
       "properties": {
         "pmo_id": "37(dz)",
         "optionalid": "37(dz)",
-        "gid": "12816"
+        "gid": "12815"
       },
       "geometry": {
         "type": "Point",
@@ -192246,7 +192231,7 @@
       "properties": {
         "pmo_id": "38(dz)",
         "optionalid": "38(dz)",
-        "gid": "12817"
+        "gid": "12816"
       },
       "geometry": {
         "type": "Point",
@@ -192261,7 +192246,7 @@
       "properties": {
         "pmo_id": "21021",
         "optionalid": "",
-        "gid": "12818"
+        "gid": "12817"
       },
       "geometry": {
         "type": "Point",
@@ -192276,7 +192261,7 @@
       "properties": {
         "pmo_id": "21309",
         "optionalid": "",
-        "gid": "12819"
+        "gid": "12818"
       },
       "geometry": {
         "type": "Point",
@@ -192291,7 +192276,7 @@
       "properties": {
         "pmo_id": "21615",
         "optionalid": "",
-        "gid": "12820"
+        "gid": "12819"
       },
       "geometry": {
         "type": "Point",
@@ -192306,7 +192291,7 @@
       "properties": {
         "pmo_id": "21619",
         "optionalid": "",
-        "gid": "12821"
+        "gid": "12820"
       },
       "geometry": {
         "type": "Point",
@@ -192321,7 +192306,7 @@
       "properties": {
         "pmo_id": "22007",
         "optionalid": "",
-        "gid": "12822"
+        "gid": "12821"
       },
       "geometry": {
         "type": "Point",
@@ -192336,7 +192321,7 @@
       "properties": {
         "pmo_id": "44(dz)",
         "optionalid": "44(dz)",
-        "gid": "12823"
+        "gid": "12822"
       },
       "geometry": {
         "type": "Point",
@@ -192351,7 +192336,7 @@
       "properties": {
         "pmo_id": "45(dz)",
         "optionalid": "45(dz)",
-        "gid": "12824"
+        "gid": "12823"
       },
       "geometry": {
         "type": "Point",
@@ -192366,7 +192351,7 @@
       "properties": {
         "pmo_id": "22376",
         "optionalid": "46(dz)",
-        "gid": "12825"
+        "gid": "12824"
       },
       "geometry": {
         "type": "Point",
@@ -192381,7 +192366,7 @@
       "properties": {
         "pmo_id": "47(dz)",
         "optionalid": "47(dz)",
-        "gid": "12826"
+        "gid": "12825"
       },
       "geometry": {
         "type": "Point",
@@ -192396,7 +192381,7 @@
       "properties": {
         "pmo_id": "48(dz)",
         "optionalid": "48(dz)",
-        "gid": "12827"
+        "gid": "12826"
       },
       "geometry": {
         "type": "Point",
@@ -192411,7 +192396,7 @@
       "properties": {
         "pmo_id": "49(dz)",
         "optionalid": "49(dz)",
-        "gid": "12828"
+        "gid": "12827"
       },
       "geometry": {
         "type": "Point",
@@ -192426,7 +192411,7 @@
       "properties": {
         "pmo_id": "50(dz)",
         "optionalid": "50(dz)",
-        "gid": "12829"
+        "gid": "12828"
       },
       "geometry": {
         "type": "Point",
@@ -192441,7 +192426,7 @@
       "properties": {
         "pmo_id": "21986",
         "optionalid": "",
-        "gid": "12830"
+        "gid": "12829"
       },
       "geometry": {
         "type": "Point",
@@ -192456,7 +192441,7 @@
       "properties": {
         "pmo_id": "193(dz)",
         "optionalid": "193(dz)",
-        "gid": "12831"
+        "gid": "12830"
       },
       "geometry": {
         "type": "Point",
@@ -192471,7 +192456,7 @@
       "properties": {
         "pmo_id": "22362",
         "optionalid": "",
-        "gid": "12832"
+        "gid": "12831"
       },
       "geometry": {
         "type": "Point",
@@ -192486,7 +192471,7 @@
       "properties": {
         "pmo_id": "22548",
         "optionalid": "186(dz)",
-        "gid": "12833"
+        "gid": "12832"
       },
       "geometry": {
         "type": "Point",
@@ -192501,7 +192486,7 @@
       "properties": {
         "pmo_id": "22427",
         "optionalid": "187(dz)",
-        "gid": "12834"
+        "gid": "12833"
       },
       "geometry": {
         "type": "Point",
@@ -192516,7 +192501,7 @@
       "properties": {
         "pmo_id": "22581",
         "optionalid": "",
-        "gid": "12835"
+        "gid": "12834"
       },
       "geometry": {
         "type": "Point",
@@ -192531,7 +192516,7 @@
       "properties": {
         "pmo_id": "22505",
         "optionalid": "",
-        "gid": "12836"
+        "gid": "12835"
       },
       "geometry": {
         "type": "Point",
@@ -192546,7 +192531,7 @@
       "properties": {
         "pmo_id": "6123",
         "optionalid": "",
-        "gid": "12837"
+        "gid": "12836"
       },
       "geometry": {
         "type": "Point",
@@ -192561,7 +192546,7 @@
       "properties": {
         "pmo_id": "20985",
         "optionalid": "",
-        "gid": "12838"
+        "gid": "12837"
       },
       "geometry": {
         "type": "Point",
@@ -192576,7 +192561,7 @@
       "properties": {
         "pmo_id": "20970",
         "optionalid": "",
-        "gid": "12839"
+        "gid": "12838"
       },
       "geometry": {
         "type": "Point",
@@ -192591,7 +192576,7 @@
       "properties": {
         "pmo_id": "20927",
         "optionalid": "",
-        "gid": "12840"
+        "gid": "12839"
       },
       "geometry": {
         "type": "Point",
@@ -192606,7 +192591,7 @@
       "properties": {
         "pmo_id": "5252",
         "optionalid": "",
-        "gid": "12841"
+        "gid": "12840"
       },
       "geometry": {
         "type": "Point",
@@ -192621,7 +192606,7 @@
       "properties": {
         "pmo_id": "5932",
         "optionalid": "",
-        "gid": "12842"
+        "gid": "12841"
       },
       "geometry": {
         "type": "Point",
@@ -192636,7 +192621,7 @@
       "properties": {
         "pmo_id": "21917",
         "optionalid": "",
-        "gid": "12843"
+        "gid": "12842"
       },
       "geometry": {
         "type": "Point",
@@ -192651,7 +192636,7 @@
       "properties": {
         "pmo_id": "21750",
         "optionalid": "",
-        "gid": "12844"
+        "gid": "12843"
       },
       "geometry": {
         "type": "Point",
@@ -192666,7 +192651,7 @@
       "properties": {
         "pmo_id": "21754",
         "optionalid": "",
-        "gid": "12845"
+        "gid": "12844"
       },
       "geometry": {
         "type": "Point",
@@ -192681,7 +192666,7 @@
       "properties": {
         "pmo_id": "194(dz)",
         "optionalid": "194(dz)",
-        "gid": "12846"
+        "gid": "12845"
       },
       "geometry": {
         "type": "Point",
@@ -192696,7 +192681,7 @@
       "properties": {
         "pmo_id": "21685",
         "optionalid": "",
-        "gid": "12847"
+        "gid": "12846"
       },
       "geometry": {
         "type": "Point",
@@ -192711,7 +192696,7 @@
       "properties": {
         "pmo_id": "195(dz)",
         "optionalid": "195(dz)",
-        "gid": "12848"
+        "gid": "12847"
       },
       "geometry": {
         "type": "Point",
@@ -192726,7 +192711,7 @@
       "properties": {
         "pmo_id": "22469",
         "optionalid": "",
-        "gid": "12849"
+        "gid": "12848"
       },
       "geometry": {
         "type": "Point",
@@ -192741,7 +192726,7 @@
       "properties": {
         "pmo_id": " 1372",
         "optionalid": "",
-        "gid": "12850"
+        "gid": "12849"
       },
       "geometry": {
         "type": "Point",
@@ -192756,7 +192741,7 @@
       "properties": {
         "pmo_id": "22494",
         "optionalid": "110(bc)",
-        "gid": "12851"
+        "gid": "12850"
       },
       "geometry": {
         "type": "Point",
@@ -192771,7 +192756,7 @@
       "properties": {
         "pmo_id": "22501",
         "optionalid": "109(bc)",
-        "gid": "12852"
+        "gid": "12851"
       },
       "geometry": {
         "type": "Point",
@@ -192786,7 +192771,7 @@
       "properties": {
         "pmo_id": "20891",
         "optionalid": "",
-        "gid": "12853"
+        "gid": "12852"
       },
       "geometry": {
         "type": "Point",
@@ -192801,7 +192786,7 @@
       "properties": {
         "pmo_id": "21639",
         "optionalid": "",
-        "gid": "12854"
+        "gid": "12853"
       },
       "geometry": {
         "type": "Point",
@@ -192816,7 +192801,7 @@
       "properties": {
         "pmo_id": "21638",
         "optionalid": "",
-        "gid": "12855"
+        "gid": "12854"
       },
       "geometry": {
         "type": "Point",
@@ -192831,7 +192816,7 @@
       "properties": {
         "pmo_id": "196(dz)",
         "optionalid": "196(dz)",
-        "gid": "12856"
+        "gid": "12855"
       },
       "geometry": {
         "type": "Point",
@@ -192846,7 +192831,7 @@
       "properties": {
         "pmo_id": "21858",
         "optionalid": "",
-        "gid": "12857"
+        "gid": "12856"
       },
       "geometry": {
         "type": "Point",
@@ -192861,7 +192846,7 @@
       "properties": {
         "pmo_id": "197(dz)",
         "optionalid": "197(dz)",
-        "gid": "12858"
+        "gid": "12857"
       },
       "geometry": {
         "type": "Point",
@@ -192876,7 +192861,7 @@
       "properties": {
         "pmo_id": "21660",
         "optionalid": "",
-        "gid": "12859"
+        "gid": "12858"
       },
       "geometry": {
         "type": "Point",
@@ -192891,7 +192876,7 @@
       "properties": {
         "pmo_id": "21624",
         "optionalid": "",
-        "gid": "12860"
+        "gid": "12859"
       },
       "geometry": {
         "type": "Point",
@@ -192906,7 +192891,7 @@
       "properties": {
         "pmo_id": "21632",
         "optionalid": "",
-        "gid": "12861"
+        "gid": "12860"
       },
       "geometry": {
         "type": "Point",
@@ -192921,7 +192906,7 @@
       "properties": {
         "pmo_id": "21669",
         "optionalid": "",
-        "gid": "12862"
+        "gid": "12861"
       },
       "geometry": {
         "type": "Point",
@@ -192936,7 +192921,7 @@
       "properties": {
         "pmo_id": "21849",
         "optionalid": "",
-        "gid": "12863"
+        "gid": "12862"
       },
       "geometry": {
         "type": "Point",
@@ -192951,7 +192936,7 @@
       "properties": {
         "pmo_id": "198(dz)",
         "optionalid": "198(dz)",
-        "gid": "12864"
+        "gid": "12863"
       },
       "geometry": {
         "type": "Point",
@@ -192966,7 +192951,7 @@
       "properties": {
         "pmo_id": "199(dz)",
         "optionalid": "199(dz)",
-        "gid": "12865"
+        "gid": "12864"
       },
       "geometry": {
         "type": "Point",
@@ -192981,7 +192966,7 @@
       "properties": {
         "pmo_id": "22091",
         "optionalid": "",
-        "gid": "12866"
+        "gid": "12865"
       },
       "geometry": {
         "type": "Point",
@@ -192996,7 +192981,7 @@
       "properties": {
         "pmo_id": "22115",
         "optionalid": "",
-        "gid": "12867"
+        "gid": "12866"
       },
       "geometry": {
         "type": "Point",
@@ -193011,7 +192996,7 @@
       "properties": {
         "pmo_id": "22097",
         "optionalid": "",
-        "gid": "12868"
+        "gid": "12867"
       },
       "geometry": {
         "type": "Point",
@@ -193026,7 +193011,7 @@
       "properties": {
         "pmo_id": "22213",
         "optionalid": "",
-        "gid": "12869"
+        "gid": "12868"
       },
       "geometry": {
         "type": "Point",
@@ -193041,7 +193026,7 @@
       "properties": {
         "pmo_id": "22099",
         "optionalid": "",
-        "gid": "12870"
+        "gid": "12869"
       },
       "geometry": {
         "type": "Point",
@@ -193056,7 +193041,7 @@
       "properties": {
         "pmo_id": "22096",
         "optionalid": "",
-        "gid": "12871"
+        "gid": "12870"
       },
       "geometry": {
         "type": "Point",
@@ -193071,7 +193056,7 @@
       "properties": {
         "pmo_id": "22484",
         "optionalid": "",
-        "gid": "12872"
+        "gid": "12871"
       },
       "geometry": {
         "type": "Point",
@@ -193086,7 +193071,7 @@
       "properties": {
         "pmo_id": "22622",
         "optionalid": "",
-        "gid": "12873"
+        "gid": "12872"
       },
       "geometry": {
         "type": "Point",
@@ -193101,7 +193086,7 @@
       "properties": {
         "pmo_id": "22612",
         "optionalid": "",
-        "gid": "12874"
+        "gid": "12873"
       },
       "geometry": {
         "type": "Point",
@@ -193116,7 +193101,7 @@
       "properties": {
         "pmo_id": "22471",
         "optionalid": "",
-        "gid": "12875"
+        "gid": "12874"
       },
       "geometry": {
         "type": "Point",
@@ -193131,7 +193116,7 @@
       "properties": {
         "pmo_id": "22588",
         "optionalid": "",
-        "gid": "12876"
+        "gid": "12875"
       },
       "geometry": {
         "type": "Point",
@@ -193146,7 +193131,7 @@
       "properties": {
         "pmo_id": "21271",
         "optionalid": "",
-        "gid": "12877"
+        "gid": "12876"
       },
       "geometry": {
         "type": "Point",
@@ -193161,7 +193146,7 @@
       "properties": {
         "pmo_id": "22497",
         "optionalid": "",
-        "gid": "12878"
+        "gid": "12877"
       },
       "geometry": {
         "type": "Point",
@@ -193176,7 +193161,7 @@
       "properties": {
         "pmo_id": "22613",
         "optionalid": "",
-        "gid": "12879"
+        "gid": "12878"
       },
       "geometry": {
         "type": "Point",
@@ -193191,7 +193176,7 @@
       "properties": {
         "pmo_id": "20910",
         "optionalid": "",
-        "gid": "12880"
+        "gid": "12879"
       },
       "geometry": {
         "type": "Point",
@@ -193206,7 +193191,7 @@
       "properties": {
         "pmo_id": "20999",
         "optionalid": "",
-        "gid": "12881"
+        "gid": "12880"
       },
       "geometry": {
         "type": "Point",
@@ -193221,7 +193206,7 @@
       "properties": {
         "pmo_id": "22633",
         "optionalid": "",
-        "gid": "12882"
+        "gid": "12881"
       },
       "geometry": {
         "type": "Point",
@@ -193236,7 +193221,7 @@
       "properties": {
         "pmo_id": "5477",
         "optionalid": "",
-        "gid": "12883"
+        "gid": "12882"
       },
       "geometry": {
         "type": "Point",
@@ -193251,7 +193236,7 @@
       "properties": {
         "pmo_id": "1(w0)",
         "optionalid": "",
-        "gid": "12884"
+        "gid": "12883"
       },
       "geometry": {
         "type": "Point",
@@ -193266,7 +193251,7 @@
       "properties": {
         "pmo_id": "3466",
         "optionalid": "",
-        "gid": "12885"
+        "gid": "12884"
       },
       "geometry": {
         "type": "Point",
@@ -193281,7 +193266,7 @@
       "properties": {
         "pmo_id": "2701",
         "optionalid": "",
-        "gid": "12886"
+        "gid": "12885"
       },
       "geometry": {
         "type": "Point",
@@ -193296,7 +193281,7 @@
       "properties": {
         "pmo_id": "7318",
         "optionalid": "",
-        "gid": "12887"
+        "gid": "12886"
       },
       "geometry": {
         "type": "Point",
@@ -193311,7 +193296,7 @@
       "properties": {
         "pmo_id": "1404",
         "optionalid": "",
-        "gid": "12888"
+        "gid": "12887"
       },
       "geometry": {
         "type": "Point",
@@ -193326,7 +193311,7 @@
       "properties": {
         "pmo_id": "21994",
         "optionalid": "",
-        "gid": "12889"
+        "gid": "12888"
       },
       "geometry": {
         "type": "Point",
@@ -193341,7 +193326,7 @@
       "properties": {
         "pmo_id": "22651",
         "optionalid": "",
-        "gid": "12890"
+        "gid": "12889"
       },
       "geometry": {
         "type": "Point",
@@ -193356,7 +193341,7 @@
       "properties": {
         "pmo_id": "6095",
         "optionalid": "",
-        "gid": "12891"
+        "gid": "12890"
       },
       "geometry": {
         "type": "Point",
@@ -193371,7 +193356,7 @@
       "properties": {
         "pmo_id": "1779",
         "optionalid": "",
-        "gid": "12892"
+        "gid": "12891"
       },
       "geometry": {
         "type": "Point",
@@ -193386,7 +193371,7 @@
       "properties": {
         "pmo_id": "5465",
         "optionalid": "",
-        "gid": "12893"
+        "gid": "12892"
       },
       "geometry": {
         "type": "Point",
@@ -193401,7 +193386,7 @@
       "properties": {
         "pmo_id": "22313",
         "optionalid": "",
-        "gid": "12894"
+        "gid": "12893"
       },
       "geometry": {
         "type": "Point",
@@ -193416,7 +193401,7 @@
       "properties": {
         "pmo_id": "7594",
         "optionalid": "",
-        "gid": "12895"
+        "gid": "12894"
       },
       "geometry": {
         "type": "Point",
@@ -193431,7 +193416,7 @@
       "properties": {
         "pmo_id": "5199",
         "optionalid": "",
-        "gid": "12896"
+        "gid": "12895"
       },
       "geometry": {
         "type": "Point",
@@ -193446,7 +193431,7 @@
       "properties": {
         "pmo_id": "7245",
         "optionalid": "",
-        "gid": "12897"
+        "gid": "12896"
       },
       "geometry": {
         "type": "Point",
@@ -193461,7 +193446,7 @@
       "properties": {
         "pmo_id": "3018",
         "optionalid": "",
-        "gid": "12898"
+        "gid": "12897"
       },
       "geometry": {
         "type": "Point",
@@ -193476,7 +193461,7 @@
       "properties": {
         "pmo_id": "19920",
         "optionalid": "",
-        "gid": "12899"
+        "gid": "12898"
       },
       "geometry": {
         "type": "Point",
@@ -193491,7 +193476,7 @@
       "properties": {
         "pmo_id": "4(q0)",
         "optionalid": "4(q0)",
-        "gid": "12900"
+        "gid": "12899"
       },
       "geometry": {
         "type": "Point",
@@ -193506,7 +193491,7 @@
       "properties": {
         "pmo_id": "5(q0)",
         "optionalid": "Špina",
-        "gid": "12901"
+        "gid": "12900"
       },
       "geometry": {
         "type": "Point",
@@ -193521,7 +193506,7 @@
       "properties": {
         "pmo_id": "19841",
         "optionalid": "",
-        "gid": "12902"
+        "gid": "12901"
       },
       "geometry": {
         "type": "Point",
@@ -193536,7 +193521,7 @@
       "properties": {
         "pmo_id": "200(dz)",
         "optionalid": "200(dz)",
-        "gid": "12903"
+        "gid": "12902"
       },
       "geometry": {
         "type": "Point",
@@ -193551,7 +193536,7 @@
       "properties": {
         "pmo_id": "201(dz)",
         "optionalid": "201(dz)",
-        "gid": "12904"
+        "gid": "12903"
       },
       "geometry": {
         "type": "Point",
@@ -193566,7 +193551,7 @@
       "properties": {
         "pmo_id": "21539",
         "optionalid": "",
-        "gid": "12905"
+        "gid": "12904"
       },
       "geometry": {
         "type": "Point",
@@ -193581,7 +193566,7 @@
       "properties": {
         "pmo_id": "22161",
         "optionalid": "",
-        "gid": "12906"
+        "gid": "12905"
       },
       "geometry": {
         "type": "Point",
@@ -193596,7 +193581,7 @@
       "properties": {
         "pmo_id": "3960",
         "optionalid": "",
-        "gid": "12907"
+        "gid": "12906"
       },
       "geometry": {
         "type": "Point",
@@ -193611,7 +193596,7 @@
       "properties": {
         "pmo_id": "11071",
         "optionalid": "",
-        "gid": "12908"
+        "gid": "12907"
       },
       "geometry": {
         "type": "Point",
@@ -193626,7 +193611,7 @@
       "properties": {
         "pmo_id": "22611",
         "optionalid": "",
-        "gid": "12909"
+        "gid": "12908"
       },
       "geometry": {
         "type": "Point",
@@ -193641,7 +193626,7 @@
       "properties": {
         "pmo_id": "10399",
         "optionalid": "",
-        "gid": "12910"
+        "gid": "12909"
       },
       "geometry": {
         "type": "Point",
@@ -193656,7 +193641,7 @@
       "properties": {
         "pmo_id": "22601",
         "optionalid": "",
-        "gid": "12911"
+        "gid": "12910"
       },
       "geometry": {
         "type": "Point",
@@ -193671,7 +193656,7 @@
       "properties": {
         "pmo_id": "1(v0)",
         "optionalid": "1(v0)",
-        "gid": "12912"
+        "gid": "12911"
       },
       "geometry": {
         "type": "Point",
@@ -193686,7 +193671,7 @@
       "properties": {
         "pmo_id": "22675",
         "optionalid": "",
-        "gid": "12913"
+        "gid": "12912"
       },
       "geometry": {
         "type": "Point",
@@ -193701,7 +193686,7 @@
       "properties": {
         "pmo_id": "22646",
         "optionalid": "",
-        "gid": "12914"
+        "gid": "12913"
       },
       "geometry": {
         "type": "Point",
@@ -193716,7 +193701,7 @@
       "properties": {
         "pmo_id": "2526",
         "optionalid": "",
-        "gid": "12915"
+        "gid": "12914"
       },
       "geometry": {
         "type": "Point",
@@ -193731,7 +193716,7 @@
       "properties": {
         "pmo_id": "22594",
         "optionalid": "",
-        "gid": "12916"
+        "gid": "12915"
       },
       "geometry": {
         "type": "Point",
@@ -193746,7 +193731,7 @@
       "properties": {
         "pmo_id": "22060",
         "optionalid": "",
-        "gid": "12917"
+        "gid": "12916"
       },
       "geometry": {
         "type": "Point",
@@ -193761,7 +193746,7 @@
       "properties": {
         "pmo_id": "5241",
         "optionalid": "",
-        "gid": "12918"
+        "gid": "12917"
       },
       "geometry": {
         "type": "Point",
@@ -193776,7 +193761,7 @@
       "properties": {
         "pmo_id": "22624",
         "optionalid": "",
-        "gid": "12919"
+        "gid": "12918"
       },
       "geometry": {
         "type": "Point",
@@ -193791,7 +193776,7 @@
       "properties": {
         "pmo_id": "6544",
         "optionalid": "",
-        "gid": "12920"
+        "gid": "12919"
       },
       "geometry": {
         "type": "Point",
@@ -193806,7 +193791,7 @@
       "properties": {
         "pmo_id": "22700",
         "optionalid": "",
-        "gid": "12921"
+        "gid": "12920"
       },
       "geometry": {
         "type": "Point",
@@ -193821,7 +193806,7 @@
       "properties": {
         "pmo_id": "22705",
         "optionalid": "",
-        "gid": "12922"
+        "gid": "12921"
       },
       "geometry": {
         "type": "Point",
@@ -193836,13 +193821,28 @@
       "properties": {
         "pmo_id": "6713",
         "optionalid": "",
-        "gid": "12923"
+        "gid": "12922"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           16.8014087,
           43.4331226
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "pmo_id": "9063",
+        "optionalid": "",
+        "gid": "12923"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.8003591,
+          43.4356626
         ]
       }
     }
