@@ -68,6 +68,28 @@
           "zone_name": "SUKI"
         }
       },
+        {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            16.801454,
+            43.432893
+          ]
+        },
+        "properties": {
+          "device_id": 2903868690,
+          "device_name": "MM Kučiće sjever",
+          "info_id": 2,
+          "info_name": "Montiran je",
+          "description_id": 2,
+          "description_name": "MT device",
+          "company_id": 3,
+          "company_name": "Vodovod Omiš",
+          "zone_id": 5,
+          "zone_name": "SUKI"
+        }
+      },
       {
         "type": "Feature",
         "geometry": {
