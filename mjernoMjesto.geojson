@@ -959,7 +959,7 @@
         },
         "properties": {
           "device_id": "169",
-          "device_name": "TH-A5 Zvečanje",
+          "device_name": "TH-A9 Zvečanje",
           "info_id": 2,
           "info_name": "Montiran je",
           "description_id": 1,
@@ -981,7 +981,7 @@
         },
         "properties": {
           "device_id": "165",
-          "device_name": "TH-A9 Smolonje",
+          "device_name": "TH-A5 Smolonje",
           "info_id": 2,
           "info_name": "Montiran je",
           "description_id": 1,
