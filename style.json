@@ -1,6 +1,7 @@
 {
   "version": 8,
   "name": "vodovodomis",
+  "title":"Vodovod Omiš",
   "center": [16.694112, 43.443665],
   "zoom": 5,
   "glyphs": "{fontstack}/{range}",
