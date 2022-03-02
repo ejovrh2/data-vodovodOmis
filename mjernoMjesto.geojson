@@ -1234,6 +1234,29 @@
           "zone_name": "SUKI"
         }
       },
+        ,
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            16.916109,
+            43.451621
+          ]
+        },
+        "properties": {
+          "device_id": "166",
+          "device_name": "TH-B5 Žeževica tlak",
+          "info_id": 2,
+          "info_name": "Montiran je",
+          "description_id": 1,
+          "description_name": "TH device",
+          "company_id": 3,
+          "company_name": "Vodovod Omiš",
+          "zone_id": 5,
+          "zone_name": "SUKI"
+        }
+      }
       {
         "type": "Feature",
         "geometry": {
