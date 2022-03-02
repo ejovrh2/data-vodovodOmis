@@ -1041,28 +1041,6 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
-            16.655297,
-            43.402083
-          ]
-        },
-        "properties": {
-          "device_id": "166",
-          "device_name": "TH-A6",
-          "info_id": 1,
-          "info_name": "Nije montiran",
-          "description_id": 1,
-          "description_name": "TH device",
-          "company_id": 3,
-          "company_name": "Vodovod Omiš",
-          "zone_id": 6,
-          "zone_name": "U radu"
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
             16.727495,
             43.460795
           ]
@@ -1234,7 +1212,6 @@
           "zone_name": "SUKI"
         }
       },
-        ,
       {
         "type": "Feature",
         "geometry": {
@@ -1256,7 +1233,7 @@
           "zone_id": 5,
           "zone_name": "SUKI"
         }
-      }
+      },
       {
         "type": "Feature",
         "geometry": {
