@@ -140,20 +140,10 @@
       "id": "mjernoMjesto-icon",
       "type": "symbol",
       "source": "mjernoMjesto",
-      "filter": ["all", ["==", "company_id", 3], ["==", "info_id", 2],["selected",undefined]],
+      "filter": ["all", ["==", "company_id", 3], ["==", "info_id", 2]],
       "layout": {
         "icon-image": "inventia",
         "icon-size": 0.8
-      }
-    },
-     {
-      "id": "mjernoMjesto-icon-selected",
-      "type": "symbol",
-      "source": "mjernoMjesto",
-      "filter": ["all", ["==", "company_id", 3], ["==", "info_id", 2],["selected",true]],
-      "layout": {
-        "icon-image": "inventia",
-        "icon-size": 1.6
       }
     },
     {
