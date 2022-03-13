@@ -146,6 +146,16 @@
         "icon-size": 0.8
       }
     },
+     {
+      "id": "mjernoMjesto-icon-selected",
+      "type": "symbol",
+      "source": "mjernoMjesto",
+      "filter": ["all", ["==", "company_id", 3], ["==", "info_id", 2],["selected",true]],
+      "layout": {
+        "icon-image": "inventia",
+        "icon-size": 1.6
+      }
+    },
     {
       "id": "mjernoMjesto-label",
       "type": "symbol",
