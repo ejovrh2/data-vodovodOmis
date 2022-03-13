@@ -144,9 +144,6 @@
       "layout": {
         "icon-image": "inventia",
         "icon-size": 0.8
-      },
-      "paint":{
-        "icon-color": "rgba(16, 36, 180, 1)"
       }
     },
     {
