@@ -140,7 +140,7 @@
       "id": "mjernoMjesto-icon",
       "type": "symbol",
       "source": "mjernoMjesto",
-      "filter": ["all", ["==", "company_id", 3], ["==", "info_id", 2]],
+      "filter": ["all", ["==", "company_id", 3], ["==", "info_id", 2],["selected",undefined]],
       "layout": {
         "icon-image": "inventia",
         "icon-size": 0.8
