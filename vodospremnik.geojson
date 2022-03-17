@@ -1,11 +1,17 @@
 {
   "type": "FeatureCollection",
-  "name":"vodospremnik",
+  "name": "vodospremnik",
   "features": [
     {
       "type": "Feature",
       "id": 3306,
-      "geometry": { "type": "Point", "coordinates": [16.764732, 43.416217] },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.764732,
+          43.416217
+        ]
+      },
       "properties": {
         "Tip": "Vodosprema",
         "Hmax_mnm": 338.5268,
@@ -21,13 +27,20 @@
         "PodaciTocnost": "GNNS+VPPS",
         "PodaciIme": "vicko.kovacevic@vodovod.hr",
         "OptionalId": "Lokva",
-        "Klasa": "Vodospremnik"
+        "Klasa": "Vodospremnik",
+        "device_id": "test"
       }
     },
     {
       "type": "Feature",
       "id": 3307,
-      "geometry": { "type": "Point", "coordinates": [16.769768, 43.414949] },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.769768,
+          43.414949
+        ]
+      },
       "properties": {
         "Tip": "Vodosprema",
         "Hmax_mnm": 262.9062,
@@ -44,13 +57,20 @@
         "PodaciTocnost": "GNNS+VPPS",
         "PodaciIme": "vicko.kovacevic@vodovod.hr",
         "OptionalId": "Lokva",
-        "Klasa": "Vodospremnik"
+        "Klasa": "Vodospremnik",
+        "device_id": "test"
       }
     },
     {
       "type": "Feature",
       "id": 3308,
-      "geometry": { "type": "Point", "coordinates": [16.736557, 43.417864] },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.736557,
+          43.417864
+        ]
+      },
       "properties": {
         "Tip": "Vodosprema",
         "Hmax_mnm": 261.9526,
@@ -67,13 +87,20 @@
         "PodaciTocnost": "GNNS+VPPS",
         "PodaciIme": "vicko.kovacevic@vodovod.hr",
         "OptionalId": "Čelina",
-        "Klasa": "Vodospremnik"
+        "Klasa": "Vodospremnik",
+        "device_id": "test"
       }
     },
     {
       "type": "Feature",
       "id": 3309,
-      "geometry": { "type": "Point", "coordinates": [16.750484, 43.533215] },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.750484,
+          43.533215
+        ]
+      },
       "properties": {
         "Tip": "Prekidna komora",
         "Hmax_mnm": 326,
@@ -88,13 +115,20 @@
         "PodaciTocnost": "HOK",
         "PodaciIme": "vicko.kovacevic@vodovod.hr",
         "OptionalId": "Čikotina Lađa",
-        "Klasa": "Vodospremnik"
+        "Klasa": "Vodospremnik",
+        "device_id": "test"
       }
     },
     {
       "type": "Feature",
       "id": 3310,
-      "geometry": { "type": "Point", "coordinates": [16.710077, 43.469336] },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.710077,
+          43.469336
+        ]
+      },
       "properties": {
         "Tip": "Vodosprema",
         "Hmax_mnm": 354.5015,
@@ -110,13 +144,20 @@
         "PodaciTocnost": "GNNS+VPPS",
         "PodaciIme": "vicko.kovacevic@vodovod.hr",
         "OptionalId": "Podselje",
-        "Klasa": "Vodospremnik"
+        "Klasa": "Vodospremnik",
+        "device_id": "test"
       }
     },
     {
       "type": "Feature",
       "id": 3311,
-      "geometry": { "type": "Point", "coordinates": [16.76136, 43.586379] },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.76136,
+          43.586379
+        ]
+      },
       "properties": {
         "Tip": "Vodosprema",
         "Hmax_mnm": 478.2865,
@@ -133,13 +174,20 @@
         "PodaciTocnost": "GNNS+VPPS",
         "PodaciIme": "vicko.kovacevic@vodovod.hr",
         "OptionalId": "Marasović",
-        "Klasa": "Vodospremnik"
+        "Klasa": "Vodospremnik",
+        "device_id": "test"
       }
     },
     {
       "type": "Feature",
       "id": 3312,
-      "geometry": { "type": "Point", "coordinates": [16.709955, 43.43773] },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.709955,
+          43.43773
+        ]
+      },
       "properties": {
         "Tip": "Vodosprema",
         "Hmax_mnm": 265.5071,
@@ -157,13 +205,20 @@
         "PodaciTocnost": "GNNS+VPPS",
         "PodaciIme": "vicko.kovacevic@vodovod.hr",
         "OptionalId": "Pešići",
-        "Klasa": "Vodospremnik"
+        "Klasa": "Vodospremnik",
+        "device_id": "test"
       }
     },
     {
       "type": "Feature",
       "id": 3313,
-      "geometry": { "type": "Point", "coordinates": [16.712389, 43.436417] },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.712389,
+          43.436417
+        ]
+      },
       "properties": {
         "Tip": "Vodosprema",
         "Hmax_mnm": 318.2547,
@@ -181,13 +236,20 @@
         "PodaciTocnost": "GNNS+VPPS",
         "PodaciIme": "vicko.kovacevic@vodovod.hr",
         "OptionalId": "Čečuci",
-        "Klasa": "Vodospremnik"
+        "Klasa": "Vodospremnik",
+        "device_id": "test"
       }
     },
     {
       "type": "Feature",
       "id": 3314,
-      "geometry": { "type": "Point", "coordinates": [16.734745, 43.462253] },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.734745,
+          43.462253
+        ]
+      },
       "properties": {
         "Tip": "Prekidna komora",
         "Hmax_mnm": 292.7376,
@@ -205,13 +267,20 @@
         "PodaciTocnost": "GNNS+VPPS",
         "PodaciIme": "vicko.kovacevic@vodovod.hr",
         "OptionalId": "Čišla",
-        "Klasa": "Vodospremnik"
+        "Klasa": "Vodospremnik",
+        "device_id": "test"
       }
     },
     {
       "type": "Feature",
       "id": 3315,
-      "geometry": { "type": "Point", "coordinates": [16.813171, 43.517149] },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.813171,
+          43.517149
+        ]
+      },
       "properties": {
         "Tip": "Vodosprema",
         "Hmax_mnm": 460.88,
@@ -227,13 +296,20 @@
         "PodaciTocnost": "GNNS+VPPS",
         "PodaciIme": "vicko.kovacevic@vodovod.hr",
         "OptionalId": "Smoljanovici",
-        "Klasa": "Vodospremnik"
+        "Klasa": "Vodospremnik",
+        "device_id": "test"
       }
     },
     {
       "type": "Feature",
       "id": 3316,
-      "geometry": { "type": "Point", "coordinates": [16.963073, 43.431083] },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.963073,
+          43.431083
+        ]
+      },
       "properties": {
         "Tip": "Vodosprema",
         "Hmax_mnm": 298.7708,
@@ -250,13 +326,20 @@
         "PodaciTocnost": "GNNS+VPPS",
         "PodaciIme": "vicko.kovacevic@vodovod.hr",
         "OptionalId": "Privija",
-        "Klasa": "Vodospremnik"
+        "Klasa": "Vodospremnik",
+        "device_id": "test"
       }
     },
     {
       "type": "Feature",
       "id": 3317,
-      "geometry": { "type": "Point", "coordinates": [16.76071, 43.49429] },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.76071,
+          43.49429
+        ]
+      },
       "properties": {
         "Tip": "Vodosprema",
         "Vuk_m3": 100,
@@ -270,13 +353,20 @@
         "PodaciTocnost": "GEO",
         "PodaciIme": "EDC Tomislav Šimenc",
         "OptionalId": "Mosor",
-        "Klasa": "Vodospremnik"
+        "Klasa": "Vodospremnik",
+        "device_id": "test"
       }
     },
     {
       "type": "Feature",
       "id": 3318,
-      "geometry": { "type": "Point", "coordinates": [16.718968, 43.506172] },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.718968,
+          43.506172
+        ]
+      },
       "properties": {
         "Tip": "Vodosprema",
         "Hmax_mnm": 582.4693,
@@ -292,13 +382,20 @@
         "PodaciTocnost": "GNNS+VPPS",
         "PodaciIme": "vicko.kovacevic@vodovod.hr",
         "OptionalId": "Zidine",
-        "Klasa": "Vodospremnik"
+        "Klasa": "Vodospremnik",
+        "device_id": "test"
       }
     },
     {
       "type": "Feature",
       "id": 3319,
-      "geometry": { "type": "Point", "coordinates": [16.889772, 43.42958] },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.889772,
+          43.42958
+        ]
+      },
       "properties": {
         "Tip": "Vodosprema",
         "Vuk_m3": 5000,
@@ -311,13 +408,20 @@
         "PodaciTocnost": "FIKTIVNO",
         "PodaciIme": "EDC Tomislav Šimenc",
         "OptionalId": "Zadvarje",
-        "Klasa": "Vodospremnik"
+        "Klasa": "Vodospremnik",
+        "device_id": "test"
       }
     },
     {
       "type": "Feature",
       "id": 3320,
-      "geometry": { "type": "Point", "coordinates": [16.892513, 43.428036] },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.892513,
+          43.428036
+        ]
+      },
       "properties": {
         "Tip": "Vodosprema",
         "Hmax_mnm": 292.1798,
@@ -334,13 +438,20 @@
         "PodaciTocnost": "GNNS+VPPS",
         "PodaciIme": "vicko.kovacevic@vodovod.hr",
         "OptionalId": "Zadvarje",
-        "Klasa": "Vodospremnik"
+        "Klasa": "Vodospremnik",
+        "device_id": "test"
       }
     },
     {
       "type": "Feature",
       "id": 3321,
-      "geometry": { "type": "Point", "coordinates": [16.802148, 43.427893] },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.802148,
+          43.427893
+        ]
+      },
       "properties": {
         "Tip": "Vodosprema",
         "Hmax_mnm": 270.0173,
@@ -357,13 +468,20 @@
         "PodaciTocnost": "GNNS+VPPS",
         "PodaciIme": "vicko.kovacevic@vodovod.hr",
         "OptionalId": "Kucice",
-        "Klasa": "Vodospremnik"
+        "Klasa": "Vodospremnik",
+        "device_id": "test"
       }
     },
     {
       "type": "Feature",
       "id": 3322,
-      "geometry": { "type": "Point", "coordinates": [16.7856, 43.427375] },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.7856,
+          43.427375
+        ]
+      },
       "properties": {
         "Tip": "Vodosprema",
         "Hmax_mnm": 340.8364,
@@ -380,13 +498,20 @@
         "PodaciTocnost": "GNNS+VPPS",
         "PodaciIme": "vicko.kovacevic@vodovod.hr",
         "OptionalId": "Svinisce",
-        "Klasa": "Vodospremnik"
+        "Klasa": "Vodospremnik",
+        "device_id": "test"
       }
     },
     {
       "type": "Feature",
       "id": 3323,
-      "geometry": { "type": "Point", "coordinates": [16.83312, 43.453466] },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.83312,
+          43.453466
+        ]
+      },
       "properties": {
         "Tip": "Vodosprema",
         "Hmax_mnm": 265.6016,
@@ -403,13 +528,20 @@
         "PodaciTocnost": "GNNS+VPPS",
         "PodaciIme": "vicko.kovacevic@vodovod.hr",
         "OptionalId": "Oštro",
-        "Klasa": "Vodospremnik"
+        "Klasa": "Vodospremnik",
+        "device_id": "test"
       }
     },
     {
       "type": "Feature",
       "id": 3324,
-      "geometry": { "type": "Point", "coordinates": [16.644255, 43.441164] },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.644255,
+          43.441164
+        ]
+      },
       "properties": {
         "Tip": "Vodosprema",
         "Hmax_mnm": 48,
@@ -428,13 +560,20 @@
         "PodaciTocnost": "GNNS+VPPS",
         "PodaciIme": "vicko.kovacevic@vodovod.hr",
         "OptionalId": "DugiRat(staro)",
-        "Klasa": "Vodospremnik"
+        "Klasa": "Vodospremnik",
+        "device_id": "test"
       }
     },
     {
       "type": "Feature",
       "id": 3325,
-      "geometry": { "type": "Point", "coordinates": [16.682207, 43.463605] },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.682207,
+          43.463605
+        ]
+      },
       "properties": {
         "Tip": "Vodosprema",
         "Hmax_mnm": 363.4986,
@@ -450,13 +589,20 @@
         "PodaciTocnost": "GNNS+VPPS",
         "PodaciIme": "vicko.kovacevic@vodovod.hr",
         "OptionalId": "Sučica",
-        "Klasa": "Vodospremnik"
+        "Klasa": "Vodospremnik",
+        "device_id": "test"
       }
     },
     {
       "type": "Feature",
       "id": 3326,
-      "geometry": { "type": "Point", "coordinates": [16.706491, 43.459447] },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.706491,
+          43.459447
+        ]
+      },
       "properties": {
         "Tip": "Vodosprema",
         "Hmax_mnm": 341.5772,
@@ -472,13 +618,20 @@
         "PodaciTocnost": "GNNS+VPPS",
         "PodaciIme": "vicko.kovacevic@vodovod.hr",
         "OptionalId": "Gaj",
-        "Klasa": "Vodospremnik"
+        "Klasa": "Vodospremnik",
+        "device_id": "test"
       }
     },
     {
       "type": "Feature",
       "id": 3327,
-      "geometry": { "type": "Point", "coordinates": [16.679917, 43.443867] },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.679917,
+          43.443867
+        ]
+      },
       "properties": {
         "Tip": "Vodosprema",
         "Hmax_mnm": 83.4161,
@@ -494,13 +647,20 @@
         "PodaciTocnost": "GNNS+VPPS",
         "PodaciIme": "vicko.kovacevic@vodovod.hr",
         "OptionalId": "Stomarica",
-        "Klasa": "Vodospremnik"
+        "Klasa": "Vodospremnik",
+        "device_id": "test"
       }
     },
     {
       "type": "Feature",
       "id": 3328,
-      "geometry": { "type": "Point", "coordinates": [16.648734, 43.442836] },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.648734,
+          43.442836
+        ]
+      },
       "properties": {
         "Tip": "Vodosprema",
         "Hmax_mnm": 95.5268,
@@ -517,13 +677,20 @@
         "PodaciTocnost": "GNNS+VPPS",
         "PodaciIme": "vicko.kovacevic@vodovod.hr",
         "OptionalId": "DugiRat",
-        "Klasa": "Vodospremnik"
+        "Klasa": "Vodospremnik",
+        "device_id": "test"
       }
     },
     {
       "type": "Feature",
       "id": 3329,
-      "geometry": { "type": "Point", "coordinates": [16.700846, 43.439275] },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.700846,
+          43.439275
+        ]
+      },
       "properties": {
         "Tip": "Vodosprema",
         "Hmax_mnm": 67.0695,
@@ -542,13 +709,20 @@
         "PodaciTocnost": "GNNS+VPPS",
         "PodaciIme": "vicko.kovacevic@vodovod.hr",
         "OptionalId": "Mlija",
-        "Klasa": "Vodospremnik"
+        "Klasa": "Vodospremnik",
+        "device_id": "test"
       }
     },
     {
       "type": "Feature",
       "id": 3330,
-      "geometry": { "type": "Point", "coordinates": [16.705596, 43.440112] },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.705596,
+          43.440112
+        ]
+      },
       "properties": {
         "Tip": "Vodosprema",
         "Hmax_mnm": 167.5307,
@@ -565,13 +739,20 @@
         "PodaciTocnost": "GNNS+VPPS",
         "PodaciIme": "vicko.kovacevic@vodovod.hr",
         "OptionalId": "Borak",
-        "Klasa": "Vodospremnik"
+        "Klasa": "Vodospremnik",
+        "device_id": "test"
       }
     },
     {
       "type": "Feature",
       "id": 3331,
-      "geometry": { "type": "Point", "coordinates": [16.837033, 43.469251] },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.837033,
+          43.469251
+        ]
+      },
       "properties": {
         "Tip": "Vodosprema",
         "Hmax_mnm": 310.1761,
@@ -588,13 +769,20 @@
         "PodaciTocnost": "GNNS+VPPS",
         "PodaciIme": "vicko.kovacevic@vodovod.hr",
         "OptionalId": "BlatoNaCetini",
-        "Klasa": "Vodospremnik"
+        "Klasa": "Vodospremnik",
+        "device_id": "test"
       }
     },
     {
       "type": "Feature",
       "id": 3332,
-      "geometry": { "type": "Point", "coordinates": [16.677954, 43.444492] },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.677954,
+          43.444492
+        ]
+      },
       "properties": {
         "Tip": "Prekidna komora",
         "Hmax_mnm": 130.1963,
@@ -611,7 +799,8 @@
         "PodaciTocnost": "GNNS+VPPS",
         "PodaciIme": "vicko.kovacevic@vodovod.hr",
         "OptionalId": "Priko",
-        "Klasa": "Vodospremnik"
+        "Klasa": "Vodospremnik",
+        "device_id": "test"
       }
     }
   ]
