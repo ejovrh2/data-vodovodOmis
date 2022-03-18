@@ -31,7 +31,10 @@
         "OptionalId": "Kuvačić",
         "Upravitelj": "Vodovod Omiš",
         "Klasa": "Pumpa",
-        "device_id": "test"
+        "device_id": "test",
+        "tag_name": "test",
+        "PodaciDatum": "",
+        "tag_desc": "test"
       }
     },
     {
@@ -62,7 +65,9 @@
         "OptionalId": "Mandušići",
         "Upravitelj": "Vodovod Omiš",
         "Klasa": "Pumpa",
-        "device_id": "test"
+        "device_id": "test",
+        "tag_name": "test",
+        "tag_desc": "test"
       }
     },
     {
@@ -96,7 +101,9 @@
         "OptionalId": "Ribičići",
         "Upravitelj": "Vodovod Omiš",
         "Klasa": "Pumpa",
-        "device_id": "test"
+        "device_id": "test",
+        "tag_name": "test",
+        "tag_desc": "test"
       }
     },
     {
@@ -119,7 +126,9 @@
         "OptionalId": "Gorica",
         "Upravitelj": "Vodovod Omiš",
         "Klasa": "Pumpa",
-        "device_id": "test"
+        "device_id": "test",
+        "tag_name": "test",
+        "tag_desc": "test"
       }
     },
     {
@@ -151,7 +160,9 @@
         "OptionalId": "Lokva 2",
         "Upravitelj": "Vodovod Omiš",
         "Klasa": "Pumpa",
-        "device_id": "test"
+        "device_id": "test",
+        "tag_name": "test",
+        "tag_desc": "test"
       }
     },
     {
@@ -183,7 +194,9 @@
         "OptionalId": "Lokva 2",
         "Upravitelj": "Vodovod Omiš",
         "Klasa": "Pumpa",
-        "device_id": "test"
+        "device_id": "test",
+        "tag_name": "test",
+        "tag_desc": "test"
       }
     },
     {
@@ -214,7 +227,9 @@
         "OptionalId": "Lokva I",
         "Upravitelj": "Vodovod Omiš",
         "Klasa": "Pumpa",
-        "device_id": "test"
+        "device_id": "test",
+        "tag_name": "test",
+        "tag_desc": "test"
       }
     },
     {
@@ -245,7 +260,9 @@
         "OptionalId": "Lokva I",
         "Upravitelj": "Vodovod Omiš",
         "Klasa": "Pumpa",
-        "device_id": "test"
+        "device_id": "test",
+        "tag_name": "test",
+        "tag_desc": "test"
       }
     },
     {
@@ -276,7 +293,9 @@
         "OptionalId": "Čelina",
         "Upravitelj": "Vodovod Omiš",
         "Klasa": "Pumpa",
-        "device_id": "test"
+        "device_id": "test",
+        "tag_name": "test",
+        "tag_desc": "test"
       }
     },
     {
@@ -308,7 +327,9 @@
         "OptionalId": "Pešići",
         "Upravitelj": "Vodovod Omiš",
         "Klasa": "Pumpa",
-        "device_id": "test"
+        "device_id": "test",
+        "tag_name": "test",
+        "tag_desc": "test"
       }
     },
     {
@@ -340,7 +361,9 @@
         "OptionalId": "Borak",
         "Upravitelj": "Vodovod Omiš",
         "Klasa": "Pumpa",
-        "device_id": "test"
+        "device_id": "test",
+        "tag_name": "test",
+        "tag_desc": "test"
       }
     },
     {
@@ -373,7 +396,9 @@
         "OptionalId": "Podcelje",
         "Upravitelj": "Vodovod Omiš",
         "Klasa": "Pumpa",
-        "device_id": "test"
+        "device_id": "test",
+        "tag_name": "test",
+        "tag_desc": "test"
       }
     },
     {
@@ -405,7 +430,9 @@
         "OptionalId": "Zidine",
         "Upravitelj": "Vodovod Omiš",
         "Klasa": "Pumpa",
-        "device_id": "test"
+        "device_id": "test",
+        "tag_name": "test",
+        "tag_desc": "test"
       }
     },
     {
@@ -434,7 +461,9 @@
         "OptionalId": "Studenci",
         "Upravitelj": "Vodovod Omiš",
         "Klasa": "Pumpa",
-        "device_id": "test"
+        "device_id": "test",
+        "tag_name": "test",
+        "tag_desc": "test"
       }
     },
     {
@@ -466,7 +495,9 @@
         "OptionalId": "Sestanovac",
         "Upravitelj": "Vodovod Omiš",
         "Klasa": "Pumpa",
-        "device_id": "test"
+        "device_id": "test",
+        "tag_name": "test",
+        "tag_desc": "test"
       }
     },
     {
@@ -498,7 +529,9 @@
         "OptionalId": "Sestanovac",
         "Upravitelj": "Vodovod Omiš",
         "Klasa": "Pumpa",
-        "device_id": "test"
+        "device_id": "test",
+        "tag_name": "test",
+        "tag_desc": "test"
       }
     },
     {
@@ -530,7 +563,9 @@
         "OptionalId": "Sestanovac",
         "Upravitelj": "Vodovod Omiš",
         "Klasa": "Pumpa",
-        "device_id": "test"
+        "device_id": "test",
+        "tag_name": "test",
+        "tag_desc": "test"
       }
     },
     {
@@ -555,7 +590,9 @@
         "OptionalId": "Budimir",
         "Upravitelj": "Vodovod i odvodnja Cetinske Krajine ",
         "Klasa": "Pumpa",
-        "device_id": "test"
+        "device_id": "test",
+        "tag_name": "test",
+        "tag_desc": "test"
       }
     },
     {
@@ -587,7 +624,9 @@
         "OptionalId": "Nova Sela",
         "Upravitelj": "Vodovod Omiš",
         "Klasa": "Pumpa",
-        "device_id": "test"
+        "device_id": "test",
+        "tag_name": "test",
+        "tag_desc": "test"
       }
     },
     {
@@ -620,7 +659,9 @@
         "OptionalId": "Svinisce",
         "Upravitelj": "Vodovod Omiš",
         "Klasa": "Pumpa",
-        "device_id": "test"
+        "device_id": "test",
+        "tag_name": "test",
+        "tag_desc": "test"
       }
     },
     {
@@ -652,7 +693,9 @@
         "OptionalId": "Zidine",
         "Upravitelj": "Vodovod Omiš",
         "Klasa": "Pumpa",
-        "device_id": "test"
+        "device_id": "test",
+        "tag_name": "test",
+        "tag_desc": "test"
       }
     },
     {
@@ -678,7 +721,9 @@
         "OptionalId": "Pešići",
         "Upravitelj": "Vodovod Makarska",
         "Klasa": "Pumpa",
-        "device_id": "test"
+        "device_id": "test",
+        "tag_name": "test",
+        "tag_desc": "test"
       }
     },
     {
@@ -701,7 +746,9 @@
         "OptionalId": "Sodani",
         "Upravitelj": "Vodovod Makarska",
         "Klasa": "Pumpa",
-        "device_id": "test"
+        "device_id": "test",
+        "tag_name": "test",
+        "tag_desc": "test"
       }
     },
     {
@@ -734,7 +781,9 @@
         "OptionalId": "Svinisce",
         "Upravitelj": "Vodovod Omiš",
         "Klasa": "Pumpa",
-        "device_id": "test"
+        "device_id": "test",
+        "tag_name": "test",
+        "tag_desc": "test"
       }
     },
     {
@@ -763,7 +812,9 @@
         "OptionalId": "Studenci",
         "Upravitelj": "Vodovod Omiš",
         "Klasa": "Pumpa",
-        "device_id": "test"
+        "device_id": "test",
+        "tag_name": "test",
+        "tag_desc": "test"
       }
     },
     {
@@ -795,7 +846,9 @@
         "OptionalId": "Sestanovac",
         "Upravitelj": "Vodovod Omiš",
         "Klasa": "Pumpa",
-        "device_id": "test"
+        "device_id": "test",
+        "tag_name": "test",
+        "tag_desc": "test"
       }
     },
     {
@@ -825,7 +878,9 @@
         "OptionalId": "Slime",
         "Upravitelj": "Vodovod Omiš",
         "Klasa": "Pumpa",
-        "device_id": "test"
+        "device_id": "test",
+        "tag_name": "test",
+        "tag_desc": "test"
       }
     },
     {
@@ -855,7 +910,9 @@
         "OptionalId": "Slime",
         "Upravitelj": "Vodovod Omiš",
         "Klasa": "Pumpa",
-        "device_id": "test"
+        "device_id": "test",
+        "tag_name": "test",
+        "tag_desc": "test"
       }
     },
     {
@@ -888,7 +945,9 @@
         "OptionalId": "Kalajžići",
         "Upravitelj": "Vodovod Omiš",
         "Klasa": "Pumpa",
-        "device_id": "test"
+        "device_id": "test",
+        "tag_name": "test",
+        "tag_desc": "test"
       }
     },
     {
@@ -923,7 +982,9 @@
         "OptionalId": "Kalajžići",
         "Upravitelj": "Vodovod Omiš",
         "Klasa": "Pumpa",
-        "device_id": "test"
+        "device_id": "test",
+        "tag_name": "test",
+        "tag_desc": "test"
       }
     },
     {
@@ -956,7 +1017,9 @@
         "OptionalId": "Kuvačić",
         "Upravitelj": "Vodovod Omiš",
         "Klasa": "Pumpa",
-        "device_id": "test"
+        "device_id": "test",
+        "tag_name": "test",
+        "tag_desc": "test"
       }
     },
     {
@@ -991,7 +1054,9 @@
         "OptionalId": "Ribičići",
         "Upravitelj": "Vodovod Omiš",
         "Klasa": "Pumpa",
-        "device_id": "test"
+        "device_id": "test",
+        "tag_name": "test",
+        "tag_desc": "test"
       }
     },
     {
@@ -1024,7 +1089,9 @@
         "OptionalId": "Zagrad Sučica",
         "Upravitelj": "Vodovod Omiš",
         "Klasa": "Pumpa",
-        "device_id": "test"
+        "device_id": "test",
+        "tag_name": "test",
+        "tag_desc": "test"
       }
     },
     {
@@ -1057,7 +1124,9 @@
         "OptionalId": "Zagrad Sučica",
         "Upravitelj": "Vodovod Omiš",
         "Klasa": "Pumpa",
-        "device_id": "test"
+        "device_id": "test",
+        "tag_name": "test",
+        "tag_desc": "test"
       }
     },
     {
@@ -1090,7 +1159,9 @@
         "OptionalId": "Zagrad Gaj",
         "Upravitelj": "Vodovod Omiš",
         "Klasa": "Pumpa",
-        "device_id": "test"
+        "device_id": "test",
+        "tag_name": "test",
+        "tag_desc": "test"
       }
     },
     {
@@ -1123,7 +1194,9 @@
         "OptionalId": "Zagrad Gaj",
         "Upravitelj": "Vodovod Omiš",
         "Klasa": "Pumpa",
-        "device_id": "test"
+        "device_id": "test",
+        "tag_name": "test",
+        "tag_desc": "test"
       }
     },
     {
@@ -1154,7 +1227,9 @@
         "OptionalId": "Tadinci",
         "Upravitelj": "Vodovod Omiš",
         "Klasa": "Pumpa",
-        "device_id": "test"
+        "device_id": "test",
+        "tag_name": "test",
+        "tag_desc": "test"
       }
     },
     {
@@ -1185,7 +1260,9 @@
         "OptionalId": "Tadinci",
         "Upravitelj": "Vodovod Omiš",
         "Klasa": "Pumpa",
-        "device_id": "test"
+        "device_id": "test",
+        "tag_name": "test",
+        "tag_desc": "test"
       }
     },
     {
@@ -1217,7 +1294,9 @@
         "OptionalId": "Kekezi",
         "Upravitelj": "Vodovod Omiš",
         "Klasa": "Pumpa",
-        "device_id": "test"
+        "device_id": "test",
+        "tag_name": "test",
+        "tag_desc": "test"
       }
     },
     {
@@ -1249,7 +1328,9 @@
         "OptionalId": "Kekezi",
         "Upravitelj": "Vodovod Omiš",
         "Klasa": "Pumpa",
-        "device_id": "test"
+        "device_id": "test",
+        "tag_name": "test",
+        "tag_desc": "test"
       }
     },
     {
@@ -1282,7 +1363,9 @@
         "OptionalId": "Kučiće 1",
         "Upravitelj": "Vodovod Omiš",
         "Klasa": "Pumpa",
-        "device_id": "test"
+        "device_id": "test",
+        "tag_name": "test",
+        "tag_desc": "test"
       }
     },
     {
@@ -1315,7 +1398,9 @@
         "OptionalId": "Kučiće 2",
         "Upravitelj": "Vodovod Omiš",
         "Klasa": "Pumpa",
-        "device_id": "test"
+        "device_id": "test",
+        "tag_name": "test",
+        "tag_desc": "test"
       }
     },
     {
@@ -1350,7 +1435,9 @@
         "Upravitelj": "Vodovod Omiš",
         "Klasa": "Pumpa",
         "device_id": "test",
-        "Nel_kVA": ""
+        "Nel_kVA": "",
+        "tag_name": "test",
+        "tag_desc": "test"
       }
     },
     {
@@ -1384,7 +1471,9 @@
         "OptionalId": "Dočine",
         "Upravitelj": "Vodovod Omiš",
         "Klasa": "Pumpa",
-        "device_id": "test"
+        "device_id": "test",
+        "tag_name": "test",
+        "tag_desc": "test"
       }
     },
     {
@@ -1416,7 +1505,9 @@
         "OptionalId": "Borak",
         "Upravitelj": "Vodovod Omiš",
         "Klasa": "Pumpa",
-        "device_id": "test"
+        "device_id": "test",
+        "tag_name": "test",
+        "tag_desc": "test"
       }
     },
     {
@@ -1449,7 +1540,9 @@
         "OptionalId": "Podcelje",
         "Upravitelj": "Vodovod Omiš",
         "Klasa": "Pumpa",
-        "device_id": "test"
+        "device_id": "test",
+        "tag_name": "test",
+        "tag_desc": "test"
       }
     }
   ]
