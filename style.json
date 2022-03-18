@@ -104,6 +104,31 @@
         "icon-size": 0.2
       }
     },
+        {
+      "id": "pumpa-label",
+      "type": "symbol",
+      "source": "pumpa",
+      "minzoom": 12,
+      "layout": {
+        "text-field": [
+          "concat",
+          ["get", "Ime"],
+          "\n",
+          "H= ",
+          ["ceil", ["get", "H_mnm"]],
+          " mnm"
+        ],
+        "text-size": 12,
+        "text-font": ["Arial Normal", "sans-serif Normal"],
+        "text-offset": [0, -2]
+      },
+      "paint": {
+        "text-color": "black",
+        "text-halo-blur": 1,
+        "text-halo-color": "#ffffff",
+        "text-halo-width": 3
+      }
+    },
     {
       "id": "vodospremnik-icon",
       "type": "symbol",
