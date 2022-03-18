@@ -180,7 +180,7 @@
     },
      {
       "id": "telemetrija-icon",
-      "type": "triangle",
+      "type": "circle",
       "source": "telemetrija",
       "minzoom": 8,
       "paint": {
