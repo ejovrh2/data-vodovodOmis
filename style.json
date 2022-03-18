@@ -33,7 +33,7 @@
     "pumpa": {
       "type": "geojson",
       "data": "/dir/pumpa"
-    },
+    }
   },
   "layers": [
     {
