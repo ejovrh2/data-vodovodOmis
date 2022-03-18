@@ -1065,11 +1065,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          16.694079,
-          43.460053
+          16.692915558815002,
+          43.45983467603384
         ]
       },
       "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
         "Tip": "Crpka",
         "H_mnm": 234.56,
         "Qnom_l_s": 90,
@@ -1089,9 +1092,9 @@
         "OptionalId": "Zagrad Sučica",
         "Upravitelj": "Vodovod Omiš",
         "Klasa": "Pumpa",
-        "device_id": "test",
-        "tag_name": "test",
-        "tag_desc": "test"
+        "device_id": 171,
+        "tag_name": "master\\ZAGRADMP1_Quk",
+        "tag_desc": "ZAGRAD SMJER VS SUCICA MP1 ukupno m3"
       }
     },
     {
