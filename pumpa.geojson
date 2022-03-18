@@ -1,0 +1,1409 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 202,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.713815,
+          43.466053
+        ]
+      },
+      "properties": {
+        "Tip": "Hidrostanica",
+        "H_mnm": 312.3334,
+        "Qnom_l_s": 36,
+        "Hnom_msv": 65,
+        "Nmeh_kW": 22,
+        "Husis_mnm": 312.3334,
+        "Ime": "Kuvačići",
+        "Lokacija": "Gata",
+        "TehnickaCjelina": "Zagrad",
+        "LokalnaUprava": "Grad Omiš",
+        "Status": "Rad",
+        "GodinaIzgradnje": 2017,
+        "OcjenaStanja": 8,
+        "PodaciIzvor": "Trimble R8s+Trimble TSC3",
+        "PodaciTocnost": "GNSS+VPPS",
+        "PodaciIme": "vicko.kovacevic@vodovod.hr",
+        "OptionalId": "Kuvačić",
+        "Upravitelj": "Vodovod Omiš",
+        "Klasa": "Pumpa"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 203,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.88178,
+          43.472119
+        ]
+      },
+      "properties": {
+        "Tip": "Hidrostanica",
+        "H_mnm": 274.4288,
+        "Husis_mnm": 274.4288,
+        "Ime": "Mandušići",
+        "Lokacija": "Katuni",
+        "MjernaZona": "Katuni",
+        "TehnickaCjelina": "Kraljevac",
+        "LokalnaUprava": "Općina Šestanovac",
+        "Status": "Rad",
+        "GodinaIzgradnje": 2017,
+        "OcjenaStanja": 7,
+        "PodaciIzvor": "Trimble R8s+Trimble TSC3",
+        "PodaciTocnost": "GNSS+VPPS",
+        "PodaciIme": "vicko.kovacevic@vodovod.hr",
+        "OptionalId": "Mandušići",
+        "Upravitelj": "Vodovod Omiš",
+        "Klasa": "Pumpa"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 204,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.912748,
+          43.45507
+        ]
+      },
+      "properties": {
+        "Tip": "Hidrostanica",
+        "H_mnm": 259.7831,
+        "Qnom_l_s": 3.6,
+        "Hnom_msv": 65,
+        "Nmeh_kW": 2.2,
+        "Husis_mnm": 259.7831,
+        "Ime": "Ribičići",
+        "Lokacija": "Šestanovac",
+        "MjernaZona": "Šestanovac",
+        "TehnickaCjelina": "Kraljevac",
+        "LokalnaUprava": "Općina Šestanovac",
+        "Status": "Rad",
+        "GodinaIzgradnje": 2017,
+        "OcjenaStanja": 7,
+        "PodaciIzvor": "Trimble R8s+Trimble TSC3",
+        "PodaciTocnost": "GNSS+VPPS",
+        "PodaciIme": "vicko.kovacevic@vodovod.hr",
+        "OptionalId": "Ribičići",
+        "Upravitelj": "Vodovod Omiš",
+        "Klasa": "Pumpa"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 205,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.764716,
+          43.416205
+        ]
+      },
+      "properties": {
+        "Tip": "Hidrostanica",
+        "Ime": "Gorica",
+        "MjernaZona": "Lokva II",
+        "TehnickaCjelina": "Zagrad",
+        "OcjenaStanja": 1,
+        "PodaciIme": "vicko.kovacevic@vodovod.hr",
+        "OptionalId": "Gorica",
+        "Upravitelj": "Vodovod Omiš",
+        "Klasa": "Pumpa"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 206,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.769763,
+          43.414953
+        ]
+      },
+      "properties": {
+        "Tip": "Crpka",
+        "H_mnm": 259.2762,
+        "Qnom_l_s": 1.61,
+        "Hnom_msv": 102.9,
+        "Nmeh_kW": 3,
+        "Husis_mnm": 259.2762,
+        "Ime": "Lokva 2",
+        "Lokacija": "Lokva Rogoznica",
+        "MjernaZona": "Lokva II",
+        "TehnickaCjelina": "Zagrad",
+        "LokalnaUprava": "Grad Omiš",
+        "Status": "Rad",
+        "PodaciIzvor": "GPS snimak Vicko Kovačević",
+        "PodaciTocnost": "GEO",
+        "PodaciIme": "vicko.kovacevic@vodovod.hr",
+        "OptionalId": "Lokva 2",
+        "Upravitelj": "Vodovod Omiš",
+        "Klasa": "Pumpa"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 207,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.769763,
+          43.414959
+        ]
+      },
+      "properties": {
+        "Tip": "Crpka",
+        "H_mnm": 259.2762,
+        "Qnom_l_s": 1.61,
+        "Hnom_msv": 102.9,
+        "Nmeh_kW": 3,
+        "Husis_mnm": 259.2762,
+        "Ime": "Lokva 2",
+        "Lokacija": "Lokva Rogoznica",
+        "MjernaZona": "Lokva II",
+        "TehnickaCjelina": "Zagrad",
+        "LokalnaUprava": "Grad Omiš",
+        "Status": "Rad",
+        "PodaciIzvor": "GPS snimak Vicko Kovačević",
+        "PodaciTocnost": "GEO",
+        "PodaciIme": "vicko.kovacevic@vodovod.hr",
+        "OptionalId": "Lokva 2",
+        "Upravitelj": "Vodovod Omiš",
+        "Klasa": "Pumpa"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 208,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.765802,
+          43.411979
+        ]
+      },
+      "properties": {
+        "Tip": "Crpka",
+        "H_mnm": 138.0848,
+        "Qnom_l_s": 2.64,
+        "Hnom_msv": 119.4,
+        "Nmeh_kW": 5.5,
+        "Husis_mnm": 138.0848,
+        "Ime": "Lokva 1",
+        "Lokacija": "Lokva Rogoznica",
+        "TehnickaCjelina": "Zagrad",
+        "LokalnaUprava": "Grad Omiš",
+        "Status": "Rad",
+        "PodaciIzvor": "GPS snimak Vicko Kovačević",
+        "PodaciTocnost": "GEO",
+        "PodaciIme": "vicko.kovacevic@vodovod.hr",
+        "OptionalId": "Lokva I",
+        "Upravitelj": "Vodovod Omiš",
+        "Klasa": "Pumpa"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 209,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.765782,
+          43.411979
+        ]
+      },
+      "properties": {
+        "Tip": "Crpka",
+        "H_mnm": 138.0848,
+        "Qnom_l_s": 2.64,
+        "Hnom_msv": 119.4,
+        "Nmeh_kW": 5.5,
+        "Husis_mnm": 138.0848,
+        "Ime": "Lokva 1",
+        "Lokacija": "Lokva Rogoznica",
+        "TehnickaCjelina": "Zagrad",
+        "LokalnaUprava": "Grad Omiš",
+        "Status": "Rad",
+        "PodaciIzvor": "GPS snimak Vicko Kovačević",
+        "PodaciTocnost": "GEO",
+        "PodaciIme": "vicko.kovacevic@vodovod.hr",
+        "OptionalId": "Lokva I",
+        "Upravitelj": "Vodovod Omiš",
+        "Klasa": "Pumpa"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 210,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.73555,
+          43.415104
+        ]
+      },
+      "properties": {
+        "Tip": "Crpka",
+        "H_mnm": 136.1477,
+        "Qnom_l_s": 2.78,
+        "Hnom_msv": 149.4,
+        "Nmeh_kW": 7.5,
+        "Husis_mnm": 136.1477,
+        "Ime": "Čelina",
+        "Lokacija": "Čelina",
+        "TehnickaCjelina": "Zagrad",
+        "LokalnaUprava": "Grad Omiš",
+        "Status": "Rad",
+        "PodaciIzvor": "GPS snimak Vicko Kovačević",
+        "PodaciTocnost": "GEO",
+        "PodaciIme": "vicko.kovacevic@vodovod.hr",
+        "OptionalId": "Čelina",
+        "Upravitelj": "Vodovod Omiš",
+        "Klasa": "Pumpa"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 211,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.709924,
+          43.437764
+        ]
+      },
+      "properties": {
+        "Tip": "Crpka",
+        "H_mnm": 262.0571,
+        "Qnom_l_s": 1.67,
+        "Hnom_msv": 49.7,
+        "Nmeh_kW": 1,
+        "Husis_mnm": 262.0571,
+        "Ime": "Pešići",
+        "Lokacija": "Borak",
+        "MjernaZona": "Borak",
+        "TehnickaCjelina": "Zagrad",
+        "LokalnaUprava": "Grad Omiš",
+        "Status": "Rad",
+        "PodaciIzvor": "GPS snimak Vicko Kovačević",
+        "PodaciTocnost": "GEO",
+        "PodaciIme": "vicko.kovacevic@vodovod.hr",
+        "OptionalId": "Pešići",
+        "Upravitelj": "Vodovod Omiš",
+        "Klasa": "Pumpa"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 212,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.705607,
+          43.440078
+        ]
+      },
+      "properties": {
+        "Tip": "Crpka",
+        "H_mnm": 166.3807,
+        "Qnom_l_s": 2.64,
+        "Hnom_msv": 67,
+        "Nmeh_kW": 3,
+        "Husis_mnm": 166.3807,
+        "Ime": "Borak",
+        "Lokacija": "Borak",
+        "MjernaZona": "Borak",
+        "TehnickaCjelina": "Zagrad",
+        "LokalnaUprava": "Grad Omiš",
+        "Status": "Rad",
+        "PodaciIzvor": "GPS snimak Vicko Kovačević",
+        "PodaciTocnost": "GEO",
+        "PodaciIme": "vicko.kovacevic@vodovod.hr",
+        "OptionalId": "Borak",
+        "Upravitelj": "Vodovod Omiš",
+        "Klasa": "Pumpa"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 213,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.705517,
+          43.465819
+        ]
+      },
+      "properties": {
+        "Tip": "Crpka",
+        "H_mnm": 282.0684,
+        "Qnom_l_s": 2.64,
+        "Hnom_msv": 84.9,
+        "Nmeh_kW": 2,
+        "Husis_mnm": 282.0684,
+        "Ime": "Podcelje",
+        "Lokacija": "Gata",
+        "MjernaZona": "Gata",
+        "TehnickaCjelina": "Zagrad",
+        "LokalnaUprava": "Grad Omiš",
+        "Status": "Rad",
+        "OcjenaStanja": 1,
+        "PodaciIzvor": "Trimble GeoXH+LG G3(korekcija)",
+        "PodaciTocnost": "GEO",
+        "PodaciIme": "vicko.kovacevic@vodovod.hr",
+        "OptionalId": "Podcelje",
+        "Upravitelj": "Vodovod Omiš",
+        "Klasa": "Pumpa"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 214,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.726266,
+          43.516972
+        ]
+      },
+      "properties": {
+        "Tip": "Crpka",
+        "H_mnm": 421.0236,
+        "Qnom_l_s": 12.5,
+        "Hnom_msv": 143.9,
+        "Nmeh_kW": 30,
+        "Husis_mnm": 421.0236,
+        "Ime": "Zidine 2",
+        "Lokacija": "Srijane",
+        "TehnickaCjelina": "Ruda",
+        "LokalnaUprava": "Grad Omiš",
+        "Status": "Rad",
+        "OcjenaStanja": 7,
+        "PodaciIzvor": "Trimble GeoXH+LG G3(korekcija)",
+        "PodaciTocnost": "GEO",
+        "PodaciIme": "vicko.kovacevic@vodovod.hr",
+        "OptionalId": "Zidine",
+        "Upravitelj": "Vodovod Omiš",
+        "Klasa": "Pumpa"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 215,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.808169,
+          43.444568
+        ]
+      },
+      "properties": {
+        "Tip": "Crpka",
+        "Qnom_l_s": 15,
+        "Hnom_msv": 272.95,
+        "Nmeh_kW": 75,
+        "Ime": "Studenci(Oštro)",
+        "Lokacija": "Kostanje",
+        "TehnickaCjelina": "Studenci",
+        "LokalnaUprava": "Grad Omiš",
+        "Status": "Rad",
+        "PodaciIzvor": "GPS snimak Vicko Kovačević",
+        "PodaciTocnost": "GEO",
+        "PodaciIme": "vicko.kovacevic@vodovod.hr",
+        "OptionalId": "Studenci",
+        "Upravitelj": "Vodovod Omiš",
+        "Klasa": "Pumpa"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 216,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.904918,
+          43.443325
+        ]
+      },
+      "properties": {
+        "Tip": "Crpka",
+        "H_mnm": 222.3291,
+        "Qnom_l_s": 17.8,
+        "Hnom_msv": 65.3,
+        "Nmeh_kW": 15,
+        "Husis_mnm": 222.3291,
+        "Ime": "Šestanovac(Blato n/C) 2",
+        "Lokacija": "Šestanovac",
+        "MjernaZona": "Šestanovac",
+        "TehnickaCjelina": "Kraljevac",
+        "LokalnaUprava": "Općina Šestanovac",
+        "Status": "Rad",
+        "PodaciIzvor": "GPS snimak Vicko Kovačević",
+        "PodaciTocnost": "GEO",
+        "PodaciIme": "vicko.kovacevic@vodovod.hr",
+        "OptionalId": "Sestanovac",
+        "Upravitelj": "Vodovod Omiš",
+        "Klasa": "Pumpa"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 217,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.904929,
+          43.443349
+        ]
+      },
+      "properties": {
+        "Tip": "Crpka",
+        "H_mnm": 222.3291,
+        "Qnom_l_s": 25,
+        "Hnom_msv": 59.8,
+        "Nmeh_kW": 22,
+        "Husis_mnm": 222.3291,
+        "Ime": "Šestanovac(Privija) 2",
+        "Lokacija": "Šestanovac",
+        "MjernaZona": "Šestanovac",
+        "TehnickaCjelina": "Kraljevac",
+        "LokalnaUprava": "Općina Šestanovac",
+        "Status": "Rad",
+        "PodaciIzvor": "GPS snimak Vicko Kovačević",
+        "PodaciTocnost": "GEO",
+        "PodaciIme": "vicko.kovacevic@vodovod.hr",
+        "OptionalId": "Sestanovac",
+        "Upravitelj": "Vodovod Omiš",
+        "Klasa": "Pumpa"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 218,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.904916,
+          43.44332
+        ]
+      },
+      "properties": {
+        "Tip": "Crpka",
+        "H_mnm": 222.3291,
+        "Qnom_l_s": 17.8,
+        "Hnom_msv": 65.3,
+        "Nmeh_kW": 15,
+        "Husis_mnm": 222.3291,
+        "Ime": "Šestanovac(Blato n/C) 1",
+        "Lokacija": "Šestanovac",
+        "MjernaZona": "Šestanovac",
+        "TehnickaCjelina": "Kraljevac",
+        "LokalnaUprava": "Općina Šestanovac",
+        "Status": "Rad",
+        "PodaciIzvor": "GPS snimak Vicko Kovačević",
+        "PodaciTocnost": "GEO",
+        "PodaciIme": "vicko.kovacevic@vodovod.hr",
+        "OptionalId": "Sestanovac",
+        "Upravitelj": "Vodovod Omiš",
+        "Klasa": "Pumpa"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 219,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.801527,
+          43.570329
+        ]
+      },
+      "properties": {
+        "Tip": "Crpka",
+        "Ime": "Budimir",
+        "TehnickaCjelina": "Ruda",
+        "LokalnaUprava": "Grad Trilj",
+        "Status": "Rad",
+        "PodaciIzvor": "GPS snimak Vicko Kovačević",
+        "PodaciTocnost": "GPS(android)",
+        "PodaciIme": "vicko.kovacevic@vodovod.hr",
+        "OptionalId": "Budimir",
+        "Upravitelj": "Vodovod i odvodnja Cetinske Krajine ",
+        "Klasa": "Pumpa"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 220,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.796242,
+          43.523926
+        ]
+      },
+      "properties": {
+        "Tip": "Crpka",
+        "H_mnm": 439.7606,
+        "Qnom_l_s": 1.4,
+        "Hnom_msv": 65,
+        "Nmeh_kW": 0.9,
+        "Husis_mnm": 439.7606,
+        "Ime": "Nova Sela",
+        "Lokacija": "Nova Sela",
+        "MjernaZona": "Nova Sela - sjever",
+        "TehnickaCjelina": "Ruda",
+        "LokalnaUprava": "Grad Omiš",
+        "Status": "Rad",
+        "PodaciIzvor": "GPS snimak Vicko Kovačević",
+        "PodaciTocnost": "GEO",
+        "PodaciIme": "vicko.kovacevic@vodovod.hr",
+        "OptionalId": "Nova Sela",
+        "Upravitelj": "Vodovod Omiš",
+        "Klasa": "Pumpa"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 221,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.782129,
+          43.430938
+        ]
+      },
+      "properties": {
+        "Tip": "Crpka",
+        "H_mnm": 241.1345,
+        "Qnom_l_s": 4.7,
+        "Hnom_msv": 100.6,
+        "Nmeh_kW": 7.5,
+        "Husis_mnm": 241.1345,
+        "Ime": "Svinišće",
+        "Lokacija": "Svinišće",
+        "MjernaZona": "Svinišće",
+        "TehnickaCjelina": "Studenci",
+        "LokalnaUprava": "Grad Omiš",
+        "Status": "Rad",
+        "OcjenaStanja": 6,
+        "PodaciIzvor": "Trimble GeoXH+LG G3(korekcija)",
+        "PodaciTocnost": "GEO",
+        "PodaciIme": "vicko.kovacevic@vodovod.hr",
+        "OptionalId": "Svinisce",
+        "Upravitelj": "Vodovod Omiš",
+        "Klasa": "Pumpa"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 222,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.726253,
+          43.516955
+        ]
+      },
+      "properties": {
+        "Tip": "Crpka",
+        "H_mnm": 421.0236,
+        "Qnom_l_s": 12.5,
+        "Hnom_msv": 143.9,
+        "Nmeh_kW": 30,
+        "Husis_mnm": 421.0236,
+        "Ime": "Zidine 2",
+        "Lokacija": "Srijane",
+        "TehnickaCjelina": "Ruda",
+        "LokalnaUprava": "Grad Omiš",
+        "Status": "Rad",
+        "OcjenaStanja": 7,
+        "PodaciIzvor": "Trimble GeoXH+LG G3(korekcija)",
+        "PodaciTocnost": "GEO",
+        "PodaciIme": "vicko.kovacevic@vodovod.hr",
+        "OptionalId": "Zidine",
+        "Upravitelj": "Vodovod Omiš",
+        "Klasa": "Pumpa"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 223,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.890514,
+          43.429844
+        ]
+      },
+      "properties": {
+        "Tip": "Crpka",
+        "Ime": "Kraljevac",
+        "MjernaZona": "Zadvarje - centar",
+        "TehnickaCjelina": "Kraljevac",
+        "LokalnaUprava": "Grad Omiš",
+        "Status": "Rad",
+        "PodaciIzvor": "Trimble GeoXH+LG G3(korekcija)",
+        "PodaciTocnost": "GEO",
+        "PodaciIme": "vicko.kovacevic@vodovod.hr",
+        "OptionalId": "Pešići",
+        "Upravitelj": "Vodovod Makarska",
+        "Klasa": "Pumpa"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 224,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.894583,
+          43.417172
+        ]
+      },
+      "properties": {
+        "Tip": "Crpka",
+        "Ime": "Šodani",
+        "TehnickaCjelina": "Kraljevac",
+        "PodaciIzvor": "Shematski prikaz",
+        "PodaciTocnost": "FIKTIVNO",
+        "PodaciIme": "EDC Tomislav Šimenc",
+        "OptionalId": "Sodani",
+        "Upravitelj": "Vodovod Makarska",
+        "Klasa": "Pumpa"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 225,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.782107,
+          43.430939
+        ]
+      },
+      "properties": {
+        "Tip": "Crpka",
+        "H_mnm": 241.1345,
+        "Qnom_l_s": 4.7,
+        "Hnom_msv": 100.6,
+        "Nmeh_kW": 7.5,
+        "Husis_mnm": 241.1345,
+        "Ime": "Svinišće",
+        "Lokacija": "Svinišće",
+        "MjernaZona": "Svinišće",
+        "TehnickaCjelina": "Studenci",
+        "LokalnaUprava": "Grad Omiš",
+        "Status": "Rad",
+        "OcjenaStanja": 6,
+        "PodaciIzvor": "Trimble GeoXH+LG G3(korekcija)",
+        "PodaciTocnost": "GNNS+VPPS",
+        "PodaciIme": "vicko.kovacevic@vodovod.hr",
+        "OptionalId": "Svinisce",
+        "Upravitelj": "Vodovod Omiš",
+        "Klasa": "Pumpa"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 226,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.808128,
+          43.444548
+        ]
+      },
+      "properties": {
+        "Tip": "Crpka",
+        "Qnom_l_s": 15,
+        "Hnom_msv": 272.95,
+        "Nmeh_kW": 75,
+        "Ime": "Studenci(Kučiće)",
+        "Lokacija": "Kostanje",
+        "TehnickaCjelina": "Studenci",
+        "LokalnaUprava": "Grad Omiš",
+        "Status": "Rad",
+        "PodaciIzvor": "Trimble GeoXH+LG G3(korekcija)",
+        "PodaciTocnost": "GNNS+VPPS",
+        "PodaciIme": "vicko.kovacevic@vodovod.hr",
+        "OptionalId": "Studenci",
+        "Upravitelj": "Vodovod Omiš",
+        "Klasa": "Pumpa"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 227,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.904927,
+          43.443344
+        ]
+      },
+      "properties": {
+        "Tip": "Crpka",
+        "H_mnm": 222.3291,
+        "Qnom_l_s": 25,
+        "Hnom_msv": 59.8,
+        "Nmeh_kW": 22,
+        "Husis_mnm": 222.3291,
+        "Ime": "Šestanovac(Privija) 1",
+        "Lokacija": "Šestanovac",
+        "MjernaZona": "Šestanovac",
+        "TehnickaCjelina": "Kraljevac",
+        "LokalnaUprava": "Općina Šestanovac",
+        "Status": "Rad",
+        "PodaciIzvor": "Trimble GeoXH+LG G3(korekcija)",
+        "PodaciTocnost": "GNNS+VPPS",
+        "PodaciIme": "vicko.kovacevic@vodovod.hr",
+        "OptionalId": "Sestanovac",
+        "Upravitelj": "Vodovod Omiš",
+        "Klasa": "Pumpa"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 228,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.868899,
+          43.422712
+        ]
+      },
+      "properties": {
+        "Tip": "Hidrostanica",
+        "H_mnm": 172.051,
+        "Ime": "Slime",
+        "Opis": "HS za Orlovac",
+        "Lokacija": "Slime(Josipa Pupačića)",
+        "MjernaZona": "Slime",
+        "TehnickaCjelina": "Kraljevac",
+        "LokalnaUprava": "Grad Omiš",
+        "Status": "Rad",
+        "OcjenaStanja": 9,
+        "PodaciIzvor": "Trimble TSC3+R8s",
+        "PodaciTocnost": "GNNS+VPPS",
+        "PodaciIme": "vicko.kovacevic@vodovod.hr",
+        "OptionalId": "Slime",
+        "Upravitelj": "Vodovod Omiš",
+        "Klasa": "Pumpa"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 229,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.868902,
+          43.422705
+        ]
+      },
+      "properties": {
+        "Tip": "Hidrostanica",
+        "H_mnm": 172.051,
+        "Ime": "Slime",
+        "Opis": "HS za Orlovac",
+        "Lokacija": "Slime(Josipa Pupačića)",
+        "MjernaZona": "Slime",
+        "TehnickaCjelina": "Kraljevac",
+        "LokalnaUprava": "Grad Omiš",
+        "Status": "Rad",
+        "OcjenaStanja": 9,
+        "PodaciIzvor": "Trimble TSC3+R8s",
+        "PodaciTocnost": "GNNS+VPPS",
+        "PodaciIme": "vicko.kovacevic@vodovod.hr",
+        "OptionalId": "Slime",
+        "Upravitelj": "Vodovod Omiš",
+        "Klasa": "Pumpa"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 230,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.933271,
+          43.44394
+        ]
+      },
+      "properties": {
+        "Tip": "Hidrostanica",
+        "H_mnm": 265.279,
+        "Nel_kVA": 4.6,
+        "Nmeh_kW": 0.75,
+        "Husis_mnm": 265.279,
+        "Inom_A": 4,
+        "Ime": "Kalajžići",
+        "Opis": "HS za zaseok Kalajžići",
+        "Lokacija": "Žeževica(Kalajžići)",
+        "TehnickaCjelina": "Kraljevac",
+        "LokalnaUprava": "Općina Šestanovac",
+        "Status": "Rad",
+        "OcjenaStanja": 9,
+        "PodaciIzvor": "Trimble GeoXH+LG G3(korekcija)",
+        "PodaciTocnost": "GNNS+VPPS",
+        "PodaciIme": "vicko.kovacevic@vodovod.hr",
+        "OptionalId": "Kalajžići",
+        "Upravitelj": "Vodovod Omiš",
+        "Klasa": "Pumpa"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 231,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.933267,
+          43.443932
+        ]
+      },
+      "properties": {
+        "Tip": "Hidrostanica",
+        "H_mnm": 265.279,
+        "Nel_kVA": 4.6,
+        "Nmeh_kW": 0.75,
+        "Husis_mnm": 265.279,
+        "Inom_A": 4,
+        "Ime": "Kalajžići",
+        "Opis": "HS za zaseok Kalajžići",
+        "Lokacija": "Žeževica(Kalajžići)",
+        "MjernaZona": "Žeževica",
+        "TehnickaCjelina": "Kraljevac",
+        "LokalnaUprava": "Općina Šestanovac",
+        "Status": "Rad",
+        "GodinaIzgradnje": 2018,
+        "OcjenaStanja": 9,
+        "PodaciIzvor": "Trimble TSC3+R8s",
+        "PodaciTocnost": "GNNS+VPPS",
+        "PodaciIme": "vicko.kovacevic@vodovod.hr",
+        "OptionalId": "Kalajžići",
+        "Upravitelj": "Vodovod Omiš",
+        "Klasa": "Pumpa"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 232,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.713811,
+          43.466045
+        ]
+      },
+      "properties": {
+        "Tip": "Hidrostanica",
+        "H_mnm": 312.3334,
+        "Qnom_l_s": 3.6,
+        "Hnom_msv": 65,
+        "Nmeh_kW": 22,
+        "Husis_mnm": 312.3334,
+        "Ime": "Kuvačići",
+        "Lokacija": "Gata",
+        "TehnickaCjelina": "Zagrad",
+        "LokalnaUprava": "Grad Omiš",
+        "Status": "Rad",
+        "GodinaIzgradnje": 2017,
+        "OcjenaStanja": 8,
+        "PodaciIzvor": "Trimble TSC3+R8s",
+        "PodaciTocnost": "GNSS+VPPS",
+        "PodaciIme": "vicko.kovacevic@vodovod.hr",
+        "OptionalId": "Kuvačić",
+        "Upravitelj": "Vodovod Omiš",
+        "Klasa": "Pumpa"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 233,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.912738,
+          43.455068
+        ]
+      },
+      "properties": {
+        "Tip": "Hidrostanica",
+        "H_mnm": 259.7831,
+        "Qnom_l_s": 3.6,
+        "Hnom_msv": 65,
+        "Nmeh_kW": 2.2,
+        "Husis_mnm": 259.7831,
+        "Ime": "Ribičići 1",
+        "Opis": "HS za zaseok Ribičići",
+        "Lokacija": "Šestanovac",
+        "MjernaZona": "Šestanovac",
+        "TehnickaCjelina": "Kraljevac",
+        "LokalnaUprava": "Općina Šestanovac",
+        "Status": "Rad",
+        "GodinaIzgradnje": 2017,
+        "OcjenaStanja": 7,
+        "PodaciIzvor": "Trimble TSC3+R8s",
+        "PodaciTocnost": "GNSS+VPPS",
+        "PodaciIme": "vicko.kovacevic@vodovod.hr",
+        "OptionalId": "Ribičići",
+        "Upravitelj": "Vodovod Omiš",
+        "Klasa": "Pumpa"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 234,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.694079,
+          43.460053
+        ]
+      },
+      "properties": {
+        "Tip": "Crpka",
+        "H_mnm": 234.56,
+        "Qnom_l_s": 90,
+        "Hnom_msv": 135.5,
+        "Nmeh_kW": 45,
+        "Husis_mnm": 234.56,
+        "Ime": "Zagrad Sučica 1",
+        "Opis": "Crpka za punjenje VS Sučica ",
+        "Lokacija": "Gata(Sv.Jure)",
+        "TehnickaCjelina": "Zagrad",
+        "LokalnaUprava": "Grad Omiš",
+        "Status": "Rad",
+        "OcjenaStanja": 7,
+        "PodaciIzvor": "Trimble TSC3+R8s",
+        "PodaciTocnost": "GNSS+VPPS",
+        "PodaciIme": "vicko.kovacevic@vodovod.hr",
+        "OptionalId": "Zagrad Sučica",
+        "Upravitelj": "Vodovod Omiš",
+        "Klasa": "Pumpa"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 235,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.694138,
+          43.460048
+        ]
+      },
+      "properties": {
+        "Tip": "Crpka",
+        "H_mnm": 234.56,
+        "Qnom_l_s": 90,
+        "Hnom_msv": 135.5,
+        "Nmeh_kW": 45,
+        "Husis_mnm": 234.56,
+        "Ime": "Zagrad Sučica 2",
+        "Opis": "Crpka za punjenje VS Sučica",
+        "Lokacija": "Gata(Sv.Jure)",
+        "TehnickaCjelina": "Zagrad",
+        "LokalnaUprava": "Grad Omiš",
+        "Status": "Rad",
+        "OcjenaStanja": 7,
+        "PodaciIzvor": "Trimble TSC3+R8s",
+        "PodaciTocnost": "GNSS+VPPS",
+        "PodaciIme": "vicko.kovacevic@vodovod.hr",
+        "OptionalId": "Zagrad Sučica",
+        "Upravitelj": "Vodovod Omiš",
+        "Klasa": "Pumpa"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 236,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.694198,
+          43.460043
+        ]
+      },
+      "properties": {
+        "Tip": "Crpka",
+        "H_mnm": 234.56,
+        "Qnom_l_s": 90,
+        "Hnom_msv": 135.5,
+        "Nmeh_kW": 45,
+        "Husis_mnm": 234.56,
+        "Ime": "Zagrad Gaj 1",
+        "Opis": "Crpka za punjenje VS Gaj",
+        "Lokacija": "Gata(Sv.Jure)",
+        "TehnickaCjelina": "Zagrad",
+        "LokalnaUprava": "Grad Omiš",
+        "Status": "Rad",
+        "OcjenaStanja": 7,
+        "PodaciIzvor": "Trimble TSC3+R8s",
+        "PodaciTocnost": "GNSS+VPPS",
+        "PodaciIme": "vicko.kovacevic@vodovod.hr",
+        "OptionalId": "Zagrad Gaj",
+        "Upravitelj": "Vodovod Omiš",
+        "Klasa": "Pumpa"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 237,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.694257,
+          43.460037
+        ]
+      },
+      "properties": {
+        "Tip": "Crpka",
+        "H_mnm": 234.56,
+        "Qnom_l_s": 90,
+        "Hnom_msv": 135.5,
+        "Nmeh_kW": 45,
+        "Husis_mnm": 234.56,
+        "Ime": "Zagrad Gaj 2",
+        "Opis": "Crpka za punjenje VS Gaj",
+        "Lokacija": "Gata(Sv.Jure)",
+        "TehnickaCjelina": "Zagrad",
+        "LokalnaUprava": "Grad Omiš",
+        "Status": "Rad",
+        "OcjenaStanja": 7,
+        "PodaciIzvor": "Trimble TSC3+R8s",
+        "PodaciTocnost": "GNSS+VPPS",
+        "PodaciIme": "vicko.kovacevic@vodovod.hr",
+        "OptionalId": "Zagrad Gaj",
+        "Upravitelj": "Vodovod Omiš",
+        "Klasa": "Pumpa"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 238,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.73423,
+          43.497125
+        ]
+      },
+      "properties": {
+        "Tip": "Hidrostanica",
+        "H_mnm": 555.87,
+        "Husis_mnm": 555.87,
+        "Ime": "Tadinci 1",
+        "Opis": "HS za zaseok Tadinci",
+        "Lokacija": "Gornji Dolac(Soliovac)",
+        "MjernaZona": "Trnbusi",
+        "TehnickaCjelina": "Ruda",
+        "LokalnaUprava": "Grad Omiš",
+        "Status": "Rad",
+        "OcjenaStanja": 8,
+        "PodaciIzvor": "Skica+GSN(Gornji Dolac).dwg",
+        "PodaciTocnost": "GEO",
+        "PodaciIme": "vicko.kovacevic@vodovod.hr",
+        "OptionalId": "Tadinci",
+        "Upravitelj": "Vodovod Omiš",
+        "Klasa": "Pumpa"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 239,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.734241,
+          43.497122
+        ]
+      },
+      "properties": {
+        "Tip": "Hidrostanica",
+        "H_mnm": 555.87,
+        "Husis_mnm": 555.87,
+        "Ime": "Tadinci 2",
+        "Opis": "HS za zaseok Tadinci",
+        "Lokacija": "Gornji Dolac(Soliovac)",
+        "MjernaZona": "Trnbusi",
+        "TehnickaCjelina": "Ruda",
+        "LokalnaUprava": "Grad Omiš",
+        "Status": "Rad",
+        "OcjenaStanja": 8,
+        "PodaciIzvor": "Skica+GSN(Gornji Dolac).dwg",
+        "PodaciTocnost": "GEO",
+        "PodaciIme": "vicko.kovacevic@vodovod.hr",
+        "OptionalId": "Tadinci",
+        "Upravitelj": "Vodovod Omiš",
+        "Klasa": "Pumpa"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 240,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.901322,
+          43.4625
+        ]
+      },
+      "properties": {
+        "Tip": "Hidrostanica",
+        "H_mnm": 270.03,
+        "Husis_mnm": 270.0308,
+        "Ime": "Kekezi 1",
+        "Opis": "HS za zaseok Donji Kekezi",
+        "Lokacija": "Katuni(Deškovića ulica)",
+        "MjernaZona": "Katuni",
+        "TehnickaCjelina": "Kraljevac",
+        "LokalnaUprava": "Općina Šestanovac",
+        "Status": "Rad",
+        "GodinaIzgradnje": 2019,
+        "OcjenaStanja": 8,
+        "PodaciIzvor": "Trimble TSC3+R8s",
+        "PodaciTocnost": "GNSS+VPPS",
+        "PodaciIme": "vicko.kovacevic@vodovod.hr",
+        "OptionalId": "Kekezi",
+        "Upravitelj": "Vodovod Omiš",
+        "Klasa": "Pumpa"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 241,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.901334,
+          43.462503
+        ]
+      },
+      "properties": {
+        "Tip": "Hidrostanica",
+        "H_mnm": 270.03,
+        "Husis_mnm": 270.0308,
+        "Ime": "Kekezi 2",
+        "Opis": "HS za zaseok Donji Kekezi",
+        "Lokacija": "Katuni(Deškovića ulica)",
+        "MjernaZona": "Katuni",
+        "TehnickaCjelina": "Kraljevac",
+        "LokalnaUprava": "Općina Šestanovac",
+        "Status": "Rad",
+        "GodinaIzgradnje": 2019,
+        "OcjenaStanja": 8,
+        "PodaciIzvor": "Trimble TSC3+R8s",
+        "PodaciTocnost": "GNSS+VPPS",
+        "PodaciIme": "vicko.kovacevic@vodovod.hr",
+        "OptionalId": "Kekezi",
+        "Upravitelj": "Vodovod Omiš",
+        "Klasa": "Pumpa"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 242,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.802093,
+          43.427899
+        ]
+      },
+      "properties": {
+        "Tip": "Hidrostanica",
+        "H_mnm": 266.32,
+        "Qnom_l_s": 166,
+        "Hnom_msv": 497,
+        "Husis_mnm": 265.02,
+        "Ime": "Kučiće 1",
+        "Opis": "HS za zaseok Mačkovac",
+        "Lokacija": "Kučiće(Put Sv.Luke)",
+        "TehnickaCjelina": "Studenci",
+        "LokalnaUprava": "Grad Omiš",
+        "Status": "Rad",
+        "GodinaIzgradnje": 1995,
+        "OcjenaStanja": 4,
+        "PodaciIzvor": "Trimble TSC3+R8s",
+        "PodaciTocnost": "GNSS+VPPS",
+        "PodaciIme": "vicko.kovacevic@vodovod.hr",
+        "OptionalId": "Kučiće 1",
+        "Upravitelj": "Vodovod Omiš",
+        "Klasa": "Pumpa"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 243,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.802103,
+          43.427895
+        ]
+      },
+      "properties": {
+        "Tip": "Hidrostanica",
+        "H_mnm": 266.32,
+        "Qnom_l_s": 166,
+        "Hnom_msv": 497,
+        "Husis_mnm": 265.02,
+        "Ime": "Kučiće 2",
+        "Opis": "HS za zaseok Mačkovac",
+        "Lokacija": "Kučiće(Put Sv.Luke)",
+        "TehnickaCjelina": "Studenci",
+        "LokalnaUprava": "Grad Omiš",
+        "Status": "Rad",
+        "GodinaIzgradnje": 1995,
+        "OcjenaStanja": 4,
+        "PodaciIzvor": "Trimble TSC3+R8s",
+        "PodaciTocnost": "GNSS+VPPS",
+        "PodaciIme": "vicko.kovacevic@vodovod.hr",
+        "OptionalId": "Kučiće 2",
+        "Upravitelj": "Vodovod Omiš",
+        "Klasa": "Pumpa"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 244,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.650949,
+          43.474563
+        ]
+      },
+      "properties": {
+        "Tip": "Hidrostanica",
+        "H_mnm": 338.05,
+        "Qnom_l_s": 166,
+        "Hnom_msv": 497,
+        "Husis_mnm": 338.05,
+        "Ime": "Dočine 1",
+        "Lokacija": "Tugare(Sveta Kata)",
+        "MjernaZona": "Tugare Istok",
+        "TehnickaCjelina": "Zagrad",
+        "LokalnaUprava": "Grad Omiš",
+        "Status": "Rad",
+        "GodinaIzgradnje": 1990,
+        "OcjenaStanja": 3,
+        "PodaciIzvor": "Trimble TSC3+R8s",
+        "PodaciTocnost": "GNSS+VPPS",
+        "PodaciDatum": "2022-01-13 07:34:25",
+        "PodaciIme": "vicko.kovacevic@vodovod.hr",
+        "OptionalId": "Dočine",
+        "Upravitelj": "Vodovod Omiš",
+        "Klasa": "Pumpa"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 245,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.650951,
+          43.474558
+        ]
+      },
+      "properties": {
+        "Tip": "Hidrostanica",
+        "H_mnm": 338.05,
+        "Qnom_l_s": 166,
+        "Hnom_msv": 497,
+        "Husis_mnm": 338.05,
+        "Ime": "Dočine 2",
+        "Lokacija": "Tugare(Sveta Kata)",
+        "MjernaZona": "Tugare Istok",
+        "TehnickaCjelina": "Zagrad",
+        "LokalnaUprava": "Grad Omiš",
+        "Status": "Rad",
+        "GodinaIzgradnje": 1990,
+        "OcjenaStanja": 3,
+        "PodaciIzvor": "Trimble TSC3+R8s",
+        "PodaciTocnost": "GNSS+VPPS",
+        "PodaciDatum": "2022-01-13 07:34:22",
+        "PodaciIme": "vicko.kovacevic@vodovod.hr",
+        "OptionalId": "Dočine",
+        "Upravitelj": "Vodovod Omiš",
+        "Klasa": "Pumpa"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 246,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.705593,
+          43.440073
+        ]
+      },
+      "properties": {
+        "Tip": "Crpka",
+        "H_mnm": 166.3807,
+        "Qnom_l_s": 2.64,
+        "Hnom_msv": 67,
+        "Nmeh_kW": 3,
+        "Husis_mnm": 1663.807,
+        "Ime": "Borak",
+        "Lokacija": "Borak",
+        "MjernaZona": "Borak",
+        "TehnickaCjelina": "Ruda",
+        "LokalnaUprava": "Grad Omiš",
+        "Status": "Rad",
+        "PodaciIzvor": "GPS snimak Vicko Kovačević",
+        "PodaciTocnost": "GEO",
+        "PodaciIme": "vicko.kovacevic@vodovod.hr",
+        "OptionalId": "Borak",
+        "Upravitelj": "Vodovod Omiš",
+        "Klasa": "Pumpa"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 247,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.705516,
+          43.465803
+        ]
+      },
+      "properties": {
+        "Tip": "Crpka",
+        "H_mnm": 282.0684,
+        "Qnom_l_s": 2.64,
+        "Hnom_msv": 84.9,
+        "Nmeh_kW": 2,
+        "Husis_mnm": 282.0684,
+        "Ime": "Podcelje",
+        "Lokacija": "Gata",
+        "MjernaZona": "Gata",
+        "TehnickaCjelina": "Zagrad",
+        "LokalnaUprava": "Grad Omiš",
+        "Status": "Rad",
+        "OcjenaStanja": 1,
+        "PodaciIzvor": "Trimble GeoXH+LG G3(korekcija)",
+        "PodaciTocnost": "GEO",
+        "PodaciIme": "vicko.kovacevic@vodovod.hr",
+        "OptionalId": "Podcelje",
+        "Upravitelj": "Vodovod Omiš",
+        "Klasa": "Pumpa"
+      }
+    }
+  ]
+}
