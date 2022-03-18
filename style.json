@@ -95,6 +95,15 @@
         "line-width": 1.5
       }
     },
+         {
+      "id": "pumpa-icon",
+      "type": "symbol",
+      "source": "pumpa",
+      "layout": {
+        "icon-image": "4914-crpka",
+        "icon-size": 0.2
+      }
+    },
     {
       "id": "vodospremnik-icon",
       "type": "symbol",
