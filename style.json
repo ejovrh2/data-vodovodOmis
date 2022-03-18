@@ -29,7 +29,11 @@
     "prikljucak": {
       "type": "geojson",
       "data": "/dir/prikljucak"
-    }
+    },
+    "pumpa": {
+      "type": "geojson",
+      "data": "/dir/pumpa"
+    },
   },
   "layers": [
     {
