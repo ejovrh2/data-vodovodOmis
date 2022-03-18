@@ -178,6 +178,17 @@
         "circle-radius": 4
       }
     },
+     {
+      "id": "telemetrija-icon",
+      "type": "circle",
+      "source": "telemetrija",
+      "minzoom": 8,
+      "paint": {
+        "circle-color": "rgba(0, 128, 0, 1)",
+        "circle-stroke-color": "rgba(0, 0, 0, 1)",
+        "circle-radius": 4
+      }
+    },
     {
       "id": "mjernoMjesto-icon",
       "type": "symbol",
