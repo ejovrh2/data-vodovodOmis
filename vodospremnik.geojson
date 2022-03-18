@@ -27,10 +27,7 @@
         "PodaciTocnost": "GNNS+VPPS",
         "PodaciIme": "vicko.kovacevic@vodovod.hr",
         "OptionalId": "Lokva",
-        "Klasa": "Vodospremnik",
-        "device_id": "test",
-        "tag_name": "test",
-        "tag_desc": "test"
+        "Klasa": "Vodospremnik"
       }
     },
     {
@@ -59,10 +56,7 @@
         "PodaciTocnost": "GNNS+VPPS",
         "PodaciIme": "vicko.kovacevic@vodovod.hr",
         "OptionalId": "Lokva",
-        "Klasa": "Vodospremnik",
-        "device_id": "test",
-        "tag_name": "test",
-        "tag_desc": "test"
+        "Klasa": "Vodospremnik"
       }
     },
     {
@@ -91,10 +85,7 @@
         "PodaciTocnost": "GNNS+VPPS",
         "PodaciIme": "vicko.kovacevic@vodovod.hr",
         "OptionalId": "Čelina",
-        "Klasa": "Vodospremnik",
-        "device_id": "test",
-        "tag_name": "test",
-        "tag_desc": "test"
+        "Klasa": "Vodospremnik"
       }
     },
     {
@@ -121,10 +112,7 @@
         "PodaciTocnost": "HOK",
         "PodaciIme": "vicko.kovacevic@vodovod.hr",
         "OptionalId": "Čikotina Lađa",
-        "Klasa": "Vodospremnik",
-        "device_id": "test",
-        "tag_name": "test",
-        "tag_desc": "test"
+        "Klasa": "Vodospremnik"
       }
     },
     {
@@ -152,10 +140,7 @@
         "PodaciTocnost": "GNNS+VPPS",
         "PodaciIme": "vicko.kovacevic@vodovod.hr",
         "OptionalId": "Podselje",
-        "Klasa": "Vodospremnik",
-        "device_id": "test",
-        "tag_name": "test",
-        "tag_desc": "test"
+        "Klasa": "Vodospremnik"
       }
     },
     {
@@ -184,10 +169,7 @@
         "PodaciTocnost": "GNNS+VPPS",
         "PodaciIme": "vicko.kovacevic@vodovod.hr",
         "OptionalId": "Marasović",
-        "Klasa": "Vodospremnik",
-        "device_id": "test",
-        "tag_name": "test",
-        "tag_desc": "test"
+        "Klasa": "Vodospremnik"
       }
     },
     {
@@ -217,10 +199,7 @@
         "PodaciTocnost": "GNNS+VPPS",
         "PodaciIme": "vicko.kovacevic@vodovod.hr",
         "OptionalId": "Pešići",
-        "Klasa": "Vodospremnik",
-        "device_id": "test",
-        "tag_name": "test",
-        "tag_desc": "test"
+        "Klasa": "Vodospremnik"
       }
     },
     {
@@ -250,10 +229,7 @@
         "PodaciTocnost": "GNNS+VPPS",
         "PodaciIme": "vicko.kovacevic@vodovod.hr",
         "OptionalId": "Čečuci",
-        "Klasa": "Vodospremnik",
-        "device_id": "test",
-        "tag_name": "test",
-        "tag_desc": "test"
+        "Klasa": "Vodospremnik"
       }
     },
     {
@@ -283,10 +259,7 @@
         "PodaciTocnost": "GNNS+VPPS",
         "PodaciIme": "vicko.kovacevic@vodovod.hr",
         "OptionalId": "Čišla",
-        "Klasa": "Vodospremnik",
-        "device_id": "test",
-        "tag_name": "test",
-        "tag_desc": "test"
+        "Klasa": "Vodospremnik"
       }
     },
     {
@@ -314,10 +287,7 @@
         "PodaciTocnost": "GNNS+VPPS",
         "PodaciIme": "vicko.kovacevic@vodovod.hr",
         "OptionalId": "Smoljanovici",
-        "Klasa": "Vodospremnik",
-        "device_id": "test",
-        "tag_name": "test",
-        "tag_desc": "test"
+        "Klasa": "Vodospremnik"
       }
     },
     {
@@ -346,10 +316,7 @@
         "PodaciTocnost": "GNNS+VPPS",
         "PodaciIme": "vicko.kovacevic@vodovod.hr",
         "OptionalId": "Privija",
-        "Klasa": "Vodospremnik",
-        "device_id": "test",
-        "tag_name": "test",
-        "tag_desc": "test"
+        "Klasa": "Vodospremnik"
       }
     },
     {
@@ -375,10 +342,7 @@
         "PodaciTocnost": "GEO",
         "PodaciIme": "EDC Tomislav Šimenc",
         "OptionalId": "Mosor",
-        "Klasa": "Vodospremnik",
-        "device_id": "test",
-        "tag_name": "test",
-        "tag_desc": "test"
+        "Klasa": "Vodospremnik"
       }
     },
     {
@@ -406,10 +370,7 @@
         "PodaciTocnost": "GNNS+VPPS",
         "PodaciIme": "vicko.kovacevic@vodovod.hr",
         "OptionalId": "Zidine",
-        "Klasa": "Vodospremnik",
-        "device_id": "test",
-        "tag_name": "test",
-        "tag_desc": "test"
+        "Klasa": "Vodospremnik"
       }
     },
     {
@@ -434,10 +395,7 @@
         "PodaciTocnost": "FIKTIVNO",
         "PodaciIme": "EDC Tomislav Šimenc",
         "OptionalId": "Zadvarje",
-        "Klasa": "Vodospremnik",
-        "device_id": "test",
-        "tag_name": "test",
-        "tag_desc": "test"
+        "Klasa": "Vodospremnik"
       }
     },
     {
@@ -466,10 +424,7 @@
         "PodaciTocnost": "GNNS+VPPS",
         "PodaciIme": "vicko.kovacevic@vodovod.hr",
         "OptionalId": "Zadvarje",
-        "Klasa": "Vodospremnik",
-        "device_id": "test",
-        "tag_name": "test",
-        "tag_desc": "test"
+        "Klasa": "Vodospremnik"
       }
     },
     {
@@ -498,10 +453,7 @@
         "PodaciTocnost": "GNNS+VPPS",
         "PodaciIme": "vicko.kovacevic@vodovod.hr",
         "OptionalId": "Kucice",
-        "Klasa": "Vodospremnik",
-        "device_id": "test",
-        "tag_name": "test",
-        "tag_desc": "test"
+        "Klasa": "Vodospremnik"
       }
     },
     {
@@ -530,10 +482,7 @@
         "PodaciTocnost": "GNNS+VPPS",
         "PodaciIme": "vicko.kovacevic@vodovod.hr",
         "OptionalId": "Svinisce",
-        "Klasa": "Vodospremnik",
-        "device_id": "test",
-        "tag_name": "test",
-        "tag_desc": "test"
+        "Klasa": "Vodospremnik"
       }
     },
     {
@@ -562,10 +511,7 @@
         "PodaciTocnost": "GNNS+VPPS",
         "PodaciIme": "vicko.kovacevic@vodovod.hr",
         "OptionalId": "Oštro",
-        "Klasa": "Vodospremnik",
-        "device_id": "test",
-        "tag_name": "test",
-        "tag_desc": "test"
+        "Klasa": "Vodospremnik"
       }
     },
     {
@@ -596,10 +542,7 @@
         "PodaciTocnost": "GNNS+VPPS",
         "PodaciIme": "vicko.kovacevic@vodovod.hr",
         "OptionalId": "DugiRat(staro)",
-        "Klasa": "Vodospremnik",
-        "device_id": "test",
-        "tag_name": "test",
-        "tag_desc": "test"
+        "Klasa": "Vodospremnik"
       }
     },
     {
@@ -627,10 +570,7 @@
         "PodaciTocnost": "GNNS+VPPS",
         "PodaciIme": "vicko.kovacevic@vodovod.hr",
         "OptionalId": "Sučica",
-        "Klasa": "Vodospremnik",
-        "device_id": "test",
-        "tag_name": "test",
-        "tag_desc": "test"
+        "Klasa": "Vodospremnik"
       }
     },
     {
@@ -658,10 +598,7 @@
         "PodaciTocnost": "GNNS+VPPS",
         "PodaciIme": "vicko.kovacevic@vodovod.hr",
         "OptionalId": "Gaj",
-        "Klasa": "Vodospremnik",
-        "device_id": "test",
-        "tag_name": "test",
-        "tag_desc": "test"
+        "Klasa": "Vodospremnik"
       }
     },
     {
@@ -689,10 +626,7 @@
         "PodaciTocnost": "GNNS+VPPS",
         "PodaciIme": "vicko.kovacevic@vodovod.hr",
         "OptionalId": "Stomarica",
-        "Klasa": "Vodospremnik",
-        "device_id": "test",
-        "tag_name": "test",
-        "tag_desc": "test"
+        "Klasa": "Vodospremnik"
       }
     },
     {
@@ -721,10 +655,7 @@
         "PodaciTocnost": "GNNS+VPPS",
         "PodaciIme": "vicko.kovacevic@vodovod.hr",
         "OptionalId": "DugiRat",
-        "Klasa": "Vodospremnik",
-        "device_id": "test",
-        "tag_name": "test",
-        "tag_desc": "test"
+        "Klasa": "Vodospremnik"
       }
     },
     {
@@ -755,10 +686,7 @@
         "PodaciTocnost": "GNNS+VPPS",
         "PodaciIme": "vicko.kovacevic@vodovod.hr",
         "OptionalId": "Mlija",
-        "Klasa": "Vodospremnik",
-        "device_id": "test",
-        "tag_name": "test",
-        "tag_desc": "test"
+        "Klasa": "Vodospremnik"
       }
     },
     {
@@ -787,10 +715,7 @@
         "PodaciTocnost": "GNNS+VPPS",
         "PodaciIme": "vicko.kovacevic@vodovod.hr",
         "OptionalId": "Borak",
-        "Klasa": "Vodospremnik",
-        "device_id": "test",
-        "tag_name": "test",
-        "tag_desc": "test"
+        "Klasa": "Vodospremnik"
       }
     },
     {
@@ -819,10 +744,7 @@
         "PodaciTocnost": "GNNS+VPPS",
         "PodaciIme": "vicko.kovacevic@vodovod.hr",
         "OptionalId": "BlatoNaCetini",
-        "Klasa": "Vodospremnik",
-        "device_id": "test",
-        "tag_name": "test",
-        "tag_desc": "test"
+        "Klasa": "Vodospremnik"
       }
     },
     {
@@ -851,10 +773,7 @@
         "PodaciTocnost": "GNNS+VPPS",
         "PodaciIme": "vicko.kovacevic@vodovod.hr",
         "OptionalId": "Priko",
-        "Klasa": "Vodospremnik",
-        "device_id": "test",
-        "tag_name": "test",
-        "tag_desc": "test"
+        "Klasa": "Vodospremnik"
       }
     }
   ]
