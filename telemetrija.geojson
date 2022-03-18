@@ -1,0 +1,19 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 170,
+        "tag_desc": "VS SUCICA ukupno m3 izlazni cjevovod"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.681666374206543,
+          43.46351031054692
+        ]
+      }
+    }
+  ]
+}
