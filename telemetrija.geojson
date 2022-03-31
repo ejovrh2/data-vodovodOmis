@@ -1,15 +1,15 @@
 {
   "type": "FeatureCollection",
   "features": [
-    {"type": "Feature","properties": {"device_id":146,"tag_desc":"CS CELINA ukupno m3 na izlazu","tag_name":"CELINA-CSCELINA_Quk","sensor_id":114,"napomena":"stanje vodomjera m3/h"},"geometry": {"type": "Point","coordinates": [16.735533,43.415276]}},
-{"type": "Feature","properties": {"device_id":136,"tag_desc":"CS Celina protok na izlazu 0-10.0 l/s","tag_name":"CELINA-N16_1","sensor_id":115,"napomena":"trenutni protok l/s"},"geometry": {"type": "Point","coordinates": [16.735535,43.415333]}},
-{"type": "Feature","properties": {"device_id":144,"tag_desc":"VS nivo u bazenu 0-600cm","tag_name":"CELINA-N16_18","sensor_id":116,"napomena":"nivo vode u VS cm"},"geometry": {"type": "Point","coordinates": [16.736555,43.417864]}},
-{"type": "Feature","properties": {"device_id":145,"tag_desc":"VS Celina protok izlaz 0-10.0 l/s","tag_name":"CELINA-N16_19","sensor_id":115,"napomena":"trenutni protok l/s"},"geometry": {"type": "Point","coordinates": [16.736346,43.417827]}},
-{"type": "Feature","properties": {"device_id":139,"tag_desc":"TLAK na ulazu 0-10.0 bar","tag_name":"CELINA-N16_4","sensor_id":117,"napomena":"tlak  bar"},"geometry": {"type": "Point","coordinates": [16.735579,43.415008]}},
-{"type": "Feature","properties": {"device_id":140,"tag_desc":"tlak na tl.cjevovodu 0-25.0 bar","tag_name":"CELINA-N16_5","sensor_id":117,"napomena":"tlak  bar"},"geometry": {"type": "Point","coordinates": [16.735544,43.415177]}},
+  {"type": "Feature","properties": {"device_id":146,"tag_desc":"CS CELINA ukupno m3 na izlazu","tag_name":"CELINA-CSCELINA_Quk","sensor_id":114,"napomena":"stanje vodomjera m3/h"},"geometry": {"type": "Point","coordinates": [16.735533,43.415276]}},
 {"type": "Feature","properties": {"device_id":147,"tag_desc":"VS CELINA ukupno m3 na izlazu","tag_name":"CELINA-VSCELINA_Quk","sensor_id":114,"napomena":"stanje vodomjera m3/h"},"geometry": {"type": "Point","coordinates": [16.736455,43.417846]}},
-{"type": "Feature","properties": {"device_id":283,"tag_desc":"MP1 DN800 protok 0-1100 l/s","tag_name":"CELINA-zagul3b-N7_1","sensor_id":115,"napomena":"trenutni protok l/s"},"geometry": {"type": "Point","coordinates": [16.694895,43.460052]}},
-{"type": "Feature","properties": {"device_id":28,"tag_desc":"nivo u PK Priko 0-600 cm","tag_name":"master-N23_9","sensor_id":116,"napomena":"nivo vode u VS cm"},"geometry": {"type": "Point","coordinates": [16.677959,43.44449]}},
-{"type": "Feature","properties": {"device_id":170,"tag_desc":"VS SUCICA ukupno m3 izlazni cjevovod","tag_name":"master-VSSUCICA_Quk","sensor_id":114,"napomena":"stanje vodomjera m3/h"},"geometry": {"type": "Point","coordinates": [16.682839,43.463118]}}
-]
+{"type": "Feature","properties": {"device_id":102,"tag_desc":"CS ZIDINE ukupno m3 na tlacnom cjevovodu","tag_name":"master-CSZIDINE_Quk","sensor_id":114,"napomena":"stanje vodomjera m3/h"},"geometry": {"type": "Point","coordinates": [16.726248,43.516871]}},
+{"type": "Feature","properties": {"device_id":211,"tag_desc":"HS KUCICE MP2 ukupno m3","tag_name":"master-HSKUCICE_Quk","sensor_id":114,"napomena":"stanje vodomjera m3/h"},"geometry": {"type": "Point","coordinates": [16.802298,43.427877]}},
+{"type": "Feature","properties": {"device_id":123,"tag_desc":"VS BLATO ukupno m3 izlazni cjevovod (Franici)","tag_name":"master-VSBLATOIZL_Quk","sensor_id":114,"napomena":"stanje vodomjera m3/h"},"geometry": {"type": "Point","coordinates": [16.837148,43.469125]}},
+{"type": "Feature","properties": {"device_id":122,"tag_desc":"VS BLATO ukupno m3 ulazni cjevovod","tag_name":"master-VSBLATOUL_Quk","sensor_id":114,"napomena":"stanje vodomjera m3/h"},"geometry": {"type": "Point","coordinates": [16.83677,43.469119]}},
+{"type": "Feature","properties": {"device_id":210,"tag_desc":"VS KUCICE izlazni cjevovod ukupno m3","tag_name":"master-VSHSKUCICE_Quk","sensor_id":114,"napomena":"stanje vodomjera m3/h"},"geometry": {"type": "Point","coordinates": [16.802162,43.428013]}},
+{"type": "Feature","properties": {"device_id":98,"tag_desc":"VS SMOLJANOVICI ukupno m3 na izlazu","tag_name":"master-VSSMOLJANOVICI_Quk","sensor_id":114,"napomena":"stanje vodomjera m3/h"},"geometry": {"type": "Point","coordinates": [16.813129,43.516861]}},
+{"type": "Feature","properties": {"device_id":170,"tag_desc":"VS SUCICA ukupno m3 izlazni cjevovod","tag_name":"master-VSSUCICA_Quk","sensor_id":114,"napomena":"stanje vodomjera m3/h"},"geometry": {"type": "Point","coordinates": [16.682839,43.463118]}},
+{"type": "Feature","properties": {"device_id":103,"tag_desc":"VS ZIDINE ukupno m3 na izlaznom cjevovodu","tag_name":"master-VSZIDINE_Quk","sensor_id":114,"napomena":"stanje vodomjera m3/h"},"geometry": {"type": "Point","coordinates": [16.716622,43.50686]}}
+  ]
 }
