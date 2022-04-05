@@ -1,5 +1,6 @@
 {
   "type": "FeatureCollection",
+  "name":"telemetrija",
   "features": [
 {"type": "Feature","properties": {"device_id":146,"tag_desc":"CS CELINA ukupno m3 na izlazu","tag_name":"CELINA-CSCELINA_Quk","sensor_id":114,"napomena":"stanje vodomjera m3/h"},"geometry": {"type": "Point","coordinates": [16.735533,43.415276]}},
 {"type": "Feature","properties": {"device_id":147,"tag_desc":"VS CELINA ukupno m3 na izlazu","tag_name":"CELINA-VSCELINA_Quk","sensor_id":114,"napomena":"stanje vodomjera m3/h"},"geometry": {"type": "Point","coordinates": [16.736455,43.417846]}},
