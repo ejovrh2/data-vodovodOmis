@@ -1,0 +1,891 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            16.892827,
+            43.419603
+          ]
+        },
+        "properties": {
+          "marker-color": "#7e7e7e",
+          "marker-size": "medium",
+          "marker-symbol": "",
+          "device_id": 2903868931,
+          "device_name": "MM 239 - Slime",
+          "info_id": 2,
+          "info_name": "Montiran je",
+          "description_id": 2,
+          "description_name": "MT device",
+          "company_id": 3,
+          "company_name": "Vodovod Omiš",
+          "zone_id": 53,
+          "zone_name": "Slime"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            16.888321,
+            43.467512
+          ]
+        },
+        "properties": {
+          "device_id": 2903872297,
+          "device_name": "MM 304 - Put Balića",
+          "info_id": 2,
+          "info_name": "Montiran je",
+          "description_id": 2,
+          "description_name": "MT device",
+          "company_id": 3,
+          "company_name": "Vodovod Omiš",
+          "zone_id": "",
+          "zone_name": ""
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            16.890355,
+            43.429988
+          ]
+        },
+        "properties": {
+          "device_id": 2903868929,
+          "device_name": "MM 235 -CS Zadvarje",
+          "info_id": 2,
+          "info_name": "Montiran je",
+          "description_id": 2,
+          "description_name": "MT device",
+          "company_id": 3,
+          "company_name": "Vodovod Omiš",
+          "zone_id": "",
+          "zone_name": ""
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            16.801454,
+            43.432893
+          ]
+        },
+        "properties": {
+          "marker-color": "#7e7e7e",
+          "marker-size": "medium",
+          "marker-symbol": "",
+          "device_id": 2903868690,
+          "device_name": "MM 241-  Kučiće sjever",
+          "info_id": 2,
+          "info_name": "Montiran je",
+          "description_id": 2,
+          "description_name": "MT device",
+          "company_id": 3,
+          "company_name": "Vodovod Omiš",
+          "zone_id": 38,
+          "zone_name": "Kučiće - sjever"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            16.801251,
+            43.432724
+          ]
+        },
+        "properties": {
+          "marker-color": "#7e7e7e",
+          "marker-size": "medium",
+          "marker-symbol": "",
+          "device_id": 2903872308,
+          "device_name": "MM 307 - Kučiće zapad",
+          "info_id": 2,
+          "info_name": "Montiran je",
+          "description_id": 2,
+          "description_name": "MT device",
+          "company_id": 3,
+          "company_name": "Vodovod Omiš",
+          "zone_id": 36,
+          "zone_name": "Kučiće - zapad"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            16.767226,
+            43.429663
+          ]
+        },
+        "properties": {
+          "marker-color": "#7e7e7e",
+          "marker-size": "medium",
+          "marker-symbol": "",
+          "device_id": 2903868691,
+          "device_name": "MM 243 - Podašpilje",
+          "info_id": 2,
+          "info_name": "Montiran je",
+          "description_id": 2,
+          "description_name": "MT device",
+          "company_id": 3,
+          "company_name": "Vodovod Omiš",
+          "zone_id": 33,
+          "zone_name": "Podašpilje"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            16.713815,
+            43.466055
+          ]
+        },
+        "properties": {
+          "device_id": 2903868942,
+          "device_name": "MM 233 Kuvačić 1",
+          "info_id": 2,
+          "info_name": "Montiran je",
+          "description_id": 2,
+          "description_name": "MT device",
+          "company_id": 3,
+          "company_name": "Vodovod Omiš",
+          "zone_id": "",
+          "zone_name": ""
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            16.904104,
+            43.417603
+          ]
+        },
+        "properties": {
+          "marker-color": "#7e7e7e",
+          "marker-size": "medium",
+          "marker-symbol": "",
+          "device_id": 2903872295,
+          "device_name": "MM 200 - Gornja Brela",
+          "info_id": 2,
+          "info_name": "Montiran je",
+          "description_id": 2,
+          "description_name": "MT device",
+          "company_id": 3,
+          "company_name": "Vodovod Omiš",
+          "zone_id": 44,
+          "zone_name": "Podpoletnica"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            16.801777,
+            43.432793
+          ]
+        },
+        "properties": {
+          "marker-color": "#7e7e7e",
+          "marker-size": "medium",
+          "marker-symbol": "",
+          "device_id": 2903872303,
+          "device_name": "MM Kučiće istok",
+          "info_id": 2,
+          "info_name": "Montiran je",
+          "description_id": 2,
+          "description_name": "MT device",
+          "company_id": 3,
+          "company_name": "Vodovod Omiš",
+          "zone_id": 39,
+          "zone_name": "Kučiće - istok"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            16.691331,
+            43.444683
+          ]
+        },
+        "properties": {
+          "marker-color": "#7e7e7e",
+          "marker-size": "medium",
+          "marker-symbol": "",
+          "device_id": 2903868928,
+          "device_name": "MM 37- Punta 3",
+          "info_id": 2,
+          "info_name": "Montiran je",
+          "description_id": 2,
+          "description_name": "MT device",
+          "company_id": 3,
+          "company_name": "Vodovod Omiš",
+          "zone_id": 20,
+          "zone_name": "Omiš - Punta"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            16.916797,
+            43.451629
+          ]
+        },
+        "properties": {
+          "marker-color": "#7e7e7e",
+          "marker-size": "medium",
+          "marker-symbol": "",
+          "device_id": 2903868947,
+          "device_name": "MM 227 Žeževica, protok",
+          "info_id": 2,
+          "info_name": "Montiran je",
+          "description_id": 2,
+          "description_name": "MT device",
+          "company_id": 3,
+          "company_name": "Vodovod Omiš",
+          "zone_id": 69,
+          "zone_name": "Žeževica"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            16.727374,
+            43.460891
+          ]
+        },
+        "properties": {
+          "marker-color": "#7e7e7e",
+          "marker-size": "medium",
+          "marker-symbol": "",
+          "device_id": 2903865860,
+          "device_name": "MM 228 - Ostrvica Donja",
+          "info_id": 2,
+          "info_name": "Montiran je",
+          "description_id": 2,
+          "description_name": "MT device",
+          "company_id": 3,
+          "company_name": "Vodovod Omiš",
+          "zone_id": 8,
+          "zone_name": "Ostrvica Donja"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            16.692179,
+            43.443986
+          ]
+        },
+        "properties": {
+          "marker-color": "#7e7e7e",
+          "marker-size": "medium",
+          "marker-symbol": "",
+          "device_id": 2903868934,
+          "device_name": "MM 230 - Punta 1",
+          "info_id": 2,
+          "info_name": "Montiran je",
+          "description_id": 2,
+          "description_name": "MT device",
+          "company_id": 3,
+          "company_name": "Vodovod Omiš",
+          "zone_id": 20,
+          "zone_name": "Omiš - Punta"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            16.692924,
+            43.443289
+          ]
+        },
+        "properties": {
+          "marker-color": "#7e7e7e",
+          "marker-size": "medium",
+          "marker-symbol": "",
+          "device_id": 2903868944,
+          "device_name": "MM 226 - Punta 2",
+          "info_id": 2,
+          "info_name": "Montiran je",
+          "description_id": 2,
+          "description_name": "MT device",
+          "company_id": 3,
+          "company_name": "Vodovod Omiš",
+          "zone_id": 20,
+          "zone_name": "Omiš - Punta"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            16.76618,
+            43.5317
+          ]
+        },
+        "properties": {
+          "marker-color": "#7e7e7e",
+          "marker-size": "medium",
+          "marker-symbol": "",
+          "device_id": 2903872296,
+          "device_name": "MM 305 Nova Sela - zapad",
+          "info_id": 2,
+          "info_name": "Montiran je",
+          "description_id": 2,
+          "description_name": "MT device",
+          "company_id": 3,
+          "company_name": "Vodovod Omiš",
+          "zone_id": 59,
+          "zone_name": "Nova Sela - zapad"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            16.901258,
+            43.46259
+          ]
+        },
+        "properties": {
+          "device_id": 2903868940,
+          "device_name": "MM 236 - Kekezi",
+          "info_id": 2,
+          "info_name": "Montiran je",
+          "description_id": 2,
+          "description_name": "MT device",
+          "company_id": 3,
+          "company_name": "Vodovod Omiš",
+          "zone_id": "",
+          "zone_name": ""
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            16.868888,
+            43.422716
+          ]
+        },
+        "properties": {
+          "device_id": 2903866403,
+          "device_name": "MM 238  - HS Slime",
+          "info_id": 2,
+          "info_name": "Montiran je",
+          "description_id": 2,
+          "description_name": "MT device",
+          "company_id": 3,
+          "company_name": "Vodovod Omiš",
+          "zone_id": "",
+          "zone_name": ""
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            16.833904,
+            43.453119
+          ]
+        },
+        "properties": {
+          "marker-color": "#7e7e7e",
+          "marker-size": "medium",
+          "marker-symbol": "",
+          "device_id": 2903868693,
+          "device_name": "MM 242 -Seoca",
+          "info_id": 2,
+          "info_name": "Montiran je",
+          "description_id": 2,
+          "description_name": "MT device",
+          "company_id": 3,
+          "company_name": "Vodovod Omiš",
+          "zone_id": 41,
+          "zone_name": "Kostanje - centar"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            16.93328,
+            43.443862
+          ]
+        },
+        "properties": {
+          "device_id": 2903866402,
+          "device_name": "MM 229 - Kalajžići, hidrostanica",
+          "info_id": 2,
+          "info_name": "Montiran je",
+          "description_id": 2,
+          "description_name": "MT device",
+          "company_id": 3,
+          "company_name": "Vodovod Omiš",
+          "zone_id": "",
+          "zone_name": ""
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            16.909919,
+            43.454785
+          ]
+        },
+        "properties": {
+          "marker-color": "#7e7e7e",
+          "marker-size": "medium",
+          "marker-symbol": "",
+          "device_id": 2903868939,
+          "device_name": "MM 232 - Katuni",
+          "info_id": 2,
+          "info_name": "Montiran je",
+          "description_id": 2,
+          "description_name": "MT device",
+          "company_id": 3,
+          "company_name": "Vodovod Omiš",
+          "zone_id": 50,
+          "zone_name": "Katuni"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            16.91281,
+            43.45507
+          ]
+        },
+        "properties": {
+          "device_id": 2903868946,
+          "device_name": "MM 244 - Ribičići",
+          "info_id": 2,
+          "info_name": "Montiran je",
+          "description_id": 2,
+          "description_name": "MT device",
+          "company_id": 3,
+          "company_name": "Vodovod Omiš",
+          "zone_id": "",
+          "zone_name": ""
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            16.754,
+            43.456
+          ]
+        },
+        "properties": {
+          "marker-color": "#7e7e7e",
+          "marker-size": "medium",
+          "marker-symbol": "",
+          "device_id": 169,
+          "device_name": "TH-A9 Zvečanje",
+          "info_id": 2,
+          "info_name": "Montiran je",
+          "description_id": 1,
+          "description_name": "TH device",
+          "company_id": 3,
+          "company_name": "Vodovod Omiš",
+          "zone_id": 9,
+          "zone_name": "Zvečanje"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            16.769077,
+            43.452898
+          ]
+        },
+        "properties": {
+          "marker-color": "#7e7e7e",
+          "marker-size": "medium",
+          "marker-symbol": "",
+          "device_id": 165,
+          "device_name": "TH-A5 Smolonje",
+          "info_id": 2,
+          "info_name": "Montiran je",
+          "description_id": 1,
+          "description_name": "TH device",
+          "company_id": 3,
+          "company_name": "Vodovod Omiš",
+          "zone_id": 10,
+          "zone_name": "Smolonje"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            16.829403,
+            43.440295
+          ]
+        },
+        "properties": {
+          "marker-color": "#7e7e7e",
+          "marker-size": "medium",
+          "marker-symbol": "",
+          "device_id": 184,
+          "device_name": "TH-B8 Kostanje - zapad",
+          "info_id": 2,
+          "info_name": "Montiran je",
+          "description_id": 1,
+          "description_name": "TH device",
+          "company_id": 3,
+          "company_name": "Vodovod Omiš",
+          "zone_id": 40,
+          "zone_name": "Kostanje - zapad"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            16.727495,
+            43.460795
+          ]
+        },
+        "properties": {
+          "device_id": "187",
+          "device_name": "TH-BB Ostrvica Donja, tlak",
+          "info_id": 2,
+          "info_name": "Montiran je",
+          "description_id": 1,
+          "description_name": "TH device",
+          "company_id": 3,
+          "company_name": "Vodovod Omiš",
+          "zone_id": "",
+          "zone_name": ""
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            16.902205,
+            43.437974
+          ]
+        },
+        "properties": {
+          "marker-color": "#7e7e7e",
+          "marker-size": "medium",
+          "marker-symbol": "",
+          "device_id": 162,
+          "device_name": "TH-A2 Zadvarje - Vrbanj",
+          "info_id": 2,
+          "info_name": "Montiran je",
+          "description_id": 1,
+          "description_name": "TH device",
+          "company_id": 3,
+          "company_name": "Vodovod Omiš",
+          "zone_id": 46,
+          "zone_name": "Zadvarje - Vrbanj"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            16.633175,
+            43.48017
+          ]
+        },
+        "properties": {
+          "marker-color": "#7e7e7e",
+          "marker-size": "medium",
+          "marker-symbol": "",
+          "device_id": 182,
+          "device_name": "TH-B6 Tugare zapad",
+          "info_id": 2,
+          "info_name": "Montiran je",
+          "description_id": 1,
+          "description_name": "TH device",
+          "company_id": 3,
+          "company_name": "Vodovod Omiš",
+          "zone_id": 1,
+          "zone_name": "Tugare zapad"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            16.670803,
+            43.463274
+          ]
+        },
+        "properties": {
+          "marker-color": "#7e7e7e",
+          "marker-size": "medium",
+          "marker-symbol": "",
+          "device_id": 173,
+          "device_name": "TH-AD Naklice",
+          "info_id": 2,
+          "info_name": "Montiran je",
+          "description_id": 1,
+          "description_name": "TH device",
+          "company_id": 3,
+          "company_name": "Vodovod Omiš",
+          "zone_id": 3,
+          "zone_name": "Naklice"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            16.722877,
+            43.463202
+          ]
+        },
+        "properties": {
+          "marker-color": "#7e7e7e",
+          "marker-size": "medium",
+          "marker-symbol": "",
+          "device_id": 180,
+          "device_name": "TH-B4 Čišla",
+          "info_id": 2,
+          "info_name": "Montiran je",
+          "description_id": 1,
+          "description_name": "TH device",
+          "company_id": 3,
+          "company_name": "Vodovod Omiš",
+          "zone_id": 6,
+          "zone_name": "Čišla"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            16.8338,
+            43.440298
+          ]
+        },
+        "properties": {
+          "marker-color": "#7e7e7e",
+          "marker-size": "medium",
+          "marker-symbol": "",
+          "device_id": 168,
+          "device_name": "TH-A8 Kostanje istok",
+          "info_id": 2,
+          "info_name": "Montiran je",
+          "description_id": 1,
+          "description_name": "TH device",
+          "company_id": 3,
+          "company_name": "Vodovod Omiš",
+          "zone_id": 43,
+          "zone_name": "Kostanje - istok"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            16.881006,
+            43.469806
+          ]
+        },
+        "properties": {
+          "marker-color": "#7e7e7e",
+          "marker-size": "medium",
+          "marker-symbol": "",
+          "device_id": 164,
+          "device_name": "TH-A4 Kreševo",
+          "info_id": 2,
+          "info_name": "Montiran je",
+          "description_id": 1,
+          "description_name": "TH device",
+          "company_id": 3,
+          "company_name": "Vodovod Omiš",
+          "zone_id": 51,
+          "zone_name": "Kreševo"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            16.968634,
+            43.424516
+          ]
+        },
+        "properties": {
+          "marker-color": "#7e7e7e",
+          "marker-size": "medium",
+          "marker-symbol": "",
+          "device_id": 181,
+          "device_name": "TH-B5 Čikeši",
+          "info_id": 2,
+          "info_name": "Montiran je",
+          "description_id": 1,
+          "description_name": "TH device",
+          "company_id": 3,
+          "company_name": "Vodovod Omiš",
+          "zone_id": 52,
+          "zone_name": "Žeževica - Čikeši"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            16.916109,
+            43.451621
+          ]
+        },
+        "properties": {
+          "device_id": "166",
+          "device_name": "TH-B5 Žeževica tlak",
+          "info_id": 2,
+          "info_name": "Montiran je",
+          "description_id": 1,
+          "description_name": "TH device",
+          "company_id": 3,
+          "company_name": "Vodovod Omiš",
+          "zone_id": "",
+          "zone_name": ""
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            16.796234,
+            43.524033
+          ]
+        },
+        "properties": {
+          "device_id": "186",
+          "device_name": "TH-BA",
+          "info_id": 2,
+          "info_name": "Montiran je",
+          "description_id": 1,
+          "description_name": "TH device",
+          "company_id": 3,
+          "company_name": "Vodovod Omiš",
+          "zone_id": "",
+          "zone_name": ""
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            16.807699,
+            43.490002
+          ]
+        },
+        "properties": {
+          "device_id": "67",
+          "device_name": "TH-43 Omiš 3",
+          "info_id": 1,
+          "info_name": "Nije montiran",
+          "description_id": 1,
+          "description_name": "TH device",
+          "company_id": 3,
+          "company_name": "Vodovod Omiš",
+          "zone_id": "",
+          "zone_name": ""
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            16.748301,
+            43.496498
+          ]
+        },
+        "properties": {
+          "device_id": "66",
+          "device_name": "TH-42 Omiš 2",
+          "info_id": 1,
+          "info_name": "Nije montiran",
+          "description_id": 1,
+          "description_name": "TH device",
+          "company_id": 3,
+          "company_name": "Vodovod Omiš",
+          "zone_id": "",
+          "zone_name": ""
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            16.7616,
+            43.5023
+          ]
+        },
+        "properties": {
+          "device_id": "65",
+          "device_name": "TH-41 Omiš 1",
+          "info_id": 1,
+          "info_name": "Nije montiran",
+          "description_id": 1,
+          "description_name": "TH device",
+          "company_id": 3,
+          "company_name": "Vodovod Omiš",
+          "zone_id": "",
+          "zone_name": ""
+        }
+      }
+    ]
+  }
