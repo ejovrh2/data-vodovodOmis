@@ -826,6 +826,28 @@
         "geometry": {
           "type": "Point",
           "coordinates": [
+            16.7617,
+            43.536499
+          ]
+        },
+        "properties": {
+          "device_id": "68",
+          "device_name": "TH-44 Omiš 4",
+          "info_id": 1,
+          "info_name": "Nije montiran",
+          "description_id": 1,
+          "description_name": "TH device",
+          "company_id": 3,
+          "company_name": "Vodovod Omiš",
+          "zone_id": "",
+          "zone_name":""
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
             16.807699,
             43.490002
           ]
