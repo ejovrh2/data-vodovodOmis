@@ -5,7 +5,10 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [16.892827, 43.419603]
+        "coordinates": [
+          16.892827,
+          43.419603
+        ]
       },
       "properties": {
         "device_id": 2903868931,
@@ -16,15 +19,19 @@
         "description_name": "MT device",
         "company_id": 3,
         "company_name": "Vodovod Omiš",
-        "zone_id": 53,
-        "zone_name": "Slime"
+        "zone_name": "Slime",
+        "zone_in": 53,
+        "zone_out": ""
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [16.888321, 43.467512]
+        "coordinates": [
+          16.888321,
+          43.467512
+        ]
       },
       "properties": {
         "device_id": 2903872297,
@@ -35,15 +42,19 @@
         "description_name": "MT device",
         "company_id": 3,
         "company_name": "Vodovod Omiš",
-        "zone_id": "",
-        "zone_name": ""
+        "zone_name": "",
+        "zone_in": "",
+        "zone_out": ""
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [16.890355, 43.429988]
+        "coordinates": [
+          16.890355,
+          43.429988
+        ]
       },
       "properties": {
         "device_id": 2903868929,
@@ -54,15 +65,19 @@
         "description_name": "MT device",
         "company_id": 3,
         "company_name": "Vodovod Omiš",
-        "zone_id": "",
-        "zone_name": ""
+        "zone_name": "",
+        "zone_in": "",
+        "zone_out": ""
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [16.801454, 43.432893]
+        "coordinates": [
+          16.801454,
+          43.432893
+        ]
       },
       "properties": {
         "device_id": 2903868690,
@@ -73,15 +88,19 @@
         "description_name": "MT device",
         "company_id": 3,
         "company_name": "Vodovod Omiš",
-        "zone_id": 38,
-        "zone_name": "Kučiće - sjever"
+        "zone_name": "Kučiće - sjever",
+        "zone_in": 38,
+        "zone_out": ""
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [16.801251, 43.432724]
+        "coordinates": [
+          16.801251,
+          43.432724
+        ]
       },
       "properties": {
         "device_id": 2903872308,
@@ -92,15 +111,19 @@
         "description_name": "MT device",
         "company_id": 3,
         "company_name": "Vodovod Omiš",
-        "zone_id": 36,
-        "zone_name": "Kučiće - zapad"
+        "zone_name": "Kučiće - zapad,Kučiće - jug I",
+        "zone_in": 36,
+        "zone_out": 35
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [16.767226, 43.429663]
+        "coordinates": [
+          16.767226,
+          43.429663
+        ]
       },
       "properties": {
         "device_id": 2903868691,
@@ -111,15 +134,19 @@
         "description_name": "MT device",
         "company_id": 3,
         "company_name": "Vodovod Omiš",
-        "zone_id": 33,
-        "zone_name": "Podašpilje"
+        "zone_name": "Podašpilje",
+        "zone_in": 33,
+        "zone_out": ""
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [16.713815, 43.466055]
+        "coordinates": [
+          16.713815,
+          43.466055
+        ]
       },
       "properties": {
         "device_id": 2903868942,
@@ -130,15 +157,19 @@
         "description_name": "MT device",
         "company_id": 3,
         "company_name": "Vodovod Omiš",
-        "zone_id": "",
-        "zone_name": ""
+        "zone_name": "",
+        "zone_in": "",
+        "zone_out": ""
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [16.904104, 43.417603]
+        "coordinates": [
+          16.904104,
+          43.417603
+        ]
       },
       "properties": {
         "device_id": 2903872295,
@@ -149,15 +180,19 @@
         "description_name": "MT device",
         "company_id": 3,
         "company_name": "Vodovod Omiš",
-        "zone_id": 44,
-        "zone_name": "Podpoletnica"
+        "zone_name": "Podpoletnica",
+        "zone_in": "",
+        "zone_out": 44
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [16.801777, 43.432793]
+        "coordinates": [
+          16.801777,
+          43.432793
+        ]
       },
       "properties": {
         "device_id": 2903872303,
@@ -168,15 +203,19 @@
         "description_name": "MT device",
         "company_id": 3,
         "company_name": "Vodovod Omiš",
-        "zone_id": 39,
-        "zone_name": "Kučiće - istok"
+        "zone_name": "Kučiće - istok",
+        "zone_in": 39,
+        "zone_out": ""
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [16.691331, 43.444683]
+        "coordinates": [
+          16.691331,
+          43.444683
+        ]
       },
       "properties": {
         "device_id": 2903868928,
@@ -187,15 +226,19 @@
         "description_name": "MT device",
         "company_id": 3,
         "company_name": "Vodovod Omiš",
-        "zone_id": 20,
-        "zone_name": "Omiš - Punta"
+        "zone_name": "Omiš - Punta,Omiš - stari grad",
+        "zone_in": 20,
+        "zone_out": 21
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [16.916797, 43.451629]
+        "coordinates": [
+          16.916797,
+          43.451629
+        ]
       },
       "properties": {
         "device_id": 2903868947,
@@ -206,15 +249,19 @@
         "description_name": "MT device",
         "company_id": 3,
         "company_name": "Vodovod Omiš",
-        "zone_id": 69,
-        "zone_name": "Žeževica"
+        "zone_name": "Žeževica,Šestanovac",
+        "zone_in": 69,
+        "zone_out": 65
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [16.727374, 43.460891]
+        "coordinates": [
+          16.727374,
+          43.460891
+        ]
       },
       "properties": {
         "device_id": 2903865860,
@@ -225,15 +272,19 @@
         "description_name": "MT device",
         "company_id": 3,
         "company_name": "Vodovod Omiš",
-        "zone_id": 8,
-        "zone_name": "Ostrvica Donja"
+        "zone_name": "Ostrvica Donja",
+        "zone_in": 8,
+        "zone_out": ""
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [16.692179, 43.443986]
+        "coordinates": [
+          16.692179,
+          43.443986
+        ]
       },
       "properties": {
         "device_id": 2903868934,
@@ -244,15 +295,19 @@
         "description_name": "MT device",
         "company_id": 3,
         "company_name": "Vodovod Omiš",
-        "zone_id": 20,
-        "zone_name": "Omiš - Punta"
+        "zone_name": "Omiš - Punta,Omiš - stari grad",
+        "zone_in": 20,
+        "zone_out": 21
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [16.692924, 43.443289]
+        "coordinates": [
+          16.692924,
+          43.443289
+        ]
       },
       "properties": {
         "device_id": 2903868944,
@@ -263,15 +318,19 @@
         "description_name": "MT device",
         "company_id": 3,
         "company_name": "Vodovod Omiš",
-        "zone_id": 20,
-        "zone_name": "Omiš - Punta"
+        "zone_name": "Omiš - Punta,Omiš - stari grad",
+        "zone_in": 20,
+        "zone_out": 21
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [16.76618, 43.5317]
+        "coordinates": [
+          16.76618,
+          43.5317
+        ]
       },
       "properties": {
         "device_id": 2903872296,
@@ -282,15 +341,19 @@
         "description_name": "MT device",
         "company_id": 3,
         "company_name": "Vodovod Omiš",
-        "zone_id": 59,
-        "zone_name": "Nova Sela - zapad"
+        "zone_name": "Nova Sela - zapad",
+        "zone_in": "",
+        "zone_out": 59
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [16.901258, 43.46259]
+        "coordinates": [
+          16.901258,
+          43.46259
+        ]
       },
       "properties": {
         "device_id": 2903868940,
@@ -301,15 +364,19 @@
         "description_name": "MT device",
         "company_id": 3,
         "company_name": "Vodovod Omiš",
-        "zone_id": "",
-        "zone_name": ""
+        "zone_name": "",
+        "zone_in": "",
+        "zone_out": ""
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [16.868888, 43.422716]
+        "coordinates": [
+          16.868888,
+          43.422716
+        ]
       },
       "properties": {
         "device_id": 2903866403,
@@ -320,15 +387,19 @@
         "description_name": "MT device",
         "company_id": 3,
         "company_name": "Vodovod Omiš",
-        "zone_id": "",
-        "zone_name": ""
+        "zone_name": "",
+        "zone_in": "",
+        "zone_out": ""
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [16.833904, 43.453119]
+        "coordinates": [
+          16.833904,
+          43.453119
+        ]
       },
       "properties": {
         "device_id": 2903868693,
@@ -339,15 +410,19 @@
         "description_name": "MT device",
         "company_id": 3,
         "company_name": "Vodovod Omiš",
-        "zone_id": 41,
-        "zone_name": "Kostanje - centar"
+        "zone_name": "Seoca",
+        "zone_in": 42,
+        "zone_out": ""
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [16.93328, 43.443862]
+        "coordinates": [
+          16.93328,
+          43.443862
+        ]
       },
       "properties": {
         "device_id": 2903866402,
@@ -358,15 +433,19 @@
         "description_name": "MT device",
         "company_id": 3,
         "company_name": "Vodovod Omiš",
-        "zone_id": "",
-        "zone_name": ""
+        "zone_name": "",
+        "zone_in": "",
+        "zone_out": ""
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [16.909919, 43.454785]
+        "coordinates": [
+          16.909919,
+          43.454785
+        ]
       },
       "properties": {
         "device_id": 2903868939,
@@ -377,15 +456,19 @@
         "description_name": "MT device",
         "company_id": 3,
         "company_name": "Vodovod Omiš",
-        "zone_id": 50,
-        "zone_name": "Katuni"
+        "zone_name": "Katuni",
+        "zone_in": 50,
+        "zone_out": ""
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [16.91281, 43.45507]
+        "coordinates": [
+          16.91281,
+          43.45507
+        ]
       },
       "properties": {
         "device_id": 2903868946,
@@ -396,15 +479,19 @@
         "description_name": "MT device",
         "company_id": 3,
         "company_name": "Vodovod Omiš",
-        "zone_id": "",
-        "zone_name": ""
+        "zone_name": "",
+        "zone_in": "",
+        "zone_out": ""
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [16.754, 43.456]
+        "coordinates": [
+          16.754,
+          43.456
+        ]
       },
       "properties": {
         "device_id": 169,
@@ -415,15 +502,19 @@
         "description_name": "TH device",
         "company_id": 3,
         "company_name": "Vodovod Omiš",
-        "zone_id": 9,
-        "zone_name": "Zvečanje"
+        "zone_name": "Zvečanje",
+        "zone_in": 9,
+        "zone_out": ""
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [16.769077, 43.452898]
+        "coordinates": [
+          16.769077,
+          43.452898
+        ]
       },
       "properties": {
         "device_id": 165,
@@ -434,15 +525,19 @@
         "description_name": "TH device",
         "company_id": 3,
         "company_name": "Vodovod Omiš",
-        "zone_id": 10,
-        "zone_name": "Smolonje"
+        "zone_name": "Smolonje",
+        "zone_in": 10,
+        "zone_out": ""
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [16.829403, 43.440295]
+        "coordinates": [
+          16.829403,
+          43.440295
+        ]
       },
       "properties": {
         "device_id": 184,
@@ -453,15 +548,19 @@
         "description_name": "TH device",
         "company_id": 3,
         "company_name": "Vodovod Omiš",
-        "zone_id": 40,
-        "zone_name": "Kostanje - zapad"
+        "zone_name": "Kostanje - centar,Kostanje - zapad",
+        "zone_in": 40,
+        "zone_out": 41
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [16.727495, 43.460795]
+        "coordinates": [
+          16.727495,
+          43.460795
+        ]
       },
       "properties": {
         "device_id": "187",
@@ -472,15 +571,19 @@
         "description_name": "TH device",
         "company_id": 3,
         "company_name": "Vodovod Omiš",
-        "zone_id": "",
-        "zone_name": ""
+        "zone_name": "",
+        "zone_in": "",
+        "zone_out": ""
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [16.902205, 43.437974]
+        "coordinates": [
+          16.902205,
+          43.437974
+        ]
       },
       "properties": {
         "device_id": 162,
@@ -491,15 +594,19 @@
         "description_name": "TH device",
         "company_id": 3,
         "company_name": "Vodovod Omiš",
-        "zone_id": 46,
-        "zone_name": "Zadvarje - Vrbanj"
+        "zone_name": "Zadvarje - Vrbanj",
+        "zone_in": 46,
+        "zone_out": ""
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [16.633175, 43.48017]
+        "coordinates": [
+          16.633175,
+          43.48017
+        ]
       },
       "properties": {
         "device_id": 182,
@@ -510,15 +617,19 @@
         "description_name": "TH device",
         "company_id": 3,
         "company_name": "Vodovod Omiš",
-        "zone_id": 1,
-        "zone_name": "Tugare zapad"
+        "zone_name": "Tugare zapad",
+        "zone_in": "",
+        "zone_out": 1
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [16.670803, 43.463274]
+        "coordinates": [
+          16.670803,
+          43.463274
+        ]
       },
       "properties": {
         "device_id": 173,
@@ -529,15 +640,18 @@
         "description_name": "TH device",
         "company_id": 3,
         "company_name": "Vodovod Omiš",
-        "zone_id": 3,
-        "zone_name": "Naklice"
+        "zone_name": "Naklice",
+        "zone_in": 3
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [16.722877, 43.463202]
+        "coordinates": [
+          16.722877,
+          43.463202
+        ]
       },
       "properties": {
         "device_id": 180,
@@ -548,15 +662,19 @@
         "description_name": "TH device",
         "company_id": 3,
         "company_name": "Vodovod Omiš",
-        "zone_id": 6,
-        "zone_name": "Čišla"
+        "zone_name": "Čišla",
+        "zone_in": 6,
+        "zone_out": ""
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [16.8338, 43.440298]
+        "coordinates": [
+          16.8338,
+          43.440298
+        ]
       },
       "properties": {
         "device_id": 168,
@@ -567,15 +685,19 @@
         "description_name": "TH device",
         "company_id": 3,
         "company_name": "Vodovod Omiš",
-        "zone_id": 43,
-        "zone_name": "Kostanje - istok"
+        "zone_name": "Kostanje - istok",
+        "zone_in": 43,
+        "zone_out": ""
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [16.881006, 43.469806]
+        "coordinates": [
+          16.881006,
+          43.469806
+        ]
       },
       "properties": {
         "device_id": 164,
@@ -586,15 +708,19 @@
         "description_name": "TH device",
         "company_id": 3,
         "company_name": "Vodovod Omiš",
-        "zone_id": 51,
-        "zone_name": "Kreševo"
+        "zone_name": "Kreševo",
+        "zone_in": 51,
+        "zone_out": ""
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [16.968634, 43.424516]
+        "coordinates": [
+          16.968634,
+          43.424516
+        ]
       },
       "properties": {
         "device_id": 181,
@@ -605,15 +731,19 @@
         "description_name": "TH device",
         "company_id": 3,
         "company_name": "Vodovod Omiš",
-        "zone_id": 52,
-        "zone_name": "Žeževica - Čikeši"
+        "zone_name": "Žeževica - Čikeši",
+        "zone_in": 52,
+        "zone_out": ""
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [16.916109, 43.451621]
+        "coordinates": [
+          16.916109,
+          43.451621
+        ]
       },
       "properties": {
         "device_id": "166",
@@ -624,15 +754,19 @@
         "description_name": "TH device",
         "company_id": 3,
         "company_name": "Vodovod Omiš",
-        "zone_id": "",
-        "zone_name": ""
+        "zone_name": "",
+        "zone_in": "",
+        "zone_out": ""
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [16.796234, 43.524033]
+        "coordinates": [
+          16.796234,
+          43.524033
+        ]
       },
       "properties": {
         "device_id": "186",
@@ -643,15 +777,19 @@
         "description_name": "TH device",
         "company_id": 3,
         "company_name": "Vodovod Omiš",
-        "zone_id": "",
-        "zone_name": ""
+        "zone_name": "",
+        "zone_in": "",
+        "zone_out": ""
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [16.7617, 43.536499]
+        "coordinates": [
+          16.7617,
+          43.536499
+        ]
       },
       "properties": {
         "device_id": "68",
@@ -662,15 +800,19 @@
         "description_name": "TH device",
         "company_id": 3,
         "company_name": "Vodovod Omiš",
-        "zone_id": "",
-        "zone_name": ""
+        "zone_name": "",
+        "zone_in": "",
+        "zone_out": ""
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [16.807699, 43.490002]
+        "coordinates": [
+          16.807699,
+          43.490002
+        ]
       },
       "properties": {
         "device_id": "67",
@@ -681,15 +823,19 @@
         "description_name": "TH device",
         "company_id": 3,
         "company_name": "Vodovod Omiš",
-        "zone_id": "",
-        "zone_name": ""
+        "zone_name": "",
+        "zone_in": "",
+        "zone_out": ""
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [16.748301, 43.496498]
+        "coordinates": [
+          16.748301,
+          43.496498
+        ]
       },
       "properties": {
         "device_id": "66",
@@ -700,15 +846,19 @@
         "description_name": "TH device",
         "company_id": 3,
         "company_name": "Vodovod Omiš",
-        "zone_id": "",
-        "zone_name": ""
+        "zone_name": "",
+        "zone_in": "",
+        "zone_out": ""
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [16.7616, 43.5023]
+        "coordinates": [
+          16.7616,
+          43.5023
+        ]
       },
       "properties": {
         "device_id": "65",
@@ -719,8 +869,9 @@
         "description_name": "TH device",
         "company_id": 3,
         "company_name": "Vodovod Omiš",
-        "zone_id": "",
-        "zone_name": ""
+        "zone_name": "",
+        "zone_in": "",
+        "zone_out": ""
       }
     }
   ]
