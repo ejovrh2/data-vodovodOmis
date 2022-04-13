@@ -1,3328 +1,841 @@
 {
-    "type": "FeatureCollection",
-    "name":"mjernoMjesto",
-    "features": [
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            16.756663,
-            43.389468
-          ]
-        },
-        "properties": {
-          "device_id": 2903826179,
-          "device_name": "MM 240",
-          "info_id": 1,
-          "info_name": "Nije montiran",
-          "description_id": 2,
-          "description_name": "MT device",
-          "company_id": 3,
-          "company_name": "Vodovod Omiš",
-          "zone_id": 6,
-          "zone_name": "U radu"
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            16.892827,
-            43.419603
-          ]
-        },
-        "properties": {
-          "device_id": 2903868931,
-          "device_name": "MM 239 - Slime",
-          "info_id": 2,
-          "info_name": "Montiran je",
-          "description_id": 2,
-          "description_name": "MT device",
-          "company_id": 3,
-          "company_name": "Vodovod Omiš",
-          "zone_id": 5,
-          "zone_name": "SUKI"
-        }
-      },
-          {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            16.888321,
-            43.467512
-          ]
-        },
-        "properties": {
-          "device_id": 2903872297,
-          "device_name": "MM 304 - Put Balića",
-          "info_id": 2,
-          "info_name": "Montiran je",
-          "description_id": 2,
-          "description_name": "MT device",
-          "company_id": 3,
-          "company_name": "Vodovod Omiš",
-          "zone_id": 5,
-          "zone_name": "SUKI"
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            16.890355,
-            43.429988
-          ]
-        },
-        "properties": {
-          "device_id": 2903868929,
-          "device_name": "MM 235 -CS Zadvarje",
-          "info_id": 2,
-          "info_name": "Montiran je",
-          "description_id": 2,
-          "description_name": "MT device",
-          "company_id": 3,
-          "company_name": "Vodovod Omiš",
-          "zone_id": 5,
-          "zone_name": "SUKI"
-        }
-      },
-        {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            16.801454,
-            43.432893
-          ]
-        },
-        "properties": {
-          "device_id": 2903868690,
-          "device_name": "MM 241-  Kučiće sjever",
-          "info_id": 2,
-          "info_name": "Montiran je",
-          "description_id": 2,
-          "description_name": "MT device",
-          "company_id": 3,
-          "company_name": "Vodovod Omiš",
-          "zone_id": 5,
-          "zone_name": "SUKI"
-        }
-      },
-         {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            16.801251,
-            43.432724
-          ]
-        },
-        "properties": {
-          "device_id": 2903872308,
-          "device_name": "MM 307 - Kučiće zapad",
-          "info_id": 2,
-          "info_name": "Montiran je",
-          "description_id": 2,
-          "description_name": "MT device",
-          "company_id": 3,
-          "company_name": "Vodovod Omiš",
-          "zone_id": 5,
-          "zone_name": "SUKI"
-        }
-      },
-         {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            16.767226,
-            43.429663
-          ]
-        },
-        "properties": {
-          "device_id": 2903868691,
-          "device_name": "MM 243 - Podašpilje",
-          "info_id": 2,
-          "info_name": "Montiran je",
-          "description_id": 2,
-          "description_name": "MT device",
-          "company_id": 3,
-          "company_name": "Vodovod Omiš",
-          "zone_id": 5,
-          "zone_name": "SUKI"
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            16.713815,
-            43.466055
-          ]
-        },
-        "properties": {
-          "device_id": 2903868942,
-          "device_name": "MM 233 Kuvačić 1",
-          "info_id": 2,
-          "info_name": "Montiran je",
-          "description_id": 2,
-          "description_name": "MT device",
-          "company_id": 3,
-          "company_name": "Vodovod Omiš",
-          "zone_id": 5,
-          "zone_name": "SUKI"
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            16.904104,
-            43.417603
-          ]
-        },
-        "properties": {
-          "device_id": 2903872295,
-          "device_name": "MM 200 - Gornja Brela",
-          "info_id": 2,
-          "info_name": "Montiran je",
-          "description_id": 2,
-          "description_name": "MT device",
-          "company_id": 3,
-          "company_name": "Vodovod Omiš",
-          "zone_id": 5,
-          "zone_name": "SUKI"
-        }
-      },
-        {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            16.801777,
-            43.432793
-          ]
-        },
-        "properties": {
-          "device_id": 2903872303,
-          "device_name": "MM Kučiće istok",
-          "info_id": 2,
-          "info_name": "Montiran je",
-          "description_id": 2,
-          "description_name": "MT device",
-          "company_id": 3,
-          "company_name": "Vodovod Omiš",
-          "zone_id": 5,
-          "zone_name": "SUKI"
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            16.691331,
-            43.444683
-          ]
-        },
-        "properties": {
-          "device_id": 2903868928,
-          "device_name": "MM 37- Punta 3",
-          "info_id": 2,
-          "info_name": "Montiran je",
-          "description_id": 2,
-          "description_name": "MT device",
-          "company_id": 3,
-          "company_name": "Vodovod Omiš",
-          "zone_id": 5,
-          "zone_name": "SUKI"
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            16.916797,
-            43.451629
-          ]
-        },
-        "properties": {
-          "device_id": 2903868947,
-          "device_name": "MM 227 Žeževica, protok",
-          "info_id": 2,
-          "info_name": "Montiran je",
-          "description_id": 2,
-          "description_name": "MT device",
-          "company_id": 3,
-          "company_name": "Vodovod Omiš",
-          "zone_id": 5,
-          "zone_name": "SUKI"
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            16.727374,
-            43.460891
-          ]
-        },
-        "properties": {
-          "device_id": 2903865860,
-          "device_name": "MM 228 - Ostrvica Donja",
-          "info_id": 2,
-          "info_name": "Montiran je",
-          "description_id": 2,
-          "description_name": "MT device",
-          "company_id": 3,
-          "company_name": "Vodovod Omiš",
-          "zone_id": 5,
-          "zone_name": "SUKI"
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            16.692179,
-            43.443986
-          ]
-        },
-        "properties": {
-          "device_id": 2903868934,
-          "device_name": "MM 230 - Punta 1",
-          "info_id": 2,
-          "info_name": "Montiran je",
-          "description_id": 2,
-          "description_name": "MT device",
-          "company_id": 3,
-          "company_name": "Vodovod Omiš",
-          "zone_id": 5,
-          "zone_name": "SUKI"
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            16.692924,
-            43.443289
-          ]
-        },
-        "properties": {
-          "device_id": 2903868944,
-          "device_name": "MM 226 - Punta 2",
-          "info_id": 2,
-          "info_name": "Montiran je",
-          "description_id": 2,
-          "description_name": "MT device",
-          "company_id": 3,
-          "company_name": "Vodovod Omiš",
-          "zone_id": 5,
-          "zone_name": "SUKI"
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            17.562052,
-            42.945012
-          ]
-        },
-        "properties": {
-          "device_id": 2903865865,
-          "device_name": "MM 209 - Klek 2",
-          "info_id": 2,
-          "info_name": "Montiran je",
-          "description_id": 2,
-          "description_name": "MT device",
-          "company_id": 13,
-          "company_name": "NPKLM vodovod d.o.o.",
-          "zone_id": 1,
-          "zone_name": "Neretva"
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            16.76618,
-            43.5317
-          ]
-        },
-        "properties": {
-          "device_id": 2903872296,
-          "device_name": "MM 305 Nova Sela - zapad",
-          "info_id": 2,
-          "info_name": "Montiran je",
-          "description_id": 2,
-          "description_name": "MT device",
-          "company_id": 3,
-          "company_name": "Vodovod Omiš",
-          "zone_id": 5,
-          "zone_name": "SUKI"
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            17.558129,
-            42.943101
-          ]
-        },
-        "properties": {
-          "device_id": 2903865869,
-          "device_name": "MM 213 - Radalj",
-          "info_id": 2,
-          "info_name": "Montiran je",
-          "description_id": 2,
-          "description_name": "MT device",
-          "company_id": 13,
-          "company_name": "NPKLM vodovod d.o.o.",
-          "zone_id": 1,
-          "zone_name": "Neretva"
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            16.901258,
-            43.46259
-          ]
-        },
-        "properties": {
-          "device_id": 2903868940,
-          "device_name": "MM 236 - Kekezi",
-          "info_id": 2,
-          "info_name": "Montiran je",
-          "description_id": 2,
-          "description_name": "MT device",
-          "company_id": 3,
-          "company_name": "Vodovod Omiš",
-          "zone_id": 5,
-          "zone_name": "SUKI"
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            17.562051,
-            42.945012
-          ]
-        },
-        "properties": {
-          "device_id": 2903865880,
-          "device_name": "MM 224 - Klek",
-          "info_id": 2,
-          "info_name": "Montiran je",
-          "description_id": 2,
-          "description_name": "MT device",
-          "company_id": 13,
-          "company_name": "NPKLM vodovod d.o.o.",
-          "zone_id": 1,
-          "zone_name": "Neretva"
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            16.868888,
-            43.422716
-          ]
-        },
-        "properties": {
-          "device_id": 2903866403,
-          "device_name": "MM 238  - HS Slime",
-          "info_id": 2,
-          "info_name": "Montiran je",
-          "description_id": 2,
-          "description_name": "MT device",
-          "company_id": 3,
-          "company_name": "Vodovod Omiš",
-          "zone_id": 5,
-          "zone_name": "SUKI"
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            17.026133,
-            42.973243
-          ]
-        },
-        "properties": {
-          "device_id": 2903865857,
-          "device_name": "MM 201 - Račišče",
-          "info_id": 2,
-          "info_name": "Montiran je",
-          "description_id": 2,
-          "description_name": "MT device",
-          "company_id": 13,
-          "company_name": "NPKLM vodovod d.o.o.",
-          "zone_id": 3,
-          "zone_name": "Magistralni"
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            17.11231,
-            42.95013
-          ]
-        },
-        "properties": {
-          "device_id": 2903865858,
-          "device_name": "MM 202 - Žrnovo brdo",
-          "info_id": 2,
-          "info_name": "Montiran je",
-          "description_id": 2,
-          "description_name": "MT device",
-          "company_id": 13,
-          "company_name": "NPKLM vodovod d.o.o.",
-          "zone_id": 2,
-          "zone_name": "Korčula"
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            17.552936,
-            42.943495
-          ]
-        },
-        "properties": {
-          "device_id": 2903865861,
-          "device_name": "MM 205 - Repić",
-          "info_id": 3,
-          "info_name": "U kvaru",
-          "description_id": 2,
-          "description_name": "MT device",
-          "company_id": 13,
-          "company_name": "NPKLM vodovod d.o.o.",
-          "zone_id": 1,
-          "zone_name": "Neretva"
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            17.486146,
-            43.001184
-          ]
-        },
-        "properties": {
-          "device_id": 2903865862,
-          "device_name": "MM 206 - Blace Sela",
-          "info_id": 2,
-          "info_name": "Montiran je",
-          "description_id": 2,
-          "description_name": "MT device",
-          "company_id": 13,
-          "company_name": "NPKLM vodovod d.o.o.",
-          "zone_id": 1,
-          "zone_name": "Neretva"
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            17.486144,
-            43.001184
-          ]
-        },
-        "properties": {
-          "device_id": 2903865863,
-          "device_name": "MM 207 -  Smjer Blace",
-          "info_id": 2,
-          "info_name": "Montiran je",
-          "description_id": 2,
-          "description_name": "MT device",
-          "company_id": 13,
-          "company_name": "NPKLM vodovod d.o.o.",
-          "zone_id": 1,
-          "zone_name": "Neretva"
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            17.159952,
-            42.930054
-          ]
-        },
-        "properties": {
-          "device_id": 2903865864,
-          "device_name": "MM 208 - Javić",
-          "info_id": 2,
-          "info_name": "Montiran je",
-          "description_id": 2,
-          "description_name": "MT device",
-          "company_id": 13,
-          "company_name": "NPKLM vodovod d.o.o.",
-          "zone_id": 2,
-          "zone_name": "Korčula"
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            17.13581,
-            42.954459
-          ]
-        },
-        "properties": {
-          "device_id": 2903865866,
-          "device_name": "MM 210 - Vodosprema Korčula 1",
-          "info_id": 2,
-          "info_name": "Montiran je",
-          "description_id": 2,
-          "description_name": "MT device",
-          "company_id": 13,
-          "company_name": "NPKLM vodovod d.o.o.",
-          "zone_id": 2,
-          "zone_name": "Korčula"
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            17.564733,
-            43.010945
-          ]
-        },
-        "properties": {
-          "device_id": 2903865867,
-          "device_name": "MM 211 - Smjer Vlaka",
-          "info_id": 3,
-          "info_name": "U kvaru",
-          "description_id": 2,
-          "description_name": "MT device",
-          "company_id": 13,
-          "company_name": "NPKLM vodovod d.o.o.",
-          "zone_id": 1,
-          "zone_name": "Neretva"
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            17.109958,
-            42.944537
-          ]
-        },
-        "properties": {
-          "device_id": 2903865870,
-          "device_name": "MM 214 - Žrnovo škola",
-          "info_id": 2,
-          "info_name": "Montiran je",
-          "description_id": 2,
-          "description_name": "MT device",
-          "company_id": 13,
-          "company_name": "NPKLM vodovod d.o.o.",
-          "zone_id": 2,
-          "zone_name": "Korčula"
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            16.879826,
-            42.926697
-          ]
-        },
-        "properties": {
-          "device_id": 2903865871,
-          "device_name": "MM 215 - Smokvica",
-          "info_id": 2,
-          "info_name": "Montiran je",
-          "description_id": 2,
-          "description_name": "MT device",
-          "company_id": 13,
-          "company_name": "NPKLM vodovod d.o.o.",
-          "zone_id": 3,
-          "zone_name": "Magistralni"
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            16.833904,
-            43.453119
-          ]
-        },
-        "properties": {
-          "device_id": 2903868693,
-          "device_name": "MM 242 -Seoca",
-          "info_id": 2,
-          "info_name": "Montiran je",
-          "description_id": 2,
-          "description_name": "MT device",
-          "company_id": 3,
-          "company_name": "Vodovod Omiš",
-          "zone_id": 5,
-          "zone_name": "SUKI"
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            16.927462,
-            42.933019
-          ]
-        },
-        "properties": {
-          "device_id": 2903865872,
-          "device_name": "MM 216 - Čara",
-          "info_id": 2,
-          "info_name": "Montiran je",
-          "description_id": 2,
-          "description_name": "MT device",
-          "company_id": 13,
-          "company_name": "NPKLM vodovod d.o.o.",
-          "zone_id": 3,
-          "zone_name": "Magistralni"
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            16.850394,
-            42.764661
-          ]
-        },
-        "properties": {
-          "device_id": 2903865873,
-          "device_name": "MM 217 - Lastovo",
-          "info_id": 2,
-          "info_name": "Montiran je",
-          "description_id": 2,
-          "description_name": "MT device",
-          "company_id": 13,
-          "company_name": "NPKLM vodovod d.o.o.",
-          "zone_id": 4,
-          "zone_name": "Lastovo"
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            17.033286,
-            42.952708
-          ]
-        },
-        "properties": {
-          "device_id": 2903865874,
-          "device_name": "MM 218 - Pupnat",
-          "info_id": 2,
-          "info_name": "Montiran je",
-          "description_id": 2,
-          "description_name": "MT device",
-          "company_id": 13,
-          "company_name": "NPKLM vodovod d.o.o.",
-          "zone_id": 2,
-          "zone_name": "Korčula"
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            17.13581,
-            42.95446
-          ]
-        },
-        "properties": {
-          "device_id": 2903865875,
-          "device_name": "MM 219 - Vodosprema Korčula 2",
-          "info_id": 2,
-          "info_name": "Montiran je",
-          "description_id": 2,
-          "description_name": "MT device",
-          "company_id": 13,
-          "company_name": "NPKLM vodovod d.o.o.",
-          "zone_id": 2,
-          "zone_name": "Korčula"
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            17.619747,
-            43.045516
-          ]
-        },
-        "properties": {
-          "device_id": 2903865876,
-          "device_name": "MM 220 - Kula Norinska",
-          "info_id": 2,
-          "info_name": "Montiran je",
-          "description_id": 2,
-          "description_name": "MT device",
-          "company_id": 13,
-          "company_name": "NPKLM vodovod d.o.o.",
-          "zone_id": 1,
-          "zone_name": "Neretva"
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            17.151386,
-            42.947447
-          ]
-        },
-        "properties": {
-          "device_id": 2903865877,
-          "device_name": "MM 221 - Soline",
-          "info_id": 2,
-          "info_name": "Montiran je",
-          "description_id": 2,
-          "description_name": "MT device",
-          "company_id": 13,
-          "company_name": "NPKLM vodovod d.o.o.",
-          "zone_id": 2,
-          "zone_name": "Korčula"
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            17.536464,
-            42.946726
-          ]
-        },
-        "properties": {
-          "device_id": 2903865878,
-          "device_name": "MM 222 - Komarna",
-          "info_id": 2,
-          "info_name": "Montiran je",
-          "description_id": 2,
-          "description_name": "MT device",
-          "company_id": 13,
-          "company_name": "NPKLM vodovod d.o.o.",
-          "zone_id": 1,
-          "zone_name": "Neretva"
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            17.544594,
-            42.945967
-          ]
-        },
-        "properties": {
-          "device_id": 2903865879,
-          "device_name": "MM 223 - Duboka",
-          "info_id": 2,
-          "info_name": "Montiran je",
-          "description_id": 2,
-          "description_name": "MT device",
-          "company_id": 13,
-          "company_name": "NPKLM vodovod d.o.o.",
-          "zone_id": 1,
-          "zone_name": "Neretva"
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            16.93328,
-            43.443862
-          ]
-        },
-        "properties": {
-          "device_id": 2903866402,
-          "device_name": "MM 229 - Kalajžići, hidrostanica",
-          "info_id": 2,
-          "info_name": "Montiran je",
-          "description_id": 2,
-          "description_name": "MT device",
-          "company_id": 3,
-          "company_name": "Vodovod Omiš",
-          "zone_id": 5,
-          "zone_name": "SUKI"
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            16.909919,
-            43.454785
-          ]
-        },
-        "properties": {
-          "device_id": 2903868939,
-          "device_name": "MM 232 - Katuni",
-          "info_id": 2,
-          "info_name": "Montiran je",
-          "description_id": 2,
-          "description_name": "MT device",
-          "company_id": 3,
-          "company_name": "Vodovod Omiš",
-          "zone_id": 5,
-          "zone_name": "SUKI"
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            16.91281,
-            43.45507
-          ]
-        },
-        "properties": {
-          "device_id": 2903868946,
-          "device_name": "MM 244 - Ribičići",
-          "info_id": 2,
-          "info_name": "Montiran je",
-          "description_id": 2,
-          "description_name": "MT device",
-          "company_id": 3,
-          "company_name": "Vodovod Omiš",
-          "zone_id": 5,
-          "zone_name": "SUKI"
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            16.756557,
-            43.38707
-          ]
-        },
-        "properties": {
-          "device_id": 2903868930,
-          "device_name": "MM 317",
-          "info_id": 1,
-          "info_name": "Nije montiran",
-          "description_id": 2,
-          "description_name": "MT device",
-          "company_id": 3,
-          "company_name": "Vodovod Omiš",
-          "zone_id": 6,
-          "zone_name": "U radu"
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            17.137875,
-            42.949217
-          ]
-        },
-        "properties": {
-          "device_id": 2903826177,
-          "device_name": "MM 177 - Peyton",
-          "info_id": 2,
-          "info_name": "Montiran je",
-          "description_id": 2,
-          "description_name": "MT device",
-          "company_id": 13,
-          "company_name": "NPKLM vodovod d.o.o.",
-          "zone_id": 2,
-          "zone_name": "Korčula"
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            16.754,
-            43.456
-          ]
-        },
-        "properties": {
-          "device_id": "169",
-          "device_name": "TH-A9 Zvečanje",
-          "info_id": 2,
-          "info_name": "Montiran je",
-          "description_id": 1,
-          "description_name": "TH device",
-          "company_id": 3,
-          "company_name": "Vodovod Omiš",
-          "zone_id": 5,
-          "zone_name": "SUKI"
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            16.769077,
-            43.452898
-          ]
-        },
-        "properties": {
-          "device_id": "165",
-          "device_name": "TH-A5 Smolonje",
-          "info_id": 2,
-          "info_name": "Montiran je",
-          "description_id": 1,
-          "description_name": "TH device",
-          "company_id": 3,
-          "company_name": "Vodovod Omiš",
-          "zone_id": 5,
-          "zone_name": "SUKI"
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            16.829403,
-            43.440295
-          ]
-        },
-        "properties": {
-          "device_id": "184",
-          "device_name": "TH-B8 Kostanje - zapad",
-          "info_id": 2,
-          "info_name": "Montiran je",
-          "description_id": 1,
-          "description_name": "TH device",
-          "company_id": 3,
-          "company_name": "Vodovod Omiš",
-          "zone_id": 5,
-          "zone_name": "SUKI"
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            16.7617,
-            43.536499
-          ]
-        },
-        "properties": {
-          "device_id": "68",
-          "device_name": "TH-44 Omiš 4",
-          "info_id": 1,
-          "info_name": "Nije montiran",
-          "description_id": 1,
-          "description_name": "TH device",
-          "company_id": 3,
-          "company_name": "Vodovod Omiš",
-          "zone_id": 6,
-          "zone_name": "U radu"
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            16.727495,
-            43.460795
-          ]
-        },
-        "properties": {
-          "device_id": "187",
-          "device_name": "TH-BB Ostrvica Donja, tlak",
-          "info_id": 2,
-          "info_name": "Montiran je",
-          "description_id": 1,
-          "description_name": "TH device",
-          "company_id": 3,
-          "company_name": "Vodovod Omiš",
-          "zone_id": 5,
-          "zone_name": "SUKI"
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            16.902205,
-            43.437974
-          ]
-        },
-        "properties": {
-          "device_id": "162",
-          "device_name": "TH-A2 Zadvarje - Vrbanj",
-          "info_id": 2,
-          "info_name": "Montiran je",
-          "description_id": 1,
-          "description_name": "TH device",
-          "company_id": 3,
-          "company_name": "Vodovod Omiš",
-          "zone_id": 5,
-          "zone_name": "SUKI"
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            16.633175,
-            43.48017
-          ]
-        },
-        "properties": {
-          "device_id": "182",
-          "device_name": "TH-B6 Tugare zapad",
-          "info_id": 2,
-          "info_name": "Montiran je",
-          "description_id": 1,
-          "description_name": "TH device",
-          "company_id": 3,
-          "company_name": "Vodovod Omiš",
-          "zone_id": 5,
-          "zone_name": "SUKI"
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            16.670803,
-            43.463274
-          ]
-        },
-        "properties": {
-          "device_id": "173",
-          "device_name": "TH-AD Naklice",
-          "info_id": 2,
-          "info_name": "Montiran je",
-          "description_id": 1,
-          "description_name": "TH device",
-          "company_id": 3,
-          "company_name": "Vodovod Omiš",
-          "zone_id": 5,
-          "zone_name": "SUKI"
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            16.722877,
-            43.463202
-          ]
-        },
-        "properties": {
-          "device_id": "180",
-          "device_name": "TH-B4 Čišla",
-          "info_id": 2,
-          "info_name": "Montiran je",
-          "description_id": 1,
-          "description_name": "TH device",
-          "company_id": 3,
-          "company_name": "Vodovod Omiš",
-          "zone_id": 5,
-          "zone_name": "SUKI"
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            16.8338,
-            43.440298
-          ]
-        },
-        "properties": {
-          "device_id": "168",
-          "device_name": "TH-A8 Kostanje istok",
-          "info_id": 2,
-          "info_name": "Montiran je",
-          "description_id": 1,
-          "description_name": "TH device",
-          "company_id": 3,
-          "company_name": "Vodovod Omiš",
-          "zone_id": 5,
-          "zone_name": "SUKI"
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            16.881006,
-            43.469806
-          ]
-        },
-        "properties": {
-          "device_id": "164",
-          "device_name": "TH-A4 Kreševo",
-          "info_id": 2,
-          "info_name": "Montiran je",
-          "description_id": 1,
-          "description_name": "TH device",
-          "company_id": 3,
-          "company_name": "Vodovod Omiš",
-          "zone_id": 5,
-          "zone_name": "SUKI"
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            16.968634,
-            43.424516
-          ]
-        },
-        "properties": {
-          "device_id": "181",
-          "device_name": "TH-B5 Čikeši",
-          "info_id": 2,
-          "info_name": "Montiran je",
-          "description_id": 1,
-          "description_name": "TH device",
-          "company_id": 3,
-          "company_name": "Vodovod Omiš",
-          "zone_id": 5,
-          "zone_name": "SUKI"
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            16.916109,
-            43.451621
-          ]
-        },
-        "properties": {
-          "device_id": "166",
-          "device_name": "TH-B5 Žeževica tlak",
-          "info_id": 2,
-          "info_name": "Montiran je",
-          "description_id": 1,
-          "description_name": "TH device",
-          "company_id": 3,
-          "company_name": "Vodovod Omiš",
-          "zone_id": 5,
-          "zone_name": "SUKI"
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            16.796234,
-            43.524033
-          ]
-        },
-        "properties": {
-          "device_id": "186",
-          "device_name": "TH-BA",
-          "info_id": 2,
-          "info_name": "Montiran je",
-          "description_id": 1,
-          "description_name": "TH device",
-          "company_id": 3,
-          "company_name": "Vodovod Omiš",
-          "zone_id": 6,
-          "zone_name": "U radu"
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            18.706121,
-            45.147678
-          ]
-        },
-        "properties": {
-          "device_id": "18",
-          "device_name": "TH-12 Županja 1 GRADIŠTE",
-          "info_id": 2,
-          "info_name": "Montiran je",
-          "description_id": 1,
-          "description_name": "TH device",
-          "company_id": 4,
-          "company_name": "Komunalac Županja",
-          "zone_id": 5,
-          "zone_name": "SUKI"
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            15.961747,
-            45.757072
-          ]
-        },
-        "properties": {
-          "device_id": "17",
-          "device_name": "TH-11 ZG-Klara",
-          "info_id": 2,
-          "info_name": "Montiran je",
-          "description_id": 1,
-          "description_name": "TH device",
-          "company_id": 1,
-          "company_name": "VIO Zagreb",
-          "zone_id": 5,
-          "zone_name": "SUKI"
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            15.922262,
-            43.913483
-          ]
-        },
-        "properties": {
-          "device_id": "16",
-          "device_name": "TH-10 Šibenik 4 SKRADIN",
-          "info_id": 2,
-          "info_name": "Montiran je",
-          "description_id": 1,
-          "description_name": "TH device",
-          "company_id": 12,
-          "company_name": "Vodovod i odvodnja Šibenik",
-          "zone_id": 5,
-          "zone_name": "SUKI"
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            16.093151,
-            45.821129
-          ]
-        },
-        "properties": {
-          "device_id": "9",
-          "device_name": "TH-09 ZG-Velebitska",
-          "info_id": 2,
-          "info_name": "Montiran je",
-          "description_id": 1,
-          "description_name": "TH device",
-          "company_id": 1,
-          "company_name": "VIO Zagreb",
-          "zone_id": 5,
-          "zone_name": "SUKI"
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            15.9762,
-            45.800835
-          ]
-        },
-        "properties": {
-          "device_id": "8",
-          "device_name": "TH-08 ZG-Poglavarstvo",
-          "info_id": 2,
-          "info_name": "Montiran je",
-          "description_id": 1,
-          "description_name": "TH device",
-          "company_id": 1,
-          "company_name": "VIO Zagreb",
-          "zone_id": 5,
-          "zone_name": "SUKI"
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            15.939706,
-            45.782364
-          ]
-        },
-        "properties": {
-          "device_id": "7",
-          "device_name": "TH-07 ZG-Gredice",
-          "info_id": 2,
-          "info_name": "Montiran je",
-          "description_id": 1,
-          "description_name": "TH device",
-          "company_id": 1,
-          "company_name": "VIO Zagreb",
-          "zone_id": 5,
-          "zone_name": "SUKI"
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            15.935852,
-            45.798332
-          ]
-        },
-        "properties": {
-          "device_id": "6",
-          "device_name": "TH-06 ZG-Mitrovačka",
-          "info_id": 2,
-          "info_name": "Montiran je",
-          "description_id": 1,
-          "description_name": "TH device",
-          "company_id": 1,
-          "company_name": "VIO Zagreb",
-          "zone_id": 5,
-          "zone_name": "SUKI"
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            16.693259,
-            43.403369
-          ]
-        },
-        "properties": {
-          "device_id": "185",
-          "device_name": "TH-B9",
-          "info_id": 3,
-          "info_name": "U kvaru",
-          "description_id": 1,
-          "description_name": "TH device",
-          "company_id": 3,
-          "company_name": "Vodovod Omiš",
-          "zone_id": 6,
-          "zone_name": "U radu"
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            16.665846,
-            43.393059
-          ]
-        },
-        "properties": {
-          "device_id": "174",
-          "device_name": "TH-AE ",
-          "info_id": 3,
-          "info_name": "U kvaru",
-          "description_id": 1,
-          "description_name": "TH device",
-          "company_id": 3,
-          "company_name": "Vodovod Omiš",
-          "zone_id": 6,
-          "zone_name": "U radu"
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            16.684634,
-            43.432594
-          ]
-        },
-        "properties": {
-          "device_id": "171",
-          "device_name": "TH-AB",
-          "info_id": 1,
-          "info_name": "Nije montiran",
-          "description_id": 1,
-          "description_name": "TH device",
-          "company_id": 3,
-          "company_name": "Vodovod Omiš",
-          "zone_id": 6,
-          "zone_name": "U radu"
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            16.683055,
-            43.390455
-          ]
-        },
-        "properties": {
-          "device_id": "183",
-          "device_name": "TH-B7",
-          "info_id": 3,
-          "info_name": "U kvaru",
-          "description_id": 1,
-          "description_name": "TH device",
-          "company_id": 3,
-          "company_name": "Vodovod Omiš",
-          "zone_id": 6,
-          "zone_name": "U radu"
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            16.671064,
-            43.429512
-          ]
-        },
-        "properties": {
-          "device_id": "176",
-          "device_name": "TH-B0 Omiš",
-          "info_id": 1,
-          "info_name": "Nije montiran",
-          "description_id": 1,
-          "description_name": "TH device",
-          "company_id": 3,
-          "company_name": "Vodovod Omiš",
-          "zone_id": 6,
-          "zone_name": "U radu"
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            16.668431,
-            43.429255
-          ]
-        },
-        "properties": {
-          "device_id": "175",
-          "device_name": "TH-AF Omiš",
-          "info_id": 1,
-          "info_name": "Nije montiran",
-          "description_id": 1,
-          "description_name": "TH device",
-          "company_id": 3,
-          "company_name": "Vodovod Omiš",
-          "zone_id": 6,
-          "zone_name": "U radu"
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            16.684534,
-            43.431594
-          ]
-        },
-        "properties": {
-          "device_id": "172",
-          "device_name": "TH-AC Omiš",
-          "info_id": 1,
-          "info_name": "Nije montiran",
-          "description_id": 1,
-          "description_name": "TH device",
-          "company_id": 3,
-          "company_name": "Vodovod Omiš",
-          "zone_id": 6,
-          "zone_name": "U radu"
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            16.684034,
-            43.436594
-          ]
-        },
-        "properties": {
-          "device_id": "170",
-          "device_name": "TH-AA Omiš",
-          "info_id": 1,
-          "info_name": "Nije montiran",
-          "description_id": 1,
-          "description_name": "TH device",
-          "company_id": 3,
-          "company_name": "Vodovod Omiš",
-          "zone_id": 6,
-          "zone_name": "U radu"
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            16.684034,
-            43.430594
-          ]
-        },
-        "properties": {
-          "device_id": "167",
-          "device_name": "TH-A7 Omiš",
-          "info_id": 1,
-          "info_name": "Nije montiran",
-          "description_id": 1,
-          "description_name": "TH device",
-          "company_id": 3,
-          "company_name": "Vodovod Omiš",
-          "zone_id": 6,
-          "zone_name": "U radu"
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            16.679597,
-            43.430308
-          ]
-        },
-        "properties": {
-          "device_id": "163",
-          "device_name": "TH-A3 Omiš",
-          "info_id": 1,
-          "info_name": "Nije montiran",
-          "description_id": 1,
-          "description_name": "TH device",
-          "company_id": 3,
-          "company_name": "Vodovod Omiš",
-          "zone_id": 6,
-          "zone_name": "U radu"
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            16.677259,
-            43.430247
-          ]
-        },
-        "properties": {
-          "device_id": "161",
-          "device_name": "TH-A1 Omiš",
-          "info_id": 1,
-          "info_name": "Nije montiran",
-          "description_id": 1,
-          "description_name": "TH device",
-          "company_id": 3,
-          "company_name": "Vodovod Omiš",
-          "zone_id": 6,
-          "zone_name": "U radu"
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            15.93697,
-            45.806149
-          ]
-        },
-        "properties": {
-          "device_id": "153",
-          "device_name": "TH-99",
-          "info_id": 1,
-          "info_name": "Nije montiran",
-          "description_id": 1,
-          "description_name": "TH device",
-          "company_id": 2,
-          "company_name": "Nepoznato",
-          "zone_id": 5,
-          "zone_name": "SUKI"
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            16.901301,
-            45.8727
-          ]
-        },
-        "properties": {
-          "device_id": "148",
-          "device_name": "TH-94 Bjelovar 6 OFF",
-          "info_id": 1,
-          "info_name": "Nije montiran",
-          "description_id": 1,
-          "description_name": "TH device",
-          "company_id": 10,
-          "company_name": "Vodovod grada Bjelovara",
-          "zone_id": 5,
-          "zone_name": "SUKI"
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            16.905758,
-            45.86821
-          ]
-        },
-        "properties": {
-          "device_id": "146",
-          "device_name": "TH-92 Bjelovar 8",
-          "info_id": 2,
-          "info_name": "Montiran je",
-          "description_id": 1,
-          "description_name": "TH device",
-          "company_id": 10,
-          "company_name": "Vodovod grada Bjelovara",
-          "zone_id": 5,
-          "zone_name": "SUKI"
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            16.9121,
-            45.868801
-          ]
-        },
-        "properties": {
-          "device_id": "144",
-          "device_name": "TH-90 Bjelovar 7",
-          "info_id": 2,
-          "info_name": "Montiran je",
-          "description_id": 1,
-          "description_name": "TH device",
-          "company_id": 10,
-          "company_name": "Vodovod grada Bjelovara",
-          "zone_id": 5,
-          "zone_name": "SUKI"
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            16.9013,
-            45.8727
-          ]
-        },
-        "properties": {
-          "device_id": "136",
-          "device_name": "TH-88 BJELOVAR 6",
-          "info_id": 2,
-          "info_name": "Montiran je",
-          "description_id": 1,
-          "description_name": "TH device",
-          "company_id": 10,
-          "company_name": "Vodovod grada Bjelovara",
-          "zone_id": 5,
-          "zone_name": "SUKI"
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            18.703511,
-            45.082001
-          ]
-        },
-        "properties": {
-          "device_id": "132",
-          "device_name": "TH-84 Županja 4",
-          "info_id": 2,
-          "info_name": "Montiran je",
-          "description_id": 1,
-          "description_name": "TH device",
-          "company_id": 4,
-          "company_name": "Komunalac Županja",
-          "zone_id": 5,
-          "zone_name": "SUKI"
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            16.893328,
-            45.870806
-          ]
-        },
-        "properties": {
-          "device_id": "128",
-          "device_name": "TH-80 Bjelovar 5",
-          "info_id": 2,
-          "info_name": "Montiran je",
-          "description_id": 1,
-          "description_name": "TH device",
-          "company_id": 10,
-          "company_name": "Vodovod grada Bjelovara",
-          "zone_id": 5,
-          "zone_name": "SUKI"
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            16.889235,
-            45.870201
-          ]
-        },
-        "properties": {
-          "device_id": "121",
-          "device_name": "TH-79 Bjelovar 4",
-          "info_id": 2,
-          "info_name": "Montiran je",
-          "description_id": 1,
-          "description_name": "TH device",
-          "company_id": 10,
-          "company_name": "Vodovod grada Bjelovara",
-          "zone_id": 5,
-          "zone_name": "SUKI"
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            16.032631,
-            45.861351
-          ]
-        },
-        "properties": {
-          "device_id": "115",
-          "device_name": "TH-73 ZG NOVAČKa 355A",
-          "info_id": 2,
-          "info_name": "Montiran je",
-          "description_id": 1,
-          "description_name": "TH device",
-          "company_id": 1,
-          "company_name": "VIO Zagreb",
-          "zone_id": 5,
-          "zone_name": "SUKI"
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            16.44,
-            45.54
-          ]
-        },
-        "properties": {
-          "device_id": "114",
-          "device_name": "TH-72",
-          "info_id": 2,
-          "info_name": "Montiran je",
-          "description_id": 1,
-          "description_name": "TH device",
-          "company_id": 2,
-          "company_name": "Nepoznato",
-          "zone_id": 1,
-          "zone_name": "Neretva"
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            16.186279,
-            45.813114
-          ]
-        },
-        "properties": {
-          "device_id": "104",
-          "device_name": "TH-68 ZG",
-          "info_id": 2,
-          "info_name": "Montiran je",
-          "description_id": 1,
-          "description_name": "TH device",
-          "company_id": 1,
-          "company_name": "VIO Zagreb",
-          "zone_id": 5,
-          "zone_name": "SUKI"
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            15.909001,
-            45.796783
-          ]
-        },
-        "properties": {
-          "device_id": "103",
-          "device_name": "TH-67 ZG",
-          "info_id": 2,
-          "info_name": "Montiran je",
-          "description_id": 1,
-          "description_name": "TH device",
-          "company_id": 1,
-          "company_name": "VIO Zagreb",
-          "zone_id": 5,
-          "zone_name": "SUKI"
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            15.94507,
-            45.807327
-          ]
-        },
-        "properties": {
-          "device_id": "102",
-          "device_name": "TH-66 ZG",
-          "info_id": 2,
-          "info_name": "Montiran je",
-          "description_id": 1,
-          "description_name": "TH device",
-          "company_id": 1,
-          "company_name": "VIO Zagreb",
-          "zone_id": 5,
-          "zone_name": "SUKI"
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            15.736385,
-            45.800041
-          ]
-        },
-        "properties": {
-          "device_id": "101",
-          "device_name": "TH-65 ZG - Svetonedjeljska ulica 6",
-          "info_id": 2,
-          "info_name": "Montiran je",
-          "description_id": 1,
-          "description_name": "TH device",
-          "company_id": 1,
-          "company_name": "VIO Zagreb",
-          "zone_id": 5,
-          "zone_name": "SUKI"
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            15.9336,
-            45.757301
-          ]
-        },
-        "properties": {
-          "device_id": "100",
-          "device_name": "TH-64 ZG - Bašćanske ploče",
-          "info_id": 2,
-          "info_name": "Montiran je",
-          "description_id": 1,
-          "description_name": "TH device",
-          "company_id": 1,
-          "company_name": "VIO Zagreb",
-          "zone_id": 5,
-          "zone_name": "SUKI"
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            15.953944,
-            45.738396
-          ]
-        },
-        "properties": {
-          "device_id": "99",
-          "device_name": "TH-63 ZG - Češka ulica 67",
-          "info_id": 2,
-          "info_name": "Montiran je",
-          "description_id": 1,
-          "description_name": "TH device",
-          "company_id": 1,
-          "company_name": "VIO Zagreb",
-          "zone_id": 5,
-          "zone_name": "SUKI"
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            15.953553,
-            45.781792
-          ]
-        },
-        "properties": {
-          "device_id": "98",
-          "device_name": "TH-62 ZG - Riječka ulica",
-          "info_id": 2,
-          "info_name": "Montiran je",
-          "description_id": 1,
-          "description_name": "TH device",
-          "company_id": 1,
-          "company_name": "VIO Zagreb",
-          "zone_id": 5,
-          "zone_name": "SUKI"
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            15.63316,
-            46.543209
-          ]
-        },
-        "properties": {
-          "device_id": "97",
-          "device_name": "TH-61 Maribor",
-          "info_id": 2,
-          "info_name": "Montiran je",
-          "description_id": 1,
-          "description_name": "TH device",
-          "company_id": 7,
-          "company_name": "Mariborski Vodovod",
-          "zone_id": 5,
-          "zone_name": "SUKI"
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            19.170538,
-            45.260475
-          ]
-        },
-        "properties": {
-          "device_id": "96",
-          "device_name": "TH-60 Ilok 4",
-          "info_id": 2,
-          "info_name": "Montiran je",
-          "description_id": 1,
-          "description_name": "TH device",
-          "company_id": 9,
-          "company_name": "Sumus Ilok",
-          "zone_id": 5,
-          "zone_name": "SUKI"
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            18.693741,
-            45.064247
-          ]
-        },
-        "properties": {
-          "device_id": "89",
-          "device_name": "TH-59 Županja 6",
-          "info_id": 2,
-          "info_name": "Montiran je",
-          "description_id": 1,
-          "description_name": "TH device",
-          "company_id": 4,
-          "company_name": "Komunalac Županja",
-          "zone_id": 5,
-          "zone_name": "SUKI"
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            18.687546,
-            45.101921
-          ]
-        },
-        "properties": {
-          "device_id": "88",
-          "device_name": "TH-58 Županja 5",
-          "info_id": 2,
-          "info_name": "Montiran je",
-          "description_id": 1,
-          "description_name": "TH device",
-          "company_id": 4,
-          "company_name": "Komunalac Županja",
-          "zone_id": 5,
-          "zone_name": "SUKI"
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            18.703506,
-            45.081974
-          ]
-        },
-        "properties": {
-          "device_id": "87",
-          "device_name": "TH-57 Županja 4",
-          "info_id": 2,
-          "info_name": "Montiran je",
-          "description_id": 1,
-          "description_name": "TH device",
-          "company_id": 2,
-          "company_name": "Nepoznato",
-          "zone_id": 5,
-          "zone_name": "SUKI"
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            16.85247,
-            45.903751
-          ]
-        },
-        "properties": {
-          "device_id": "86",
-          "device_name": "TH-56 Bjelovar 3",
-          "info_id": 2,
-          "info_name": "Montiran je",
-          "description_id": 1,
-          "description_name": "TH device",
-          "company_id": 10,
-          "company_name": "Vodovod grada Bjelovara",
-          "zone_id": 5,
-          "zone_name": "SUKI"
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            16.849171,
-            45.905899
-          ]
-        },
-        "properties": {
-          "device_id": "85",
-          "device_name": "TH-55 Bjelovar 2",
-          "info_id": 2,
-          "info_name": "Montiran je",
-          "description_id": 1,
-          "description_name": "TH device",
-          "company_id": 10,
-          "company_name": "Vodovod grada Bjelovara",
-          "zone_id": 5,
-          "zone_name": "SUKI"
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            16.849386,
-            45.905094
-          ]
-        },
-        "properties": {
-          "device_id": "84",
-          "device_name": "TH-54 Bjelovar 1",
-          "info_id": 2,
-          "info_name": "Montiran je",
-          "description_id": 1,
-          "description_name": "TH device",
-          "company_id": 10,
-          "company_name": "Vodovod grada Bjelovara",
-          "zone_id": 5,
-          "zone_name": "SUKI"
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            19.262108,
-            45.202484
-          ]
-        },
-        "properties": {
-          "device_id": "83",
-          "device_name": "TH-53 Ilok 3",
-          "info_id": 2,
-          "info_name": "Montiran je",
-          "description_id": 1,
-          "description_name": "TH device",
-          "company_id": 9,
-          "company_name": "Sumus Ilok",
-          "zone_id": 5,
-          "zone_name": "SUKI"
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            19.26285,
-            45.195503
-          ]
-        },
-        "properties": {
-          "device_id": "82",
-          "device_name": "TH-52 Ilok 2",
-          "info_id": 2,
-          "info_name": "Montiran je",
-          "description_id": 1,
-          "description_name": "TH device",
-          "company_id": 9,
-          "company_name": "Sumus Ilok",
-          "zone_id": 5,
-          "zone_name": "SUKI"
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            19.277353,
-            45.228073
-          ]
-        },
-        "properties": {
-          "device_id": "81",
-          "device_name": "TH-51 Ilok 1",
-          "info_id": 2,
-          "info_name": "Montiran je",
-          "description_id": 1,
-          "description_name": "TH device",
-          "company_id": 9,
-          "company_name": "Sumus Ilok",
-          "zone_id": 5,
-          "zone_name": "SUKI"
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            18.703501,
-            45.082001
-          ]
-        },
-        "properties": {
-          "device_id": "74",
-          "device_name": "TH-4A IMPEL testni",
-          "info_id": 1,
-          "info_name": "Nije montiran",
-          "description_id": 1,
-          "description_name": "TH device",
-          "company_id": 2,
-          "company_name": "Nepoznato",
-          "zone_id": 5,
-          "zone_name": "SUKI"
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            15.93699,
-            45.806149
-          ]
-        },
-        "properties": {
-          "device_id": "70",
-          "device_name": "TH-46",
-          "info_id": 1,
-          "info_name": "Nije montiran",
-          "description_id": 1,
-          "description_name": "TH device",
-          "company_id": 2,
-          "company_name": "Nepoznato",
-          "zone_id": 5,
-          "zone_name": "SUKI"
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            16.690558,
-            43.43263
-          ]
-        },
-        "properties": {
-          "device_id": "69",
-          "device_name": "TH-45 Omiš 5",
-          "info_id": 1,
-          "info_name": "Nije montiran",
-          "description_id": 1,
-          "description_name": "TH device",
-          "company_id": 3,
-          "company_name": "Vodovod Omiš",
-          "zone_id": 6,
-          "zone_name": "U radu"
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            16.807699,
-            43.490002
-          ]
-        },
-        "properties": {
-          "device_id": "67",
-          "device_name": "TH-43 Omiš 3",
-          "info_id": 1,
-          "info_name": "Nije montiran",
-          "description_id": 1,
-          "description_name": "TH device",
-          "company_id": 3,
-          "company_name": "Vodovod Omiš",
-          "zone_id": 6,
-          "zone_name": "U radu"
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            16.748301,
-            43.496498
-          ]
-        },
-        "properties": {
-          "device_id": "66",
-          "device_name": "TH-42 Omiš 2",
-          "info_id": 1,
-          "info_name": "Nije montiran",
-          "description_id": 1,
-          "description_name": "TH device",
-          "company_id": 3,
-          "company_name": "Vodovod Omiš",
-          "zone_id": 6,
-          "zone_name": "U radu"
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            16.7616,
-            43.5023
-          ]
-        },
-        "properties": {
-          "device_id": "65",
-          "device_name": "TH-41 Omiš 1",
-          "info_id": 1,
-          "info_name": "Nije montiran",
-          "description_id": 1,
-          "description_name": "TH device",
-          "company_id": 3,
-          "company_name": "Vodovod Omiš",
-          "zone_id": 6,
-          "zone_name": "U radu"
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            15.6127,
-            45.107399
-          ]
-        },
-        "properties": {
-          "device_id": "64",
-          "device_name": "TH-40 Slunj 6",
-          "info_id": 2,
-          "info_name": "Montiran je",
-          "description_id": 1,
-          "description_name": "TH device",
-          "company_id": 5,
-          "company_name": "Komunalac Slunj",
-          "zone_id": 5,
-          "zone_name": "SUKI"
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            16.52,
-            45.05
-          ]
-        },
-        "properties": {
-          "device_id": "60",
-          "device_name": "TH-3C Omiš",
-          "info_id": 1,
-          "info_name": "Nije montiran",
-          "description_id": 1,
-          "description_name": "TH device",
-          "company_id": 3,
-          "company_name": "Vodovod Omiš",
-          "zone_id": 6,
-          "zone_name": "U radu"
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            16.51,
-            45.05
-          ]
-        },
-        "properties": {
-          "device_id": "59",
-          "device_name": "TH-3B Omiš",
-          "info_id": 1,
-          "info_name": "Nije montiran",
-          "description_id": 1,
-          "description_name": "TH device",
-          "company_id": 3,
-          "company_name": "Vodovod Omiš",
-          "zone_id": 6,
-          "zone_name": "U radu"
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            16.5,
-            45.05
-          ]
-        },
-        "properties": {
-          "device_id": "58",
-          "device_name": "TH-3A Omiš",
-          "info_id": 1,
-          "info_name": "Nije montiran",
-          "description_id": 1,
-          "description_name": "TH device",
-          "company_id": 3,
-          "company_name": "Vodovod Omiš",
-          "zone_id": 6,
-          "zone_name": "U radu"
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            16.5,
-            46.89
-          ]
-        },
-        "properties": {
-          "device_id": "225",
-          "device_name": "TH-E1",
-          "info_id": 1,
-          "info_name": "Nije montiran",
-          "description_id": 1,
-          "description_name": "TH device",
-          "company_id": 2,
-          "company_name": "Nepoznato",
-          "zone_id": 5,
-          "zone_name": "SUKI"
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            15.922892,
-            45.79118
-          ]
-        },
-        "properties": {
-          "device_id": "5",
-          "device_name": "TH-05 ZG-Trpanjska",
-          "info_id": 2,
-          "info_name": "Montiran je",
-          "description_id": 1,
-          "description_name": "TH device",
-          "company_id": 1,
-          "company_name": "VIO Zagreb",
-          "zone_id": 5,
-          "zone_name": "SUKI"
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            18.408316,
-            45.492687
-          ]
-        },
-        "properties": {
-          "device_id": "4",
-          "device_name": "TH-04 Našice",
-          "info_id": 2,
-          "info_name": "Montiran je",
-          "description_id": 1,
-          "description_name": "TH device",
-          "company_id": 11,
-          "company_name": "Našički Vodovod",
-          "zone_id": 5,
-          "zone_name": "SUKI"
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            15.945563,
-            45.793221
-          ]
-        },
-        "properties": {
-          "device_id": "3",
-          "device_name": "TH-03 ZG Zadarska-Knežija",
-          "info_id": 2,
-          "info_name": "Montiran je",
-          "description_id": 1,
-          "description_name": "TH device",
-          "company_id": 1,
-          "company_name": "VIO Zagreb",
-          "zone_id": 5,
-          "zone_name": "SUKI"
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            15.980763,
-            45.764912
-          ]
-        },
-        "properties": {
-          "device_id": "2",
-          "device_name": "TH-02 ZG-Holjevca",
-          "info_id": 2,
-          "info_name": "Montiran je",
-          "description_id": 1,
-          "description_name": "TH device",
-          "company_id": 1,
-          "company_name": "VIO Zagreb",
-          "zone_id": 5,
-          "zone_name": "SUKI"
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            16.09836,
-            45.836788
-          ]
-        },
-        "properties": {
-          "device_id": "1",
-          "device_name": "TH-01 ZG-Sesvete",
-          "info_id": 2,
-          "info_name": "Montiran je",
-          "description_id": 1,
-          "description_name": "TH device",
-          "company_id": 1,
-          "company_name": "VIO Zagreb",
-          "zone_id": 5,
-          "zone_name": "SUKI"
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            18.974823,
-            45.365894
-          ]
-        },
-        "properties": {
-          "device_id": "35",
-          "device_name": "TH-23 Vukovar 1 LUZAC",
-          "info_id": 2,
-          "info_name": "Montiran je",
-          "description_id": 1,
-          "description_name": "TH device",
-          "company_id": 6,
-          "company_name": "Vodovod grada Vukovara",
-          "zone_id": 5,
-          "zone_name": "SUKI"
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            15.961922,
-            45.769154
-          ]
-        },
-        "properties": {
-          "device_id": "34",
-          "device_name": "TH-22 ZG-Hermanova",
-          "info_id": 2,
-          "info_name": "Montiran je",
-          "description_id": 1,
-          "description_name": "TH device",
-          "company_id": 1,
-          "company_name": "VIO Zagreb",
-          "zone_id": 5,
-          "zone_name": "SUKI"
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            15.933601,
-            45.757278
-          ]
-        },
-        "properties": {
-          "device_id": "33",
-          "device_name": "TH-21 ZG - u kvaru, na skladištu",
-          "info_id": 1,
-          "info_name": "Nije montiran",
-          "description_id": 1,
-          "description_name": "TH device",
-          "company_id": 1,
-          "company_name": "VIO Zagreb",
-          "zone_id": 5,
-          "zone_name": "SUKI"
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            18.701488,
-            45.069855
-          ]
-        },
-        "properties": {
-          "device_id": "32",
-          "device_name": "TH-20 Županja 3 ŽUPANJA",
-          "info_id": 2,
-          "info_name": "Montiran je",
-          "description_id": 1,
-          "description_name": "TH device",
-          "company_id": 4,
-          "company_name": "Komunalac Županja",
-          "zone_id": 5,
-          "zone_name": "SUKI"
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            16.066069,
-            45.826687
-          ]
-        },
-        "properties": {
-          "device_id": "25",
-          "device_name": "TH-19 ZG-Cazinski",
-          "info_id": 2,
-          "info_name": "Montiran je",
-          "description_id": 1,
-          "description_name": "TH device",
-          "company_id": 1,
-          "company_name": "VIO Zagreb",
-          "zone_id": 5,
-          "zone_name": "SUKI"
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            15.940933,
-            45.807278
-          ]
-        },
-        "properties": {
-          "device_id": "24",
-          "device_name": "TH-18 ZG-Zagorska",
-          "info_id": 2,
-          "info_name": "Montiran je",
-          "description_id": 1,
-          "description_name": "TH device",
-          "company_id": 1,
-          "company_name": "VIO Zagreb",
-          "zone_id": 5,
-          "zone_name": "SUKI"
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            15.985885,
-            43.71032
-          ]
-        },
-        "properties": {
-          "device_id": "23",
-          "device_name": "TH-17 Šibenik 3",
-          "info_id": 2,
-          "info_name": "Montiran je",
-          "description_id": 1,
-          "description_name": "TH device",
-          "company_id": 12,
-          "company_name": "Vodovod i odvodnja Šibenik",
-          "zone_id": 5,
-          "zone_name": "SUKI"
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            15.980905,
-            43.704075
-          ]
-        },
-        "properties": {
-          "device_id": "22",
-          "device_name": "TH-16 Šibenik 1",
-          "info_id": 2,
-          "info_name": "Montiran je",
-          "description_id": 1,
-          "description_name": "TH device",
-          "company_id": 12,
-          "company_name": "Vodovod i odvodnja Šibenik",
-          "zone_id": 5,
-          "zone_name": "SUKI"
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            16.028212,
-            45.783466
-          ]
-        },
-        "properties": {
-          "device_id": "21",
-          "device_name": "TH-15 FDS-Trgovina",
-          "info_id": 1,
-          "info_name": "Nije montiran",
-          "description_id": 1,
-          "description_name": "TH device",
-          "company_id": 2,
-          "company_name": "Nepoznato",
-          "zone_id": 5,
-          "zone_name": "SUKI"
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            18.741823,
-            45.056339
-          ]
-        },
-        "properties": {
-          "device_id": "20",
-          "device_name": "TH-14 Županja 2 BOŠNJACI",
-          "info_id": 2,
-          "info_name": "Montiran je",
-          "description_id": 1,
-          "description_name": "TH device",
-          "company_id": 4,
-          "company_name": "Komunalac Županja",
-          "zone_id": 5,
-          "zone_name": "SUKI"
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            15.994991,
-            43.698944
-          ]
-        },
-        "properties": {
-          "device_id": "19",
-          "device_name": "TH-13 Šibenik 2 PODI",
-          "info_id": 2,
-          "info_name": "Montiran je",
-          "description_id": 1,
-          "description_name": "TH device",
-          "company_id": 4,
-          "company_name": "Komunalac Županja",
-          "zone_id": 5,
-          "zone_name": "SUKI"
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            15.6745,
-            45.0769
-          ]
-        },
-        "properties": {
-          "device_id": "57",
-          "device_name": "TH-39 Slunj 5",
-          "info_id": 2,
-          "info_name": "Montiran je",
-          "description_id": 1,
-          "description_name": "TH device",
-          "company_id": 5,
-          "company_name": "Komunalac Slunj",
-          "zone_id": 5,
-          "zone_name": "SUKI"
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            15.639773,
-            45.09103
-          ]
-        },
-        "properties": {
-          "device_id": "56",
-          "device_name": "TH-38 Slunj 4",
-          "info_id": 2,
-          "info_name": "Montiran je",
-          "description_id": 1,
-          "description_name": "TH device",
-          "company_id": 5,
-          "company_name": "Komunalac Slunj",
-          "zone_id": 5,
-          "zone_name": "SUKI"
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            15.5959,
-            45.105701
-          ]
-        },
-        "properties": {
-          "device_id": "55",
-          "device_name": "TH-37 Slunj 3",
-          "info_id": 2,
-          "info_name": "Montiran je",
-          "description_id": 1,
-          "description_name": "TH device",
-          "company_id": 5,
-          "company_name": "Komunalac Slunj",
-          "zone_id": 5,
-          "zone_name": "SUKI"
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            15.5847,
-            45.115101
-          ]
-        },
-        "properties": {
-          "device_id": "54",
-          "device_name": "TH-36 Slunj 2",
-          "info_id": 2,
-          "info_name": "Montiran je",
-          "description_id": 1,
-          "description_name": "TH device",
-          "company_id": 5,
-          "company_name": "Komunalac Slunj",
-          "zone_id": 5,
-          "zone_name": "SUKI"
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            15.5614,
-            45.1591
-          ]
-        },
-        "properties": {
-          "device_id": "53",
-          "device_name": "TH-35 Slunj 1",
-          "info_id": 2,
-          "info_name": "Montiran je",
-          "description_id": 1,
-          "description_name": "TH device",
-          "company_id": 5,
-          "company_name": "Komunalac Slunj",
-          "zone_id": 5,
-          "zone_name": "SUKI"
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            15.696714,
-            43.692871
-          ]
-        },
-        "properties": {
-          "device_id": "52",
-          "device_name": "TH-34 Šibenik 5",
-          "info_id": 2,
-          "info_name": "Montiran je",
-          "description_id": 1,
-          "description_name": "TH device",
-          "company_id": 12,
-          "company_name": "Vodovod i odvodnja Šibenik",
-          "zone_id": 5,
-          "zone_name": "SUKI"
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            15.936969,
-            45.806159
-          ]
-        },
-        "properties": {
-          "device_id": "51",
-          "device_name": "TH-33XXX KOD HAWLE KOPRIVNICA",
-          "info_id": 1,
-          "info_name": "Nije montiran",
-          "description_id": 1,
-          "description_name": "TH device",
-          "company_id": 2,
-          "company_name": "Nepoznato",
-          "zone_id": 5,
-          "zone_name": "SUKI"
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            15.711628,
-            43.684593
-          ]
-        },
-        "properties": {
-          "device_id": "50",
-          "device_name": "TH-32 Šibenik 6",
-          "info_id": 2,
-          "info_name": "Montiran je",
-          "description_id": 1,
-          "description_name": "TH device",
-          "company_id": 12,
-          "company_name": "Vodovod i odvodnja Šibenik",
-          "zone_id": 5,
-          "zone_name": "SUKI"
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            15.711627,
-            43.684593
-          ]
-        },
-        "properties": {
-          "device_id": "49",
-          "device_name": "TH-31 Šibenik KAPRIJE",
-          "info_id": 2,
-          "info_name": "Montiran je",
-          "description_id": 1,
-          "description_name": "TH device",
-          "company_id": 12,
-          "company_name": "Vodovod i odvodnja Šibenik",
-          "zone_id": 5,
-          "zone_name": "SUKI"
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            15.665475,
-            43.656483
-          ]
-        },
-        "properties": {
-          "device_id": "48",
-          "device_name": "TH-30 Šibenik 8",
-          "info_id": 2,
-          "info_name": "Montiran je",
-          "description_id": 1,
-          "description_name": "TH device",
-          "company_id": 12,
-          "company_name": "Vodovod i odvodnja Šibenik",
-          "zone_id": 5,
-          "zone_name": "SUKI"
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            15.651749,
-            43.657295
-          ]
-        },
-        "properties": {
-          "device_id": "41",
-          "device_name": "TH-29 Šibenik 7",
-          "info_id": 2,
-          "info_name": "Montiran je",
-          "description_id": 1,
-          "description_name": "TH device",
-          "company_id": 12,
-          "company_name": "Vodovod i odvodnja Šibenik",
-          "zone_id": 5,
-          "zone_name": "SUKI"
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            18.92794,
-            45.366611
-          ]
-        },
-        "properties": {
-          "device_id": "40",
-          "device_name": "TH-28 Vukovar 6 BRSADIN",
-          "info_id": 2,
-          "info_name": "Montiran je",
-          "description_id": 1,
-          "description_name": "TH device",
-          "company_id": 6,
-          "company_name": "Vodovod grada Vukovara",
-          "zone_id": 5,
-          "zone_name": "SUKI"
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            18.900047,
-            45.418819
-          ]
-        },
-        "properties": {
-          "device_id": "39",
-          "device_name": "TH-27 Vukovar 5 TRPINJA",
-          "info_id": 2,
-          "info_name": "Montiran je",
-          "description_id": 1,
-          "description_name": "TH device",
-          "company_id": 6,
-          "company_name": "Vodovod grada Vukovara",
-          "zone_id": 5,
-          "zone_name": "SUKI"
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            19.058416,
-            45.23558
-          ]
-        },
-        "properties": {
-          "device_id": "38",
-          "device_name": "TH-26 Vukovar 4 CAKOVCI",
-          "info_id": 2,
-          "info_name": "Montiran je",
-          "description_id": 1,
-          "description_name": "TH device",
-          "company_id": 6,
-          "company_name": "Vodovod grada Vukovara",
-          "zone_id": 5,
-          "zone_name": "SUKI"
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            19.002802,
-            45.231236
-          ]
-        },
-        "properties": {
-          "device_id": "36",
-          "device_name": "TH-24 Vukovar 2 BERAK",
-          "info_id": 2,
-          "info_name": "Montiran je",
-          "description_id": 1,
-          "description_name": "TH device",
-          "company_id": 6,
-          "company_name": "Vodovod grada Vukovara",
-          "zone_id": 5,
-          "zone_name": "SUKI"
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            16.834625,
-            46.177376
-          ]
-        },
-        "properties": {
-          "device_id": "80",
-          "device_name": "HAWLE.HR",
-          "info_id": 1,
-          "info_name": "Nije montiran",
-          "description_id": 1,
-          "description_name": "TH device",
-          "company_id": 2,
-          "company_name": "Nepoznato",
-          "zone_id": 5,
-          "zone_name": "SUKI"
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            12.962335,
-            47.855869
-          ]
-        },
-        "properties": {
-          "device_id": "73",
-          "device_name": "HAWLE.DE",
-          "info_id": 1,
-          "info_name": "Nije montiran",
-          "description_id": 1,
-          "description_name": "TH device",
-          "company_id": 2,
-          "company_name": "Nepoznato",
-          "zone_id": 5,
-          "zone_name": "SUKI"
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            9.019216,
-            47.464062
-          ]
-        },
-        "properties": {
-          "device_id": "72",
-          "device_name": "HAWLE.CH",
-          "info_id": 1,
-          "info_name": "Nije montiran",
-          "description_id": 1,
-          "description_name": "TH device",
-          "company_id": 2,
-          "company_name": "Nepoznato",
-          "zone_id": 5,
-          "zone_name": "SUKI"
-        }
-      },
-      {
-        "type": "Feature",
-        "geometry": {
-          "type": "Point",
-          "coordinates": [
-            13.662789,
-            48.003201
-          ]
-        },
-        "properties": {
-          "device_id": "71",
-          "device_name": "HAWLE.AT",
-          "info_id": 1,
-          "info_name": "Nije montiran",
-          "description_id": 1,
-          "description_name": "TH device",
-          "company_id": 2,
-          "company_name": "Nepoznato",
-          "zone_id": 5,
-          "zone_name": "SUKI"
-        }
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.892827,
+          43.419603
+        ]
+      },
+      "properties": {
+        "device_id": 2903868931,
+        "device_name": "MM 239 - Slime",
+        "info_id": 2,
+        "info_name": "Montiran je",
+        "description_id": 2,
+        "description_name": "MT device",
+        "company_id": 3,
+        "company_name": "Vodovod Omiš",
+        "zone_id": 5,
+        "zone_name": "SUKI"
       }
-    ]
-  }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.888321,
+          43.467512
+        ]
+      },
+      "properties": {
+        "device_id": 2903872297,
+        "device_name": "MM 304 - Put Balića",
+        "info_id": 2,
+        "info_name": "Montiran je",
+        "description_id": 2,
+        "description_name": "MT device",
+        "company_id": 3,
+        "company_name": "Vodovod Omiš",
+        "zone_id": 5,
+        "zone_name": "SUKI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.890355,
+          43.429988
+        ]
+      },
+      "properties": {
+        "device_id": 2903868929,
+        "device_name": "MM 235 -CS Zadvarje",
+        "info_id": 2,
+        "info_name": "Montiran je",
+        "description_id": 2,
+        "description_name": "MT device",
+        "company_id": 3,
+        "company_name": "Vodovod Omiš",
+        "zone_id": 5,
+        "zone_name": "SUKI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.801454,
+          43.432893
+        ]
+      },
+      "properties": {
+        "device_id": 2903868690,
+        "device_name": "MM 241-  Kučiće sjever",
+        "info_id": 2,
+        "info_name": "Montiran je",
+        "description_id": 2,
+        "description_name": "MT device",
+        "company_id": 3,
+        "company_name": "Vodovod Omiš",
+        "zone_id": 5,
+        "zone_name": "SUKI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.801251,
+          43.432724
+        ]
+      },
+      "properties": {
+        "device_id": 2903872308,
+        "device_name": "MM 307 - Kučiće zapad",
+        "info_id": 2,
+        "info_name": "Montiran je",
+        "description_id": 2,
+        "description_name": "MT device",
+        "company_id": 3,
+        "company_name": "Vodovod Omiš",
+        "zone_id": 5,
+        "zone_name": "SUKI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.767226,
+          43.429663
+        ]
+      },
+      "properties": {
+        "device_id": 2903868691,
+        "device_name": "MM 243 - Podašpilje",
+        "info_id": 2,
+        "info_name": "Montiran je",
+        "description_id": 2,
+        "description_name": "MT device",
+        "company_id": 3,
+        "company_name": "Vodovod Omiš",
+        "zone_id": 5,
+        "zone_name": "SUKI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.713815,
+          43.466055
+        ]
+      },
+      "properties": {
+        "device_id": 2903868942,
+        "device_name": "MM 233 Kuvačić 1",
+        "info_id": 2,
+        "info_name": "Montiran je",
+        "description_id": 2,
+        "description_name": "MT device",
+        "company_id": 3,
+        "company_name": "Vodovod Omiš",
+        "zone_id": 5,
+        "zone_name": "SUKI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.904104,
+          43.417603
+        ]
+      },
+      "properties": {
+        "device_id": 2903872295,
+        "device_name": "MM 200 - Gornja Brela",
+        "info_id": 2,
+        "info_name": "Montiran je",
+        "description_id": 2,
+        "description_name": "MT device",
+        "company_id": 3,
+        "company_name": "Vodovod Omiš",
+        "zone_id": 5,
+        "zone_name": "SUKI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.801777,
+          43.432793
+        ]
+      },
+      "properties": {
+        "device_id": 2903872303,
+        "device_name": "MM Kučiće istok",
+        "info_id": 2,
+        "info_name": "Montiran je",
+        "description_id": 2,
+        "description_name": "MT device",
+        "company_id": 3,
+        "company_name": "Vodovod Omiš",
+        "zone_id": 5,
+        "zone_name": "SUKI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.691331,
+          43.444683
+        ]
+      },
+      "properties": {
+        "device_id": 2903868928,
+        "device_name": "MM 37- Punta 3",
+        "info_id": 2,
+        "info_name": "Montiran je",
+        "description_id": 2,
+        "description_name": "MT device",
+        "company_id": 3,
+        "company_name": "Vodovod Omiš",
+        "zone_id": 5,
+        "zone_name": "SUKI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.916797,
+          43.451629
+        ]
+      },
+      "properties": {
+        "device_id": 2903868947,
+        "device_name": "MM 227 Žeževica, protok",
+        "info_id": 2,
+        "info_name": "Montiran je",
+        "description_id": 2,
+        "description_name": "MT device",
+        "company_id": 3,
+        "company_name": "Vodovod Omiš",
+        "zone_id": 5,
+        "zone_name": "SUKI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.727374,
+          43.460891
+        ]
+      },
+      "properties": {
+        "device_id": 2903865860,
+        "device_name": "MM 228 - Ostrvica Donja",
+        "info_id": 2,
+        "info_name": "Montiran je",
+        "description_id": 2,
+        "description_name": "MT device",
+        "company_id": 3,
+        "company_name": "Vodovod Omiš",
+        "zone_id": 5,
+        "zone_name": "SUKI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.692179,
+          43.443986
+        ]
+      },
+      "properties": {
+        "device_id": 2903868934,
+        "device_name": "MM 230 - Punta 1",
+        "info_id": 2,
+        "info_name": "Montiran je",
+        "description_id": 2,
+        "description_name": "MT device",
+        "company_id": 3,
+        "company_name": "Vodovod Omiš",
+        "zone_id": 5,
+        "zone_name": "SUKI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.692924,
+          43.443289
+        ]
+      },
+      "properties": {
+        "device_id": 2903868944,
+        "device_name": "MM 226 - Punta 2",
+        "info_id": 2,
+        "info_name": "Montiran je",
+        "description_id": 2,
+        "description_name": "MT device",
+        "company_id": 3,
+        "company_name": "Vodovod Omiš",
+        "zone_id": 5,
+        "zone_name": "SUKI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.76618,
+          43.5317
+        ]
+      },
+      "properties": {
+        "device_id": 2903872296,
+        "device_name": "MM 305 Nova Sela - zapad",
+        "info_id": 2,
+        "info_name": "Montiran je",
+        "description_id": 2,
+        "description_name": "MT device",
+        "company_id": 3,
+        "company_name": "Vodovod Omiš",
+        "zone_id": 5,
+        "zone_name": "SUKI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.901258,
+          43.46259
+        ]
+      },
+      "properties": {
+        "device_id": 2903868940,
+        "device_name": "MM 236 - Kekezi",
+        "info_id": 2,
+        "info_name": "Montiran je",
+        "description_id": 2,
+        "description_name": "MT device",
+        "company_id": 3,
+        "company_name": "Vodovod Omiš",
+        "zone_id": 5,
+        "zone_name": "SUKI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.868888,
+          43.422716
+        ]
+      },
+      "properties": {
+        "device_id": 2903866403,
+        "device_name": "MM 238  - HS Slime",
+        "info_id": 2,
+        "info_name": "Montiran je",
+        "description_id": 2,
+        "description_name": "MT device",
+        "company_id": 3,
+        "company_name": "Vodovod Omiš",
+        "zone_id": 5,
+        "zone_name": "SUKI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.833904,
+          43.453119
+        ]
+      },
+      "properties": {
+        "device_id": 2903868693,
+        "device_name": "MM 242 -Seoca",
+        "info_id": 2,
+        "info_name": "Montiran je",
+        "description_id": 2,
+        "description_name": "MT device",
+        "company_id": 3,
+        "company_name": "Vodovod Omiš",
+        "zone_id": 5,
+        "zone_name": "SUKI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.93328,
+          43.443862
+        ]
+      },
+      "properties": {
+        "device_id": 2903866402,
+        "device_name": "MM 229 - Kalajžići, hidrostanica",
+        "info_id": 2,
+        "info_name": "Montiran je",
+        "description_id": 2,
+        "description_name": "MT device",
+        "company_id": 3,
+        "company_name": "Vodovod Omiš",
+        "zone_id": 5,
+        "zone_name": "SUKI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.909919,
+          43.454785
+        ]
+      },
+      "properties": {
+        "device_id": 2903868939,
+        "device_name": "MM 232 - Katuni",
+        "info_id": 2,
+        "info_name": "Montiran je",
+        "description_id": 2,
+        "description_name": "MT device",
+        "company_id": 3,
+        "company_name": "Vodovod Omiš",
+        "zone_id": 5,
+        "zone_name": "SUKI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.91281,
+          43.45507
+        ]
+      },
+      "properties": {
+        "device_id": 2903868946,
+        "device_name": "MM 244 - Ribičići",
+        "info_id": 2,
+        "info_name": "Montiran je",
+        "description_id": 2,
+        "description_name": "MT device",
+        "company_id": 3,
+        "company_name": "Vodovod Omiš",
+        "zone_id": 5,
+        "zone_name": "SUKI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.754,
+          43.456
+        ]
+      },
+      "properties": {
+        "device_id": "169",
+        "device_name": "TH-A9 Zvečanje",
+        "info_id": 2,
+        "info_name": "Montiran je",
+        "description_id": 1,
+        "description_name": "TH device",
+        "company_id": 3,
+        "company_name": "Vodovod Omiš",
+        "zone_id": 5,
+        "zone_name": "SUKI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.769077,
+          43.452898
+        ]
+      },
+      "properties": {
+        "device_id": "165",
+        "device_name": "TH-A5 Smolonje",
+        "info_id": 2,
+        "info_name": "Montiran je",
+        "description_id": 1,
+        "description_name": "TH device",
+        "company_id": 3,
+        "company_name": "Vodovod Omiš",
+        "zone_id": 5,
+        "zone_name": "SUKI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.829403,
+          43.440295
+        ]
+      },
+      "properties": {
+        "device_id": "184",
+        "device_name": "TH-B8 Kostanje - zapad",
+        "info_id": 2,
+        "info_name": "Montiran je",
+        "description_id": 1,
+        "description_name": "TH device",
+        "company_id": 3,
+        "company_name": "Vodovod Omiš",
+        "zone_id": 5,
+        "zone_name": "SUKI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.7617,
+          43.536499
+        ]
+      },
+      "properties": {
+        "device_id": "68",
+        "device_name": "TH-44 Omiš 4",
+        "info_id": 1,
+        "info_name": "Nije montiran",
+        "description_id": 1,
+        "description_name": "TH device",
+        "company_id": 3,
+        "company_name": "Vodovod Omiš",
+        "zone_id": 6,
+        "zone_name": "U radu"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.727495,
+          43.460795
+        ]
+      },
+      "properties": {
+        "device_id": "187",
+        "device_name": "TH-BB Ostrvica Donja, tlak",
+        "info_id": 2,
+        "info_name": "Montiran je",
+        "description_id": 1,
+        "description_name": "TH device",
+        "company_id": 3,
+        "company_name": "Vodovod Omiš",
+        "zone_id": 5,
+        "zone_name": "SUKI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.902205,
+          43.437974
+        ]
+      },
+      "properties": {
+        "device_id": "162",
+        "device_name": "TH-A2 Zadvarje - Vrbanj",
+        "info_id": 2,
+        "info_name": "Montiran je",
+        "description_id": 1,
+        "description_name": "TH device",
+        "company_id": 3,
+        "company_name": "Vodovod Omiš",
+        "zone_id": 5,
+        "zone_name": "SUKI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.633175,
+          43.48017
+        ]
+      },
+      "properties": {
+        "device_id": "182",
+        "device_name": "TH-B6 Tugare zapad",
+        "info_id": 2,
+        "info_name": "Montiran je",
+        "description_id": 1,
+        "description_name": "TH device",
+        "company_id": 3,
+        "company_name": "Vodovod Omiš",
+        "zone_id": 5,
+        "zone_name": "SUKI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.670803,
+          43.463274
+        ]
+      },
+      "properties": {
+        "device_id": "173",
+        "device_name": "TH-AD Naklice",
+        "info_id": 2,
+        "info_name": "Montiran je",
+        "description_id": 1,
+        "description_name": "TH device",
+        "company_id": 3,
+        "company_name": "Vodovod Omiš",
+        "zone_id": 5,
+        "zone_name": "SUKI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.722877,
+          43.463202
+        ]
+      },
+      "properties": {
+        "device_id": "180",
+        "device_name": "TH-B4 Čišla",
+        "info_id": 2,
+        "info_name": "Montiran je",
+        "description_id": 1,
+        "description_name": "TH device",
+        "company_id": 3,
+        "company_name": "Vodovod Omiš",
+        "zone_id": 5,
+        "zone_name": "SUKI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.8338,
+          43.440298
+        ]
+      },
+      "properties": {
+        "device_id": "168",
+        "device_name": "TH-A8 Kostanje istok",
+        "info_id": 2,
+        "info_name": "Montiran je",
+        "description_id": 1,
+        "description_name": "TH device",
+        "company_id": 3,
+        "company_name": "Vodovod Omiš",
+        "zone_id": 5,
+        "zone_name": "SUKI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.881006,
+          43.469806
+        ]
+      },
+      "properties": {
+        "device_id": "164",
+        "device_name": "TH-A4 Kreševo",
+        "info_id": 2,
+        "info_name": "Montiran je",
+        "description_id": 1,
+        "description_name": "TH device",
+        "company_id": 3,
+        "company_name": "Vodovod Omiš",
+        "zone_id": 5,
+        "zone_name": "SUKI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.968634,
+          43.424516
+        ]
+      },
+      "properties": {
+        "device_id": "181",
+        "device_name": "TH-B5 Čikeši",
+        "info_id": 2,
+        "info_name": "Montiran je",
+        "description_id": 1,
+        "description_name": "TH device",
+        "company_id": 3,
+        "company_name": "Vodovod Omiš",
+        "zone_id": 5,
+        "zone_name": "SUKI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.916109,
+          43.451621
+        ]
+      },
+      "properties": {
+        "device_id": "166",
+        "device_name": "TH-B5 Žeževica tlak",
+        "info_id": 2,
+        "info_name": "Montiran je",
+        "description_id": 1,
+        "description_name": "TH device",
+        "company_id": 3,
+        "company_name": "Vodovod Omiš",
+        "zone_id": 5,
+        "zone_name": "SUKI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.796234,
+          43.524033
+        ]
+      },
+      "properties": {
+        "device_id": "186",
+        "device_name": "TH-BA",
+        "info_id": 2,
+        "info_name": "Montiran je",
+        "description_id": 1,
+        "description_name": "TH device",
+        "company_id": 3,
+        "company_name": "Vodovod Omiš",
+        "zone_id": 6,
+        "zone_name": "U radu"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.807699,
+          43.490002
+        ]
+      },
+      "properties": {
+        "device_id": "67",
+        "device_name": "TH-43 Omiš 3",
+        "info_id": 1,
+        "info_name": "Nije montiran",
+        "description_id": 1,
+        "description_name": "TH device",
+        "company_id": 3,
+        "company_name": "Vodovod Omiš",
+        "zone_id": 6,
+        "zone_name": "U radu"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.748301,
+          43.496498
+        ]
+      },
+      "properties": {
+        "device_id": "66",
+        "device_name": "TH-42 Omiš 2",
+        "info_id": 1,
+        "info_name": "Nije montiran",
+        "description_id": 1,
+        "description_name": "TH device",
+        "company_id": 3,
+        "company_name": "Vodovod Omiš",
+        "zone_id": 6,
+        "zone_name": "U radu"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.7616,
+          43.5023
+        ]
+      },
+      "properties": {
+        "device_id": "65",
+        "device_name": "TH-41 Omiš 1",
+        "info_id": 1,
+        "info_name": "Nije montiran",
+        "description_id": 1,
+        "description_name": "TH device",
+        "company_id": 3,
+        "company_name": "Vodovod Omiš",
+        "zone_id": 6,
+        "zone_name": "U radu"
+      }
+    }
+  ]
+}
