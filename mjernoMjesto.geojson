@@ -563,7 +563,7 @@
         ]
       },
       "properties": {
-        "device_id": "187",
+        "device_id": 187,
         "device_name": "TH-BB Ostrvica Donja, tlak",
         "info_id": 2,
         "info_name": "Montiran je",
@@ -747,7 +747,7 @@
         ]
       },
       "properties": {
-        "device_id": "166",
+        "device_id": 166,
         "device_name": "TH-B5 Žeževica tlak",
         "info_id": 2,
         "info_name": "Montiran je",
@@ -770,7 +770,7 @@
         ]
       },
       "properties": {
-        "device_id": "186",
+        "device_id": 186,
         "device_name": "TH-BA",
         "info_id": 2,
         "info_name": "Montiran je",
@@ -793,7 +793,7 @@
         ]
       },
       "properties": {
-        "device_id": "68",
+        "device_id": 68,
         "device_name": "TH-44 Omiš 4",
         "info_id": 1,
         "info_name": "Nije montiran",
@@ -839,7 +839,7 @@
         ]
       },
       "properties": {
-        "device_id": "66",
+        "device_id": 66,
         "device_name": "TH-42 Omiš 2",
         "info_id": 1,
         "info_name": "Nije montiran",
@@ -862,7 +862,7 @@
         ]
       },
       "properties": {
-        "device_id": "65",
+        "device_id": 65,
         "device_name": "TH-41 Omiš 1",
         "info_id": 1,
         "info_name": "Nije montiran",
