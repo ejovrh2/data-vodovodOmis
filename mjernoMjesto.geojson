@@ -816,7 +816,7 @@
         ]
       },
       "properties": {
-        "device_id": "67",
+        "device_id": 67,
         "device_name": "TH-43 Omiš 3",
         "info_id": 1,
         "info_name": "Nije montiran",
