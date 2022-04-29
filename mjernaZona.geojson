@@ -1,21 +1,16 @@
 {
   "type": "FeatureCollection",
-  "name":"mjernaZona",
+  "name": "mjernaZona",
   "features": [
     {
       "type": "Feature",
       "properties": {
         "FeatId": 1,
         "Ime": "",
-        "brojPrikljucaka": 0,
-        "duljinaCjevovoda": 0.0,
         "napomena": "Podzone",
         "naziv": "Tugare zapad",
         "podSustav": "",
-        "prikljucakaPoKm": 0.0,
-        "prosjecniTlak": 0.0,
-        "sustav": "Zagrad",
-        "vodomjerOdParcele": 0.0
+        "sustav": "Zagrad"
       },
       "geometry": {
         "type": "Polygon",
@@ -270,15 +265,10 @@
       "properties": {
         "FeatId": 2,
         "Ime": "",
-        "brojPrikljucaka": 0,
-        "duljinaCjevovoda": 0.0,
         "napomena": "Obilazak 25.02.2019.",
         "naziv": "Tugare istok",
         "podSustav": "",
-        "prikljucakaPoKm": 0.0,
-        "prosjecniTlak": 0.0,
-        "sustav": "Zagrad",
-        "vodomjerOdParcele": 0.0
+        "sustav": "Zagrad"
       },
       "geometry": {
         "type": "Polygon",
@@ -471,15 +461,10 @@
       "properties": {
         "FeatId": 3,
         "Ime": "",
-        "brojPrikljucaka": 0,
-        "duljinaCjevovoda": 0.0,
         "napomena": "Obilazak 25.02.2019.",
         "naziv": "Naklice",
         "podSustav": "",
-        "prikljucakaPoKm": 0.0,
-        "prosjecniTlak": 0.0,
-        "sustav": "Zagrad",
-        "vodomjerOdParcele": 0.0
+        "sustav": "Zagrad"
       },
       "geometry": {
         "type": "Polygon",
@@ -610,15 +595,10 @@
       "properties": {
         "FeatId": 4,
         "Ime": "",
-        "brojPrikljucaka": 0,
-        "duljinaCjevovoda": 0.0,
         "napomena": "Podzone",
         "naziv": "Podselje",
         "podSustav": "",
-        "prikljucakaPoKm": 0.0,
-        "prosjecniTlak": 0.0,
-        "sustav": "Zagrad",
-        "vodomjerOdParcele": 0.0
+        "sustav": "Zagrad"
       },
       "geometry": {
         "type": "Polygon",
@@ -699,15 +679,10 @@
       "properties": {
         "FeatId": 5,
         "Ime": "",
-        "brojPrikljucaka": 0,
-        "duljinaCjevovoda": 0.0,
         "napomena": "Podzone",
         "naziv": "Gata",
         "podSustav": "",
-        "prikljucakaPoKm": 0.0,
-        "prosjecniTlak": 0.0,
-        "sustav": "Zagrad",
-        "vodomjerOdParcele": 0.0
+        "sustav": "Zagrad"
       },
       "geometry": {
         "type": "Polygon",
@@ -916,15 +891,10 @@
       "properties": {
         "FeatId": 6,
         "Ime": "",
-        "brojPrikljucaka": 0,
-        "duljinaCjevovoda": 0.0,
         "napomena": "Podzone",
         "naziv": "Čišla",
         "podSustav": "",
-        "prikljucakaPoKm": 0.0,
-        "prosjecniTlak": 0.0,
-        "sustav": "Zagrad",
-        "vodomjerOdParcele": 0.0
+        "sustav": "Zagrad"
       },
       "geometry": {
         "type": "Polygon",
@@ -1000,15 +970,10 @@
       "properties": {
         "FeatId": 7,
         "Ime": "",
-        "brojPrikljucaka": 0,
-        "duljinaCjevovoda": 0.0,
         "napomena": "Podzone",
         "naziv": "Ostrvica Gornja",
         "podSustav": "",
-        "prikljucakaPoKm": 0.0,
-        "prosjecniTlak": 0.0,
-        "sustav": "Zagrad",
-        "vodomjerOdParcele": 0.0
+        "sustav": "Zagrad"
       },
       "geometry": {
         "type": "Polygon",
@@ -1121,15 +1086,10 @@
       "properties": {
         "FeatId": 8,
         "Ime": "",
-        "brojPrikljucaka": 0,
-        "duljinaCjevovoda": 0.0,
         "napomena": "Podzone",
         "naziv": "Ostrvica Donja",
         "podSustav": "",
-        "prikljucakaPoKm": 0.0,
-        "prosjecniTlak": 0.0,
-        "sustav": "Zagrad",
-        "vodomjerOdParcele": 0.0
+        "sustav": "Zagrad"
       },
       "geometry": {
         "type": "Polygon",
@@ -1224,15 +1184,10 @@
       "properties": {
         "FeatId": 9,
         "Ime": "",
-        "brojPrikljucaka": 0,
-        "duljinaCjevovoda": 0.0,
         "napomena": "Podzone",
         "naziv": "Zvečanje",
         "podSustav": "",
-        "prikljucakaPoKm": 0.0,
-        "prosjecniTlak": 0.0,
-        "sustav": "Zagrad",
-        "vodomjerOdParcele": 0.0
+        "sustav": "Zagrad"
       },
       "geometry": {
         "type": "Polygon",
@@ -1355,15 +1310,10 @@
       "properties": {
         "FeatId": 10,
         "Ime": "",
-        "brojPrikljucaka": 0,
-        "duljinaCjevovoda": 0.0,
         "napomena": "Podzone",
         "naziv": "Smolonje",
         "podSustav": "",
-        "prikljucakaPoKm": 0.0,
-        "prosjecniTlak": 0.0,
-        "sustav": "Zagrad",
-        "vodomjerOdParcele": 0.0
+        "sustav": "Zagrad"
       },
       "geometry": {
         "type": "Polygon",
@@ -1532,15 +1482,10 @@
       "properties": {
         "FeatId": 11,
         "Ime": "",
-        "brojPrikljucaka": 0,
-        "duljinaCjevovoda": 0.0,
         "napomena": "Podzone",
         "naziv": "Omiš - zapad",
         "podSustav": "",
-        "prikljucakaPoKm": 0.0,
-        "prosjecniTlak": 0.0,
-        "sustav": "Zagrad",
-        "vodomjerOdParcele": 0.0
+        "sustav": "Zagrad"
       },
       "geometry": {
         "type": "Polygon",
@@ -1603,15 +1548,10 @@
       "properties": {
         "FeatId": 12,
         "Ime": "",
-        "brojPrikljucaka": 0,
-        "duljinaCjevovoda": 0.0,
         "napomena": "Podzone",
         "naziv": "Duće",
         "podSustav": "",
-        "prikljucakaPoKm": 0.0,
-        "prosjecniTlak": 0.0,
-        "sustav": "Zagrad",
-        "vodomjerOdParcele": 0.0
+        "sustav": "Zagrad"
       },
       "geometry": {
         "type": "Polygon",
@@ -1901,15 +1841,10 @@
       "properties": {
         "FeatId": 13,
         "Ime": "",
-        "brojPrikljucaka": 0,
-        "duljinaCjevovoda": 0.0,
         "napomena": "Podzone",
         "naziv": "Zakučac",
         "podSustav": "",
-        "prikljucakaPoKm": 0.0,
-        "prosjecniTlak": 0.0,
-        "sustav": "Zagrad",
-        "vodomjerOdParcele": 0.0
+        "sustav": "Zagrad"
       },
       "geometry": {
         "type": "Polygon",
@@ -2003,15 +1938,10 @@
       "properties": {
         "FeatId": 14,
         "Ime": "",
-        "brojPrikljucaka": 0,
-        "duljinaCjevovoda": 0.0,
         "napomena": "Podzone",
         "naziv": "Dugi Rat - istok",
         "podSustav": "",
-        "prikljucakaPoKm": 0.0,
-        "prosjecniTlak": 0.0,
-        "sustav": "Zagrad",
-        "vodomjerOdParcele": 0.0
+        "sustav": "Zagrad"
       },
       "geometry": {
         "type": "Polygon",
@@ -2093,15 +2023,10 @@
       "properties": {
         "FeatId": 15,
         "Ime": "",
-        "brojPrikljucaka": 0,
-        "duljinaCjevovoda": 0.0,
         "napomena": "Podzone",
         "naziv": "Dugi Rat - centar",
         "podSustav": "",
-        "prikljucakaPoKm": 0.0,
-        "prosjecniTlak": 0.0,
-        "sustav": "Zagrad",
-        "vodomjerOdParcele": 0.0
+        "sustav": "Zagrad"
       },
       "geometry": {
         "type": "Polygon",
@@ -2192,15 +2117,10 @@
       "properties": {
         "FeatId": 16,
         "Ime": "",
-        "brojPrikljucaka": 0,
-        "duljinaCjevovoda": 0.0,
         "napomena": "Podzone",
         "naziv": "Dugi Rat - zapad",
         "podSustav": "",
-        "prikljucakaPoKm": 0.0,
-        "prosjecniTlak": 0.0,
-        "sustav": "Zagrad",
-        "vodomjerOdParcele": 0.0
+        "sustav": "Zagrad"
       },
       "geometry": {
         "type": "Polygon",
@@ -2307,15 +2227,10 @@
       "properties": {
         "FeatId": 17,
         "Ime": "",
-        "brojPrikljucaka": 0,
-        "duljinaCjevovoda": 0.0,
         "napomena": "Podzone",
         "naziv": "Jesenice - centar",
         "podSustav": "",
-        "prikljucakaPoKm": 0.0,
-        "prosjecniTlak": 0.0,
-        "sustav": "Zagrad",
-        "vodomjerOdParcele": 0.0
+        "sustav": "Zagrad"
       },
       "geometry": {
         "type": "Polygon",
@@ -2481,15 +2396,10 @@
       "properties": {
         "FeatId": 18,
         "Ime": "",
-        "brojPrikljucaka": 0,
-        "duljinaCjevovoda": 0.0,
         "napomena": "Podzone",
         "naziv": "Jesenice - istok",
         "podSustav": "",
-        "prikljucakaPoKm": 0.0,
-        "prosjecniTlak": 0.0,
-        "sustav": "Zagrad",
-        "vodomjerOdParcele": 0.0
+        "sustav": "Zagrad"
       },
       "geometry": {
         "type": "Polygon",
@@ -2621,15 +2531,10 @@
       "properties": {
         "FeatId": 19,
         "Ime": "",
-        "brojPrikljucaka": 0,
-        "duljinaCjevovoda": 0.0,
         "napomena": "Podzone",
         "naziv": "Čečuci",
         "podSustav": "",
-        "prikljucakaPoKm": 0.0,
-        "prosjecniTlak": 0.0,
-        "sustav": "Zagrad",
-        "vodomjerOdParcele": 0.0
+        "sustav": "Zagrad"
       },
       "geometry": {
         "type": "Polygon",
@@ -2695,15 +2600,10 @@
       "properties": {
         "FeatId": 20,
         "Ime": "",
-        "brojPrikljucaka": 0,
-        "duljinaCjevovoda": 0.0,
         "napomena": "Podzone",
         "naziv": "Omiš - Punta",
         "podSustav": "",
-        "prikljucakaPoKm": 0.0,
-        "prosjecniTlak": 0.0,
-        "sustav": "Zagrad",
-        "vodomjerOdParcele": 0.0
+        "sustav": "Zagrad"
       },
       "geometry": {
         "type": "Polygon",
@@ -2758,15 +2658,10 @@
       "properties": {
         "FeatId": 21,
         "Ime": "",
-        "brojPrikljucaka": 0,
-        "duljinaCjevovoda": 0.0,
         "napomena": "Podzone",
         "naziv": "Omiš - stari grad",
         "podSustav": "",
-        "prikljucakaPoKm": 0.0,
-        "prosjecniTlak": 0.0,
-        "sustav": "Zagrad",
-        "vodomjerOdParcele": 0.0
+        "sustav": "Zagrad"
       },
       "geometry": {
         "type": "Polygon",
@@ -2843,15 +2738,10 @@
       "properties": {
         "FeatId": 22,
         "Ime": "",
-        "brojPrikljucaka": 0,
-        "duljinaCjevovoda": 0.0,
         "napomena": "Podzone",
         "naziv": "Čelina",
         "podSustav": "",
-        "prikljucakaPoKm": 0.0,
-        "prosjecniTlak": 0.0,
-        "sustav": "Zagrad",
-        "vodomjerOdParcele": 0.0
+        "sustav": "Zagrad"
       },
       "geometry": {
         "type": "Polygon",
@@ -2920,15 +2810,10 @@
       "properties": {
         "FeatId": 23,
         "Ime": "",
-        "brojPrikljucaka": 0,
-        "duljinaCjevovoda": 0.0,
         "napomena": "Podzone",
         "naziv": "Stanići - Tice",
         "podSustav": "",
-        "prikljucakaPoKm": 0.0,
-        "prosjecniTlak": 0.0,
-        "sustav": "Zagrad",
-        "vodomjerOdParcele": 0.0
+        "sustav": "Zagrad"
       },
       "geometry": {
         "type": "Polygon",
@@ -3043,15 +2928,10 @@
       "properties": {
         "FeatId": 24,
         "Ime": "",
-        "brojPrikljucaka": 0,
-        "duljinaCjevovoda": 0.0,
         "napomena": "Podzone",
         "naziv": "Stanići - Zavode",
         "podSustav": "",
-        "prikljucakaPoKm": 0.0,
-        "prosjecniTlak": 0.0,
-        "sustav": "Zagrad",
-        "vodomjerOdParcele": 0.0
+        "sustav": "Zagrad"
       },
       "geometry": {
         "type": "Polygon",
@@ -3295,15 +3175,10 @@
       "properties": {
         "FeatId": 25,
         "Ime": "",
-        "brojPrikljucaka": 0,
-        "duljinaCjevovoda": 0.0,
         "napomena": "Podzone",
         "naziv": "Ruskamen",
         "podSustav": "",
-        "prikljucakaPoKm": 0.0,
-        "prosjecniTlak": 0.0,
-        "sustav": "Zagrad",
-        "vodomjerOdParcele": 0.0
+        "sustav": "Zagrad"
       },
       "geometry": {
         "type": "Polygon",
@@ -3443,15 +3318,10 @@
       "properties": {
         "FeatId": 26,
         "Ime": "",
-        "brojPrikljucaka": 0,
-        "duljinaCjevovoda": 0.0,
         "napomena": "Podzone",
         "naziv": "Lokva I",
         "podSustav": "",
-        "prikljucakaPoKm": 0.0,
-        "prosjecniTlak": 0.0,
-        "sustav": "Zagrad",
-        "vodomjerOdParcele": 0.0
+        "sustav": "Zagrad"
       },
       "geometry": {
         "type": "Polygon",
@@ -3622,15 +3492,10 @@
       "properties": {
         "FeatId": 27,
         "Ime": "",
-        "brojPrikljucaka": 0,
-        "duljinaCjevovoda": 0.0,
         "napomena": "Podzone",
         "naziv": "Lokva II",
         "podSustav": "",
-        "prikljucakaPoKm": 0.0,
-        "prosjecniTlak": 0.0,
-        "sustav": "Zagrad",
-        "vodomjerOdParcele": 0.0
+        "sustav": "Zagrad"
       },
       "geometry": {
         "type": "Polygon",
@@ -3713,15 +3578,10 @@
       "properties": {
         "FeatId": 28,
         "Ime": "",
-        "brojPrikljucaka": 0,
-        "duljinaCjevovoda": 0.0,
         "napomena": "Podzone",
         "naziv": "Gorica",
         "podSustav": "",
-        "prikljucakaPoKm": 0.0,
-        "prosjecniTlak": 0.0,
-        "sustav": "Zagrad",
-        "vodomjerOdParcele": 0.0
+        "sustav": "Zagrad"
       },
       "geometry": {
         "type": "Polygon",
@@ -3772,15 +3632,10 @@
       "properties": {
         "FeatId": 29,
         "Ime": "",
-        "brojPrikljucaka": 0,
-        "duljinaCjevovoda": 0.0,
         "napomena": "Podzone",
         "naziv": "Ivašnjak",
         "podSustav": "",
-        "prikljucakaPoKm": 0.0,
-        "prosjecniTlak": 0.0,
-        "sustav": "Zagrad",
-        "vodomjerOdParcele": 0.0
+        "sustav": "Zagrad"
       },
       "geometry": {
         "type": "Polygon",
@@ -3908,15 +3763,10 @@
       "properties": {
         "FeatId": 30,
         "Ime": "",
-        "brojPrikljucaka": 0,
-        "duljinaCjevovoda": 0.0,
         "napomena": "Podzone",
         "naziv": "Medići - Mimice",
         "podSustav": "",
-        "prikljucakaPoKm": 0.0,
-        "prosjecniTlak": 0.0,
-        "sustav": "Zagrad",
-        "vodomjerOdParcele": 0.0
+        "sustav": "Zagrad"
       },
       "geometry": {
         "type": "Polygon",
@@ -4121,15 +3971,10 @@
       "properties": {
         "FeatId": 31,
         "Ime": "",
-        "brojPrikljucaka": 0,
-        "duljinaCjevovoda": 0.0,
         "napomena": "Podzone",
         "naziv": "Pisak",
         "podSustav": "",
-        "prikljucakaPoKm": 0.0,
-        "prosjecniTlak": 0.0,
-        "sustav": "Zagrad",
-        "vodomjerOdParcele": 0.0
+        "sustav": "Zagrad"
       },
       "geometry": {
         "type": "Polygon",
@@ -4407,15 +4252,10 @@
       "properties": {
         "FeatId": 32,
         "Ime": "",
-        "brojPrikljucaka": 0,
-        "duljinaCjevovoda": 0.0,
         "napomena": "Podzone",
         "naziv": "Marušići",
         "podSustav": "",
-        "prikljucakaPoKm": 0.0,
-        "prosjecniTlak": 0.0,
-        "sustav": "Zagrad",
-        "vodomjerOdParcele": 0.0
+        "sustav": "Zagrad"
       },
       "geometry": {
         "type": "Polygon",
@@ -4636,15 +4476,10 @@
       "properties": {
         "FeatId": 33,
         "Ime": "",
-        "brojPrikljucaka": 0,
-        "duljinaCjevovoda": 0.0,
         "napomena": "Obilazak 25.02.2019.",
         "naziv": "Podašpilje",
         "podSustav": "",
-        "prikljucakaPoKm": 0.0,
-        "prosjecniTlak": 0.0,
-        "sustav": "Studenci",
-        "vodomjerOdParcele": 0.0
+        "sustav": "Studenci"
       },
       "geometry": {
         "type": "Polygon",
@@ -4823,15 +4658,10 @@
       "properties": {
         "FeatId": 34,
         "Ime": "",
-        "brojPrikljucaka": 0,
-        "duljinaCjevovoda": 0.0,
         "napomena": "Obilazak 25.02.2019.",
         "naziv": "Svinišće",
         "podSustav": "",
-        "prikljucakaPoKm": 0.0,
-        "prosjecniTlak": 0.0,
-        "sustav": "Studenci",
-        "vodomjerOdParcele": 0.0
+        "sustav": "Studenci"
       },
       "geometry": {
         "type": "Polygon",
@@ -5110,15 +4940,10 @@
       "properties": {
         "FeatId": 35,
         "Ime": "",
-        "brojPrikljucaka": 0,
-        "duljinaCjevovoda": 0.0,
         "napomena": "Obilazak 25.02.2019.",
         "naziv": "Kučiće - jug I",
         "podSustav": "",
-        "prikljucakaPoKm": 0.0,
-        "prosjecniTlak": 0.0,
-        "sustav": "Studenci",
-        "vodomjerOdParcele": 0.0
+        "sustav": "Studenci"
       },
       "geometry": {
         "type": "Polygon",
@@ -5200,15 +5025,10 @@
       "properties": {
         "FeatId": 36,
         "Ime": "",
-        "brojPrikljucaka": 0,
-        "duljinaCjevovoda": 0.0,
         "napomena": "Obilazak 25.02.2019.",
         "naziv": "Kučiće - zapad",
         "podSustav": "",
-        "prikljucakaPoKm": 0.0,
-        "prosjecniTlak": 0.0,
-        "sustav": "Studenci",
-        "vodomjerOdParcele": 0.0
+        "sustav": "Studenci"
       },
       "geometry": {
         "type": "Polygon",
@@ -5417,15 +5237,10 @@
       "properties": {
         "FeatId": 37,
         "Ime": "",
-        "brojPrikljucaka": 0,
-        "duljinaCjevovoda": 0.0,
         "napomena": "Obilazak 25.02.2019.",
         "naziv": "Kučiće - jug II",
         "podSustav": "",
-        "prikljucakaPoKm": 0.0,
-        "prosjecniTlak": 0.0,
-        "sustav": "Studenci",
-        "vodomjerOdParcele": 0.0
+        "sustav": "Studenci"
       },
       "geometry": {
         "type": "Polygon",
@@ -5493,15 +5308,10 @@
       "properties": {
         "FeatId": 38,
         "Ime": "",
-        "brojPrikljucaka": 0,
-        "duljinaCjevovoda": 0.0,
         "napomena": "Obilazak 25.02.2019.",
         "naziv": "Kučiće - sjever",
         "podSustav": "",
-        "prikljucakaPoKm": 0.0,
-        "prosjecniTlak": 0.0,
-        "sustav": "Studenci",
-        "vodomjerOdParcele": 0.0
+        "sustav": "Studenci"
       },
       "geometry": {
         "type": "Polygon",
@@ -5637,15 +5447,10 @@
       "properties": {
         "FeatId": 39,
         "Ime": "",
-        "brojPrikljucaka": 0,
-        "duljinaCjevovoda": 0.0,
         "napomena": "Obilazak 25.02.2019.",
         "naziv": "Kučiće - istok",
         "podSustav": "",
-        "prikljucakaPoKm": 0.0,
-        "prosjecniTlak": 0.0,
-        "sustav": "Studenci",
-        "vodomjerOdParcele": 0.0
+        "sustav": "Studenci"
       },
       "geometry": {
         "type": "Polygon",
@@ -5869,15 +5674,10 @@
       "properties": {
         "FeatId": 40,
         "Ime": "",
-        "brojPrikljucaka": 0,
-        "duljinaCjevovoda": 0.0,
         "napomena": "Obilazak 25.02.2019.",
         "naziv": "Kostanje - zapad",
         "podSustav": "",
-        "prikljucakaPoKm": 0.0,
-        "prosjecniTlak": 0.0,
-        "sustav": "Studenci",
-        "vodomjerOdParcele": 0.0
+        "sustav": "Studenci"
       },
       "geometry": {
         "type": "Polygon",
@@ -6067,15 +5867,10 @@
       "properties": {
         "FeatId": 41,
         "Ime": "",
-        "brojPrikljucaka": 0,
-        "duljinaCjevovoda": 0.0,
         "napomena": "Obilazak 25.02.2019.",
         "naziv": "Kostanje - centar",
         "podSustav": "",
-        "prikljucakaPoKm": 0.0,
-        "prosjecniTlak": 0.0,
-        "sustav": "Studenci",
-        "vodomjerOdParcele": 0.0
+        "sustav": "Studenci"
       },
       "geometry": {
         "type": "Polygon",
@@ -6199,15 +5994,10 @@
       "properties": {
         "FeatId": 42,
         "Ime": "",
-        "brojPrikljucaka": 0,
-        "duljinaCjevovoda": 0.0,
         "napomena": "Obilazak 25.02.2019.",
         "naziv": "Seoca",
         "podSustav": "",
-        "prikljucakaPoKm": 0.0,
-        "prosjecniTlak": 0.0,
-        "sustav": "Studenci",
-        "vodomjerOdParcele": 0.0
+        "sustav": "Studenci"
       },
       "geometry": {
         "type": "Polygon",
@@ -6330,15 +6120,10 @@
       "properties": {
         "FeatId": 43,
         "Ime": "",
-        "brojPrikljucaka": 0,
-        "duljinaCjevovoda": 0.0,
         "napomena": "Obilazak 25.02.2019.",
         "naziv": "Kostanje - istok",
         "podSustav": "",
-        "prikljucakaPoKm": 0.0,
-        "prosjecniTlak": 0.0,
-        "sustav": "Studenci",
-        "vodomjerOdParcele": 0.0
+        "sustav": "Studenci"
       },
       "geometry": {
         "type": "Polygon",
@@ -6503,15 +6288,10 @@
       "properties": {
         "FeatId": 44,
         "Ime": "",
-        "brojPrikljucaka": 0,
-        "duljinaCjevovoda": 0.0,
         "napomena": "Obilazak 5.11.2018.",
         "naziv": "Podpoletnica",
         "podSustav": "",
-        "prikljucakaPoKm": 0.0,
-        "prosjecniTlak": 0.0,
-        "sustav": "Kraljevac",
-        "vodomjerOdParcele": 0.0
+        "sustav": "Kraljevac"
       },
       "geometry": {
         "type": "Polygon",
@@ -6656,15 +6436,10 @@
       "properties": {
         "FeatId": 45,
         "Ime": "",
-        "brojPrikljucaka": 0,
-        "duljinaCjevovoda": 0.0,
         "napomena": "Obilazak 5.11.2018.",
         "naziv": "Zadvarje - centar",
         "podSustav": "",
-        "prikljucakaPoKm": 0.0,
-        "prosjecniTlak": 0.0,
-        "sustav": "Kraljevac",
-        "vodomjerOdParcele": 0.0
+        "sustav": "Kraljevac"
       },
       "geometry": {
         "type": "Polygon",
@@ -6747,15 +6522,10 @@
       "properties": {
         "FeatId": 46,
         "Ime": "",
-        "brojPrikljucaka": 0,
-        "duljinaCjevovoda": 0.0,
         "napomena": "Obilazak 5.11.2018.",
         "naziv": "Zadvarje - Vrbanj",
         "podSustav": "",
-        "prikljucakaPoKm": 0.0,
-        "prosjecniTlak": 0.0,
-        "sustav": "Kraljevac",
-        "vodomjerOdParcele": 0.0
+        "sustav": "Kraljevac"
       },
       "geometry": {
         "type": "Polygon",
@@ -6943,15 +6713,10 @@
       "properties": {
         "FeatId": 47,
         "Ime": "",
-        "brojPrikljucaka": 0,
-        "duljinaCjevovoda": 0.0,
         "napomena": "Obilazak 25.02.2019.",
         "naziv": "Blato na Cetini - centar",
         "podSustav": "",
-        "prikljucakaPoKm": 0.0,
-        "prosjecniTlak": 0.0,
-        "sustav": "Kraljevac",
-        "vodomjerOdParcele": 0.0
+        "sustav": "Kraljevac"
       },
       "geometry": {
         "type": "Polygon",
@@ -7094,15 +6859,10 @@
       "properties": {
         "FeatId": 48,
         "Ime": "",
-        "brojPrikljucaka": 0,
-        "duljinaCjevovoda": 0.0,
         "napomena": "Obilazak 25.02.2019.",
         "naziv": "Blato na Cetini - jug",
         "podSustav": "",
-        "prikljucakaPoKm": 0.0,
-        "prosjecniTlak": 0.0,
-        "sustav": "Kraljevac",
-        "vodomjerOdParcele": 0.0
+        "sustav": "Kraljevac"
       },
       "geometry": {
         "type": "Polygon",
@@ -7246,15 +7006,10 @@
       "properties": {
         "FeatId": 49,
         "Ime": "",
-        "brojPrikljucaka": 0,
-        "duljinaCjevovoda": 0.0,
         "napomena": "Obilazak 5.11.2018.",
         "naziv": "Auto-cesta",
         "podSustav": "",
-        "prikljucakaPoKm": 0.0,
-        "prosjecniTlak": 0.0,
-        "sustav": "Kraljevac",
-        "vodomjerOdParcele": 0.0
+        "sustav": "Kraljevac"
       },
       "geometry": {
         "type": "Polygon",
@@ -7521,15 +7276,10 @@
       "properties": {
         "FeatId": 50,
         "Ime": "",
-        "brojPrikljucaka": 0,
-        "duljinaCjevovoda": 0.0,
         "napomena": "Obilazak 5.11.2018.",
         "naziv": "Katuni",
         "podSustav": "",
-        "prikljucakaPoKm": 0.0,
-        "prosjecniTlak": 0.0,
-        "sustav": "Kraljevac",
-        "vodomjerOdParcele": 0.0
+        "sustav": "Kraljevac"
       },
       "geometry": {
         "type": "Polygon",
@@ -7968,15 +7718,10 @@
       "properties": {
         "FeatId": 51,
         "Ime": "",
-        "brojPrikljucaka": 0,
-        "duljinaCjevovoda": 0.0,
         "napomena": "Obilazak 5.11.2018.",
         "naziv": "Kreševo",
         "podSustav": "",
-        "prikljucakaPoKm": 0.0,
-        "prosjecniTlak": 0.0,
-        "sustav": "Kraljevac",
-        "vodomjerOdParcele": 0.0
+        "sustav": "Kraljevac"
       },
       "geometry": {
         "type": "Polygon",
@@ -8102,15 +7847,10 @@
       "properties": {
         "FeatId": 52,
         "Ime": "",
-        "brojPrikljucaka": 0,
-        "duljinaCjevovoda": 0.0,
         "napomena": "Obilazak 5.11.2018.",
         "naziv": "Žeževica - Čikeši",
         "podSustav": "",
-        "prikljucakaPoKm": 0.0,
-        "prosjecniTlak": 0.0,
-        "sustav": "Kraljevac",
-        "vodomjerOdParcele": 0.0
+        "sustav": "Kraljevac"
       },
       "geometry": {
         "type": "Polygon",
@@ -8206,15 +7946,10 @@
       "properties": {
         "FeatId": 53,
         "Ime": "",
-        "brojPrikljucaka": 0,
-        "duljinaCjevovoda": 0.0,
         "napomena": "Obilazak 5.11.2018.",
         "naziv": "Slime",
         "podSustav": "",
-        "prikljucakaPoKm": 0.0,
-        "prosjecniTlak": 0.0,
-        "sustav": "Kraljevac",
-        "vodomjerOdParcele": 0.0
+        "sustav": "Kraljevac"
       },
       "geometry": {
         "type": "Polygon",
@@ -8422,15 +8157,10 @@
       "properties": {
         "FeatId": 54,
         "Ime": "",
-        "brojPrikljucaka": 0,
-        "duljinaCjevovoda": 0.0,
         "napomena": "Obilazak 5.11.2018.",
         "naziv": "Podgrađe",
         "podSustav": "",
-        "prikljucakaPoKm": 0.0,
-        "prosjecniTlak": 0.0,
-        "sustav": "Kraljevac",
-        "vodomjerOdParcele": 0.0
+        "sustav": "Kraljevac"
       },
       "geometry": {
         "type": "Polygon",
@@ -8599,15 +8329,10 @@
       "properties": {
         "FeatId": 55,
         "Ime": "",
-        "brojPrikljucaka": 0,
-        "duljinaCjevovoda": 0.0,
         "napomena": "Obilazak 25.02.2019.",
         "naziv": "Trnbusi",
         "podSustav": "",
-        "prikljucakaPoKm": 0.0,
-        "prosjecniTlak": 0.0,
-        "sustav": "Ruda",
-        "vodomjerOdParcele": 0.0
+        "sustav": "Ruda"
       },
       "geometry": {
         "type": "Polygon",
@@ -9332,15 +9057,10 @@
       "properties": {
         "FeatId": 56,
         "Ime": "",
-        "brojPrikljucaka": 0,
-        "duljinaCjevovoda": 0.0,
         "napomena": "Podzone",
         "naziv": "Donji Dolac",
         "podSustav": "",
-        "prikljucakaPoKm": 0.0,
-        "prosjecniTlak": 0.0,
-        "sustav": "Ruda",
-        "vodomjerOdParcele": 0.0
+        "sustav": "Ruda"
       },
       "geometry": {
         "type": "Polygon",
@@ -9702,15 +9422,10 @@
       "properties": {
         "FeatId": 57,
         "Ime": "",
-        "brojPrikljucaka": 0,
-        "duljinaCjevovoda": 0.0,
         "napomena": "Obilazak 25.02.2019.",
         "naziv": "Srijane I",
         "podSustav": "",
-        "prikljucakaPoKm": 0.0,
-        "prosjecniTlak": 0.0,
-        "sustav": "Ruda",
-        "vodomjerOdParcele": 0.0
+        "sustav": "Ruda"
       },
       "geometry": {
         "type": "Polygon",
@@ -9817,15 +9532,10 @@
       "properties": {
         "FeatId": 58,
         "Ime": "",
-        "brojPrikljucaka": 0,
-        "duljinaCjevovoda": 0.0,
         "napomena": "Obilazak 25.02.2019.",
         "naziv": "Srijane II",
         "podSustav": "",
-        "prikljucakaPoKm": 0.0,
-        "prosjecniTlak": 0.0,
-        "sustav": "Ruda",
-        "vodomjerOdParcele": 0.0
+        "sustav": "Ruda"
       },
       "geometry": {
         "type": "Polygon",
@@ -10075,15 +9785,10 @@
       "properties": {
         "FeatId": 59,
         "Ime": "",
-        "brojPrikljucaka": 0,
-        "duljinaCjevovoda": 0.0,
         "napomena": "Obilazak 25.02.2019.",
         "naziv": "Nova Sela - zapad",
         "podSustav": "",
-        "prikljucakaPoKm": 0.0,
-        "prosjecniTlak": 0.0,
-        "sustav": "Ruda",
-        "vodomjerOdParcele": 0.0
+        "sustav": "Ruda"
       },
       "geometry": {
         "type": "Polygon",
@@ -10221,15 +9926,10 @@
       "properties": {
         "FeatId": 60,
         "Ime": "",
-        "brojPrikljucaka": 0,
-        "duljinaCjevovoda": 0.0,
         "napomena": "Obilazak 25.02.2019.",
         "naziv": "Nova Sela - sjever",
         "podSustav": "",
-        "prikljucakaPoKm": 0.0,
-        "prosjecniTlak": 0.0,
-        "sustav": "Ruda",
-        "vodomjerOdParcele": 0.0
+        "sustav": "Ruda"
       },
       "geometry": {
         "type": "Polygon",
@@ -10464,15 +10164,10 @@
       "properties": {
         "FeatId": 61,
         "Ime": "",
-        "brojPrikljucaka": 0,
-        "duljinaCjevovoda": 0.0,
         "napomena": "Obilazak 25.02.2019.",
         "naziv": "Nova Sela - centar",
         "podSustav": "",
-        "prikljucakaPoKm": 0.0,
-        "prosjecniTlak": 0.0,
-        "sustav": "Ruda",
-        "vodomjerOdParcele": 0.0
+        "sustav": "Ruda"
       },
       "geometry": {
         "type": "Polygon",
@@ -10586,15 +10281,10 @@
       "properties": {
         "FeatId": 62,
         "Ime": "",
-        "brojPrikljucaka": 0,
-        "duljinaCjevovoda": 0.0,
         "napomena": "Obilazak 25.02.2019.",
         "naziv": "Smoljanovići II",
         "podSustav": "",
-        "prikljucakaPoKm": 0.0,
-        "prosjecniTlak": 0.0,
-        "sustav": "Ruda",
-        "vodomjerOdParcele": 0.0
+        "sustav": "Ruda"
       },
       "geometry": {
         "type": "Polygon",
@@ -10654,15 +10344,10 @@
       "properties": {
         "FeatId": 63,
         "Ime": "",
-        "brojPrikljucaka": 0,
-        "duljinaCjevovoda": 0.0,
         "napomena": "Obilazak 25.02.2019.",
         "naziv": "Smoljanovići I",
         "podSustav": "",
-        "prikljucakaPoKm": 0.0,
-        "prosjecniTlak": 0.0,
-        "sustav": "Ruda",
-        "vodomjerOdParcele": 0.0
+        "sustav": "Ruda"
       },
       "geometry": {
         "type": "Polygon",
@@ -10746,15 +10431,10 @@
       "properties": {
         "FeatId": 64,
         "Ime": "",
-        "brojPrikljucaka": 0,
-        "duljinaCjevovoda": 0.0,
         "napomena": "Obilazak 25.02.2019.",
         "naziv": "Blato na Cetini - sjever",
         "podSustav": "",
-        "prikljucakaPoKm": 0.0,
-        "prosjecniTlak": 0.0,
-        "sustav": "Ruda",
-        "vodomjerOdParcele": 0.0
+        "sustav": "Ruda"
       },
       "geometry": {
         "type": "Polygon",
@@ -11022,15 +10702,10 @@
       "properties": {
         "FeatId": 65,
         "Ime": "",
-        "brojPrikljucaka": 0,
-        "duljinaCjevovoda": 0.0,
         "napomena": "Obilazak 5.11.2018.",
         "naziv": "Šestanovac",
         "podSustav": "",
-        "prikljucakaPoKm": 0.0,
-        "prosjecniTlak": 0.0,
-        "sustav": "Kraljevac",
-        "vodomjerOdParcele": 0.0
+        "sustav": "Kraljevac"
       },
       "geometry": {
         "type": "Polygon",
@@ -11339,15 +11014,10 @@
       "properties": {
         "FeatId": 66,
         "Ime": "",
-        "brojPrikljucaka": 0,
-        "duljinaCjevovoda": 0.0,
         "napomena": "Podzone",
         "naziv": "Omiš - jug",
         "podSustav": "",
-        "prikljucakaPoKm": 0.0,
-        "prosjecniTlak": 0.0,
-        "sustav": "Zagrad",
-        "vodomjerOdParcele": 0.0
+        "sustav": "Zagrad"
       },
       "geometry": {
         "type": "Polygon",
@@ -11473,15 +11143,10 @@
       "properties": {
         "FeatId": 67,
         "Ime": "",
-        "brojPrikljucaka": 0,
-        "duljinaCjevovoda": 0.0,
         "napomena": "Podzone",
         "naziv": "Borak",
         "podSustav": "",
-        "prikljucakaPoKm": 0.0,
-        "prosjecniTlak": 0.0,
-        "sustav": "Zagrad",
-        "vodomjerOdParcele": 0.0
+        "sustav": "Zagrad"
       },
       "geometry": {
         "type": "Polygon",
@@ -11632,15 +11297,10 @@
       "properties": {
         "FeatId": 68,
         "Ime": "",
-        "brojPrikljucaka": 0,
-        "duljinaCjevovoda": 0.0,
         "napomena": "Podzone",
         "naziv": "Omiš - istok",
         "podSustav": "",
-        "prikljucakaPoKm": 0.0,
-        "prosjecniTlak": 0.0,
-        "sustav": "Zagrad",
-        "vodomjerOdParcele": 0.0
+        "sustav": "Zagrad"
       },
       "geometry": {
         "type": "Polygon",
@@ -11894,15 +11554,10 @@
       "properties": {
         "FeatId": 69,
         "Ime": "",
-        "brojPrikljucaka": 0,
-        "duljinaCjevovoda": 0.0,
         "napomena": "Obilazak 5.11.2018.",
         "naziv": "Žeževica",
         "podSustav": "",
-        "prikljucakaPoKm": 0.0,
-        "prosjecniTlak": 0.0,
-        "sustav": "Kraljevac",
-        "vodomjerOdParcele": 0.0
+        "sustav": "Kraljevac"
       },
       "geometry": {
         "type": "Polygon",
@@ -12264,15 +11919,10 @@
       "properties": {
         "FeatId": 70,
         "Ime": "",
-        "brojPrikljucaka": 0,
-        "duljinaCjevovoda": 0.0,
         "napomena": "Podzone",
         "naziv": "Šodani",
         "podSustav": "",
-        "prikljucakaPoKm": 0.0,
-        "prosjecniTlak": 0.0,
-        "sustav": "Kraljevac",
-        "vodomjerOdParcele": 0.0
+        "sustav": "Kraljevac"
       },
       "geometry": {
         "type": "Polygon",
@@ -12328,15 +11978,10 @@
       "properties": {
         "FeatId": 71,
         "Ime": "",
-        "brojPrikljucaka": 0,
-        "duljinaCjevovoda": 0.0,
         "napomena": "Podzone",
         "naziv": "Jesenice - zapad",
         "podSustav": "",
-        "prikljucakaPoKm": 0.0,
-        "prosjecniTlak": 0.0,
-        "sustav": "Zagrad",
-        "vodomjerOdParcele": 0.0
+        "sustav": "Zagrad"
       },
       "geometry": {
         "type": "Polygon",
