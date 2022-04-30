@@ -6229,8 +6229,6 @@
 { "type": "Feature", "properties": { "device_id": 18408 }, "geometry": { "type": "Point", "coordinates": [ 16.7195331120456, 43.420703868204001 ] } },
 { "type": "Feature", "properties": { "device_id": 5691 }, "geometry": { "type": "Point", "coordinates": [ 16.7126758103214, 43.419936917639298 ] } },
 { "type": "Feature", "properties": { "device_id": 6077 }, "geometry": { "type": "Point", "coordinates": [ 16.712417053106801, 43.421749910215098 ] } },
-{ "type": "Feature", "properties": { "device_id": 11102 }, "geometry": { "type": "Point", "coordinates": [ 16.712234783996699, 43.421983822032303 ] } },
-{ "type": "Feature", "properties": { "device_id": 1067 }, "geometry": { "type": "Point", "coordinates": [ 16.712196769049001, 43.421959024468997 ] } },
 { "type": "Feature", "properties": { "device_id": 2756 }, "geometry": { "type": "Point", "coordinates": [ 16.712409235461202, 43.421999958087703 ] } },
 { "type": "Feature", "properties": { "device_id": 2101 }, "geometry": { "type": "Point", "coordinates": [ 16.712187145814799, 43.4221626999473 ] } },
 { "type": "Feature", "properties": { "device_id": 17939 }, "geometry": { "type": "Point", "coordinates": [ 16.7121973030854, 43.4224890763061 ] } },
@@ -6251,6 +6249,7 @@
 { "type": "Feature", "properties": { "device_id": 5378 }, "geometry": { "type": "Point", "coordinates": [ 16.7124239484348, 43.422562075170802 ] } },
 { "type": "Feature", "properties": { "device_id": 5857 }, "geometry": { "type": "Point", "coordinates": [ 16.712358891869101, 43.422654798470298 ] } },
 { "type": "Feature", "properties": { "device_id": 6051 }, "geometry": { "type": "Point", "coordinates": [ 16.712299878443101, 43.422762351721197 ] } },
+{ "type": "Feature", "properties": { "device_id": 11102 }, "geometry": { "type": "Point", "coordinates": [ 16.712225023650699, 43.421914530700199 ] } },
 { "type": "Feature", "properties": { "device_id": 10112 }, "geometry": { "type": "Point", "coordinates": [ 16.7108033802695, 43.424379712098897 ] } },
 { "type": "Feature", "properties": { "device_id": 1501 }, "geometry": { "type": "Point", "coordinates": [ 16.709338771613002, 43.423972697274699 ] } },
 { "type": "Feature", "properties": { "device_id": 5265 }, "geometry": { "type": "Point", "coordinates": [ 16.7115912370801, 43.421851993067797 ] } },
@@ -12713,6 +12712,7 @@
 { "type": "Feature", "properties": { "device_id": 22568 }, "geometry": { "type": "Point", "coordinates": [ 16.710285128771002, 43.468426210212598 ] } },
 { "type": "Feature", "properties": { "device_id": 22074 }, "geometry": { "type": "Point", "coordinates": [ 16.709619113108999, 43.4687503527839 ] } },
 { "type": "Feature", "properties": { "device_id": 20499 }, "geometry": { "type": "Point", "coordinates": [ 16.709619113108999, 43.4687503527839 ] } },
-{ "type": "Feature", "properties": { "device_id": 21827 }, "geometry": { "type": "Point", "coordinates": [ 16.712979833640201, 43.4665522190719 ] } }
+{ "type": "Feature", "properties": { "device_id": 21827 }, "geometry": { "type": "Point", "coordinates": [ 16.712979833640201, 43.4665522190719 ] } },
+{ "type": "Feature", "properties": { "device_id": 1067 }, "geometry": { "type": "Point", "coordinates": [ 16.712126460317702, 43.422099714976099 ] } }
 ]
 }
