@@ -23,6 +23,25 @@
     {
       "type": "Feature",
       "properties": {
+        "device_id": 171,
+        "tag_desc": "ZAGRAD SMJER VS SUCICA MP1 ukupno m3",
+        "tag_name": "master-ZAGRADMP1_Quk",
+        "sensor_id": 114,
+        "napomena": "stanje vodomjera m3/h",
+        "zone_in": "x",
+        "zone_out": "y"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.692901,
+          43.46013
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "device_id": 100,
         "tag_desc": "VS MLIJA ukupno m3 na izlazu",
         "tag_name": "master-VSMLIJA_Quk",
