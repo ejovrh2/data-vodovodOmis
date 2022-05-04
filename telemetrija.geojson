@@ -8,9 +8,17 @@
         "tag_desc": "CS CELINA ukupno m3 na izlazu",
         "tag_name": "CELINA-CSCELINA_Quk",
         "sensor_id": 114,
-        "napomena": "stanje vodomjera m3/h"
+        "napomena": "stanje vodomjera m3/h",
+        "zone_in": "x",
+        "zone_out": "y"
       },
-      "geometry": { "type": "Point", "coordinates": [16.735533, 43.415276] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.735533,
+          43.415276
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -19,9 +27,17 @@
         "tag_desc": "CS Celina protok na izlazu 0-10.0 l/s",
         "tag_name": "CELINA-N16_1",
         "sensor_id": 115,
-        "napomena": "trenutni protok l/s"
+        "napomena": "trenutni protok l/s",
+        "zone_in": "x",
+        "zone_out": "y"
       },
-      "geometry": { "type": "Point", "coordinates": [16.735535, 43.415333] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.735535,
+          43.415333
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -30,9 +46,17 @@
         "tag_desc": "VS nivo u bazenu 0-600cm",
         "tag_name": "CELINA-N16_18",
         "sensor_id": 116,
-        "napomena": "nivo vode u VS cm"
+        "napomena": "nivo vode u VS cm",
+        "zone_in": "x",
+        "zone_out": "y"
       },
-      "geometry": { "type": "Point", "coordinates": [16.736555, 43.417864] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.736555,
+          43.417864
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -41,9 +65,17 @@
         "tag_desc": "VS Celina protok izlaz 0-10.0 l/s",
         "tag_name": "CELINA-N16_19",
         "sensor_id": 115,
-        "napomena": "trenutni protok l/s"
+        "napomena": "trenutni protok l/s",
+        "zone_in": "x",
+        "zone_out": "y"
       },
-      "geometry": { "type": "Point", "coordinates": [16.736346, 43.417827] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.736346,
+          43.417827
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -52,9 +84,17 @@
         "tag_desc": "TLAK na ulazu 0-10.0 bar",
         "tag_name": "CELINA-N16_4",
         "sensor_id": 117,
-        "napomena": "tlak  bar"
+        "napomena": "tlak  bar",
+        "zone_in": "x",
+        "zone_out": "y"
       },
-      "geometry": { "type": "Point", "coordinates": [16.735579, 43.415008] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.735579,
+          43.415008
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -63,9 +103,17 @@
         "tag_desc": "tlak na tl.cjevovodu 0-25.0 bar",
         "tag_name": "CELINA-N16_5",
         "sensor_id": 117,
-        "napomena": "tlak  bar"
+        "napomena": "tlak  bar",
+        "zone_in": "x",
+        "zone_out": "y"
       },
-      "geometry": { "type": "Point", "coordinates": [16.735544, 43.415177] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.735544,
+          43.415177
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -74,9 +122,17 @@
         "tag_desc": "VS CELINA ukupno m3 na izlazu",
         "tag_name": "CELINA-VSCELINA_Quk",
         "sensor_id": 114,
-        "napomena": "stanje vodomjera m3/h"
+        "napomena": "stanje vodomjera m3/h",
+        "zone_in": "x",
+        "zone_out": "y"
       },
-      "geometry": { "type": "Point", "coordinates": [16.736455, 43.417846] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.736455,
+          43.417846
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -85,9 +141,17 @@
         "tag_desc": "MP1 DN800 protok 0-1100 l/s",
         "tag_name": "CELINA-zagul3b-N7_1",
         "sensor_id": 115,
-        "napomena": "trenutni protok l/s"
+        "napomena": "trenutni protok l/s",
+        "zone_in": "x",
+        "zone_out": "y"
       },
-      "geometry": { "type": "Point", "coordinates": [16.694895, 43.460052] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.694895,
+          43.460052
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -96,9 +160,17 @@
         "tag_desc": "PK CISLA ukupno m3 izlazni cjevovod",
         "tag_name": "master-CISLA-PKCISLA_Quk",
         "sensor_id": 114,
-        "napomena": "stanje vodomjera m3/h"
+        "napomena": "stanje vodomjera m3/h",
+        "zone_in": "x",
+        "zone_out": "y"
       },
-      "geometry": { "type": "Point", "coordinates": [16.734596, 43.461559] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.734596,
+          43.461559
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -107,9 +179,17 @@
         "tag_desc": "CS SETANOVAC smjer BLATO ukupno m3 izlazni cjevovod",
         "tag_name": "master-CSBLATO_Quk",
         "sensor_id": 114,
-        "napomena": "stanje vodomjera m3/h"
+        "napomena": "stanje vodomjera m3/h",
+        "zone_in": "x",
+        "zone_out": "y"
       },
-      "geometry": { "type": "Point", "coordinates": [16.904869, 43.443342] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.904869,
+          43.443342
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -118,9 +198,17 @@
         "tag_desc": "CS SETANOVAC smjer Sestanovac ukupno m3 izlazni cjevovod",
         "tag_name": "master-CSPRIVIJA_Quk",
         "sensor_id": 114,
-        "napomena": "stanje vodomjera m3/h"
+        "napomena": "stanje vodomjera m3/h",
+        "zone_in": "x",
+        "zone_out": "y"
       },
-      "geometry": { "type": "Point", "coordinates": [16.90489, 43.443346] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.90489,
+          43.443346
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -129,9 +217,17 @@
         "tag_desc": "CS SVINISCE ukupno m3 na tlacnom cjevovodu",
         "tag_name": "master-CSSVINISCE_Quk",
         "sensor_id": 114,
-        "napomena": "stanje vodomjera m3/h"
+        "napomena": "stanje vodomjera m3/h",
+        "zone_in": "x",
+        "zone_out": "y"
       },
-      "geometry": { "type": "Point", "coordinates": [16.782112, 43.430902] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.782112,
+          43.430902
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -140,9 +236,17 @@
         "tag_desc": "CS ZIDINE ukupno m3 na tlacnom cjevovodu",
         "tag_name": "master-CSZIDINE_Quk",
         "sensor_id": 114,
-        "napomena": "stanje vodomjera m3/h"
+        "napomena": "stanje vodomjera m3/h",
+        "zone_in": "x",
+        "zone_out": "y"
       },
-      "geometry": { "type": "Point", "coordinates": [16.726248, 43.516871] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.726248,
+          43.516871
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -151,9 +255,17 @@
         "tag_desc": "HS KUCICE MP2 ukupno m3",
         "tag_name": "master-HSKUCICE_Quk",
         "sensor_id": 114,
-        "napomena": "stanje vodomjera m3/h"
+        "napomena": "stanje vodomjera m3/h",
+        "zone_in": "x",
+        "zone_out": "y"
       },
-      "geometry": { "type": "Point", "coordinates": [16.802298, 43.427877] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.802298,
+          43.427877
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -162,9 +274,17 @@
         "tag_desc": "nivo u PK Priko 0-600 cm",
         "tag_name": "master-N23_9",
         "sensor_id": 116,
-        "napomena": "nivo vode u VS cm"
+        "napomena": "nivo vode u VS cm",
+        "zone_in": "x",
+        "zone_out": "y"
       },
-      "geometry": { "type": "Point", "coordinates": [16.677959, 43.44449] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.677959,
+          43.44449
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -173,9 +293,17 @@
         "tag_desc": "protok VS Privija 0-50,0 l/s",
         "tag_name": "master-N26_3",
         "sensor_id": 115,
-        "napomena": "trenutni protok l/s"
+        "napomena": "trenutni protok l/s",
+        "zone_in": "x",
+        "zone_out": "y"
       },
-      "geometry": { "type": "Point", "coordinates": [16.905331, 43.443473] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.905331,
+          43.443473
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -184,9 +312,17 @@
         "tag_desc": "VS BLATO ukupno m3 izlazni cjevovod (Franici)",
         "tag_name": "master-VSBLATOIZL_Quk",
         "sensor_id": 114,
-        "napomena": "stanje vodomjera m3/h"
+        "napomena": "stanje vodomjera m3/h",
+        "zone_in": "x",
+        "zone_out": "y"
       },
-      "geometry": { "type": "Point", "coordinates": [16.837148, 43.469125] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.837148,
+          43.469125
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -195,9 +331,17 @@
         "tag_desc": "VS BLATO ukupno m3 ulazni cjevovod",
         "tag_name": "master-VSBLATOUL_Quk",
         "sensor_id": 114,
-        "napomena": "stanje vodomjera m3/h"
+        "napomena": "stanje vodomjera m3/h",
+        "zone_in": "x",
+        "zone_out": "y"
       },
-      "geometry": { "type": "Point", "coordinates": [16.83677, 43.469119] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.83677,
+          43.469119
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -206,9 +350,17 @@
         "tag_desc": "VS DUGI RAT izlazni cjevovod ukupno m3",
         "tag_name": "master-VSDUGIRAT_Quk",
         "sensor_id": 114,
-        "napomena": "stanje vodomjera m3/h"
+        "napomena": "stanje vodomjera m3/h",
+        "zone_in": "x",
+        "zone_out": "y"
       },
-      "geometry": { "type": "Point", "coordinates": [16.648286, 43.442875] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.648286,
+          43.442875
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -217,9 +369,17 @@
         "tag_desc": "VS GAJ ukupno m3 izlazni cjevovod",
         "tag_name": "master-VSGAJ_Quk",
         "sensor_id": 114,
-        "napomena": "stanje vodomjera m3/h"
+        "napomena": "stanje vodomjera m3/h",
+        "zone_in": "x",
+        "zone_out": "y"
       },
-      "geometry": { "type": "Point", "coordinates": [16.706549, 43.460185] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.706549,
+          43.460185
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -228,9 +388,17 @@
         "tag_desc": "VS KUCICE izlazni cjevovod ukupno m3",
         "tag_name": "master-VSHSKUCICE_Quk",
         "sensor_id": 114,
-        "napomena": "stanje vodomjera m3/h"
+        "napomena": "stanje vodomjera m3/h",
+        "zone_in": "x",
+        "zone_out": "y"
       },
-      "geometry": { "type": "Point", "coordinates": [16.802162, 43.428013] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.802162,
+          43.428013
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -239,9 +407,17 @@
         "tag_desc": "VS SMOLJANOVICI ukupno m3 na izlazu",
         "tag_name": "master-VSSMOLJANOVICI_Quk",
         "sensor_id": 114,
-        "napomena": "stanje vodomjera m3/h"
+        "napomena": "stanje vodomjera m3/h",
+        "zone_in": "x",
+        "zone_out": "y"
       },
-      "geometry": { "type": "Point", "coordinates": [16.813129, 43.516861] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.813129,
+          43.516861
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -250,9 +426,17 @@
         "tag_desc": "VS STOMARICA izlazni cjevovod ukupno m3",
         "tag_name": "master-VSSTOMARICA_Quk",
         "sensor_id": 114,
-        "napomena": "stanje vodomjera m3/h"
+        "napomena": "stanje vodomjera m3/h",
+        "zone_in": "x",
+        "zone_out": "y"
       },
-      "geometry": { "type": "Point", "coordinates": [16.68018, 43.443878] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.68018,
+          43.443878
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -261,9 +445,17 @@
         "tag_desc": "VS SUCICA ukupno m3 izlazni cjevovod",
         "tag_name": "master-VSSUCICA_Quk",
         "sensor_id": 114,
-        "napomena": "stanje vodomjera m3/h"
+        "napomena": "stanje vodomjera m3/h",
+        "zone_in": "x",
+        "zone_out": "y"
       },
-      "geometry": { "type": "Point", "coordinates": [16.682839, 43.463118] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.682839,
+          43.463118
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -272,9 +464,17 @@
         "tag_desc": "VS ZIDINE ukupno m3 na izlaznom cjevovodu",
         "tag_name": "master-VSZIDINE_Quk",
         "sensor_id": 114,
-        "napomena": "stanje vodomjera m3/h"
+        "napomena": "stanje vodomjera m3/h",
+        "zone_in": "x",
+        "zone_out": "y"
       },
-      "geometry": { "type": "Point", "coordinates": [16.716622, 43.50686] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.716622,
+          43.50686
+        ]
+      }
     }
   ]
 }
