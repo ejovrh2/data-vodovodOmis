@@ -23,6 +23,25 @@
     {
       "type": "Feature",
       "properties": {
+        "device_id": 100,
+        "tag_desc": "VS MLIJA ukupno m3 na izlazu",
+        "tag_name": "master-VSMLIJA_Quk",
+        "sensor_id": 114,
+        "napomena": "stanje vodomjera m3/h",
+        "zone_in": "x",
+        "zone_out": "y"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.700815,
+          43.439263
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "device_id": 136,
         "tag_desc": "CS Celina protok na izlazu 0-10.0 l/s",
         "tag_name": "CELINA-N16_1",
