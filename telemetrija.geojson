@@ -20,6 +20,25 @@
         ]
       }
     },
+     {
+      "type": "Feature",
+      "properties": {
+        "device_id": 172,
+        "tag_desc": "ZAGRAD SMJER VS GAJ MP2 ukupno m3",
+        "tag_name": "master-ZAGRADMP2_Quk",
+        "sensor_id": 114,
+        "napomena": "stanje vodomjera m3/h",
+        "zone_in": "x",
+        "zone_out": "y"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.694664,
+          43.459953
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
