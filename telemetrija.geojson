@@ -20,6 +20,44 @@
         ]
       }
     },
+     {
+      "type": "Feature",
+      "properties": {
+        "device_id": 222,
+        "tag_desc": "Zagrad MP5 ukupni protok m3 (DN600)",
+        "tag_name": "ZAGVEN2A-MP5_DN600_Quk",
+        "sensor_id": 114,
+        "napomena": "stanje vodomjera m3/h",
+        "zone_in": "x",
+        "zone_out": "y"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.694503,
+          43.459768
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "device_id": 223,
+        "tag_desc": "Zagrad MP6 ukupni protok m3 (DN500)",
+        "tag_name": "ZAGVEN2A-MP6_DN500_Quk",
+        "sensor_id": 114,
+        "napomena": "stanje vodomjera m3/h",
+        "zone_in": "x",
+        "zone_out": "y"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.694535,
+          43.459673
+        ]
+      }
+    },
     {
       "type": "Feature",
       "properties": {
