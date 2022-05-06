@@ -23,6 +23,25 @@
     {
       "type": "Feature",
       "properties": {
+        "device_id": 96,
+        "tag_desc": "MRM CIKOTINA LADJA ukupno m3",
+        "tag_name": "master-MRM_Quk",
+        "sensor_id": 114,
+        "napomena": "stanje vodomjera m3/h",
+        "zone_in": "x",
+        "zone_out": "y"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.74341,
+          43.532251
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "device_id": 327,
         "tag_desc": "nema",
         "tag_name": "CELINA-MM77_Duce_Quk",
