@@ -48,7 +48,6 @@
     },
     {
       "id": "mjernaZona-outline",
-            "legend":"mjerna zona Zagrad",
       "type": "line",
       "source": "mjernaZona",
       "paint": {
