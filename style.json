@@ -56,7 +56,6 @@
     },
     {
       "id": "mjernaZona-Zagrad",
-      "legend":"mjerna zona Zagrad",
       "type": "fill",
       "source": "mjernaZona",
       "filter": ["==", "sustav", "Zagrad"],
