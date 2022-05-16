@@ -1,10 +1,17 @@
 {
   "type": "FeatureCollection",
+  "name": "vodospremnik",
   "features": [
     {
       "type": "Feature",
-      "id": 0,
-      "geometry": { "type": "Point", "coordinates": [16.764732, 43.416217] },
+      "id": 3306,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.764732,
+          43.416217
+        ]
+      },
       "properties": {
         "Tip": "Vodosprema",
         "Hmax_mnm": 338.5268,
@@ -25,8 +32,14 @@
     },
     {
       "type": "Feature",
-      "id": 1,
-      "geometry": { "type": "Point", "coordinates": [16.769768, 43.414949] },
+      "id": 3307,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.769768,
+          43.414949
+        ]
+      },
       "properties": {
         "Tip": "Vodosprema",
         "Hmax_mnm": 262.9062,
@@ -48,8 +61,14 @@
     },
     {
       "type": "Feature",
-      "id": 2,
-      "geometry": { "type": "Point", "coordinates": [16.736557, 43.417864] },
+      "id": 3308,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.736557,
+          43.417864
+        ]
+      },
       "properties": {
         "Tip": "Vodosprema",
         "Hmax_mnm": 261.9526,
@@ -71,8 +90,14 @@
     },
     {
       "type": "Feature",
-      "id": 3,
-      "geometry": { "type": "Point", "coordinates": [16.750484, 43.533215] },
+      "id": 3309,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.750484,
+          43.533215
+        ]
+      },
       "properties": {
         "Tip": "Prekidna komora",
         "Hmax_mnm": 326,
@@ -92,8 +117,14 @@
     },
     {
       "type": "Feature",
-      "id": 4,
-      "geometry": { "type": "Point", "coordinates": [16.710077, 43.469336] },
+      "id": 3310,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.710077,
+          43.469336
+        ]
+      },
       "properties": {
         "Tip": "Vodosprema",
         "Hmax_mnm": 354.5015,
@@ -114,8 +145,14 @@
     },
     {
       "type": "Feature",
-      "id": 5,
-      "geometry": { "type": "Point", "coordinates": [16.76136, 43.586379] },
+      "id": 3311,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.76136,
+          43.586379
+        ]
+      },
       "properties": {
         "Tip": "Vodosprema",
         "Hmax_mnm": 478.2865,
@@ -137,8 +174,14 @@
     },
     {
       "type": "Feature",
-      "id": 6,
-      "geometry": { "type": "Point", "coordinates": [16.709955, 43.43773] },
+      "id": 3312,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.709955,
+          43.43773
+        ]
+      },
       "properties": {
         "Tip": "Vodosprema",
         "Hmax_mnm": 265.5071,
@@ -161,8 +204,14 @@
     },
     {
       "type": "Feature",
-      "id": 7,
-      "geometry": { "type": "Point", "coordinates": [16.712389, 43.436417] },
+      "id": 3313,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.712389,
+          43.436417
+        ]
+      },
       "properties": {
         "Tip": "Vodosprema",
         "Hmax_mnm": 318.2547,
@@ -185,8 +234,14 @@
     },
     {
       "type": "Feature",
-      "id": 8,
-      "geometry": { "type": "Point", "coordinates": [16.734745, 43.462253] },
+      "id": 3314,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.734745,
+          43.462253
+        ]
+      },
       "properties": {
         "Tip": "Prekidna komora",
         "Hmax_mnm": 292.7376,
@@ -209,8 +264,14 @@
     },
     {
       "type": "Feature",
-      "id": 9,
-      "geometry": { "type": "Point", "coordinates": [16.813171, 43.517149] },
+      "id": 3315,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.813171,
+          43.517149
+        ]
+      },
       "properties": {
         "Tip": "Vodosprema",
         "Hmax_mnm": 460.88,
@@ -231,8 +292,14 @@
     },
     {
       "type": "Feature",
-      "id": 10,
-      "geometry": { "type": "Point", "coordinates": [16.963073, 43.431083] },
+      "id": 3316,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.963073,
+          43.431083
+        ]
+      },
       "properties": {
         "Tip": "Vodosprema",
         "Hmax_mnm": 298.7708,
@@ -254,8 +321,14 @@
     },
     {
       "type": "Feature",
-      "id": 11,
-      "geometry": { "type": "Point", "coordinates": [16.76071, 43.49429] },
+      "id": 3317,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.76071,
+          43.49429
+        ]
+      },
       "properties": {
         "Tip": "Vodosprema",
         "Vuk_m3": 100,
@@ -274,8 +347,14 @@
     },
     {
       "type": "Feature",
-      "id": 12,
-      "geometry": { "type": "Point", "coordinates": [16.718968, 43.506172] },
+      "id": 3318,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.718968,
+          43.506172
+        ]
+      },
       "properties": {
         "Tip": "Vodosprema",
         "Hmax_mnm": 582.4693,
@@ -296,8 +375,14 @@
     },
     {
       "type": "Feature",
-      "id": 13,
-      "geometry": { "type": "Point", "coordinates": [16.889772, 43.42958] },
+      "id": 3319,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.889772,
+          43.42958
+        ]
+      },
       "properties": {
         "Tip": "Vodosprema",
         "Vuk_m3": 5000,
@@ -315,8 +400,14 @@
     },
     {
       "type": "Feature",
-      "id": 14,
-      "geometry": { "type": "Point", "coordinates": [16.892513, 43.428036] },
+      "id": 3320,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.892513,
+          43.428036
+        ]
+      },
       "properties": {
         "Tip": "Vodosprema",
         "Hmax_mnm": 292.1798,
@@ -338,8 +429,14 @@
     },
     {
       "type": "Feature",
-      "id": 15,
-      "geometry": { "type": "Point", "coordinates": [16.802148, 43.427893] },
+      "id": 3321,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.802148,
+          43.427893
+        ]
+      },
       "properties": {
         "Tip": "Vodosprema",
         "Hmax_mnm": 270.0173,
@@ -361,8 +458,14 @@
     },
     {
       "type": "Feature",
-      "id": 16,
-      "geometry": { "type": "Point", "coordinates": [16.7856, 43.427375] },
+      "id": 3322,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.7856,
+          43.427375
+        ]
+      },
       "properties": {
         "Tip": "Vodosprema",
         "Hmax_mnm": 340.8364,
@@ -384,8 +487,14 @@
     },
     {
       "type": "Feature",
-      "id": 17,
-      "geometry": { "type": "Point", "coordinates": [16.83312, 43.453466] },
+      "id": 3323,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.83312,
+          43.453466
+        ]
+      },
       "properties": {
         "Tip": "Vodosprema",
         "Hmax_mnm": 265.6016,
@@ -407,8 +516,14 @@
     },
     {
       "type": "Feature",
-      "id": 18,
-      "geometry": { "type": "Point", "coordinates": [16.644255, 43.441164] },
+      "id": 3324,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.644255,
+          43.441164
+        ]
+      },
       "properties": {
         "Tip": "Vodosprema",
         "Hmax_mnm": 48,
@@ -432,8 +547,14 @@
     },
     {
       "type": "Feature",
-      "id": 19,
-      "geometry": { "type": "Point", "coordinates": [16.682207, 43.463605] },
+      "id": 3325,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.682207,
+          43.463605
+        ]
+      },
       "properties": {
         "Tip": "Vodosprema",
         "Hmax_mnm": 363.4986,
@@ -454,8 +575,14 @@
     },
     {
       "type": "Feature",
-      "id": 20,
-      "geometry": { "type": "Point", "coordinates": [16.706491, 43.459447] },
+      "id": 3326,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.706491,
+          43.459447
+        ]
+      },
       "properties": {
         "Tip": "Vodosprema",
         "Hmax_mnm": 341.5772,
@@ -476,8 +603,14 @@
     },
     {
       "type": "Feature",
-      "id": 21,
-      "geometry": { "type": "Point", "coordinates": [16.679917, 43.443867] },
+      "id": 3327,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.679917,
+          43.443867
+        ]
+      },
       "properties": {
         "Tip": "Vodosprema",
         "Hmax_mnm": 83.4161,
@@ -498,8 +631,14 @@
     },
     {
       "type": "Feature",
-      "id": 22,
-      "geometry": { "type": "Point", "coordinates": [16.648734, 43.442836] },
+      "id": 3328,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.648734,
+          43.442836
+        ]
+      },
       "properties": {
         "Tip": "Vodosprema",
         "Hmax_mnm": 95.5268,
@@ -521,8 +660,14 @@
     },
     {
       "type": "Feature",
-      "id": 23,
-      "geometry": { "type": "Point", "coordinates": [16.700846, 43.439275] },
+      "id": 3329,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.700846,
+          43.439275
+        ]
+      },
       "properties": {
         "Tip": "Vodosprema",
         "Hmax_mnm": 67.0695,
@@ -546,8 +691,14 @@
     },
     {
       "type": "Feature",
-      "id": 24,
-      "geometry": { "type": "Point", "coordinates": [16.705596, 43.440112] },
+      "id": 3330,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.705596,
+          43.440112
+        ]
+      },
       "properties": {
         "Tip": "Vodosprema",
         "Hmax_mnm": 167.5307,
@@ -569,8 +720,14 @@
     },
     {
       "type": "Feature",
-      "id": 25,
-      "geometry": { "type": "Point", "coordinates": [16.837033, 43.469251] },
+      "id": 3331,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.837033,
+          43.469251
+        ]
+      },
       "properties": {
         "Tip": "Vodosprema",
         "Hmax_mnm": 310.1761,
@@ -592,8 +749,14 @@
     },
     {
       "type": "Feature",
-      "id": 26,
-      "geometry": { "type": "Point", "coordinates": [16.677954, 43.444492] },
+      "id": 3332,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.677954,
+          43.444492
+        ]
+      },
       "properties": {
         "Tip": "Prekidna komora",
         "Hmax_mnm": 130.1963,
