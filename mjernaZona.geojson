@@ -4,6 +4,7 @@
   "features": [
     {
       "type": "Feature",
+      "id": 1,
       "properties": {
         "FeatId": 1,
         "Ime": "",
@@ -262,6 +263,7 @@
     },
     {
       "type": "Feature",
+      "id": 2,
       "properties": {
         "FeatId": 2,
         "Ime": "",
@@ -458,6 +460,7 @@
     },
     {
       "type": "Feature",
+      "id": 3,
       "properties": {
         "FeatId": 3,
         "Ime": "",
@@ -592,6 +595,7 @@
     },
     {
       "type": "Feature",
+      "id": 4,
       "properties": {
         "FeatId": 4,
         "Ime": "",
@@ -676,6 +680,7 @@
     },
     {
       "type": "Feature",
+      "id": 5,
       "properties": {
         "FeatId": 5,
         "Ime": "",
@@ -888,6 +893,7 @@
     },
     {
       "type": "Feature",
+      "id": 6,
       "properties": {
         "FeatId": 6,
         "Ime": "",
@@ -967,6 +973,7 @@
     },
     {
       "type": "Feature",
+      "id": 7,
       "properties": {
         "FeatId": 7,
         "Ime": "",
@@ -1083,6 +1090,7 @@
     },
     {
       "type": "Feature",
+      "id": 8,
       "properties": {
         "FeatId": 8,
         "Ime": "",
@@ -1181,6 +1189,7 @@
     },
     {
       "type": "Feature",
+      "id": 9,
       "properties": {
         "FeatId": 9,
         "Ime": "",
@@ -1307,6 +1316,7 @@
     },
     {
       "type": "Feature",
+      "id": 10,
       "properties": {
         "FeatId": 10,
         "Ime": "",
@@ -1479,6 +1489,7 @@
     },
     {
       "type": "Feature",
+      "id": 11,
       "properties": {
         "FeatId": 11,
         "Ime": "",
@@ -1545,6 +1556,7 @@
     },
     {
       "type": "Feature",
+      "id": 12,
       "properties": {
         "FeatId": 12,
         "Ime": "",
@@ -1838,6 +1850,7 @@
     },
     {
       "type": "Feature",
+      "id": 13,
       "properties": {
         "FeatId": 13,
         "Ime": "",
@@ -1935,6 +1948,7 @@
     },
     {
       "type": "Feature",
+      "id": 14,
       "properties": {
         "FeatId": 14,
         "Ime": "",
@@ -2020,6 +2034,7 @@
     },
     {
       "type": "Feature",
+      "id": 15,
       "properties": {
         "FeatId": 15,
         "Ime": "",
@@ -2114,6 +2129,7 @@
     },
     {
       "type": "Feature",
+      "id": 16,
       "properties": {
         "FeatId": 16,
         "Ime": "",
@@ -2224,6 +2240,7 @@
     },
     {
       "type": "Feature",
+      "id": 17,
       "properties": {
         "FeatId": 17,
         "Ime": "",
@@ -2393,6 +2410,7 @@
     },
     {
       "type": "Feature",
+      "id": 18,
       "properties": {
         "FeatId": 18,
         "Ime": "",
@@ -2528,6 +2546,7 @@
     },
     {
       "type": "Feature",
+      "id": 19,
       "properties": {
         "FeatId": 19,
         "Ime": "",
@@ -2597,6 +2616,7 @@
     },
     {
       "type": "Feature",
+      "id": 20,
       "properties": {
         "FeatId": 20,
         "Ime": "",
@@ -2655,6 +2675,7 @@
     },
     {
       "type": "Feature",
+      "id": 21,
       "properties": {
         "FeatId": 21,
         "Ime": "",
@@ -2735,6 +2756,7 @@
     },
     {
       "type": "Feature",
+      "id": 22,
       "properties": {
         "FeatId": 22,
         "Ime": "",
@@ -2807,6 +2829,7 @@
     },
     {
       "type": "Feature",
+      "id": 23,
       "properties": {
         "FeatId": 23,
         "Ime": "",
@@ -2925,6 +2948,7 @@
     },
     {
       "type": "Feature",
+      "id": 24,
       "properties": {
         "FeatId": 24,
         "Ime": "",
@@ -3172,6 +3196,7 @@
     },
     {
       "type": "Feature",
+      "id": 25,
       "properties": {
         "FeatId": 25,
         "Ime": "",
@@ -3315,6 +3340,7 @@
     },
     {
       "type": "Feature",
+      "id": 26,
       "properties": {
         "FeatId": 26,
         "Ime": "",
@@ -3489,6 +3515,8 @@
     },
     {
       "type": "Feature",
+      "id": 27,
+      "id": 27,
       "properties": {
         "FeatId": 27,
         "Ime": "",
@@ -3575,6 +3603,7 @@
     },
     {
       "type": "Feature",
+      "id": 28,
       "properties": {
         "FeatId": 28,
         "Ime": "",
@@ -3629,6 +3658,7 @@
     },
     {
       "type": "Feature",
+      "id": 29,
       "properties": {
         "FeatId": 29,
         "Ime": "",
@@ -3760,6 +3790,7 @@
     },
     {
       "type": "Feature",
+      "id": 30,
       "properties": {
         "FeatId": 30,
         "Ime": "",
@@ -3968,6 +3999,7 @@
     },
     {
       "type": "Feature",
+      "id": 31,
       "properties": {
         "FeatId": 31,
         "Ime": "",
@@ -4249,6 +4281,7 @@
     },
     {
       "type": "Feature",
+      "id": 32,
       "properties": {
         "FeatId": 32,
         "Ime": "",
@@ -4473,6 +4506,7 @@
     },
     {
       "type": "Feature",
+      "id": 33,
       "properties": {
         "FeatId": 33,
         "Ime": "",
@@ -4655,6 +4689,7 @@
     },
     {
       "type": "Feature",
+      "id": 34,
       "properties": {
         "FeatId": 34,
         "Ime": "",
@@ -4937,6 +4972,7 @@
     },
     {
       "type": "Feature",
+      "id": 35,
       "properties": {
         "FeatId": 35,
         "Ime": "",
@@ -5022,6 +5058,7 @@
     },
     {
       "type": "Feature",
+      "id": 36,
       "properties": {
         "FeatId": 36,
         "Ime": "",
@@ -5234,6 +5271,7 @@
     },
     {
       "type": "Feature",
+      "id": 37,
       "properties": {
         "FeatId": 37,
         "Ime": "",
@@ -5305,6 +5343,7 @@
     },
     {
       "type": "Feature",
+      "id": 38,
       "properties": {
         "FeatId": 38,
         "Ime": "",
@@ -5444,6 +5483,7 @@
     },
     {
       "type": "Feature",
+      "id": 39,
       "properties": {
         "FeatId": 39,
         "Ime": "",
@@ -5671,6 +5711,7 @@
     },
     {
       "type": "Feature",
+      "id": 40,
       "properties": {
         "FeatId": 40,
         "Ime": "",
@@ -5864,6 +5905,7 @@
     },
     {
       "type": "Feature",
+      "id": 41,
       "properties": {
         "FeatId": 41,
         "Ime": "",
@@ -5991,6 +6033,7 @@
     },
     {
       "type": "Feature",
+      "id": 42,
       "properties": {
         "FeatId": 42,
         "Ime": "",
@@ -6117,6 +6160,7 @@
     },
     {
       "type": "Feature",
+      "id": 43,
       "properties": {
         "FeatId": 43,
         "Ime": "",
@@ -6285,6 +6329,7 @@
     },
     {
       "type": "Feature",
+      "id": 44,
       "properties": {
         "FeatId": 44,
         "Ime": "",
@@ -6433,6 +6478,7 @@
     },
     {
       "type": "Feature",
+      "id": 45,
       "properties": {
         "FeatId": 45,
         "Ime": "",
@@ -6519,6 +6565,7 @@
     },
     {
       "type": "Feature",
+      "id": 46,
       "properties": {
         "FeatId": 46,
         "Ime": "",
@@ -6710,6 +6757,7 @@
     },
     {
       "type": "Feature",
+      "id": 47,
       "properties": {
         "FeatId": 47,
         "Ime": "",
@@ -6856,6 +6904,7 @@
     },
     {
       "type": "Feature",
+      "id": 48,
       "properties": {
         "FeatId": 48,
         "Ime": "",
@@ -7003,6 +7052,7 @@
     },
     {
       "type": "Feature",
+      "id": 49,
       "properties": {
         "FeatId": 49,
         "Ime": "",
@@ -7273,6 +7323,7 @@
     },
     {
       "type": "Feature",
+      "id": 50,
       "properties": {
         "FeatId": 50,
         "Ime": "",
@@ -7715,6 +7766,7 @@
     },
     {
       "type": "Feature",
+      "id": 51,
       "properties": {
         "FeatId": 51,
         "Ime": "",
@@ -7844,6 +7896,7 @@
     },
     {
       "type": "Feature",
+      "id": 52,
       "properties": {
         "FeatId": 52,
         "Ime": "",
@@ -7943,6 +7996,7 @@
     },
     {
       "type": "Feature",
+      "id": 53,
       "properties": {
         "FeatId": 53,
         "Ime": "",
@@ -8154,6 +8208,7 @@
     },
     {
       "type": "Feature",
+      "id": 54,
       "properties": {
         "FeatId": 54,
         "Ime": "",
@@ -8326,6 +8381,7 @@
     },
     {
       "type": "Feature",
+      "id": 55,
       "properties": {
         "FeatId": 55,
         "Ime": "",
@@ -9054,6 +9110,7 @@
     },
     {
       "type": "Feature",
+      "id": 56,
       "properties": {
         "FeatId": 56,
         "Ime": "",
@@ -9419,6 +9476,7 @@
     },
     {
       "type": "Feature",
+      "id": 57,
       "properties": {
         "FeatId": 57,
         "Ime": "",
@@ -9529,6 +9587,7 @@
     },
     {
       "type": "Feature",
+      "id": 58,
       "properties": {
         "FeatId": 58,
         "Ime": "",
@@ -9782,6 +9841,7 @@
     },
     {
       "type": "Feature",
+      "id": 59,
       "properties": {
         "FeatId": 59,
         "Ime": "",
@@ -9923,6 +9983,7 @@
     },
     {
       "type": "Feature",
+      "id": 60,
       "properties": {
         "FeatId": 60,
         "Ime": "",
@@ -10161,6 +10222,7 @@
     },
     {
       "type": "Feature",
+      "id": 61,
       "properties": {
         "FeatId": 61,
         "Ime": "",
@@ -10278,6 +10340,7 @@
     },
     {
       "type": "Feature",
+      "id": 62,
       "properties": {
         "FeatId": 62,
         "Ime": "",
@@ -10341,6 +10404,7 @@
     },
     {
       "type": "Feature",
+      "id": 63,
       "properties": {
         "FeatId": 63,
         "Ime": "",
@@ -10428,6 +10492,7 @@
     },
     {
       "type": "Feature",
+      "id": 64,
       "properties": {
         "FeatId": 64,
         "Ime": "",
@@ -10699,6 +10764,7 @@
     },
     {
       "type": "Feature",
+      "id": 65,
       "properties": {
         "FeatId": 65,
         "Ime": "",
@@ -11011,6 +11077,7 @@
     },
     {
       "type": "Feature",
+      "id": 66,
       "properties": {
         "FeatId": 66,
         "Ime": "",
@@ -11140,6 +11207,7 @@
     },
     {
       "type": "Feature",
+      "id": 67,
       "properties": {
         "FeatId": 67,
         "Ime": "",
@@ -11294,6 +11362,7 @@
     },
     {
       "type": "Feature",
+      "id": 68,
       "properties": {
         "FeatId": 68,
         "Ime": "",
@@ -11551,6 +11620,7 @@
     },
     {
       "type": "Feature",
+      "id": 69,
       "properties": {
         "FeatId": 69,
         "Ime": "",
@@ -11916,6 +11986,7 @@
     },
     {
       "type": "Feature",
+      "id": 70,
       "properties": {
         "FeatId": 70,
         "Ime": "",
@@ -11975,6 +12046,7 @@
     },
     {
       "type": "Feature",
+      "id": 71,
       "properties": {
         "FeatId": 71,
         "Ime": "",
