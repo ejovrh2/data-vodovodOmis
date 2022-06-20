@@ -94,6 +94,7 @@
       "id": "cjevovod",
       "type": "line",
       "source": "vod",
+      "filter": ["==", "Upravitelj", "Vodovod Omiš"],
       "paint": {
         "line-color": "blue",
         "line-width": 1.5
