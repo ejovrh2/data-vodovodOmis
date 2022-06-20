@@ -94,20 +94,8 @@
       "id": "cjevovod",
       "type": "line",
       "source": "vod",
-      "filter": ["==", "Upravitelj", "Vodovod Omiš"],
       "paint": {
         "line-color": "blue",
-        "line-width": 1.5
-      }
-    },
-    
-     {
-      "id": "cjevovod",
-      "type": "line",
-      "source": "vod",
-      "filter": ["==", "Upravitelj", "Vodovod i odvodnja Cetinske Krajine"],
-      "paint": {
-        "line-color": "gray",
         "line-width": 1.5
       }
     },
